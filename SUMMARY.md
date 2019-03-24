@@ -7,8 +7,8 @@
   * [Pop kultūra](asmenyb-s/pop-kultura.md)
   * [Istorinės](asmenyb-s/istorin-s.md)
 * [Investavimas](investavimas.md)
+* [Kosmosas](kosmosas.md)
+* [Politika](politika.md)
 * [Programavimas](programavimas/README.md)
   * [Tools](programavimas/tools.md)
-* [Politika](politika.md)
-* [Kosmosas](kosmosas.md)
 
