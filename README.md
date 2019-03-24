@@ -1,12 +1,22 @@
 ---
-description: >-
-  Have you ever had the feeling that your head is not quite big enough to hold
-  everything you want to remember?
+description: My knowledge as reusable as possible
 ---
 
 # Įvadas
 
- Tai mano asmeninė minčių wiki, kurioje kaupiu ir dalinuosi viskuom, kas mane sudomino.
+Tai mano asmeninė minčių wiki, kurioje kaupiu ir dalinuosi viskuom, kas mane sudomino.
 
-Jeigu jums kyla klausimas kodėl? - perskaitykite motyvaciją [čia](motyvacija.md).
+Jeigu jums kyla klausimas _kodėl?_ - perskaitykite mano motyvaciją [čia](motyvacija.md).
+
+[Kaip suskirstyta ši Wiki?](struktura.md)
+
+[Pakeitimų istorija](timeline.md)
+
+## Navigacija
+
+Šiuo resursu galima naudotis šiais būdais:
+
+* Šoninė temų juosta, su išskleidžiamomis sub-kategorijomis. Galima nusikasti į labai specifinę temą ir peržiūrėti su tuo susijusius mano notes'us.
+* Timeline - laiko juosta, kurioje atvaizduojama, kokios korekcijos buvo atliktos bei kokios naujos temos pridėtos.
+* Paieška - vedamas raktažodis arba hashtag.
 

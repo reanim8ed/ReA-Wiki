@@ -1,6 +1,12 @@
+---
+description: Transcribing knowledge to make sense for me and other people
+---
+
 # Motyvacija
 
 ## Principai
+
+_Have you ever had the feeling that your head is not quite big enough to hold everything you want to remember?_
 
 Asmeninių minčių kaupimo konceptas egzistuoja nuo senovės laikų, kaip pvz. [commonplace book](https://www.wikiwand.com/en/Commonplace_book), kas pasak Wikipedijos yra: 
 
