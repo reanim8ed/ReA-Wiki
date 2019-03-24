@@ -4,5 +4,7 @@
 
 ### Statistika
 
-* Sekretorės problema: The answer happens to be to pass by the first 1/e choices \(37%\) and then choose the next selection that is better than any seen in the first 37% \(or selecting the last choice if no better choice was found\).
+* Optimalaus sustojimo teorija arba kitaip žinoma, kaip [sekretorės problema](https://www.wikiwand.com/en/Secretary_problem):  _Imagine an administrator who wants to hire the best secretary out of_ ![n](https://wikimedia.org/api/rest_v1/media/math/render/svg/a601995d55609f2d9f5e233e36fbe9ea26011b3b)_rankable applicants for a position. The applicants are interviewed one by one in random order. A decision about each particular applicant is to be made immediately after the interview. Once rejected, an applicant cannot be recalled. The question is about the optimal strategy \(stopping rule\) to maximize the probability of selecting the best applicant._ _The answer happens to be to pass by the first 1/e choices \(37%\) and then choose the next selection that is better than any seen in the first 37% \(or selecting the last choice if no better choice was found\)_
+
+\_\_
 
