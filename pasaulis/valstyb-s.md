@@ -1,6 +1,6 @@
 # Valstybės
 
-* [Kuo skiriasi Anglija, Jungtinė Karalystė ir Didžioji Britanija.](https://lh5.googleusercontent.com/XpMoFNiBnD6bPxg88zZtK677jdwdUbdsEDR-HKsZKVR9jOrZLiwCNh75MKXk7SFGhDtWdyy6rx7TDvhb9UqeWAMua6EP94r8yr-GPNX3=s606)  
+* [Kuo skiriasi Anglija, Jungtinė Karalystė ir Didžioji Britanija.](https://lh5.googleusercontent.com/XpMoFNiBnD6bPxg88zZtK677jdwdUbdsEDR-HKsZKVR9jOrZLiwCNh75MKXk7SFGhDtWdyy6rx7TDvhb9UqeWAMua6EP94r8yr-GPNX3=s606) \#UK  
   Trumpai:   
   England---&gt;A nation within the UK   
   UK----&gt;A union of 4 nations - England, Wales, Scotland and Northern Ireland. It also includes many islands like Falkland Islands, British Indian Ocean Territory, etc.   
