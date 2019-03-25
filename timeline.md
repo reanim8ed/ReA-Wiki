@@ -7,6 +7,7 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 ### 2019-03-25
 
 * [Pridėtas pokalbis su Chris Hadfield iš Joe Rogan podcast'o.](wiki/podcastai.md#2019-03)
+* [Pridėtas klausomų podcastų sąrašas](wiki/podcastai.md#prenumeratos)
 
 ### 2019-03-24
 
