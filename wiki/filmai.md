@@ -6,7 +6,7 @@
 
 Visus peržiūrėtus filmus įsivertinu IMDB svetainėje ir pirmuosius vertinimus galima rasti net iš 2009-ųjų. Tad galima matyti, kad per pastaruosius 10 metų peržiūrėjau išviso 910 filmų O.o Reikia atkreipti dėmesį ir tai, kad šiame sąraše nežymiu serialų.
 
-## Vieni mėgstamiausių
+## Mėgstamiausi
 
 * [12 Angry Men](https://www.imdb.com/title/tt0050083/)
 * [Léon](https://www.imdb.com/title/tt0110413/)
@@ -22,4 +22,8 @@ Visus peržiūrėtus filmus įsivertinu IMDB svetainėje ir pirmuosius vertinimu
 * [Spirited Away](https://www.imdb.com/title/tt0245429/)
 * [Intouchables](https://www.imdb.com/title/tt1675434/)
 * [The Pursuit of Happyness](https://www.imdb.com/title/tt0454921/)
+
+## Peržiūrėtų Anime sąrašas
+
+[https://myanimelist.net/animelist/reanimated](https://myanimelist.net/animelist/reanimated)
 

@@ -15,6 +15,7 @@
 * [Ekonomika](wiki/ekonomika.md)
 * [Filmai](wiki/filmai.md)
 * [Investavimas](wiki/investavimas.md)
+* [Įrankiai](wiki/rankiai.md)
 * [Istorija](wiki/istorija/README.md)
   * [Technologijos](wiki/istorija/technologijos.md)
   * [Šaltasis karas](wiki/istorija/saltasis-karas.md)
