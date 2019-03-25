@@ -22,6 +22,7 @@
 * [Kompanijos](wiki/kompanijos/README.md)
   * [Apple](wiki/kompanijos/apple.md)
 * [Kosmosas](wiki/kosmosas.md)
+* [Marketingas](wiki/marketingas.md)
 * [Mokslas](wiki/mokslas/README.md)
   * [Statistika](wiki/mokslas/statistika.md)
 * [Pasaulis](wiki/pasaulis/README.md)
@@ -34,5 +35,6 @@
 * [Programavimas](wiki/programavimas/README.md)
   * [Tools](wiki/programavimas/tools.md)
 * [Self-improvement](wiki/self-improvement.md)
+* [Technologijos](wiki/technologijos.md)
 * [Terminai](wiki/terminai.md)
 

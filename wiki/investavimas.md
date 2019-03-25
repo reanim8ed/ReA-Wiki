@@ -4,7 +4,7 @@
 
 ## Finansinė nepriklausomybė
 
-* Financial independence means that you do not exchange your most precious asset \(time\) for money
+* Finansinė nepriklausomybė reiškia, kad nebeturi mainyti savo vieno svarbiausių resursų \(laiko\) į pinigus. Problema su savo laiko nuomojimu, kad jis uždarbį ugdo tik linijine progresija, kai tuo tarpu tas, kas visų tokių laiką surenka ir perparduoda kitiems, auga eksponentiškai.
 
 ## Citatos
 
