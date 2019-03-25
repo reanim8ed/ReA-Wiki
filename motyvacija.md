@@ -26,7 +26,7 @@ Viena pagrindinių priežasčių kodėl noriu turėti asmeninę wiki - nes manau
 
 Dažniausiai pokalbyje, kuriame užsiminu apie tam tikras idėjas ar faktus, kuriuos kažkur skaičiau, galiu perteikti tik esmę, general idea, tačiau konkretūs duomenys ar skaičiai jau senai būna nugaravę, tad nenuostabu, kad noriu turėti tokią, kaip išorinę duomenų saugyklą - lengvai pasiekiamą, suorganizuotą ir lengvai ieškomą, kad norimą temą ir straipsnį galėčiau ištraukti labai greitai.
 
-Taipogi nepamirškime argumento ir apie tai, kad jeigu jau skyriau sąlyginai nemažai laiko domėdamasis ir skaitydamas šią temą, manau, kad šis laikas taptų išvaistytu, jeigu dauguma to ką skaičiau visvien anksčiau ar vėliau užsimirš. Tai jeigu jau buvo skirta laiko in the first place, tai galima skirti dar bent truputėlis, kad tai užarchyvuoti.
+Taipogi nepamirškime argumento ir apie tai, kad jeigu jau skyriau sąlyginai nemažai laiko domėdamasis ir skaitydamas apie konkrečią temą, manau, kad šis laikas taptų išvaistytu, jeigu dauguma to ką skaičiau visvien anksčiau ar vėliau užsimirš. Tai jeigu jau buvo skirta laiko in the first place, tai galima skirti dar bent truputėlis, kad tai užarchyvuoti.
 
 ## Paskirtis
 
