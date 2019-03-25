@@ -42,5 +42,5 @@ Taigi tokia wiki turi 3 pagrindines paskirtis:
 
 -Trečiasis, knowledge path, arba timeline - labai įdomu išsaugoti kelią, kuriuo vystosi žinios. Matyti progresą. Stebint tokį kelią galima matyti, per kokias temas šokinėjama, kaip atsiranda asmeninis vystymasis. Taipogi jeigu du skirtingus žmones sudomina ta pati tema, tai tikėtina, kad dalis žinių gali persidengti ir skaitydamas kito mintis gali atrasti visiškai kitokį požiūrį į tas pačias temas ar atrasti visiškai naujų, gal ir netikėtų sričių.
 
-Taigi dėl šių priežasčių atsirado šis continuously atnaujinamas dokumentas, kuriame bandysiu išsaugoti savo mintis ir žinias, konspektuosiu tai kas man įdomu ir tiesiog apie viską apie ką sužinojau.
+Taigi dėl šių priežasčių atsirado šis continuously atnaujinamas žinių indeksas, kuriame bandysiu išsaugoti savo mintis, konspektuosiu tai kas man įdomu ir tiesiog apie viską apie ką sužinojau.
 
