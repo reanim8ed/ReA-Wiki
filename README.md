@@ -4,9 +4,10 @@ description: My knowledge as reusable as possible
 
 # Įvadas
 
-Tai mano asmeninis minčių wiki konspektas, kuriame kaupiu ir dalinuosi viskuom.
+Tai mano minčių konspektas, asmeninė wiki, kurioje kaupiu ir dalinuosi viskuom ką žinau.
 
-Jeigu kyla klausimas _kodėl?_ - perskaitykite mano motyvaciją [čia](motyvacija.md).
+_**WHAT?**_  
+Paprastas atsakymas -  to make sense of everything. Jei to neužtenka, perskaitykite motyvaciją [čia](motyvacija.md).
 
 ## Struktūra
 
