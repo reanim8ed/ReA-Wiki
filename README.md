@@ -34,5 +34,5 @@ Temos sudarytos tokia struktūra:
 
 ## ❤Atgalinis ryšys
 
-Jeigu manote, kad kažkuri informacija yra visiškai neteisinga, sukurkite naują [Github issue](https://github.com/reanim8ed/ReA-Wiki/issues/new) ir parašykite kas ne taip.
+Jeigu manote, kad kažkuri informacija yra kategoriškai klaidinga, sukurkite naują [Github issue](https://github.com/reanim8ed/ReA-Wiki/issues/new) ir parašykite kas gi ne taip.
 
