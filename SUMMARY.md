@@ -13,6 +13,7 @@
 * [Bendravimas](wiki/bendravimas.md)
 * [Citatos](wiki/citatos.md)
 * [Ekonomika](wiki/ekonomika.md)
+* [Filmai](wiki/filmai.md)
 * [Investavimas](wiki/investavimas.md)
 * [Istorija](wiki/istorija/README.md)
   * [Technologijos](wiki/istorija/technologijos.md)
