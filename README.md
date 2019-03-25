@@ -4,13 +4,24 @@ description: My knowledge as reusable as possible
 
 # Įvadas
 
-Tai mano asmeninė minčių wiki, kurioje kaupiu ir dalinuosi viskuom, kas mane sudomino.
+Tai mano asmeninis minčių wiki konspektas, kuriame kaupiu ir dalinuosi viskuom.
 
-Jeigu jums kyla klausimas _kodėl?_ - perskaitykite mano motyvaciją [čia](motyvacija.md).
+Jeigu kyla klausimas _kodėl?_ - perskaitykite mano motyvaciją [čia](motyvacija.md).
 
-[Kaip suskirstyta ši Wiki?](struktura.md)
+## Struktūra
 
-[Pakeitimų istorija](timeline.md)
+Kairėje rasite Wiki sekciją, kurioje pagal kategorijas suskirstytos visos temos, kurios mane domina ar bent jau kažkada domino praeityje. 
+
+Kiekvienas folderis yra atskira tema, kuri viduje gali būti suskirstyta į kitas, smulkesnes temas.
+
+Aš nuolat koreguoju bei pildau sąrašą naujomis temomis bei naudoju šią Wiki kaip asmeninį žinių šaltinį ir saugyklą. Stengiuosi rašyti ir struktūrizuoti informaciją taip, kad šis sąrašas būtų logiškas, įdomus ir galbūt naudingas ir ne tik man.
+
+Temos sudarytos tokia struktūra:
+
+1. Pavadinimas
+2. Aprašymas - mano mintys/pamąstymai apie temą
+3. Notes - bookmark stiliaus nuorodos iš interneto su trumpu aprašymu bei įdomiausia ištrauka iš teksto ar mano nuomone. Dažnu atveju tai nuoroda į šaltinį, kur apie tai radau, skaičiau.
+4. Links - nuorodos į daugiau resursų šia tema
 
 ## Navigacija
 
@@ -20,7 +31,7 @@ Jeigu jums kyla klausimas _kodėl?_ - perskaitykite mano motyvaciją [čia](moty
 * Timeline - laiko juosta, kurioje atvaizduojama, kokios korekcijos buvo atliktos bei kokios naujos temos pridėtos.
 * Paieška - vedamas raktažodis arba hashtag.
 
-## Atgalinis ryšys❤ 
+## ❤Atgalinis ryšys
 
 Jeigu manote, kad kažkuri informacija yra visiškai neteisinga, sukurkite naują [Github issue](https://github.com/reanim8ed/ReA-Wiki/issues/new) ir parašykite kas ne taip.
 

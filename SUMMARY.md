@@ -2,7 +2,6 @@
 
 * [Įvadas](README.md)
 * [Motyvacija](motyvacija.md)
-* [Struktūra](struktura.md)
 * [Timeline](timeline.md)
 
 ## Wiki
