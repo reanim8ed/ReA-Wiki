@@ -10,6 +10,8 @@
 * [Asmenybės](wiki/asmenyb-s/README.md)
   * [Pop kultūra](wiki/asmenyb-s/pop-kultura/README.md)
     * [Jackie Chan](wiki/asmenyb-s/pop-kultura/jackie-chan.md)
+* [Bendravimas](wiki/bendravimas.md)
+* [Citatos](wiki/citatos.md)
 * [Ekonomika](wiki/ekonomika.md)
 * [Investavimas](wiki/investavimas.md)
 * [Istorija](wiki/istorija/README.md)
