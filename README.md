@@ -28,7 +28,8 @@ Temos sudarytos tokia struktūra:
 
 Šiuo resursu galima naudotis šiais būdais:
 
-* Šoninė temų juosta, su išskleidžiamomis sub-kategorijomis. Galima nusikasti į labai specifinę temą ir peržiūrėti su tuo susijusius mano notes'us.
+* Šoninė temų juosta kairėje, su išskleidžiamomis sub-kategorijomis. Galima nusikasti į labai specifinę temą ir peržiūrėti su tuo susijusius notes'us.
+* Dešinė šoninė juosta - navigacija duotame puslapyje. Padeda greitai peršokti į skirtingas skiltis.
 * Timeline - laiko juosta, kurioje atvaizduojama, kokios korekcijos buvo atliktos bei kokios naujos temos pridėtos.
 * Paieška - vedamas raktažodis arba hashtag.
 
