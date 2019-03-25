@@ -13,9 +13,9 @@ Paprastas atsakymas -  to make sense of everything. Jei to neužtenka, perskaity
 
 Kairėje rasite Wiki sekciją, kurioje pagal kategorijas suskirstytos visos temos, kurios mane domina ar bent jau kažkada domino praeityje. 
 
-Kiekvienas folderis yra atskira tema, kuri viduje gali būti suskirstyta į kitas, smulkesnes temas.
+Kiekvienas skirsnis yra atskira tema, kuri viduje gali būti suskirstyta į kitas, smulkesnes temas.
 
-Aš nuolat koreguoju bei pildau sąrašą naujomis temomis bei naudoju šią Wiki kaip asmeninį žinių šaltinį ir saugyklą. Stengiuosi rašyti ir struktūrizuoti informaciją taip, kad šis sąrašas būtų logiškas, įdomus ir galbūt naudingas ir ne tik man.
+Aš nuolat koreguoju bei pildau sąrašą naujomis temomis bei naudoju šią Wiki kaip asmeninį žinių šaltinį ir saugyklą. Stengiuosi rašyti ir struktūrizuoti informaciją taip, kad šis sąrašas būtų logiškas ir galbūt naudingas ir ne tik man.
 
 Temos sudarytos tokia struktūra:
 
