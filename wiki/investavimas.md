@@ -2,7 +2,13 @@
 
 * [Nors dabar madingiausia kalbėti apie FAANG, bet išties didžiausia sėkmės istorija iš investicinės pusės galima laikyti Nike. Jei 1980-aisiais per šios kompanijos IPO būtumėte investavę 100$, tai šiuo metu ši investicija siektų net 6 mln dolerių ir tai yra beveik 5 kartus daugiau nei absoliučiai bet kuri kita kompanija.](https://imgur.com/PiUrHvr)
 
+## Finansinė nepriklausomybė
 
+* Financial independence means that you do not exchange your most precious asset \(time\) for money
+
+## Citatos
+
+* Never cry for money, because it never cries for you.
 
 ## Links
 

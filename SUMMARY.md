@@ -29,5 +29,6 @@
   * [Rusija](wiki/politika/rusija.md)
 * [Programavimas](wiki/programavimas/README.md)
   * [Tools](wiki/programavimas/tools.md)
+* [Self-improvement](wiki/self-improvement.md)
 * [Terminai](wiki/terminai.md)
 
