@@ -18,6 +18,7 @@
 * [Istorija](wiki/istorija/README.md)
   * [Technologijos](wiki/istorija/technologijos.md)
   * [Šaltasis karas](wiki/istorija/saltasis-karas.md)
+* [Knygos](wiki/knygos.md)
 * [Kompanijos](wiki/kompanijos/README.md)
   * [Apple](wiki/kompanijos/apple.md)
 * [Kosmosas](wiki/kosmosas.md)

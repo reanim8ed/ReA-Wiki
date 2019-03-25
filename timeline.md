@@ -9,6 +9,7 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 * [Pridėtas pokalbis su Chris Hadfield iš Joe Rogan podcast'o.](wiki/podcastai.md#2019-03)
 * [Pridėtas klausomų podcastų sąrašas](wiki/podcastai.md#prenumeratos)
 * [Pridėtas peržiūrėtų filmų sąrašas](wiki/filmai.md#perziur-t-film-sarasas-ir-j-vertinimai)
+* Pridėtos [knygų ](wiki/knygos.md)ir [filmų ](wiki/filmai.md)sekcijos
 
 ### 2019-03-24
 
