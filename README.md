@@ -20,7 +20,7 @@ Jeigu jums kyla klausimas _kodėl?_ - perskaitykite mano motyvaciją [čia](moty
 * Timeline - laiko juosta, kurioje atvaizduojama, kokios korekcijos buvo atliktos bei kokios naujos temos pridėtos.
 * Paieška - vedamas raktažodis arba hashtag.
 
-## Atgalinis ryšys
+## Atgalinis ryšys❤ 
 
 Jeigu manote, kad kažkuri informacija yra visiškai neteisinga, sukurkite naują [Github issue](https://github.com/reanim8ed/ReA-Wiki/issues/new) ir parašykite kas ne taip.
 
