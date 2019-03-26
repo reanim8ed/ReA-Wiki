@@ -46,3 +46,11 @@ Taigi tokia wiki turi 3 pagrindines paskirtis:
 
 Taigi dėl šių priežasčių atsirado šis be perstojo atnaujinamas žinių indeksas, kuriame bandysiu išsaugoti mintis, konspektuosiu tai kas man įdomu ir tiesiog apie viską apie ką sužinojau. Tai nėra tutorialų, saviugdos ar svarbių straipsnių rinkinys, tačiau manau, kad tai, jog jis yra pasiekiamas viešai atneš daugiau naudos, nei žalos, tad laikau esant verta. Jeigu kažkas ras ką naudingo ar įdomaus - juo labiau puiku, nors tai ir nėra pagrindinis tikslas.
 
+## A Portrait of J. Random Hacker
+
+> _Although high general intelligence is common among hackers, it is not the_ [_sine qua non_](https://www.wikiwand.com/en/Sine_qua_non) _one might expect. Another trait is probably even more important: the ability to mentally absorb, retain, and reference large amounts of ‘meaningless’ detail, trusting to later experience to give it context and meaning. A person of merely average analytical intelligence who has this trait can become an effective hacker, but a creative genius who lacks it will swiftly find himself outdistanced by people who routinely upload the contents of thick reference manuals into their brains._
+
+> _Contrary to stereotype, hackers are not usually intellectually narrow; they tend to be interested in any subject that can provide mental stimulation, and can often discourse knowledgeably and even interestingly on any number of obscure subjects — if you can get them to talk at all, as opposed to, say, going back to their hacking._
+
+> _Hackers are generally only very weakly motivated by conventional rewards such as social approval or money. They tend to be attracted by challenges and excited by interesting toys, and to judge the interest of work or other activities in terms of the challenges offered and the toys they get to play with._ - [Jargon File 4.4.7](http://www.catb.org/jargon/html/personality.html)
+
