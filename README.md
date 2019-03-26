@@ -6,7 +6,7 @@ description: My knowledge as reusable as possible
 
 Tai mano minčių konspektas, asmeninė wiki, kurioje kaupiu ir dalinuosi viskuom ką žinau.
 
-_**WHAT?**_  
+**WHAT?**  
 Paprastas atsakymas -  to make sense of everything. Jei to neužtenka, perskaitykite motyvaciją [čia](motyvacija.md).
 
 ## Struktūra
