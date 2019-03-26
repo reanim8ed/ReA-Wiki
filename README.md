@@ -17,12 +17,13 @@ Kiekvienas skirsnis yra atskira tema, kuri viduje gali būti suskirstyta į kita
 
 Aš nuolat koreguoju bei pildau sąrašą naujomis temomis bei naudoju šią Wiki kaip asmeninį žinių šaltinį ir saugyklą. Stengiuosi rašyti ir struktūrizuoti informaciją taip, kad šis sąrašas būtų logiškas ir galbūt naudingas ir ne tik man.
 
-Temos sudarytos tokia struktūra:
+Temos struktūra dažniausiai tokia:
 
 1. Pavadinimas
-2. Aprašymas - mano mintys/pamąstymai apie temą
-3. Notes - bookmark stiliaus nuorodos iš interneto su trumpu aprašymu bei įdomiausia ištrauka iš teksto ar mano nuomone. Dažnu atveju tai nuoroda į šaltinį, kur apie tai radau, skaičiau.
-4. Links - nuorodos į daugiau resursų šia tema
+2. Susijusi citata
+3. Aprašymas - mintys/pamąstymai apie temą
+4. Notes - bookmark stiliaus nuorodos iš interneto su įdomiausiomis ištraukomis ar mano nuomone. 
+5. Links - nuorodos į daugiau resursų panašia tematika. Jeigu nuoroda tiesiogiai susijusi su vienu iš Notes, susiejimas nurodomas skaičiumi bracket'uose: \[1\]
 
 ## Navigacija
 
