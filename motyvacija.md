@@ -22,29 +22,23 @@ Manau, kad nesu [polimatas](https://www.wikiwand.com/en/Polymath), tačiau tikra
 
 ## Priežastys
 
-Viena pagrindinių priežasčių kodėl noriu turėti asmeninę wiki - nes manau, kad atmintis tikrai nėra pati patikimiausia. Galbūt dėlto kalta elementari genetika, o gal ir tai, kad internete skaitau tikrai labai daug ir apie ganėtinai skirtingas temas, tad visko prisiminti ko gero būtų fiziškai neįmanoma. Tikriausiai esate girdėję tokius faktus, kad šiuolaikinis žmogus dabar per dieną bombarduojamas didesniu kiekiu informacijos, nei senovėje žmonės sužinodavo per visą savo gyvenimą ar kad informacijos kiekis dabar maždaug dvigubėja kas 12 mėn. Tad nenuostabu, kad ieškau būdų offloadinti šią informaciją.
-
-Dažniausiai pokalbyje, kuriame užsiminu apie tam tikras idėjas ar faktus, kuriuos kažkur skaičiau, galiu perteikti tik esmę, general idea, tačiau konkretūs duomenys ar skaičiai jau senai būna nugaravę. Noriu turėti tokią, kaip išorinę savo galvoje laikomos informacijos duomenų saugyklą - padaryti ją lengvai pasiekiamą, organizuotą ir lengvai ieškomą, kad norimą temą ir straipsnį galėčiau ištraukti labai greitai bet kokiame kontekste.
-
-Jeigu jau skyriau sąlyginai nemažai laiko domėdamasis ir skaitydamas apie konkrečią temą, manau, kad galima skirti bent minimaliai dar tam, kad ją sugrupuoti ir išlaikyti kur kas ilgiau.
+Viena pagrindinių priežasčių kodėl noriu turėti asmeninę wiki - nes manau, kad vien atminties neužtenka. Daug kas tiesiog užsimiršta ir dėlto kalta ne tik genetika, bet ir tai, kad internete skaitau tikrai daug ir apie ganėtinai skirtingas temas, tad visko prisiminti ko gero būtų neįmanoma. Tikriausiai girdėjote faktus, kad šiuolaikinis žmogus dabar per dieną bombarduojamas didesniu kiekiu informacijos, nei senovėje žmonės sužinodavo per visą savo gyvenimą ar kad informacijos kiekis dabar dvigubėja kas 12 mėn. Tad nenuostabu, kad ieškau būdų offloadinti šią informaciją. Noriu turėti išorinę galvoje laikomos informacijos duomenų saugyklą, padaryti ją lengvai pasiekiamą, organizuotą, indeksuotą ir lengvai ieškomą, kad reikiamą temą ir straipsnį galėčiau ištraukti labai greitai, bet kokiame kontekste. Ir jeigu jau skyriau sąlyginai nemažai laiko domėdamasis apie konkrečią temą, manau, kad galima skirti bent minimaliai ir dar, jos išsaugojimui ir sugrupavimui.
 
 ## Paskirtis
 
-_**Our goal in life is to collect the dots and connect the dots but we can't do both at the same time. A wiki tries to make a history of both those processes.**_
+_**Our goal in life is to collect the dots and connect the dots but we can't do both at the same time. A wiki makes a history of both and tries to make sence of all of this.**_
 
 Taigi tokia wiki turi 3 pagrindines paskirtis:
 
-1. minčių išsaugojimas, organizavimas ir padarymas jas labai greitai randamomis for future use
-2. viso to padarymas prieinama bet kam
-3. knowledge path sukūrimas
+1. minčių saugojimas, organizavimas ir padarymas jas greitai randamomis
+2. prieinamumas bet kam
+3. knowledge path kūrimas
 
--Pirmasis padeda išsaugoti tai apie ką noriu prisiminti ir apie ką galbūt norėtųsi kam nors papasakoti. Iš kiekvieno straipsnio išsisaugoju tik tai, kas labiausiai sudomino, sukėlė daugiausiai apmastymų ar tai, kas manau išties verta ar įdomu. 
+-Kalbant apie antrąją paskirtį - visada mėgau tomis žiniomis dalintis. Jeigu anksčiau tai darydavau tinklaraščio pagalba, dabar manau, kad tai atima gal kiek per daug laiko. Parašyti vieną long grid'ą, atimdavo apie 4 h, kartais net ilgiau, nes rašydamas pirmiausia atlieku gan nemažai research'o, faktų tikslinimo, o parašęs dar daugybę kartų performuluoju ir stengiuosi savo mintis išdėlioti logiškiau ir tas grumuliavimas atima daugiausia laiko. Suveikia taisyklė, jog 80% darbo išeikvoja pusę projekto laiko, o likę 20% sueikvoja likusią pusę. Taip tinklaraščio rašymas įgavo slengstį, per kurį perlipti pradėjo darytis vis sunkiau ir tai kuo puikiausiai matosi iš [smarkiai retėjančių](https://reanimated.lt/archyvas) įrašų. Dabar dažniausiai pasidalinu nuoroda į šaltinį ir tiesiog parašau trumpą aprašą ar mintis. Ir toks flow pasirodė patrauklus: numeti savo mintį, padedi kitiems sužinoti ir atkreipti dėmesį į tai, ką sužinojai tu, kartais iššauki diskusijas ir svarbiausia - tai galima padaryti lengvai, greitai ir neįpareigojančiai. Jeigu vienos pastraipos įrašai man pasirodydavo nepriimtini tinklaraščiui, tai puikiai tiko iš principo į trumpas žinutes orientuotiems soc. tinklams. Toks pats pamatinis workflow pritaikomas ir wiki, tik skirtumas - truputėlis prasmingiau ir neužsikas bendrame pasąmonės sraute, kas yra soc. tinklai.
 
--Kalbant apie antrąją paskirtį - visada mėgau tomis žiniomis dalintis. Jeigu anksčiau tai darydavau tinklaraščio pagalba, dabar manau, kad tai atima gal kiek per daug laiko. Parašyti vieną long grid'ą, man atimdavo po kelias h, kartais net iki gero pusdienio, nes dažniausiai rašydamas pirmiausia atlieku gan nemažai research'o, fact checking'o, o parašęs dar daugybę kartų performuluoju ir stengiuosi savo mintis išdėlioti logiškiau ir tas grumuliavimas atima išties daug laiko. Suveikia [80-20 taisyklė](https://www.wikiwand.com/en/Pareto_principle). Tad tinklaraščio rašymas įgavo slengstį, per kurį perlipti pradėjo darytis vis sunkiau ir tai kuo puikiausiai matosi iš [vis retėjančių](https://reanimated.lt/archyvas) įrašų. Dabar dažniausiai tiesiog pasidalinu nuoroda į užsienio šaltinį ir parašau trumpą aprašą ar savo mintis. Ir toks flow pasirodė pakankamai patrauklus - numeti savo mintį, padedi kitiems sužinoti ir atkreipti dėmesį į tai, ką sužinojai tu, kartais iššauki diskusijas ir svarbiausia - tai galima padaryti lengvai, greitai ir neįpareigojančiai. Jeigu vienos pastraipos įrašai man pasirodydavo nepriimtini tinklaraščiui, tai puikiai tiko iš principo į trumpas žinutes orientuotiems soc. tinklams. Toks pats pamatinis workflow pritaikomas ir čia, tik esminis skirtumas - manau, kad tai truputėlis prasmingiau ir neužsikas tame bendrame pasamonės sraute, kas yra soc. tinklų sraute.
+-Trečioji paskirtis, knowledge path, arba timeline - labai įdomu išsaugoti nueitą kelią. Taip lengviau susidaryti kontekstą. Stebint galima matyti, per kokias temas šokinėjama, kaip atsiranda asmeninis vystymasis, asmeninis žinių kelias ir kaip po truputėlis jungiasi visi tie surinkti taškai.
 
--Trečiasis, knowledge path, arba timeline - labai įdomu išsaugoti nueitą kelią, taip lengviau susidaryti kontekstą. Stebint galima matyti, per kokias temas šokinėjama, kaip atsiranda asmeninis vystymasis, asmeninis žinių kelias ir kaip po truputėlis jungiasi tie surinkti taškai.
-
-Taigi dėl šių priežasčių atsirado šis be perstojo atnaujinamas žinių indeksas, kuriame bandysiu išsaugoti mintis, konspektuosiu tai kas man įdomu ir tiesiog apie viską apie ką sužinojau. Tai nėra tutorialų, saviugdos ar svarbių straipsnių rinkinys, tačiau manau, kad tai, jog jis yra pasiekiamas viešai atneš daugiau naudos, nei žalos, tad laikau esant verta. Jeigu kažkas ras ką naudingo ar įdomaus - juo labiau puiku, nors tai ir nėra pagrindinis tikslas.
+Taigi dėl šių priežasčių atsirado šis be perstojo atnaujinamas žinių indeksas, kuriame bandysiu išsaugoti mintis, konspektuosiu tai kas pasirodė įdomu ir tiesiog apie viską apie ką sužinojau. Tai nėra tutorialų, saviugdos ar reikšmingų straipsnių rinkinys, tačiau manau, kad tai, jog jis yra pasiekiamas viešai atneš daugiau naudos, nei žalos, tad laikau esant verta. Jeigu kažkas ras ką naudingo ar įdomaus - juo labiau puiku, nors tai ir nėra pagrindinis tikslas.
 
 ## A Portrait of J. Random Hacker
 

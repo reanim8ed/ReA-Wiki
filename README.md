@@ -7,7 +7,9 @@ description: My knowledge as reusable as possible
 Tai mano minčių konspektas, asmeninė wiki, kurioje kaupiu ir dalinuosi viskuom ką žinau.
 
 **WHAT?**  
-Paprastas atsakymas -  to make sense of everything. Jei to neužtenka, perskaitykite motyvaciją [čia](motyvacija.md).
+Paprastas atsakymas -  to make sense of everything. Dauguma gilesnių minčių ar nuomonių nesusiformuluoja iš pirmo bandymo. Tai daugybės iteracijų, revizijų ir apmąstymų rezultatas.
+
+ Platesnis atsakymas - [motyvacijos skiltyje](motyvacija.md).
 
 ## Struktūra
 
