@@ -6,7 +6,7 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 
 ### 2019-03-27
 
-* Pridėtas Inkdrop į [Tools ](wiki/tools.md)temą.
+* Pridėti Inkdrop ir Caret į [Tools ](wiki/tools.md)temą.
 
 ### 2019-03-26
 
