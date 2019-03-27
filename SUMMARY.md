@@ -13,7 +13,6 @@
 * [Ekonomika](wiki/ekonomika.md)
 * [Filmai](wiki/filmai.md)
 * [Investavimas](wiki/investavimas.md)
-* [Įrankiai](wiki/rankiai.md)
 * [Istorija](wiki/istorija/README.md)
   * [Šaltasis karas](wiki/istorija/saltasis-karas.md)
 * [Knygos](wiki/knygos.md)
@@ -35,4 +34,5 @@
 * [Self-improvement](wiki/self-improvement.md)
 * [Technologijos](wiki/technologijos.md)
 * [Terminai](wiki/terminai.md)
+* [Tools](wiki/tools.md)
 

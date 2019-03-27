@@ -4,6 +4,10 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 
 # Timeline
 
+### 2019-03-27
+
+* Pridėtas Inkdrop į [Tools ](wiki/tools.md)temą.
+
 ### 2019-03-26
 
 * Pridėta citata iš [Jargon File](motyvacija.md#a-portrait-of-j-random-hacker).
@@ -14,7 +18,7 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 * [Pridėtas klausomų podcastų sąrašas](wiki/podcastai.md#prenumeratos)
 * [Pridėtas peržiūrėtų filmų sąrašas](wiki/filmai.md#perziur-t-film-sarasas-ir-j-vertinimai)
 * Pridėtos [knygų ](wiki/knygos.md)ir [filmų ](wiki/filmai.md)skiltys
-* Pridėta naudojamų [įrankių](wiki/rankiai.md) skiltis
+* Pridėta naudojamų [įrankių](wiki/tools.md) skiltis
 
 ### 2019-03-24
 
