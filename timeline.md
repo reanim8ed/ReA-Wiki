@@ -7,6 +7,7 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 ### 2019-03-27
 
 * Pridėti Inkdrop ir Caret į [Tools ](wiki/tools.md)temą.
+* Programavimo temoje pridėta apie Imposter sindromą iš[ React kūrėjo perspektyvos](wiki/programavimas/#notes)
 
 ### 2019-03-26
 
