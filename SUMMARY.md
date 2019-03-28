@@ -6,9 +6,9 @@
 
 ## Wiki
 
-* [Asmenybės](wiki/asmenyb-s/README.md)
-  * [Pop kultūra](wiki/asmenyb-s/pop-kultura/README.md)
-    * [Jackie Chan](wiki/asmenyb-s/pop-kultura/jackie-chan.md)
+* [Asmenybės](wiki/asmenybes/README.md)
+  * [Pop kultūra](wiki/asmenybes/pop-kultura/README.md)
+    * [Jackie Chan](wiki/asmenybes/pop-kultura/jackie-chan.md)
 * [Citatos](wiki/citatos.md)
 * [Ekonomika](wiki/ekonomika.md)
 * [Filmai](wiki/filmai.md)
