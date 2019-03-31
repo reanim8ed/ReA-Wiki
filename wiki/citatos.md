@@ -11,4 +11,5 @@
 * Patirtis yra tai ką gauni, kai negauni to ko norėjai
 * There is only one sin, only one. And that is theft. Every other sin is a variation of theft... When you kill a man, you steal a life. You steal his wife's right to a husband, rob his children of a father. When you tell a lie, you steal someone's right to the truth. When you cheat, you steal the right to fairness.
 * The two things people dislike the most: the way things are, and when they change.
+* Facts dont care about your feelings
 
