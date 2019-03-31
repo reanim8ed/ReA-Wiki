@@ -56,3 +56,5 @@ Podcast'ų klausymui yra išties nemažai gerų programų, tačiau pagrindinis m
 
 ### 2019 - 03
 
+* [Alex Honnald](https://youtu.be/2OhHkBmbb5Y) - kur kiekvienas interviu džiugina jau vien tuom, kad pašnekovas vis dar čia, vis dar gali atvykti. Alex'as yra žymiausias Free Solo kopėjas, kuris [vienintelis įlipo](https://www.wikiwand.com/en/Free_Solo) į garsiausią JAV kalną be jokios įrangos. 22 metus vyrukas vaikšto tokia slidžia riba, kur viena vienintelė klaida, jam kainuotų gyvybę. Podcast'e pasakoja apie tai, kad kopiant įsitempimas turi būti tarp 3,5-7, nes kitu atveju yra didelė tikimybė padaryti klaidą. Apie tai, kaip kopikai pasiilsina rankas kabėdami žemyn galva ir apie tai, kad turi būti pakankamai įsitempęs, kad neprarastum savo general alertness, tačiau tuo pat metu ir pakankamai atsipalaidavęs, jog jaustumeisi komforto zonoje ir nenuvargintum savęs. Yra puikus filmas apie tai, kaip vystėsi visa ši kopimo kultūra, pavadinimu [Valley Uprising](https://www.imdb.com/title/tt3784160/).
+

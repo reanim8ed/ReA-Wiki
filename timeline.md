@@ -4,6 +4,11 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 
 # Timeline
 
+### 2019-03-31
+
+* Pridėtas klausytas podcast'as su [Alex Honnald](wiki/podcastai.md#2019-03)
+* Pridėta Japonijos skiltis ir aprašyta apie tai, kad lašiša Japonijoje atsirado [dėka Norvegijos](wiki/pasaulis/valstybes/japonija.md).
+
 ### 2019-03-27
 
 * Pridėti Inkdrop ir Caret į [Tools ](wiki/tools.md)temą.
