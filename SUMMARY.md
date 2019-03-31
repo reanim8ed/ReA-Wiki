@@ -12,6 +12,7 @@
 * [Citatos](wiki/citatos.md)
 * [Ekonomika](wiki/ekonomika.md)
 * [Filmai](wiki/filmai.md)
+* [Internetas](wiki/internetas.md)
 * [Investavimas](wiki/investavimas.md)
 * [Istorija](wiki/istorija/README.md)
   * [Šaltasis karas](wiki/istorija/saltasis-karas.md)

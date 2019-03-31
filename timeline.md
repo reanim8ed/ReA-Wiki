@@ -8,6 +8,7 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 
 * Pridėtas klausytas podcast'as su [Alex Honnald](wiki/podcastai.md#2019-03)
 * Pridėta Japonijos skiltis ir aprašyta apie tai, kad lašiša Japonijoje atsirado [dėka Norvegijos](wiki/pasaulis/valstybes/japonija.md).
+* Pridėta mintis apie pažinčių [portalų dinamikos pasikeitimą](wiki/internetas.md), pridėjus apribojimą parašyti tik vienam naujam žmogui per parą.
 
 ### 2019-03-27
 
