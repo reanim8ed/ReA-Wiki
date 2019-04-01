@@ -4,6 +4,10 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 
 # Timeline
 
+### 2019-04-01
+
+* Pridėtas straipsnis apie programuotojo persikraustymą gyventi į [Berlyną](wiki/pasaulis/valstybes/vokietija.md).
+
 ### 2019-03-31
 
 * Pridėtas klausytas podcast'as su [Alex Honnald](wiki/podcastai.md#2019-03)

@@ -25,6 +25,7 @@
   * [Statistika](wiki/mokslas/statistika.md)
 * [Pasaulis](wiki/pasaulis/README.md)
   * [Valstybės](wiki/pasaulis/valstybes/README.md)
+    * [Vokietija](wiki/pasaulis/valstybes/vokietija.md)
     * [Japonija](wiki/pasaulis/valstybes/japonija.md)
     * [Kinija](wiki/pasaulis/valstybes/kinija.md)
     * [UK](wiki/pasaulis/valstybes/uk.md)
