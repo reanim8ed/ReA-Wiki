@@ -6,13 +6,13 @@
 
 ## Wiki
 
+* [AppIdeaOfADay](wiki/id-jos.md)
 * [Asmenybės](wiki/asmenybes/README.md)
   * [Pop kultūra](wiki/asmenybes/pop-kultura/README.md)
     * [Jackie Chan](wiki/asmenybes/pop-kultura/jackie-chan.md)
 * [Citatos](wiki/citatos.md)
 * [Ekonomika](wiki/ekonomika.md)
 * [Filmai](wiki/filmai.md)
-* [Idėjos](wiki/id-jos.md)
 * [Investavimas](wiki/investavimas.md)
 * [Istorija](wiki/istorija/README.md)
   * [Šaltasis karas](wiki/istorija/saltasis-karas.md)

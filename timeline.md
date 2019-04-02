@@ -6,14 +6,18 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 
 ### 2019-04-01
 
+* Pridėta idėja apie nuo apsilankymų kiekio mažėjančios kainos [sporto klubus](wiki/id-jos.md#2019-04-02).
+
+### 2019-04-01
+
 * Pridėtas straipsnis apie programuotojo persikraustymą gyventi į [Berlyną](wiki/pasaulis/valstybes/vokietija.md).
-* Pridėta idėja apie [restoranų prenumeratas](wiki/id-jos.md).
+* Pridėta idėja apie [restoranų prenumeratas](wiki/id-jos.md#2019-04-01).
 
 ### 2019-03-31
 
 * Pridėtas klausytas podcast'as su [Alex Honnald](wiki/podcastai.md#2019-03)
 * Pridėta Japonijos skiltis ir aprašyta apie tai, kad lašiša Japonijoje atsirado [dėka Norvegijos](wiki/pasaulis/valstybes/japonija.md).
-* Pridėta idėja apie pažinčių [portalų dinamikos pasikeitimą](wiki/id-jos.md), pridėjus apribojimą parašyti tik vienam naujam žmogui per parą.
+* Pridėta idėja apie pažinčių [portalų dinamikos pasikeitimą](wiki/id-jos.md#2019-03-31), pridėjus apribojimą parašyti tik vienam naujam žmogui per parą.
 
 ### 2019-03-27
 
