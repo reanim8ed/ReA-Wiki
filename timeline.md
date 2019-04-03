@@ -4,7 +4,11 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 
 # Timeline
 
-### 2019-04-01
+### 2019-04-03
+
+* Pridėta idėja apie Netflix'o prenumeratas, [skatinamas reklamų](wiki/id-jos.md#2019-04-03).
+
+### 2019-04-02
 
 * Pridėta idėja apie nuo apsilankymų kiekio mažėjančios kainos [sporto klubus](wiki/id-jos.md#2019-04-02).
 
