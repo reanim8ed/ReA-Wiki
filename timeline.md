@@ -4,6 +4,10 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 
 # Timeline
 
+### 2019-04-04
+
+* Pridėti 500 days of summer ir Yes Man į [mėgstamiausių filmų sąrašą](wiki/filmai.md#m-gstamiausi)
+
 ### 2019-04-03
 
 * Pridėta idėja apie Netflix'o prenumeratas, [skatinamas reklamų](wiki/id-jos.md#2019-04-03).
