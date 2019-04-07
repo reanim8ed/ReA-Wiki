@@ -4,6 +4,10 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 
 # Timeline
 
+### 2019-04-07
+
+* Podcast'as su [Kevin Hart](wiki/asmenybes/pop-kultura/kevin-hart.md)
+
 ### 2019-04-04
 
 * Pridėti 500 days of summer ir Yes Man į [mėgstamiausių filmų sąrašą](wiki/filmai.md#m-gstamiausi)

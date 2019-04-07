@@ -9,6 +9,7 @@
 * [AppIdeaOfADay](wiki/id-jos.md)
 * [Asmenybės](wiki/asmenybes/README.md)
   * [Pop kultūra](wiki/asmenybes/pop-kultura/README.md)
+    * [Kevin Hart](wiki/asmenybes/pop-kultura/kevin-hart.md)
     * [Jackie Chan](wiki/asmenybes/pop-kultura/jackie-chan.md)
 * [Citatos](wiki/citatos.md)
 * [Ekonomika](wiki/ekonomika.md)
