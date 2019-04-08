@@ -6,7 +6,6 @@
 
 ## Wiki
 
-* [AppIdeaOfADay](wiki/id-jos.md)
 * [Asmenybės](wiki/asmenybes/README.md)
   * [Pop kultūra](wiki/asmenybes/pop-kultura/README.md)
     * [Kevin Hart](wiki/asmenybes/pop-kultura/kevin-hart.md)
@@ -14,6 +13,7 @@
 * [Citatos](wiki/citatos.md)
 * [Ekonomika](wiki/ekonomika.md)
 * [Filmai](wiki/filmai.md)
+* [IdeaADay](wiki/idejos.md)
 * [Investavimas](wiki/investavimas.md)
 * [Istorija](wiki/istorija/README.md)
   * [Šaltasis karas](wiki/istorija/saltasis-karas.md)

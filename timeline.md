@@ -4,6 +4,10 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 
 # Timeline
 
+### 2019-04-08
+
+* Idėja apie [TV pultelius](wiki/idejos.md#2019-04-08) su ausinių lizdais
+
 ### 2019-04-07
 
 * Podcast'as su [Kevin Hart](wiki/asmenybes/pop-kultura/kevin-hart.md)
@@ -14,22 +18,22 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 
 ### 2019-04-03
 
-* Pridėta idėja apie Netflix'o prenumeratas, [skatinamas reklamų](wiki/id-jos.md#2019-04-03).
+* Pridėta idėja apie Netflix'o prenumeratas, [skatinamas reklamų](wiki/idejos.md#2019-04-03).
 
 ### 2019-04-02
 
-* Pridėta idėja apie nuo apsilankymų kiekio mažėjančios kainos [sporto klubus](wiki/id-jos.md#2019-04-02).
+* Pridėta idėja apie nuo apsilankymų kiekio mažėjančios kainos [sporto klubus](wiki/idejos.md#2019-04-02).
 
 ### 2019-04-01
 
 * Pridėtas straipsnis apie programuotojo persikraustymą gyventi į [Berlyną](wiki/pasaulis/valstybes/vokietija.md).
-* Pridėta idėja apie [restoranų prenumeratas](wiki/id-jos.md#2019-04-01).
+* Pridėta idėja apie [restoranų prenumeratas](wiki/idejos.md#2019-04-01).
 
 ### 2019-03-31
 
 * Pridėtas klausytas podcast'as su [Alex Honnald](wiki/podcastai.md#2019-03)
 * Pridėta Japonijos skiltis ir aprašyta apie tai, kad lašiša Japonijoje atsirado [dėka Norvegijos](wiki/pasaulis/valstybes/japonija.md).
-* Pridėta idėja apie pažinčių [portalų dinamikos pasikeitimą](wiki/id-jos.md#2019-03-31), pridėjus apribojimą parašyti tik vienam naujam žmogui per parą.
+* Pridėta idėja apie pažinčių [portalų dinamikos pasikeitimą](wiki/idejos.md#2019-03-31), pridėjus apribojimą parašyti tik vienam naujam žmogui per parą.
 
 ### 2019-03-27
 
