@@ -4,6 +4,10 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 
 # Timeline
 
+### 2019-04-10
+
+* Idėja apie reklamą Street View'o[ užtušuotose stenduose](wiki/idejos.md#2019-04-10)
+
 ### 2019-04-08
 
 * Idėja apie [TV pultelius](wiki/idejos.md#2019-04-08) su ausinių lizdais

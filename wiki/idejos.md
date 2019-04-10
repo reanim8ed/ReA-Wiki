@@ -1,5 +1,9 @@
 # IdeaADay
 
+## 2019-04-10
+
+* Neišnaudota Maps'ų galimybė: Google visgi pirmiausia yra reklamos kompanija, tad vietoj to, jog būtų tušuojami reklaminiai stendai ir parduotuvių vitrinos Street View'e, būtų galima tai pardavinėti kaip reklaminį plotą ir įstatinėti ten banerius.
+
 ## 2019-04-08
 
 * Playstation pulteliai turi vieną man labai patinkančią funkciją - ausinių lizdą. Patyliukais žaisti dažniausiai nėra taip smagu, o kai tai darai vėlai vakare - daug garso nepaturėsi. Tad ausinės pajungtos prie pultelio būna pats tas. Būtų visai šaunu turėti identišką funkcionalumą ir įprastiniuose televizijos pulteliuose. Pasileidai kokį filmą, Netflix'ą ar youtube'ą per teliką, o ausines prie pultelio ir gali žiūrėti, kad ir ką ten tokio gėdingo suplanavai.
