@@ -1,5 +1,6 @@
 # Kosmosas
 
+* Veritasium papasakojo kontekstą, slypintį už[ pirmosios juodosios skylės](https://www.youtube.com/watch?v=zUyH3XhpLTo) nuotraukos. Iš esmės nuotraukoje matome ne pačią juodąją skylę, o daugiau nei du kart didesnę orbitą, susidarančią aplink ją.
 * [Netflix filmas apie tai, kad šaltojo karto ir kosmoso lenktynių metais rusai buvo sukūrę tokį našų raketų variklį, kad jį atradus po beveik 4 dešimtmečių, jis visvien lenkė viską, ką tuo metu turėjo amerikiečiai.](https://www.netflix.com/lt/title/80119093) \#Coldwar, \#space, \#rockets
 * Visada lengviau tiesiog tikėti kažkuom, nei bandyti tai suprasti. - kosmonautas [Chris Hadfield pasakoja](https://www.youtube.com/watch?v=OS0laJvgVxo), kad tarptautinė kosmoso stotis perdirba 92% savo sunaudojamo vandens, bet tie -8% vis vien reiškia, kad vanduo periodiškai turi būti atgabentas iš žemės, apie tai, kad jau patį pirmą kartą šlapinantis, šlapimas jau būna kupinas kalcio - vos tik atsidūrus kosmose prasideda kūno pakeitimai ir prabuvus kosmose apie pusę metų, pilnam kūno atsistatymui reikia net vienerių metų bei apie tai, kad Space Shuttle pirminė idėja buvo iškelti JAV šnipinėjimo palydovą ir nors idėjos greitai nebeliko, bet patvirtintas dizainas išliko tas pats. Tai paaiškina, kodėl Shuttle turėjo šitiek daug cargo talpos.
 
