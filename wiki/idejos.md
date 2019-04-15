@@ -1,5 +1,17 @@
 # IdeaADay
 
+## 2019-04-15
+
+* Žiūrint filmus dažnai tenka susidurti su situacija, kai ekrane pasirodo aktorius, kurį tikrai kažkur jau esi matęs, tačiau na niekaip negali prisiminti pavardės ar kur jis konkrečiai vaidino. Ir tada ši mintis vis kamuoja, niekaip negali išmesti iš galvos ir tiesiog mėgautis filmu. Tenka siekti telefono, googlinti žiūrimo filmo pavadinimą, ieškoti to aktoriaus IMDB sąraše ir radus - eiti į jo profilio puslapį ir peržiūrėti filmų sąrašą, kad surasti kur gi galėjai jį matyti. Šiais AI, visual recognition ir Shazam'o laikais galėtų būti apps'as, kur nukreipus kamerą į ekraną iškarto parodytų trumpą to aktoriaus info. O dar geriau, jei visas šis funkcionalumas būtų tiesiog grotuvo pauzės ekrane. Sustabdai ant scenos kur tas aktorius ir ekrane iškarto rodoma pavardė, kelios foto ir vaidintų filmų sąrašas.
+
+## 2019-04-12
+
+* Vienas ryškus skirtumas tarp vyrų ir moterų yra tai, kad kai moteris paprašo pauostyti, dažniausiai tai kvepia maloniai.
+
+## 2019-04-11
+
+* Rezultate kinų siena, kurios paskirtis buvo apsaugoti šalį nuo svetimšalių, ko gero jų pritraukė tik dar daugiau.
+
 ## 2019-04-10
 
 * Neišnaudota Maps'ų galimybė: Google visgi pirmiausia yra reklamos kompanija, tad vietoj to, jog būtų tušuojami reklaminiai stendai ir parduotuvių vitrinos Street View'e, būtų galima tai pardavinėti kaip reklaminį plotą ir įstatinėti ten banerius.

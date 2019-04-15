@@ -37,6 +37,7 @@
   * [Tools](wiki/programavimas/tools.md)
 * [Self-improvement](wiki/self-improvement.md)
 * [Technologijos](wiki/technologijos.md)
+* [Teorijos / efektai](wiki/teorijos-efektai.md)
 * [Terminai](wiki/terminai.md)
 * [Tools](wiki/tools.md)
 
