@@ -25,6 +25,7 @@
 * [Mokslas](wiki/mokslas/README.md)
   * [Statistika](wiki/mokslas/statistika.md)
 * [Pasaulis](wiki/pasaulis/README.md)
+  * [Kelionės](wiki/pasaulis/kelion-s.md)
   * [Valstybės](wiki/pasaulis/valstybes/README.md)
     * [Vokietija](wiki/pasaulis/valstybes/vokietija.md)
     * [Japonija](wiki/pasaulis/valstybes/japonija.md)

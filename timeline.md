@@ -9,6 +9,7 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 * Pridėtos pastarųjų kelių [dienų mintys](wiki/idejos.md#2019-04-15) - apie aktoriaus info filmo pauzės ekrane, kinų sienos populiarumą bei ryškų skirtumą tarp vyrų ir moterų kvapų supratimą.
 * Pridėtas skandinaviškas terminas [hygge ](wiki/terminai.md).
 * Prie to paties - aprašytas [Ikea efektas](wiki/teorijos-efektai.md#ikea-efektas).
+* Pridėti Barcelonos [superblock'ų ](wiki/pasaulis/valstybes/)užmojai
 
 ### 2019-04-10
 
