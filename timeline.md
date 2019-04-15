@@ -10,6 +10,7 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 * Pridėtas skandinaviškas terminas [hygge ](wiki/terminai.md).
 * Prie to paties - aprašytas [Ikea efektas](wiki/teorijos-efektai.md#ikea-efektas).
 * Pridėti Barcelonos [superblock'ų ](wiki/pasaulis/valstybes/)užmojai
+* Pridėtas Veritasium video, paaiškinantis pirmąją juodosios skylės nuotrauką
 
 ### 2019-04-10
 
