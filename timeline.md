@@ -4,6 +4,10 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 
 # Timeline
 
+### 2019-04-22
+
+* Idėja apie [kelionių appsą](wiki/idejos.md#2019-04-22) su predictions
+
 ### 2019-04-15
 
 * Pridėtos pastarųjų kelių [dienų mintys](wiki/idejos.md#2019-04-15) - apie aktoriaus info filmo pauzės ekrane, kinų sienos populiarumą bei ryškų skirtumą tarp vyrų ir moterų kvapų supratimą.

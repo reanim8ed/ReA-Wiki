@@ -1,5 +1,9 @@
 # IdeaADay
 
+## 2019-04-22
+
+* Norėtųsi turėti kelionių apps'ą kuriame žymėtumeisi kokiose vietose buvai ir kaip tau ten patiko ir su laiku machine learning algoritmai išmoktų apie tavo pomėgius. Tuomet pradedant naujos kelionės planavimą, jis tau sudarytų preleminarų planą ne iš tų vietų, kurios toje vietovėje yra žymiausios/populiariausios, o būtent iš labiausiai atitinkančių tavo interesus.
+
 ## 2019-04-15
 
 * Žiūrint filmus dažnai tenka susidurti su situacija, kai ekrane pasirodo aktorius, kurį tikrai kažkur jau esi matęs, tačiau na niekaip negali prisiminti pavardės ar kur jis konkrečiai vaidino. Ir tada ši mintis vis kamuoja, niekaip negali išmesti iš galvos ir tiesiog mėgautis filmu. Tenka siekti telefono, googlinti žiūrimo filmo pavadinimą, ieškoti to aktoriaus IMDB sąraše ir radus - eiti į jo profilio puslapį ir peržiūrėti filmų sąrašą, kad surasti kur gi galėjai jį matyti. Šiais AI, visual recognition ir Shazam'o laikais galėtų būti apps'as, kur nukreipus kamerą į ekraną iškarto parodytų trumpą to aktoriaus info. O dar geriau, jei visas šis funkcionalumas būtų tiesiog grotuvo pauzės ekrane. Sustabdai ant scenos kur tas aktorius ir ekrane iškarto rodoma pavardė, kelios foto ir vaidintų filmų sąrašas.
