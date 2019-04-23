@@ -4,6 +4,10 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 
 # Timeline
 
+### 2019-04-23
+
+* Pastebėjimai iš [Tesla Autonomy Day](wiki/technologijos.md#2019-04-23-tesla-autonomy-day)
+
 ### 2019-04-22
 
 * Idėja apie [kelionių appsą](wiki/idejos.md#2019-04-22) su predictions
