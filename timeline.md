@@ -7,6 +7,7 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 ### 2019-04-23
 
 * Pastebėjimai iš [Tesla Autonomy Day](wiki/technologijos.md#2019-04-23-tesla-autonomy-day)
+* Idėja apie [universalų loginimo servisą](wiki/idejos.md#2019-04-23), kuris greičiausiai užsidarytų
 
 ### 2019-04-22
 

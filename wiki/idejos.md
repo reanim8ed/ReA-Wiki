@@ -1,5 +1,9 @@
 # IdeaADay
 
+## 2019-04-23
+
+* Norėtųsi, jog būti galima susikoncentruoti ir nereikėtų mėtytis, kad užtektų vieno vienintelio serviso, kuriame būtų galima žymėtis, kaupti ir įsivertinti mėgiamus serialus, filmus, anime, podcastus, žaidimus, mangas, knygas ir pan. Blogiausia, kad jei toks servisas net ir atsirastų, tai ko gero nepasitikėčiau, nes visada būtų riziką, jog jis tiesiog užsidarys. Dėl šios priežasties sunku rasti alternatyvą tokiems įsišaknijusiems servisams, kaip IMDB, kuris veikia be problemų jau beveik 30 metų!
+
 ## 2019-04-22
 
 * Norėtųsi turėti kelionių apps'ą kuriame žymėtumeisi kokiose vietose buvai ir kaip tau ten patiko ir su laiku machine learning algoritmai išmoktų apie tavo pomėgius. Tuomet pradedant naujos kelionės planavimą, jis tau sudarytų preleminarų planą ne iš tų vietų, kurios toje vietovėje yra žymiausios/populiariausios, o būtent iš labiausiai atitinkančių tavo interesus.
