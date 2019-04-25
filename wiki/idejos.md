@@ -1,5 +1,9 @@
 # IdeaADay
 
+## 2019-04-25
+
+* Vienas pagrindinių aspektų, kuom pranaši finansinė nepriklausomybė - galimybė galvoti apie pinigus lygiai tiek pat, kiek apie vandenį iš krano. It's just there, kai prisireikia.
+
 ## 2019-04-23
 
 * Norėtųsi, jog būti galima susikoncentruoti ir nereikėtų mėtytis, kad užtektų vieno vienintelio serviso, kuriame būtų galima žymėtis, kaupti ir įsivertinti mėgiamus serialus, filmus, anime, podcastus, žaidimus, mangas, knygas ir pan. Blogiausia, kad jei toks servisas net ir atsirastų, tai ko gero nepasitikėčiau, nes visada būtų riziką, jog jis tiesiog užsidarys. Dėl šios priežasties sunku rasti alternatyvą tokiems įsišaknijusiems servisams, kaip IMDB, kuris veikia be problemų jau beveik 30 metų!
