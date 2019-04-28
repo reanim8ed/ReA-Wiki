@@ -33,7 +33,10 @@ Visus peržiūrėtus filmus įsivertinu IMDB svetainėje ir pirmuosius vertinimu
 
 ### Kings of summer \(2013\)
 
-* Yra toks filmų stilius, kuriuos galima apibūdinti, kaip nerūpestingi, šarmo turintys nedidelio biudžeto indie filmai, kur veiksmas vasarą ir pasakoja coming of age istoriją. Į tokių filmų kategoriją galima būtų įstatyti Earl and the Dying Girl, Eighth Grade, Stand By Me ir šį, Kings Of Summer.
+* Yra toks filmų stilius, kuriuos galima apibūdinti, kaip nerūpestingi, šarmo turintys nedidelio biudžeto indie filmai, kur veiksmas vyksta vasarą ir pasakoja coming of age istoriją bei apie santykius, pirmąsias meiles ar draugystes. Į tokių filmų kategoriją galima būtų įstatyti Earl and the Dying Girl, The Spectacular Now, The Perks of Being a Wallflower, Stand By Me ir šį, Kings Of Summer.
 * Rimtai į save nežiūrintis filmas, turintis nemažai quirky scenų, kartais gal besistengiantis būti per daug hipsterišku. Bet turintis tokį savo labai įdomiai keistą stilių.
 * Galbūt daug kam toks filmas nepatiktų, nes iš esmės istorija nieko labai ir nepasakoja, istorija gan paviršutiniška ir nuspėjama, tačiau man patiko, vien dėlto, kad labai primena paties paauglystę. Paveikia išties labai retrospektyviai.
+
+`Biaggio: Do you know we've been walking for half a mile? I can tell by how much we've bonded.  
+Joe: You haven't said a word the whole time.`
 
