@@ -4,6 +4,10 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 
 # Timeline
 
+### 2019-04-28
+
+* [Answers to Questions You’ve Never Asked knyga](wiki/knygos.md#bookTitle)
+
 ### 2019-04-25
 
 * Idėja apie [finansinės nepriklausomybės ](wiki/idejos.md#2019-04-25)privalumus
