@@ -6,6 +6,10 @@
 
 Visus peržiūrėtus filmus įsivertinu IMDB svetainėje ir pirmuosius vertinimus galima rasti net iš 2009-ųjų. Tad galima matyti, kad per pastaruosius 10 metų peržiūrėjau išviso 910 filmų O.o Reikia atkreipti dėmesį ir tai, kad šiame sąraše nežymiu serialų.
 
+## Peržiūrėtų anime sąrašas
+
+[https://myanimelist.net/animelist/reanimated](https://myanimelist.net/animelist/reanimated)
+
 ## Mėgstamiausi
 
 * [12 Angry Men](https://www.imdb.com/title/tt0050083/)
@@ -25,7 +29,11 @@ Visus peržiūrėtus filmus įsivertinu IMDB svetainėje ir pirmuosius vertinimu
 * [Intouchables](https://www.imdb.com/title/tt1675434/)
 * [The Pursuit of Happyness](https://www.imdb.com/title/tt0454921/)
 
-## Peržiūrėtų Anime sąrašas
+## Komentarai
 
-[https://myanimelist.net/animelist/reanimated](https://myanimelist.net/animelist/reanimated)
+### Kings of summer \(2013\)
+
+* Yra toks filmų stilius, kuriuos galima apibūdinti, kaip nerūpestingi, šarmo turintys nedidelio biudžeto indie filmai, kur veiksmas vasarą ir pasakoja coming of age istoriją. Į tokių filmų kategoriją galima būtų įstatyti Earl and the Dying Girl, Eighth Grade, Stand By Me ir šį, Kings Of Summer.
+* Rimtai į save nežiūrintis filmas, turintis nemažai quirky scenų, kartais gal besistengiantis būti per daug hipsterišku. Bet turintis tokį savo labai įdomiai keistą stilių.
+* Galbūt daug kam toks filmas nepatiktų, nes iš esmės istorija nieko labai ir nepasakoja, istorija gan paviršutiniška ir nuspėjama, tačiau man patiko, vien dėlto, kad labai primena paties paauglystę. Paveikia išties labai retrospektyviai.
 

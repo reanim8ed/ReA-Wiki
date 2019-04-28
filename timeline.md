@@ -7,6 +7,7 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 ### 2019-04-28
 
 * [Answers to Questions You’ve Never Asked knyga](wiki/knygos.md#bookTitle)
+* Komentaras apie [Kings of summer](wiki/filmai.md#kings-of-summer-2013) filmą
 
 ### 2019-04-25
 
