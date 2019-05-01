@@ -8,6 +8,7 @@
 
 * [Asmenybės](wiki/asmenybes/README.md)
   * [Pop kultūra](wiki/asmenybes/pop-kultura/README.md)
+    * [George Carlin](wiki/asmenybes/pop-kultura/george-carlin.md)
     * [Kevin Hart](wiki/asmenybes/pop-kultura/kevin-hart.md)
     * [Jackie Chan](wiki/asmenybes/pop-kultura/jackie-chan.md)
 * [Citatos](wiki/citatos.md)
