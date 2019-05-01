@@ -4,6 +4,10 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 
 # Timeline
 
+### 2019-05-01
+
+* Japonijos naujasis [imperatorius](wiki/pasaulis/valstybes/japonija.md)
+
 ### 2019-04-28
 
 * [Answers to Questions You’ve Never Asked knyga](wiki/knygos.md#bookTitle)
