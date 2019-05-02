@@ -4,6 +4,10 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 
 # Timeline
 
+### 2019-05-02
+
+* Mokymasis būna labai efektyvus, kai maždaug [pusę laiko skiri](wiki/mokymasis.md) bandymui išaiškinti jau išmoktą informaciją
+
 ### 2019-05-01
 
 * Japonijos naujasis [imperatorius](wiki/pasaulis/valstybes/japonija.md)
