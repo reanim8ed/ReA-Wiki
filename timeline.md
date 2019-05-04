@@ -10,6 +10,7 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 
 * Idėja apie tai, kad Pornhub komanda turėtų pakankamai [know-how](wiki/idejos.md#2019-05-04), kad sukurti Youtube konkurentą
 * Technologijose pridėta [Interneto ](wiki/technologijos/internetas.md)tema ir aprašytos vienos iš [Google+](wiki/technologijos/internetas.md#google) nesekmės priežastys.
+* Pridėta Andy Weir trumpa istorija "[Digitocracy](wiki/straipsniai-skaitiniai-istorijos.md#bookTitle)".
 
 #### 2019-05-02
 

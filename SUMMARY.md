@@ -37,6 +37,7 @@
   * [Rusija](wiki/politika/rusija.md)
 * [Programavimas](wiki/programavimas/README.md)
   * [Tools](wiki/programavimas/tools.md)
+* [Straipsniai / skaitiniai / istorijos](wiki/straipsniai-skaitiniai-istorijos.md)
 * [Self-improvement](wiki/self-improvement.md)
 * [Technologijos](wiki/technologijos/README.md)
   * [Internetas](wiki/technologijos/internetas.md)
