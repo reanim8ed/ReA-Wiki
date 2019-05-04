@@ -7,6 +7,7 @@
 ## Wiki
 
 * [Asmenybės](wiki/asmenybes/README.md)
+  * [Apie mane](wiki/asmenybes/apie-mane.md)
   * [Pop kultūra](wiki/asmenybes/pop-kultura/README.md)
     * [George Carlin](wiki/asmenybes/pop-kultura/george-carlin.md)
     * [Kevin Hart](wiki/asmenybes/pop-kultura/kevin-hart.md)
