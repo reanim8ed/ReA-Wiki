@@ -26,7 +26,6 @@
 * [Marketingas](wiki/marketingas.md)
 * [Pasaulis](wiki/pasaulis/README.md)
   * [Kelionės](wiki/pasaulis/kelion-s.md)
-  * [Kelionės](wiki/pasaulis/kelion-s-1.md)
   * [Valstybės](wiki/pasaulis/valstybes/README.md)
     * [Vokietija](wiki/pasaulis/valstybes/vokietija.md)
     * [Japonija](wiki/pasaulis/valstybes/japonija.md)
