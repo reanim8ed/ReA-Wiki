@@ -1,5 +1,9 @@
 # IdeaADay
 
+## 2019-05-04
+
+* Jeigu kas nors norėtų padaryti rimtą Youtube konkurentą, tai vieną geresnių šansų turėtų kompanija sukūrusi PornHub. Turint video saitą, kuriame per mėnesį apsilanko per 100 mln vartotojų, jie jau tikrai turi išdirbę tiek knowledge tiek ir infrastruktūrą.
+
 ## 2019-04-25
 
 * Vienas pagrindinių aspektų, kuom pranaši finansinė nepriklausomybė - galimybė galvoti apie pinigus lygiai tiek pat, kiek apie vandenį iš krano. It's just there, kai prisireikia.

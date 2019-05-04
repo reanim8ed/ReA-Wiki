@@ -6,6 +6,11 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 
 ## 2019-05
 
+#### 2015-05-04
+
+* Idėja apie tai, kad Pornhub komanda turėtų pakankamai [know-how](wiki/idejos.md#2019-05-04), kad sukurti Youtube konkurentą
+* Technologijose pridėta [Interneto ](wiki/technologijos/internetas.md)tema ir aprašytos vienos iš [Google+](wiki/technologijos/internetas.md#google) nesekmės priežastys.
+
 #### 2019-05-02
 
 * Mokymasis būna labai efektyvus, kai maždaug [pusę laiko skiri](wiki/mokymasis.md) bandymui išaiškinti jau išmoktą informaciją
@@ -29,7 +34,7 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 
 #### 2019-04-23
 
-* Pastebėjimai iš [Tesla Autonomy Day](wiki/technologijos.md#2019-04-23-tesla-autonomy-day)
+* Pastebėjimai iš [Tesla Autonomy Day](wiki/technologijos/#2019-04-23-tesla-autonomy-day)
 * Idėja apie [universalų loginimo servisą](wiki/idejos.md#2019-04-23), kuris greičiausiai užsidarytų
 
 #### 2019-04-22
