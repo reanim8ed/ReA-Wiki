@@ -1,4 +1,4 @@
-# Tools
+# Įrankiai
 
 ## Frontend
 

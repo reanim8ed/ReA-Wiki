@@ -31,6 +31,29 @@ Visus peržiūrėtus filmus įsivertinu IMDB svetainėje ir pirmuosius vertinimu
 
 ## Komentarai
 
+### Mid90s \(2018\)
+
+* Jonah Hill režisūrinis debiutas, pasakojantis apie 13-metį gyvenantį 90-tųjų Los Angeles, kuris gyvena tipiniame low income rajone, probleminėje šeimoje ir ieško pabėgimo nuo rūpesčių tarp savo naujų skaterių draugų.
+* Filmas iš esmės siužeto nelabai turi. Didžioji filmo dalis yra tiesiog paauglių laiko leidimas kartu vasaros laikotarpiu. Tačiau pagrindinė filmo užduotis buvo perkelti žiūrovą į tą laikmetį ir manau, kad tai padaroma puikiai su 16mm "kvadratinio vaizdo" kamera, muzika, charakteriais. 
+* Filmas sukelia tokį real jausmą, neatrodo, jog žiūrėtum aktorius, o tikrus vaikus, iš tiesų šeliojančius, skate'inančius ir kalbančius nesąmones. Manau, kad puikiai perteikia paauglystę tuo laikmečiu.
+* Susižiūrėjo net labai puikiai, nes šis filmas kaip man nukėlė mane į šiltus, nostalgiškus prisiminimus. Galėjau nesunkiai releate'intis su pagrindiniu veikėju, kai norisi pabėgti nuo problemų, kai ieškai pripažinimo ir palaikymo iš draugų.
+* Galima įžvelgti panašumų su kitais, paauglių laisvalaikį, patirtį ir brandos laikotarpį vaizduojančiais filmais, kaip Kids ir Thirteen.
+
+`You literally take the hardest hits out of anybody I'd ever seen in my life. You know you don't have to do that, right?`
+
+### After Life \(2019\)
+
+* Naujausias Ricky Gervais serialas apie vyrą, kuris po savo žmonos netekties tampa kandus ir praranda norą ir tikslą toliau gyventi.
+* Serialo siužetas paprastas, labai nepretenzingas, ganėtinai struktūriškas ir lėtas.  Nesitikėjau iš jo daug, iš anksto pernelyg neįsigilinęs tikėjausi kiek lėkštoko, Gervais būdingo humoro, o visgi maloniai nustebino. Pirmiausia savo paprastumu, eiga ir tuo, kad liečiamos depresijos, egzistencinės krizės temos, tačiau tai daroma be pernelyg daug užmojo ir šiuo atveju man tai patinka. Taipogi labai puikiai sueina ir humoras. Kasdieninės, nepatogios situacijos, pripildytos sarkastiskų replikų.
+* Pavadinčiau tai lengvu, bitter sweet savaitgalio popietės serialu. 
+* Savo tuo slice of life ir nepatogiomis situacijomis turi kiek panašumų į Louie.
+
+`#I’d rather be nowhere with her, than somewhere without her.  
+  
+#You’re like a troll on Twitter. Just because you’re upset, everyone has to be upset.   
+  
+#Happiness is amazing. It's so amazing, it doesn't matter if it's yours or not`
+
 ### Kings of summer \(2013\)
 
 * Yra toks filmų stilius, kuriuos galima apibūdinti, kaip nerūpestingi, šarmo turintys nedidelio biudžeto indie filmai, kur veiksmas vyksta vasarą ir pasakoja coming of age istoriją bei apie santykius, pirmąsias meiles ar draugystes. Į tokių filmų kategoriją galima būtų įstatyti Earl and the Dying Girl, The Spectacular Now, The Perks of Being a Wallflower, Stand By Me ir šį, Kings Of Summer.

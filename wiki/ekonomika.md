@@ -4,7 +4,7 @@ description: >-
   kaip jis iš tiesų veikia.
 ---
 
-# Ekonomika
+# Ekonomika / finansai
 
 * Jeigu problemą galima išspręsti pinigais, tai ne problema, o tiesiog išlaidos.
 * [Jeigu JAV įsivestų papildomą turto mokestį, kuriuo apmokestintu viso labo 0,05% pačių turtingiausių, tai per metus papildomai būtų surenkama apie 200 mlrd. $.](https://www.youtube.com/watch?v=pTwPHuE_HrU)

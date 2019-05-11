@@ -6,7 +6,18 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 
 ## 2019-05
 
-#### 2015-05-04
+#### 2019-05-11
+
+* [After Life ](wiki/filmai.md#after-life-2019)serialas
+* Jonah Hill filmas [Mid90 ](wiki/filmai.md#mid-90-s-2018)
+
+#### 2019-05-06
+
+* Į [Tools ](wiki/tools.md#notes)skiltį pridėti Standard notes ir Typora.
+* Pridėta [Komunikacijos ](wiki/komunikacija.md)tema ir pateiktas [pasiūlymo teikimo pavyzdys](wiki/komunikacija.md#pasiulymo-teikimas).
+* Pridėta [Filosofijos ](wiki/filosofija.md)tema
+
+#### 2019-05-04
 
 * Idėja apie tai, kad Pornhub komanda turėtų pakankamai [know-how](wiki/idejos.md#2019-05-04), kad sukurti Youtube konkurentą
 * Technologijose pridėta [Interneto ](wiki/technologijos/internetas.md)tema ir aprašytos vienos iš [Google+](wiki/technologijos/internetas.md#google) nesekmės priežastys.
