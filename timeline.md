@@ -11,6 +11,7 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 * [After Life ](wiki/filmai.md#after-life-2019)serialas
 * Jonah Hill filmas [Mid90 ](wiki/filmai.md#mid-90-s-2018)
 * Ištrauka iš pokalbio su[ Lex Fridman](wiki/podcastai.md#2019-05) apie tai, jog kai dalis mūsų natūralių instinktų yra šiai dienai nebereikalingi, žmonės dėlto tampa nelaimingi.
+* Ištrauka iš pokalbio su [Jamie Metzl ](wiki/podcastai.md#2019-05)apie tai, kaip Kinija yra susifokusavusi ir sistemingai siekia tikslo iki 2050-ųjų tapti lyderiaujančia technologijų valstybe.
 
 #### 2019-05-06
 
