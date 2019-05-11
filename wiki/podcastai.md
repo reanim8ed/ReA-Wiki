@@ -54,6 +54,12 @@ Podcast'ų klausymui yra išties nemažai gerų programų, tačiau pagrindinis m
 
 ## Perklausos
 
+### 2019 - 05
+
+* [Lex Fridman](https://youtu.be/PmRYHWq4cn4) - futuristas, dirbantis Human-Centered AI & Autonomous Vehicles
+
+> Once you become this thing that doesn't need emotion doesn't need conflict it doesn't need to be inspired it never gets lazy it doesn't have these things that we have built into us as a biological system like if you looked at us as we're operating software it's it's not good software right it's software designed for cave people and we're just trying to force it into cars and force it into cubicles but part of the problem with people and their unhappiness is that all of these human reward systems that have been set up through evolution and natural selection to have these instincts to stay alive they're no longer relevant in today's society so they become become road rage they become you know extracurricular violence it became depression they become all these different things that people suffer from
+
 ### 2019 - 04
 
 * [Kevin Hart](asmenybes/pop-kultura/kevin-hart.md)
