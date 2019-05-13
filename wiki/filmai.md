@@ -31,6 +31,14 @@ Visus peržiūrėtus filmus įsivertinu IMDB svetainėje ir pirmuosius vertinimu
 
 ## Komentarai
 
+### Tarp pilkų debesų \(2018\)
+
+* Pagal lietuvių kilmės JAV rašytojos knygą pastatytas filmas, kurį kūrė mišri tarptautinė kūrybinė grupė. Istorija pasakoja apie 15-metę merginą, kuri karo metais kartu su mama ir jaunesniuoju broliuku ištremiami į sibirą.
+* Vos pradėjus žiūrėti filmą, atkreipiau dėmesį į profesionalų kameros darbą, montažą. Cut'ai sudėlioti natūraliai, filmavimo kampai profesionalūs ir juosta žiūrisi lengvai. Ko negalėčiau pasakyti apie prieš tai bandytą sužiūrėti filmą "Sangailės vasara", kurio production'as tiesiog suerzino.
+* Vaidyva tikrai nebloga ir nors nebuvo išskirtinė, tačiau be tos įprastos teatrinės įtakos, kuri būna ko ne visada. Tiesa, tikriausiai dėlto, kad didžioji dalis aktorių ir nebuvo lietuviai.
+* Tačiau visgi pati istorija nebuvo labai įtraukianti. Filmas, kurio pagrindas kaip ir yra perteikti to laikmečio žiaurumus, jų pernelyg daug taip ir neparodė. Pora šūvių ir psichologinio smurto, bet daugiausia viskas susiveda tiesiog į atšiaurias klimato sąlygas. Galbūt būtų norėjęsi daugiau terorizavimo, sunkumų, kurias tenka įveikti pagrindiniams herojams. Veikėjai taipogi nebuvo labai įdomūs, dėlto su jais visgi sunku tapatintis.
+* Gan per lengvas, pateiktas gan paviršutiniškai ir akivaizdžiai yra orientuotas į užsienio rinką ir šiame kontekste ko gero ir veikia labiausiai. Lengvai ir greitai nupiešia bendrą paveikslą, supažindina su mitais ir tautiškumu. Manau tokių filmų eksportui tikrai reikia. Tačiau, šis, puikiai mums pažįstamas istorijas pasakojantis filmas, namuose, be savo aukštos produkcijos, didelio įspūdžio visgi nepalieka.
+
 ### Mid90s \(2018\)
 
 * Jonah Hill režisūrinis debiutas, pasakojantis apie 13-metį gyvenantį 90-tųjų Los Angeles, kuris gyvena tipiniame low income rajone, probleminėje šeimoje ir ieško pabėgimo nuo rūpesčių tarp savo naujų skaterių draugų.
