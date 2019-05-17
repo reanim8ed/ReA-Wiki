@@ -6,6 +6,10 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 
 ## 2019-05
 
+#### 2019-05-17
+
+* Idėja apie QR kodus ant[ elektroninių įrenginių](wiki/idejos.md#2019-05-17)
+
 #### 2019-05-13
 
 * Lietuviškas filmas [Tarp pilkų debesų](wiki/filmai.md#tarp-pilk-debes-2018)
