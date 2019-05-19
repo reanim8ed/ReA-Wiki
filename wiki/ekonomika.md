@@ -6,9 +6,15 @@ description: >-
 
 # Ekonomika / finansai
 
-* [Vebleno efektas](https://www.wikiwand.com/en/Veblen_good) - rinkos anomalija, kuri kartais pasireiškia ir ganėtinai prieštarauja standartiniams pasiūlos/paklausos dėsniams. T.y. prekės pardavimai pradeda augti dėlto, jog auga jo kaina. Tai dažniausiai luxury prekių savybė, kai prekės troškimas didėja, nes mokėdami už ją daugiau, žmonės pradeda ją laikyti patikimesne, kokybiškesne. Kita priežastis - ji pradedama laikyti demonstracine, prestižine preke, statuso simboliu, nes vis mažiau žmonių sugeba ją įpirkti. Kitaip tariant - pirkdamas ją, parodai savo pranašumą, turtą, padėtį visuomenėje. Prie tokių prekių galima priskirti Rolls-Royce Phantom ar Rolex'us. Jį galima pritaikyti ir taikant savo atliktų darbų įkainojimui:
+* [Vebleno efektas](https://www.wikiwand.com/en/Veblen_good) - rinkos anomalija, kuri kartais pasireiškia ir ganėtinai prieštarauja standartiniams pasiūlos/paklausos dėsniams: prekės pardavimai pradeda augti dėlto, jog auga jo kaina. Įprastai visgi būna priešingai.   Tai dažniausiai luxury prekių savybė, kai prekės troškimas didėja, nes mokėdami už ją daugiau, žmonės pradeda ją laikyti patikimesne, kokybiškesne.
 
-> Price is often a proxy for quality, and when you put yourself at the low end, it signals that you’re unsure of your value — or the value just isn’t there. Either can be alarming for prospective clients.
+  Šitą efektą galima pritaikyti ir taikant savo atliktų darbų įkainojimui:
+
+> Price is often a proxy for quality, and when you put yourself at the low end, it signals that you’re unsure of your value - or the value just isn’t there. Either can be alarming for prospective clients.
+
+Reikia nepamiršti, kad tavo darbas turėtų būti apmokamas ne už tai ką tu realiai atlikai, o už sukuriamą naudą, vertę ar už tai kiek laiko tu kam nors potencialiai sutaupei.
+
+Kita svarbi vebleno efekto priežastis - prekė dėl padidėjusios kainos pradedama laikyti demonstracine, prestižine, statuso simboliu. Kitaip tariant - pirkdamas ją, parodai savo pranašumą, turtą, padėtį visuomenėje. Dėlto ir egzistuoja visokie Rolls-Royce Phantom ar Rolex'ai. Jeigu jie staiga sugalvotų nurėžti savo kainas, tam, jog būtų prieinami didesniam ratui žmonių - prestižinio statuso nebeliktų, tai taptų eiline, visiems prieinama preke ir pardavimai išties smuktų.
 
 * Jeigu problemą galima išspręsti pinigais, tai ne problema, o tiesiog išlaidos. 
 * [Jeigu JAV įsivestų papildomą turto mokestį, kuriuo apmokestintu viso labo 0,05% pačių turtingiausių, tai per metus papildomai būtų surenkama apie 200 mlrd. $.](https://www.youtube.com/watch?v=pTwPHuE_HrU)
