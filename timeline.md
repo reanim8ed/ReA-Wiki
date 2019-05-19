@@ -6,6 +6,13 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 
 ## 2019-05
 
+#### 2019-05-19
+
+* Istorija apie paprastutį HTML'inį one-pagerį, už kurį gauta [21 000 dolerių](wiki/straipsniai-skaitiniai-istorijos.md#i-charged-usd-18-000-for-a-static-html-page).
+* Idėja apie tai, kaip skirtųsi visuomenė, jei vyrai [galėtų būti nėšti](wiki/idejos.md#2019-05-18)
+* Pietų korėjos filmas [The Witch](wiki/filmai.md#the-witch-part-1-the-subversion)
+* Vebleno efektas - prekės pardavimai kyla, dėlto, jog kyla jos kaina
+
 #### 2019-05-17
 
 * Idėja apie QR kodus ant[ elektroninių įrenginių](wiki/idejos.md#2019-05-17)

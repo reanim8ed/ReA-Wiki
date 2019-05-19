@@ -1,4 +1,8 @@
-# IdeaADay
+# Showerthoughts
+
+## 2019-05-18
+
+* Jeigu vyrai galėtų tapti nėščiais, tai nė nereikia abejoti, jog abortai ne tik, kad būtų legalūs visur, tačiau ir būtų prieinami kiekvienoje degalinėje, o aborto klinikos galėtų turėti mėnesines narystes.
 
 ## 2019-05-17
 

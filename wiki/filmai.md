@@ -31,6 +31,13 @@ Visus peržiūrėtus filmus įsivertinu IMDB svetainėje ir pirmuosius vertinimu
 
 ## Komentarai
 
+### The Witch: Part 1. The Subversion
+
+* Iki šiol kiek teko matyti korejietiškų filmų - visi paliko įspūdį. Taip, dažniausiai jų filmai leidžiasi į gan nemažus kraštutinumus ir yra gan smarkiai perspaudžiama. Ypač tai galioja jeigu filmas yra su fantastiniais elementais. Jeigu jau pradedi, tai jau eiti iki galo ir pateikti fantastikų fantastiką. Tačiau... Kad ir kokie nerealistiški scenarijai tai būtų, pats filmas būna padarytas išties kokybiškai ir dėlto susižiūri kaip visai nebloga pramoga.
+* Filmas pasakoja istoriją apie mergaitę, kurį pabėgusi iš kažkokios organizacijos, praranda atmintį ir ją priglaudžia pas savęs vyresnio amžiaus pora. Praėjus dešimtmečiui jos gyvenime pradeda atsirasti ir persekioti žmonės iš jos praeities, teigiantys, kad mergaitė yra ypatinga ir turi specialių sugebėjimų.
+* Pagrindiniai du įsiminti šio filmo aspektai man buvo pagrindinės veikėjos vaidyba ir kovos scenos. Vaidyba įsiminė dėlto, kad kai įvyksta pagrindinis siužeto posūkis, aktorės veidas pasikeitė tiek kardinaliai, kad būtų galima pagalvoti, kad tos scenos jau buvo nufilmuotos su visiškai kitu žmogumi. Kovos scenos įsiminė dėl to, jog buvo over-the-top. Žinoma, jei vaizduoti kaip kaunasi porą super-humans, tai negali rodyti, tiesiog paprastų muštynių. Taigi rezultate turime kovą, kurioje smūgiai vaizduojami ultra stiprūs ir tiesiog kumsčiais griaunamos sienos. Patiko vien dėlto, kad labai primena anime ir visa tai atlikta išties labai kokybiškai. Kaip bebūtų, azijiečiai tikrai moka sukurti kovų choreografiją.
+* Žinoma, overall filmas gan idiotiškas, su video žaidimus primenančiu scenarijumi, tačiau jeigu į jį nežiūrėti rimtai, tai puikus pramoginis veiksmo filmas. John Wick šiuo metu irgi populiarus toli gražu ne dėl realistiškumo :\)
+
 ### Tarp pilkų debesų \(2018\)
 
 * Pagal lietuvių kilmės JAV rašytojos knygą pastatytas filmas, kurį kūrė mišri tarptautinė kūrybinė grupė. Istorija pasakoja apie 15-metę merginą, kuri karo metais kartu su mama ir jaunesniuoju broliuku ištremiami į sibirą.
