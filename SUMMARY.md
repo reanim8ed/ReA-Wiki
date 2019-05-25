@@ -12,6 +12,7 @@
     * [George Carlin](wiki/asmenybes/pop-kultura/george-carlin.md)
     * [Kevin Hart](wiki/asmenybes/pop-kultura/kevin-hart.md)
     * [Jackie Chan](wiki/asmenybes/pop-kultura/jackie-chan.md)
+* [Blog'as](wiki/blogas.md)
 * [Citatos](wiki/citatos.md)
 * [Ekonomika / finansai](wiki/ekonomika.md)
 * [Filmai / serialai](wiki/filmai.md)
