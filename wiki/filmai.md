@@ -31,7 +31,30 @@ Visus peržiūrėtus filmus įsivertinu IMDB svetainėje ir pirmuosius vertinimu
 
 ## Komentarai
 
-### Game of Thrones pabaiga
+### The way way back \(2013\)
+
+* Po Kings of summer norėjosi pažiūrėti dar kokį coming of age stiliaus filmą. Besiknaisiodamas radau rekomendacijas į šį.
+* Istorija apie kuklų paauglį berniuką, kuris kartu su savo mama, jos naujuoju, gan nemaloniu valdingu jos vaikinu ir jo dukra išsiruošia atostogauti. Negalėdamas pritapti, stengiasi kuo mažiau būti namie ir netikėtai susipažįsta ir susidraugauja su vyruku, dirbančiu vandens pramogų parke.
+* Coming-of-age stiliaus filmai dažniausiai būna visi tokie lengvi, gan nerūpestingi ir dažniausiai rodantys vasaros laikotarpį.
+* Nors filmas pozicionuojamas kaip komedija ir jame ir buvo kelios visai juokingos frazės, bet overall tai yra labiau toks feeling good filmas, kurį reikėtų žiūrėti norint lengvučio, gerai nuteikiančio filmo. Galbūt tokio, kuriame gali pilnai suprasti pagrindinį veikėją, nes tikrai teko patirti tą laikotarpį, kai buvai panašaus amžiaus ir tekdavo būti su suaugiais ir ten, kur visai nenori būti. 
+
+> `Owen: I'm afraid I'm gonna have to ask you to leave.  
+> Duncan: What?  
+> Owen: Yeah, you're going to have to take off. I'm getting complaints. You're having way too much fun. It's making everyone uncomfortable.  
+> Duncan: Okay.  
+> [walks away from picinic table where he has been sitting alone]  
+> Owen: Hey, hey! Whoa, whoa. I'm just kidding. Wow! That wasn't even my best stuff. Are you for real? Listen, I can tell you're in complete awe of our picnic table. It is one-of-a-kind, except for the 200 other ones here that are exactly like it. There is more to the park to be seen.`
+
+### Avengers: Endgame \(2019\)
+
+* Net 3h ilgio filmas, užbaigiantis visą prieš dešimtmetį pradėtą Marvel arką.
+* Nors filmas išties ilgas, tačiau žiūrint visai neprailgo ir laikas prabėgo išties greitai. Bendrai paėmus, tikrai enjoyable filmas, su sąlyga, kad žmogui tinka fantastiniai veiksmo filmai.
+* Iš esmės filme tikrai yra problemų, pvz yra sudėta tikrai nemažai humoro, kuris deja visiškai neveikia ar kad Captain Marvel veikėja yra visiškai antiklimatiška ir neįdomi, bet bendrai paėmus tai ganėtinai tenkinantis šios istorijos arkos užbaigimas.
+* Ganėtinai gražiai sužaidžiama susiejant ir grąžinant žiūrovą į nemažą dalį svarbiausių scenų iš visų praėjusių filmų.
+* Asmeniškai manau, kad Infinity War man patiko labiau. Galbūt dėlto, kad pastarasis filmas užsibaigė gan tamsiai ir tai buvo išties labai neįprasta. Herojų filmas, kuriame herojai pralaimi ir ties tuo filmas užsibaigia? Wicked stuff. Šis filmas prasidėjo irgi tamsokai, buvo bandytas perteikti depresijos jausmas, kaip likę žmonės palūžo ir bandė gyventi toliau. Tačiau tam skirta gal per mažai laiko ar per daug paviršutiniškai, tad nesijaučia, kad atskleista užtektinai. Galbūt prie to prisidėjo ir tai, kad tiesiog jau nutuokiau, kad šioje dalyje viskas bus reversinta ir pabaiga bus vėl laiminga, tad dėlto tragiški įvykiai turėjo daug mažiau reikšmingumo.
+* Man labai patinka, kaip išvystas Thanos veikėjas. Pirmoje dalyje jam galbūt skirta kiek daugiau dėmesio ir daugiau vystymo, tačiau jis tikrai nebuvo blogas ir antroje dalyje. Geras villain'as turi konkretų tikslą. Kai tas tikslas atsiranda dėl suprantamų ir gal net iš dalies visai pateisinamų priežasčių. Kai turi konkrečius žingsnius, kaip to tikslo pasiekti ir jų laikosi. Ir kai siekdamas savo tikslo, jis gali daryti nelabai gerus dalykus, ne dėlto, kad jis tiesiog iš principo yra evil ir nori visus pavergti ar pakenkti, o dėlto, kad jam tikslas yra svarbesnis ir dėlto jis pateisina priemones. Vienas iš mano labiausiai mėgstamų villain'ų yra Joker'is. Thanos galiu statyti į antrąją vietą.
+
+### **Game of Thrones pabaiga**
 
 * Paskutinis GoT sezonas, o ypač finalas iššaukė labai audringas žmonių reakcijas. Suprantama, šitiek metų vystyta istorija baigėsi paskubomis ir paliko kotkų skonį. Tačiau:
 * labai didelės overreakcijos. "We’ve seen time and again how that level of investment can shift into a more toxic feeling of ownership, leading to absurd temper-tantrums like petitions demanding the ending be remade to meet personal expectations."
@@ -41,7 +64,7 @@ Visus peržiūrėtus filmus įsivertinu IMDB svetainėje ir pirmuosius vertinimu
 * Manau, kad sezonas būtų buvęs kur kas labiau priimtinesnis, jei vietoj 6 serijų, būtume gavę standartines 10 ir tas ekstra laikas būtų buvęs skirtas lėtesniems įvykiams, pokalbiams ir veikėjų išvystymui.
 * Nereikia pamiršti, kodėl serialas tapo tokiu populiariu in the first place. Jo production'o kokybė buvo nuostabi. Set'as, kostiumai, CGI, praktiniai efektai, vaidyba išties pačio aukščiausio lygio, pranokstantys bet kurį kitą televizijos serialą. Ir 8-tas sezonas nors nuvilia savo siužetu, bet šių savybių visgi nesugadina.
 
-### The Witch: Part 1. The Subversion
+### The Witch: Part 1. The Subversion \(2018\)
 
 * Iki šiol kiek teko matyti korejietiškų filmų - visi paliko įspūdį. Taip, dažniausiai jų filmai leidžiasi į gan nemažus kraštutinumus ir yra gan smarkiai perspaudžiama. Ypač tai galioja jeigu filmas yra su fantastiniais elementais. Jeigu jau pradedi, tai jau eiti iki galo ir pateikti fantastikų fantastiką. Tačiau... Kad ir kokie nerealistiški scenarijai tai būtų, pats filmas būna padarytas išties kokybiškai ir dėlto susižiūri kaip visai nebloga pramoga.
 * Filmas pasakoja istoriją apie mergaitę, kurį pabėgusi iš kažkokios organizacijos, praranda atmintį ir ją priglaudžia pas savęs vyresnio amžiaus pora. Praėjus dešimtmečiui jos gyvenime pradeda atsirasti ir persekioti žmonės iš jos praeities, teigiantys, kad mergaitė yra ypatinga ir turi specialių sugebėjimų.

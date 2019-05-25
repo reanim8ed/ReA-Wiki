@@ -12,6 +12,8 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 * Mintis apie galimybę [share'inti ir annotate'inti ](wiki/idejos.md#2019-05-25)podcast'ų appsuose
 * Youtube[ viral video](wiki/teorijos-efektai.md#youtube-viral) efektas
 * Didelių [miestų apatiškumo](wiki/teorijos-efektai.md#dideli-miest-apatiskumas) efektas
+* [Avengers: Endgame](wiki/filmai.md#avengers-endgame-2019) filmas
+* [The way way back](wiki/filmai.md#the-way-way-back-2013) filmas
 
 #### 2019-05-19
 
