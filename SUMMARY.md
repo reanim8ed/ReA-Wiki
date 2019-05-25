@@ -16,6 +16,7 @@
 * [Citatos](wiki/citatos.md)
 * [Ekonomika / finansai](wiki/ekonomika/README.md)
   * [Investavimas / FIRE](wiki/ekonomika/investavimas.md)
+* [Faktai](wiki/faktai.md)
 * [Filmai / serialai](wiki/filmai.md)
 * [Istorija](wiki/istorija/README.md)
   * [Šaltasis karas](wiki/istorija/saltasis-karas.md)

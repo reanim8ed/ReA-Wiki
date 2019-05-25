@@ -15,6 +15,7 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 * [Avengers: Endgame](wiki/filmai.md#avengers-endgame-2019) filmas
 * [The way way back](wiki/filmai.md#the-way-way-back-2013) filmas
 * Pirmasis [McDonalds Rusijoje](wiki/istorija/)
+* Vaistai nuo gonorėjos, o tuo pačiu ir [grindų plovimo skystis](wiki/faktai.md)
 
 #### 2019-05-19
 
