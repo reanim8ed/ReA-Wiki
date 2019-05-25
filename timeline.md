@@ -14,13 +14,14 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 * Didelių [miestų apatiškumo](wiki/teorijos-efektai.md#dideli-miest-apatiskumas) efektas
 * [Avengers: Endgame](wiki/filmai.md#avengers-endgame-2019) filmas
 * [The way way back](wiki/filmai.md#the-way-way-back-2013) filmas
+* Pirmasis [McDonalds Rusijoje](wiki/istorija/)
 
 #### 2019-05-19
 
 * Istorija apie paprastutį HTML'inį one-pagerį, už kurį gauta [21 000 dolerių](wiki/straipsniai-skaitiniai-istorijos.md#i-charged-usd-18-000-for-a-static-html-page).
 * Idėja apie tai, kaip skirtųsi visuomenė, jei vyrai [galėtų būti nėšti](wiki/idejos.md#2019-05-18)
 * Pietų korėjos filmas [The Witch](wiki/filmai.md#the-witch-part-1-the-subversion)
-* [Vebleno efektas](wiki/ekonomika.md) - prekės pardavimai kyla, dėlto, jog kyla jos kaina
+* [Vebleno efektas](wiki/ekonomika/) - prekės pardavimai kyla, dėlto, jog kyla jos kaina
 
 #### 2019-05-17
 
@@ -41,7 +42,6 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 
 * Į [Tools ](wiki/tools.md#notes)skiltį pridėti Standard notes ir Typora.
 * Pridėta [Komunikacijos ](wiki/komunikacija.md)tema ir pateiktas [pasiūlymo teikimo pavyzdys](wiki/komunikacija.md#pasiulymo-teikimas).
-* Pridėta [Filosofijos ](wiki/filosofija.md)tema
 
 #### 2019-05-04
 
