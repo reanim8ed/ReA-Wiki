@@ -40,6 +40,13 @@ Taigi tokia wiki turi 3 pagrindines paskirtis:
 
 Taigi dėl šių priežasčių atsirado šis be perstojo atnaujinamas žinių indeksas, kuriame bandysiu išsaugoti mintis, konspektuosiu tai kas pasirodė įdomu ir tiesiog apie viską apie ką sužinojau. Tai nėra tutorialų, saviugdos ar reikšmingų straipsnių rinkinys, tačiau manau, kad tai, jog jis yra pasiekiamas viešai atneš daugiau naudos, nei žalos, tad laikau esant verta. Jeigu kažkas ras ką naudingo ar įdomaus - juo labiau puiku, nors tai ir nėra pagrindinis tikslas.
 
+## Įkvėpimas
+
+Mintis daryti kažką panašaus, mane persekioja jau porą metų, tačiau visą tą laiką taip ir neišgryninau tikslaus koncepto. Tačiau įkvėpimas ir aiškumas pagaliau atėjo, kai suradau bendraminčių:
+
+* pagrindinis konceptas pasiskolintas iš [Nikita Voloboev](https://wiki.nikitavoloboev.xyz)
+* taipogi [sąrašas žmonių](https://github.com/RichardLitt/meta-knowledge#readme), kurie iš esmės daro tą patį
+
 ## A Portrait of J. Random Hacker
 
 > _Although high general intelligence is common among hackers, it is not the_ [_sine qua non_](https://www.wikiwand.com/en/Sine_qua_non) _one might expect. Another trait is probably even more important: the ability to mentally absorb, retain, and reference large amounts of ‘meaningless’ detail, trusting to later experience to give it context and meaning. A person of merely average analytical intelligence who has this trait can become an effective hacker, but a creative genius who lacks it will swiftly find himself outdistanced by people who routinely upload the contents of thick reference manuals into their brains._
