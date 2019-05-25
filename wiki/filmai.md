@@ -1,4 +1,4 @@
-# Filmai
+# Filmai / serialai
 
 ## Peržiūrėtų filmų sąrašas
 
@@ -30,6 +30,16 @@ Visus peržiūrėtus filmus įsivertinu IMDB svetainėje ir pirmuosius vertinimu
 * [The Pursuit of Happyness](https://www.imdb.com/title/tt0454921/)
 
 ## Komentarai
+
+### Game of Thrones pabaiga
+
+* Paskutinis GoT sezonas, o ypač finalas iššaukė labai audringas žmonių reakcijas. Suprantama, šitiek metų vystyta istorija baigėsi paskubomis ir paliko kotkų skonį. Tačiau:
+* labai didelės overreakcijos. "We’ve seen time and again how that level of investment can shift into a more toxic feeling of ownership, leading to absurd temper-tantrums like petitions demanding the ending be remade to meet personal expectations."
+* Taip sezonas tikrai be abejonės smarkiai kritikuotinas, scenarijaus kokybė smuko, na bet pati pabaiga nėra tokia jau bloga, kaip čia kai kurie vaizduoja. Jeigu prisiminus Dexter'io ar Lost'ų pabaigas supranti ką reiškia, kai serialas užbaigiamas tiesiog tragiškai be jokių skrupulų. Čia toli gražu nebuvo iki tokio lygio. Nereikia pamiršti, jog greičiausiai Martin'o knygose finale rezultatas bus irgi toks pat. Tik ten turės normaliai vietos viskam išvystyti ir dėlto bus kur kas labiau satisfying.
+* "It’s important to remember that even in a world where Martin’s series was written before a single second of the show was shot, Game of Thrones still likely wouldn’t have run for a dozen seasons, or told a tale on the same level that the books hopefully will. Compression was always coming for the story on Game of Thrones. The only question was whose story would be crammed into the time the show had left."
+* Pats finalo rezultatas mane, kaip ir tenkina. Visa problema yra tame, kaip iki to rezultato buvo prieita. Pvz. kai kurių veikėjų development'as buvo išmestas pro langą, o pasirodo, kad visa serialo arka sukosi apie veikėją, kuris buvo vienas neįdomiausių visame seriale.
+* Manau, kad sezonas būtų buvęs kur kas labiau priimtinesnis, jei vietoj 6 serijų, būtume gavę standartines 10 ir tas ekstra laikas būtų buvęs skirtas lėtesniems įvykiams, pokalbiams ir veikėjų išvystymui.
+* Nereikia pamiršti, kodėl serialas tapo tokiu populiariu in the first place. Jo production'o kokybė buvo nuostabi. Set'as, kostiumai, CGI, praktiniai efektai, vaidyba išties pačio aukščiausio lygio, pranokstantys bet kurį kitą televizijos serialą. Ir 8-tas sezonas nors nuvilia savo siužetu, bet šių savybių visgi nesugadina.
 
 ### The Witch: Part 1. The Subversion
 

@@ -1,5 +1,9 @@
 # Showerthoughts
 
+## 2019-05-25
+
+* Vat ko trūksta man podcast'ų appsuose - galimybės share'inti tik tam tikrą įrašo ištrauką, galimybės ją išsisaugoti, archyvuoti, na ir pasirašyti papildomus note'us, kilusias mintis, pastebėjimus. Žinoma, visą tai galima padaryti vienokiais ar kitokiais būdais, pvz pasinaudojant išorinėmis programomis, tačiau kaip visada - kad tai taptų mano workflow, turi būti kuo mažiau kliūčių, trinties.
+
 ## 2019-05-18
 
 * Jeigu vyrai galėtų tapti nėščiais, tai nė nereikia abejoti, jog abortai ne tik, kad būtų legalūs visur, tačiau ir būtų prieinami kiekvienoje degalinėje, o aborto klinikos galėtų turėti mėnesines narystes.

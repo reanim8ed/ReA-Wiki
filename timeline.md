@@ -6,6 +6,13 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 
 ## 2019-05
 
+#### 2019-05-25
+
+* Game Of Thrones [finalas](wiki/filmai.md#game-of-thrones-pabaiga)
+* Mintis apie galimybę [share'inti ir annotate'inti ](wiki/idejos.md#2019-05-25)podcast'ų appsuose
+* Youtube[ viral video](wiki/teorijos-efektai.md#youtube-viral) efektas
+* Didelių [miestų apatiškumo](wiki/teorijos-efektai.md#dideli-miest-apatiskumas) efektas
+
 #### 2019-05-19
 
 * Istorija apie paprastutį HTML'inį one-pagerį, už kurį gauta [21 000 dolerių](wiki/straipsniai-skaitiniai-istorijos.md#i-charged-usd-18-000-for-a-static-html-page).

@@ -14,7 +14,7 @@
     * [Jackie Chan](wiki/asmenybes/pop-kultura/jackie-chan.md)
 * [Citatos](wiki/citatos.md)
 * [Ekonomika / finansai](wiki/ekonomika.md)
-* [Filmai](wiki/filmai.md)
+* [Filmai / serialai](wiki/filmai.md)
 * [Filosofija](wiki/filosofija.md)
 * [Investavimas](wiki/investavimas.md)
 * [Istorija](wiki/istorija/README.md)
@@ -43,7 +43,7 @@
 * [Straipsniai / skaitiniai / istorijos](wiki/straipsniai-skaitiniai-istorijos.md)
 * [Technologijos](wiki/technologijos/README.md)
   * [Internetas](wiki/technologijos/internetas.md)
-* [Teorijos / efektai](wiki/teorijos-efektai.md)
+* [Teorijos / efektai / fenomenai](wiki/teorijos-efektai.md)
 * [Terminai](wiki/terminai.md)
 * [Tools](wiki/tools.md)
 
