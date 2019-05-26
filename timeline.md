@@ -9,6 +9,7 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 #### 2019-05-26
 
 * Pridėta [MealTimeVideos ](wiki/mealtimevideos.md)tema ir pirmasis įrašas - LinusTechTips 
+* Video su FBI [kūno kalbos ekspertu](wiki/mealtimevideos.md)
 
 #### 2019-05-25
 
