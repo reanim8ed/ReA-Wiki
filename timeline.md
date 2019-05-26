@@ -6,6 +6,10 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 
 ## 2019-05
 
+#### 2019-05-26
+
+* Pridėta [MealTimeVideos ](wiki/mealtimevideos.md)tema ir pirmasis įrašas - LinusTechTips 
+
 #### 2019-05-25
 
 * Game Of Thrones [finalas](wiki/filmai.md#game-of-thrones-pabaiga)
