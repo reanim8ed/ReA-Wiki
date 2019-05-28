@@ -11,6 +11,7 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 * [Gitbook alternatyvos](wiki/tools.md#wikis), jei norėtųsi turėsi self-hosted sprendimą.
 * [TechIT ](wiki/technologijos/technologijos.md)naujienų skiltis
 * [Skaitomos ](wiki/knygos.md#siuo-metu-skaitoma)ir [PlanToRead ](wiki/knygos.md#plantoread)knygos
+* 2015-tų kelionės į [Tailandą ](wiki/pasaulis/keliones/tailandas-2015.md)aprašymas
 
 #### 2019-05-26
 
