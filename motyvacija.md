@@ -8,7 +8,7 @@ description: Transcribing knowledge to make sense for me and other people
 
 _**Have you ever had the feeling that your head is not quite big enough to hold everything you want to remember?**_
 
-Asmeninių minčių kaupimo konceptas egzistuoja nuo senovės laikų, kaip pvz. [commonplace book](https://www.wikiwand.com/en/Commonplace_book), kas pasak Wikipedijos yra: 
+Asmeninių minčių kaupimo konceptas egzistuoja nuo senovės laikų, kaip [commonplace book](https://www.wikiwand.com/en/Commonplace_book), kas pasak Wikipedijos yra: 
 
 > _a way to compile knowledge, usually by writing information into books. Such books are essentially scrapbooks filled with items of every kind: recipes, quotes, letters, poems, tables of weights and measures, proverbs, prayers, legal formulas. Commonplaces are used by readers, writers, students, and scholars as an aid for remembering useful concepts or facts they have learned. Each commonplace book is unique to its creator's particular interests._
 
@@ -30,9 +30,11 @@ _**Our goal in life is to collect the dots and connect the dots but we can't do 
 
 Taigi tokia wiki turi 3 pagrindines paskirtis:
 
-1. minčių saugojimas, organizavimas ir padarymas jas greitai randamomis
+1. minčių saugojimas, organizavimas ir padarymas jas greitai randamonis
 2. prieinamumas bet kam
 3. knowledge path kūrimas
+
+-Pirmasis punktas susijęs su tuo, kad saugomos informacijos vertė auga tiesiogiai nuo to, kaip lengvai ji gali būti randama ir perpanaudojama. 
 
 -Kalbant apie antrąją paskirtį - visada mėgau tomis žiniomis dalintis. Jeigu anksčiau tai darydavau tinklaraščio pagalba, dabar manau, kad tai atima gal kiek per daug laiko. Parašyti vieną long grid'ą, atimdavo apie 4 h, kartais net ilgiau, nes rašydamas pirmiausia atlieku gan nemažai research'o, faktų tikslinimo, o parašęs dar daugybę kartų performuluoju ir stengiuosi savo mintis išdėlioti logiškiau ir tas grumuliavimas atima daugiausia laiko. Suveikia taisyklė, jog 80% darbo išeikvoja pusę projekto laiko, o likę 20% sueikvoja likusią pusę. Taip tinklaraščio rašymas įgavo slengstį, per kurį perlipti pradėjo darytis vis sunkiau ir tai kuo puikiausiai matosi iš [smarkiai retėjančių](https://reanimated.lt/archyvas) įrašų. Dabar dažniausiai pasidalinu nuoroda į šaltinį ir tiesiog parašau trumpą aprašą ar mintis. Ir toks flow pasirodė patrauklus: numeti savo mintį, padedi kitiems sužinoti ir atkreipti dėmesį į tai, ką sužinojai tu, kartais iššauki diskusijas ir svarbiausia - tai galima padaryti lengvai, greitai ir neįpareigojančiai. Jeigu vienos pastraipos įrašai man pasirodydavo nepriimtini tinklaraščiui, tai puikiai tiko iš principo į trumpas žinutes orientuotiems soc. tinklams. Toks pats pamatinis workflow pritaikomas ir wiki, tik skirtumas - truputėlis prasmingiau ir neužsikas bendrame pasąmonės sraute, kas yra soc. tinklai.
 
