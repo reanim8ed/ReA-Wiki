@@ -2,7 +2,7 @@
 description: 'IT pasaulio naujienos, kurias rašau soc.tinkluose'
 ---
 
-# TechIT naujienos
+# TechIT straipsniai
 
 ## 2019-05
 
@@ -80,4 +80,14 @@ description: 'IT pasaulio naujienos, kurias rašau soc.tinkluose'
 
 * Kai Netflix'as startavo, tai buvo prenumerata, pristatanti filmus DVD kompaktuose pašto tarnybų pagalba. Ir nors pagrindinė Netflix veikla pavirto į streaming'ą, tačiau pradinio verslo modelio taip niekada ir nebuvo atsisakyta: pernai Netflix'o kompaktus vis dar gavo 2.7 mln. prenumeratorių ir ši paslauga vis dar generuoja 212 mln $ pajamų.
 * [https://edition.cnn.com/2019/04/04/media/netflix-dvd-subscription-mail-trnd/](https://edition.cnn.com/2019/04/04/media/netflix-dvd-subscription-mail-trnd/)
+
+## 2019-03
+
+### Pirmojo iPhone prototipas
+
+* Apple kurdama pirmąjį iPhone modelį stengėsi jį išlaikyti paslaptyje tam, kad galėtų padaryti visiškai netikėtą pristatymą. Ir kaip žinome iš istorijos - jiems tai puikiai pavyko ir pristatymas daugelį visiškai apstulbino.
+
+  Vienas iš būdų sumažinti tikimybę, jog dizainas bus nuleak'intas - jį turi matyti kuo mažesnis kiekis žmonių. Dėl šios priežasties, inžinieriai dirbantys su OS branduoliu, driveriais, failų sistema, procesoriaus architektūra gaudavo štai tokius, kompiuterio motitinę plokštę primenančius prototipus. Nuotraukoje matomame variante yra ir ekranas, tačiau dažniausiai darbuotojai gaudavo plokštes net ir be jų, tad visą savo darbą galėdavo atlikti tik prisijungę šią plokštę prie kompiuterio ar televizoriaus, nė nenuotuokdami, kaip atrodys galutinis produktas.
+
+* [https://www.theverge.com/2019/3/19/18263844/apple-iphone-prototype-m68-original-development-board-red](https://www.theverge.com/2019/3/19/18263844/apple-iphone-prototype-m68-original-development-board-red)
 

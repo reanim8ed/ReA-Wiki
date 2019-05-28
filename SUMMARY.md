@@ -44,7 +44,7 @@
 * [Straipsniai / skaitiniai / istorijos](wiki/straipsniai-skaitiniai-istorijos.md)
 * [Technologijos](wiki/technologijos/README.md)
   * [Internetas](wiki/technologijos/internetas.md)
-  * [TechIT naujienos](wiki/technologijos/technologijos.md)
+  * [TechIT straipsniai](wiki/technologijos/technologijos.md)
 * [Teorijos / efektai / fenomenai](wiki/teorijos-efektai.md)
 * [Terminai](wiki/terminai.md)
 * [Tools](wiki/tools.md)

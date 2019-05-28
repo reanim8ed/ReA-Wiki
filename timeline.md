@@ -156,7 +156,6 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 
 * Wiki startas
 * Sukurtas Įvadas, motyvacinis puslapis, šis timeline
-* Pradėta kelti info iš backlog
 
 
 
