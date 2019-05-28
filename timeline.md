@@ -9,7 +9,7 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 #### 2019-05-28
 
 * [Gitbook alternatyvos](wiki/tools.md#wikis), jei norėtųsi turėsi self-hosted sprendimą.
-* [TechIT ](wiki/technologijos-1/technologijos.md)naujienų skiltis
+* [TechIT ](wiki/technologijos/technologijos.md)naujienų skiltis
 
 #### 2019-05-26
 
@@ -57,7 +57,7 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 #### 2019-05-04
 
 * Idėja apie tai, kad Pornhub komanda turėtų pakankamai [know-how](wiki/idejos.md#2019-05-04), kad sukurti Youtube konkurentą
-* Technologijose pridėta [Interneto ](wiki/technologijos-1/internetas.md)tema ir aprašytos vienos iš [Google+](wiki/technologijos-1/internetas.md#google) nesekmės priežastys.
+* Technologijose pridėta [Interneto ](wiki/technologijos/internetas.md)tema ir aprašytos vienos iš [Google+](wiki/technologijos/internetas.md#google) nesekmės priežastys.
 * Pridėta Andy Weir trumpa istorija "[Digitocracy](wiki/straipsniai-skaitiniai-istorijos.md#bookTitle)".
 
 #### 2019-05-02
@@ -83,7 +83,7 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 
 #### 2019-04-23
 
-* Pastebėjimai iš [Tesla Autonomy Day](wiki/technologijos-1/technologijos.md#2019-04-23-tesla-autonomy-day)
+* Pastebėjimai iš [Tesla Autonomy Day](wiki/technologijos/technologijos.md#2019-04-23-tesla-autonomy-day)
 * Idėja apie [universalų loginimo servisą](wiki/idejos.md#2019-04-23), kuris greičiausiai užsidarytų
 
 #### 2019-04-22
