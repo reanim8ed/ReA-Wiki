@@ -2,7 +2,7 @@
 description: 'IT pasaulio naujienos, kurias rašau soc.tinkluose'
 ---
 
-# TechIT straipsniai
+# TechIT naujienos
 
 ## 2019-05
 
