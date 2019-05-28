@@ -20,5 +20,5 @@ Pvz. kokioje 8-toje klasėje mūsų klasė važiavo į ekskursiją ir aplankėme
 
 Jeigu į kūrybingumą žiūrėti iš šios pusės, tai gerokai nustekena mintį, jog turi būti apdovanotas, gabus, jog galėtum išsiskirti, vadintis "kūbybingu". Visi gali atrasti įdomių tarpusavio sąsajų ir idėjų, skirtumas tik tiek, kad yra praleidžiamas skirtingas laiko kiekis tas mintis išreiškiant. Tai kaip raumuo, kuo daugiau tuo užsiimi - tuo geriau gaunasi. O nuo to kaip gerai moki visą tai išreikšti, priklauso kaip lengvai seksis kitiems tai suprasti ir priimti.
 
-Plagijavimas yra tada, kai pasisavinamas kito žmogaus darbas. O jei pamatei idėją, ji tau sukėlė kokią nors reakciją ir naujų minčių ir tai perteiki kitiems per savo prizmę - tai jau ne turinio vagimas, o tiesiog įprastinė kūryba.
+Plagijavimas yra tada, kai pasisavinamas kito žmogaus darbas. O jei pamatei idėją, ji tau sukėlė kokią nors reakciją ir naujų minčių ir tai perteiki kitiems per savo prizmę - tai jau ne turinio vagimas, o tiesiog įprastinė kūryba. Galima net pasiginčyti apie tai, jog ko ne visos idėjos, kurios jums kadanors yra šovusios į galvą, tikriausiai kažkur, kažkas apie tą patį jau yra pagalvojęs ir jūsų idėja nėra tokia jau originali.
 
