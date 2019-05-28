@@ -6,6 +6,10 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 
 ## 2019-05
 
+#### 2019-05-28
+
+* [Gitbook alternatyvos](wiki/tools.md#wikis), jei norėtųsi turėsi self-hosted sprendimą.
+
 #### 2019-05-26
 
 * Pridėta [MealTimeVideos ](wiki/mealtimevideos.md)tema ir pirmasis įrašas - LinusTechTips 

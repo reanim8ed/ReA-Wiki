@@ -38,5 +38,5 @@ Temos struktūra dažniausiai tokia:
 
 ## ❤Atgalinis ryšys
 
-Jeigu manote, kad kažkuri informacija yra kategoriškai klaidinga, sukurkite naują [Github issue](https://github.com/reanim8ed/ReA-Wiki/issues/new) ir parašykite kas gi ne taip.
+Jeigu manote, kad kažkuri informacija yra kategoriškai neteisinga, [parašykite ](https://github.com/reanim8ed/ReA-Wiki/issues/new)kas gi ne taip.
 
