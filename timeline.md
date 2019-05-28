@@ -14,6 +14,7 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 * [Barcelona](wiki/pasaulis/keliones/barcelona-2019.md) \(2019\) kelionės info
 * [Graikija ](wiki/pasaulis/keliones/graikija-2018.md)\(2018\) kelionės info
 * 2015-tų kelionės į [Tailandą ](wiki/pasaulis/keliones/tailandas-2015/)aprašymas
+* [Kūrybingumas](wiki/kurybingumas.md)
 
 #### 2019-05-26
 
