@@ -12,6 +12,7 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 * [TechIT ](wiki/technologijos/technologijos.md)naujienų skiltis
 * [Skaitomos ](wiki/knygos.md#siuo-metu-skaitoma)ir [PlanToRead ](wiki/knygos.md#plantoread)knygos
 * [Barcelona](wiki/pasaulis/keliones/barcelona-2019.md) \(2019\) kelionės info
+* [Graikija ](wiki/pasaulis/keliones/graikija-2018.md)\(2018\) kelionės info
 * 2015-tų kelionės į [Tailandą ](wiki/pasaulis/keliones/tailandas-2015.md)aprašymas
 
 #### 2019-05-26
