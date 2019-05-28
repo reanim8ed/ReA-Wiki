@@ -1,12 +1,12 @@
 # Tailandas \(2015\)
 
-![](../../../.gitbook/assets/dsc03146.png)
+![](../../../../.gitbook/assets/dsc03146.png)
 
 Atitrūkus nuo pastovaus, nuolatinio bloginimo, kartais tiesiog sunku sugrįžti. Esi nusiplanavęs apie ką rašysi, tačiau to realizavimui dažniausiai pritrūksta ne tai, kad laiko, o paprasčiausiai ūpo. Anksčiau buvęs itin didelis savirealizacijos troškimas, numalšinamas kitur, kitais būdais ir dėlto prieš tai buvusio „nieštėjimo“ ilgėliau neparašius – nebėra. Ko gero būtent dėlto ilgai planuoti kelionės įspūdžiai pasirodo tik po 5 mėnesių. Galbūt taip net ir geriau, nes taip viskas kur kas labiau susigūlėję, nereikšmingos smulkmenos užsimiršusios ir galima viską daug labiau apibendrinti.
 
 Skaitant kelioninius blogus \(kurių ruošiantis kelionei teko paskaityti išties nemažai\), pastebėjau, kad itin dažnai keliauninkai mėgsta aprašyti savo keliones ne visaip taip, kaip tikriausiai to norėtų skaitytojas. Jų pasakojimai patampa kelionės žurnalais, raportais, kuriuose jie aprašo kur konkrečiai buvo ir ką matė. Skaitai dešimtis skirtingų žmonių įrašus ir dauguma iš jų itin panašūs. Manau, kad tai yra tarsi savotiška ego boostinimo forma ir jeigu pačiam keliavusiam žmogui apie tai rašyti ir pasakoti įdomu ir jam tai atrodo svarbu, tai skaitytojui tokius straipsnius skaityti dažniausiai labai sausa ir tiesiog nuobodu. Jeigu jį domintų konkrečios vietos, statulos, šventyklos ar turgaus aprašymas, tai kur kas efektyviau nueiti į kokį Trip Advisorių ir paskaityti diversifikuotus atsiliepimus vienoje koncentruotoje vietoje. Manau, kad rašančiajam apie keliones, kur kas svarbiau yra perteikti nuotaiką, visuminę nuomonę, įspūdžius apie šalį, perteikti žavias, tik tai šaliai būdingas detales, smulkmenas, kurios skaitytojo galvoje, tarsi dailininkas ant drobės, nupiešia tos šalies paveikslą. Labai įdomu, kad du žmonės nuvykę į tas pačias vietoves, gali apturėti absoliučiai skirtingas patirtis. Grįžęs iš kelionės ir išgirdęs, kad mano draugas norėtų ten nuvykti ir galėčiau jam pateikti savo kelionės maršrutą/planą, pagalvojau, kad jis greičiausiai parsivežtų kur kas kitokią nuomonę, nei esu susidaręs aš.
 
-![18000km kelion&#x117;. Dar 2000 ir b&#x16B;t&#x173; pusiaukel&#x117; aplink pasaul&#x12F;](../../../.gitbook/assets/18000km.png)
+![18000km kelion&#x117;. Dar 2000 ir b&#x16B;t&#x173; pusiaukel&#x117; aplink pasaul&#x12F;](../../../../.gitbook/assets/18000km.png)
 
 ### Apie keliavimo būdus
 
@@ -16,7 +16,7 @@ Antra priežastis, kodėl esu prieš: kelionės planavimas man yra labai mėgiam
 
 Na žinoma taipogi visada yra ir piniginis akcentas. Musuose norint nuvykti į egzotišką, šiltu klimatu pasižyminčią kurortinę šalį, dažniausiai renkamasi Turkija, Egiptas, Ispanija. Pasaulyje yra daugybę itin nuostabių ir egzotiškų vietų, tačiau jos pasirenkamos rečiau, nes yra manoma, kad kelionės į jas yra labai brangus malonumas. Ir taip, keliaujant per kelionių agentūras jums gali tekti atseikėti 2000-3500€. Tačiau jei nepatingėsite ir kelionę susiplanuosite pats, atsisakysite to, ko jums iš tiesų nereikia, galbūt vienur ar kitur susispausite, bet ne tiek, kad tai keltų didelį diskomfortą ir galėtų sumenkinti mėgavimąsi kelione, tai nukeliauti galite dvigubai ar net ir trigubai pigiau. Juk gyvename tik kartą, tad, kodėl turime save varžyti, nepasinaudoti pasitaikusiomis progomis? Šitiek sunkiai dirbę, kartas nuo karto tiesiog nepasidžiaugti ar nepasilepinti ten, kur niekada negalvojai pateksiąs?
 
-![](../../../.gitbook/assets/dsc02040.jpg)
+![](../../../../.gitbook/assets/dsc02040.jpg)
 
 ### **Tailandas bendrai**
 
@@ -25,13 +25,13 @@ Taigi, kodėl Tailandas? Ar ne per drąsu, kaip pirmajai savo gyvenimo kelionei?
 Manau, kad vienas iš būdų pažinti lankomą šalį yra per žmones. Tailandas yra vienintelė šalis pietryčių Azijoje, kuri nebuvo Europos kolonija, galbūt tai yra viena iš priežasčių kodėl su anglų kalba pas vietinių reikalai gan liūdni, nors ko gero čia yra labiau bendras Azijos bruožas. Tačiau tailandiečiai adaptavosi prie turistų srautų, tad ko ne bet kuris gatvės pardavėjas su savo broken engrish visgi galės pasakyti bent jau kainą. Problema, kad pabandant užklausti ko nors kitko, pvz ką tu čia netrukus valgysi, ko gero nesupras ir tiesiog šypsosis ir linkčios, kartodami „Yes“.  
 Šypsenos šioje šalyje yra labai unikalus dalykas, nes tailandiečiai šypsosi ir pagarbiai linkčioja be galo daug. Ne be reikalo šalies turizmo pramonė Tailandą pozicionuoja, kaip _Land Of Smiles_ ir tajai šį šūkį tikrai pateisina. Būna miela ir šiek tiek juokinga, nes šypsenos nuoširdžios, bet labai dažnai su gaidele „I have no idea“. Tačiau, net neskaitant to, kad kartais pritrūksta kompetencijos, padėti stengiamasi itin daug. Jei ko nors ieškote ir nevisai tiksliai žinote, kur reikia eiti, tai greičiausiai dar net nespėjus išsitraukti telefono, jog pasižiūrėti žemėlapį, prisistatys koks prašalaitis ar netoliese dirbantis apsauginis ar durininkas ir jums nurodys kelią. Malonu ir neįprasta. Taipogi būnant šioje šalyje gan greitai atsirado saugumo jausmas. Žinoma, tai ne priežastis sumažinti apdairumą, tačiau jutau, kad net jei ir ką nors ir pamirši, tai grįžęs – tikrai rasi. O greičiausiai tau pamiršti tiesiog neleis in the first place. Ko gero prie to prisideda, tai, kad pagrindinė religija, kuria tiki net 95% šalies gyventojų yra budizmas. O budizmas yra nusiteikęs prieš konfliktus ir skatina harmoniją.
 
-![](../../../.gitbook/assets/dsc01801.jpg)
+![](../../../../.gitbook/assets/dsc01801.jpg)
 
 Ši šalis užima labai unikalią vietą Azijoje. Neskaitant savo pačių kultūros ir tradicijų, kurios yra labai ryškios, net ir dabartiniame moderniame pasaulyje, taipogi labai smarkiai jaučiama ir kitų dviejų itin stiprių kultūrų įtaka – t.y Kinijos ir Indijos. Apsilankęs šioje šalyje, padariau išvadą, kad jeigu nori susidaryti bendrą vaizdą apie Aziją, tai būtent Tailandas yra ko gero viena tinkamiausių vietų. Jeigu Europoje visi keliai veda į Romą, tai Azijoje, visi keliai baigiasi ties Bankoku. Čia rasite visus pagrindinius Azijos didžiausių kultūrų atributus: nuo Indijos šilko, smilkalų ir arbatų iki didžiausio pasaulyje ChinaTown’o su savo rėksmingais pardavėjais ir egzotišku maistu. Tai itin didelių kontrastų pilna šalis – čia šalia galima pamatyti prabangius dangoraižius ir prekybos centrus, kuriuose labai žvalgomasi į vakarus ir orientuojamasi į prabangą ir madas ir dėl kurių gali susidaryti įspūdis, kad esi kokiame nors Amerikos didmiestyje \(pvz prekybos centrai, kuriuose 15 kino teatrų ir per 500 parduovių, tarp kurių ir originalūs Armani ar Lamborghini salonai\), tačiau tuo pat metu, jų pašonėje, stovi „raudonųjų žibintų kvartalai“, bei mažos lūšnelės, su labai skurdžiais jų gyventojais, pilna valkataujančių šunų gatvėse, kavinėse ar net parduotuvėse. Ir nors jie visiškai nepikti, bet pasitikėjimo nepriduoda. Beje, tailandiečiai labai tiki reinkarnacija ir sako, kad blogi žmonės po mirties persikūnija į šunis ir turi atkentėti šunišką dalią. Tačiau tuo pat metu jaučiamas didelis dvasingumas, nes visur krūvos šventyklų, autorėlių ir degančių smilkalų ir žvakių. Taipogi tajai gan fanatiškai myli savo karališkąją šeimą. Beveik prie kiekvieno rimtesnio pastato karalienės ar karaliaus atvaizdai, nesvarbu tai užmirštas restoranėlis, prabangi parduotuvė, ligoninė ar kareivinės. Tai išties egzotiškas, gal ir ne visada prižiūrėtas ir tvarkingas \(azijoje švaros standartai kiek kitokie\), bet tuo pačiu metu civilizuotas, išsivystęs ir turistus mylintis, bei kainomis neskriaudžiantis kraštas. Šalis nors ir didelė ir šiaurė smarkiai skiriasi nuo pietų, tačiau šalyje transportas išvystytas gerai tad keliauti joje išties lengva.
 
 Antras būdas pažinti šalį į kurią atvykote yra per maistą. Prieš atvykstant į Tailandą žinojau, kad tailandiečių virtuvė yra viena geriausiai vertinamų pasaulyje, tad seniai svajojau, kaip aš viską ragausiu ir bandysiu. Deja, visko iš eilės ragauti taip jau nesigavo ir toli gražu ne dėl sušlubavusios sveikatos ar ligų baimės, o dėl paprasčiausiai didelio karščio, dėl kurio organizmas dideliu apetitu girtis tiesiog negalėjo. Tačiau tajų maistas… Kai Dievas kūrė pasaulį, sukūrė daug virtuvių: prancūzų, italų, net lietuvių. Tajų virtuvės nekūrė – jis ją turėjo pats. Realiai išties sunku užtaikyti ant neskanaus maisto: viskas paruošta puikiai, maistas visur išties šviežias – ruošiamas čia pat, prieš jūsų akis, tiesiog gatvėje. Ir jis yra absoliučiai visur: kiekvienoje gatvelėje, kiekviename pakampyje kažkas čirška, kepama ar verdama ir bet kurią akimirką galėsite nusipirkti keptos mėsos ar daržovių ant iešmelio. Šaligatviais vaikščiojant dairaisi, kad netyčia neužkliūtum už kokio nors puodo ir jo neišverstum. Patiekalų atžvilgiu, tai dominuoja makaronai, vištiena, daržovės, ramen sriubos. Ir žinoma ryžiai. Ryžiai ko ne su viskuom. Skoniuose išties netrūksta aštrių atspalvių, tačiau turistams pritaikytas ir tikrasis tailandietiškas aštrumas yra du visiškai skirtingi dalykai. Ir nors ir esu aštraus maisto mėgėjas, tačiau net ir man kartais tekdavo valgyti apsiverkus. Aštrus maistas mėgiamas ne be priežasties – valgant aštriai imama aktyviau prakaituoti, o dėlto nukrenta kūno temperatūra ir pasidaro bent kiek vėsiau. Visgi ryškiausius maisto prisiminimus iš Tailando parsivežiau du – firminiu patapusiu patiekalą, pavadinimu [Pad Thai](http://www.sabcafe.com/wp-content/uploads/2015/01/pad-thai.jpg)\(kepti makaronai su bambukų ūgliais, daržovėmis, vištiena arba krevetėmis\), bei ananasai. Visi vaisiai ten kainuoja pigiai ir yra labai skanūs, tačiau dievaži, tokių ananasų nesu niekur valgęs: prisirpę, sultingi, labai saldaus ir ryškaus skonio ir itin minkšti, tiesiog tirpsta burnoje. Tie kas nėra ragavę tailandietiškų ananasų nė neįsivaizduoja, koks turėtų būti ananaso skonis, o tokie kokius galite nusipirkti parduotuvėje yra nebent tik liūdnas ananaso atsiminimas.
 
-![](../../../.gitbook/assets/dsc01757.jpg)
+![](../../../../.gitbook/assets/dsc01757.jpg)
 
 ###  **Sostinė**
 
@@ -41,7 +41,7 @@ Antra, kas iškarto krenta į akį – palmės. Šis akcentas, prie kurio nesame
 
 Na ir galiausiai, vienas iš įsimintiniausių Bankoko akcentų be nuolatinio šurmuliavimo, begalybės žmonių, bei išties chaotiško transporto judėjimo – tai kvapas. Nepagalvokite neteisingai – tai tikrai nėra nemalonus, atgrasantis, bei nosį riečiantis kvapas, nuo kurio norėtųsi nešdintis tolyn. Bankokas turi savo unikalų, labai specifinį ir sunkiai nupasakojamą kvapą, kurio ko gero nesutiksite kažkur kitur ir kuris įsismelks jūsų galvoje visam likusiam laikui. Apie šį kvapą jums ko gero galės pasakyti kiekvienas, kuris aplankė šią sostinę.
 
-![](../../../.gitbook/assets/dsc02613.png)
+![](../../../../.gitbook/assets/dsc02613.png)
 
 ###  **Salos**
 
@@ -59,7 +59,7 @@ Keli smulkūs pastebėjimai iš salų:
 -dauguma populiariųjų salų nėra didelės ir prilygsta mūsų šalies didmiesčiams, tad iš vieno salos galo, nuvažiuoti į kitą galima per pusvalandį  
 -taip, kaip sostinėje būtina nusimauti batus, prieš įeinant į šventyklas, taip salose, tai daryti reikia net ir daugumoje parduotuvių. Po kurio laiko pabosta ir dėlto dauguma turistų vaikštinėja tiesiog su šlepetėmis.
 
-![B&#x16B;nant salose tikrai negal&#x117;davai praleisti &#x12F;sp&#x16B;ding&#x173; spalv&#x173; saul&#x117;lyd&#x17E;i&#x173;](../../../.gitbook/assets/dsc0284.png)
+![B&#x16B;nant salose tikrai negal&#x117;davai praleisti &#x12F;sp&#x16B;ding&#x173; spalv&#x173; saul&#x117;lyd&#x17E;i&#x173;](../../../../.gitbook/assets/dsc0284.png)
 
 ### **Keli patarimai keliaujantiems**
 
