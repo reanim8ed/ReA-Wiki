@@ -6,6 +6,11 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 
 ## 2019-05
 
+#### 2019-05-30
+
+* Google planuoja [limituoti adblock'us](wiki/technologijos/technologijos.md#chrome-limituos-adblockus-tik-iki-enterprice-useri) Chrome naršyklėje
+* [Žmogaus akies limitai](wiki/faktai.md#zmogaus-akies-galimyb-s) arba ar reikalingi greiti ekranai.
+
 #### 2019-05-28
 
 * [Gitbook alternatyvos](wiki/tools.md#wikis), jei norėtųsi turėsi self-hosted sprendimą.

@@ -6,6 +6,11 @@ description: 'IT pasaulio naujienos, kurias rašau soc.tinkluose'
 
 ## 2019-05
 
+### Chrome limituos adblock'us tik iki enterprice user'ių - 2019-05-30
+
+* Everything old is new again. Firefox'as grįžta praktiškai į tą pačią poziciją, kurioje buvo dar 2005-aisiais. Tik šį kartą vietoj kovos prieš IE/Microsoft, jie tramdys Chrome/Google. Kaip bebūtų Google dėl konfliktuojančio verslo modelio neturi jokių paskatų vystyti adblock'ų interface'ą ir tokie žingsiai anksčiau ar vėliau tikrai turėjo prasidėti.
+* [https://9to5google.com/2019/05/29/chrome-ad-blocking-enterprise-manifest-v3/](https://9to5google.com/2019/05/29/chrome-ad-blocking-enterprise-manifest-v3/)
+
 ### AMD Zen2 - 2019-05-28
 
 * Kai AMD prieš porą metų pristatė savo Zen architektūros procesorius, tai sukėlė nemažai bangų tarp procesorių entuziastų. Tas pats kartojasi ir šiemet. AMD jau turėjo price/performance lyderystę, kai kalba buvo apie multi-thread spartą, tačiau pagaliau šį kartą galim pamatyti tokią lyderystę net ir single-thread atžvilgiu, ko iš AMD jau nematėme išties daugybę metų:
