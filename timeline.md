@@ -10,6 +10,7 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 
 * Google planuoja [limituoti adblock'us](wiki/technologijos/technologijos.md#chrome-limituos-adblockus-tik-iki-enterprice-useri) Chrome naršyklėje
 * [Žmogaus akies limitai](wiki/faktai.md#zmogaus-akies-galimyb-s) arba ar reikalingi greiti ekranai.
+* Gaminio savikaina neatspindi [jo sąnaudų](wiki/ekonomika/#faktai)
 
 #### 2019-05-28
 

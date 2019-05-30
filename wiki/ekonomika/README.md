@@ -12,6 +12,7 @@ description: >-
 
 ## Faktai
 
+* Pagaminti Apple laikrodį kainuoja 83,7 dolerio. Tačiau žmonės kurie erzinasi, jaučiasi permokėję ar juokiasi iš tokio fakto, neįvertina bendrojo vaizdo. Gaminio kaina nėra lygi tik komponentų kainų sumai. Pirmiausia tas gaminys turi būti suprojektuotas, tad tai yra R&D išlaidos. Apple atveju, tai siekia 15 mlrd. dolerių ir yra didžiausia suma visoje IT industrijoje. Tada seka tos pačios dalys, surinkimas, inventorizacija, logistika, marketingas. Apple turi krūvą savo firminių parduotuvių, reikia rūpintis garantiniu aptarnavimu. Ir visą tai reikia įskaičiuoti į tą gaminio kainą, plius pasilikti sveiką pelno maržą. Tad akivaizdu, jog gaminio savikaina toli gražu neatspindi visų su tuo gaminiu susijusių kaštų.
 * [Jeigu JAV įsivestų papildomą turto mokestį, kuriuo apmokestintu viso labo 0,05% pačių turtingiausių, tai per metus papildomai būtų surenkama apie 200 mlrd. $.](https://www.youtube.com/watch?v=pTwPHuE_HrU)
 * [Vienos didžiausių akinių rėmelių gamintojos prezidentas komentuoja apie dabartines akinių kainas](https://imgur.com/IkpbOyr) Rėmeliai pagaminti kainuoja po 4-8$, o JAV vėliau pardavinėjami po 800$.
 * [Faktas iš Bill Gates "Ask Me Anything": jis yra sumokėjęs 10 mlrd. dolerių mokesčiams ir mano, kad visgi tai per maža suma. Hardest flex of all time](https://www.reddit.com/r/IAmA/comments/aunv58/im_bill_gates_cochair_of_the_bill_melinda_gates/)
