@@ -11,6 +11,7 @@
 | Autorius | Knyga |
 | :--- | :--- |
 | Steven D. Levitt, Stephen J. Dubner | [Freakonomics](https://www.amazon.com/Freakonomics-Economist-Explores-Hidden-Everything/dp/0060731338) |
+| Chris Voss | [Never Split the Difference: Negotiating As If Your Life Depended On It](https://www.amazon.com/Never-Split-Difference-Negotiating-Depended/dp/0062407805) |
 
 ## PlanToRead
 
@@ -18,7 +19,6 @@
 | :--- | :--- |
 | Matthew Walker | [Why We Sleep: Unlocking the Power of Sleep and Dreams](https://www.amazon.com/Why-We-Sleep-Unlocking-Dreams/dp/1501144316) |
 | Cal Newport | [Digital Minimalism: Choosing a Focused Life in a Noisy World](https://www.amazon.com/Digital-Minimalism-Choosing-Focused-Noisy/dp/0525536515) |
-| Chris Voss | [Never Split the Difference: Negotiating As If Your Life Depended On It](https://www.amazon.com/Never-Split-Difference-Negotiating-Depended/dp/0062407805) |
 | Scott Adams | [How To Fail At Almost Everything And Still Win Big](https://www.amazon.com/How-Fail-Almost-Everything-Still-ebook/dp/B00COOFBA4) |
 | Michael Pollan | [How to Change Your Mind](https://www.amazon.com/Change-Your-Mind-Consciousness-Transcendence/dp/1594204225) |
 | Andy Weir | [Artemis](https://www.amazon.com/Artemis-Andy-Weir/dp/1543641490) |
