@@ -9,6 +9,12 @@ Ieškojau self-hosted alternatyvų Gitbook'ui, kad turėti kiek daugiau laisvės
 * [Vuepress ](https://vuepress.vuejs.org/)/ [Wiki.js](https://wiki.js.org/) / [docsify](https://docsify.js.org/#/?id=docsify) - šiuolaikiškesnės, JS pagrindu veikiančios alternatyvos. Veikia maloniai, tačiau abejotinas SEO ir kiek ribotos galimybės ką nors keisti.
 * [BookStack ](https://www.bookstackapp.com)- knygos, skyrių ir puslapių principu organizuotas laravel'inis CMS'as. Turi build-in redaktorių ir file manager'į, tačiau UI kiek per daug atima iš turinio, bei content'as jau saugojamas duombazėje
 
+Kelios ne self-hosted alternatyvos:
+
+* [Slite](https://slite.com/features)
+* [Tettra](https://tettra.co/)
+* [Notion](https://notion.so)
+
 ## Notes
 
 * [Inkdrop ](https://inkdrop.app/)- nors pozicionuojamas daugiausiai, kaip Markdown editorius, tačiau iš esmės yra pigesnė \($5 vs $8\) Evernote alternatyva. Panašus layout'as su notebook'ai ir tag'ais, sync, web cliperiu ir multiplatformiškumu. Labai gerai išdirbtas, geras MacOS'iškas UI, malonus naudoti, tačiau visai neturi free plano.
