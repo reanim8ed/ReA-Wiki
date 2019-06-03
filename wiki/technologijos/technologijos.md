@@ -4,6 +4,18 @@ description: 'IT pasaulio naujienos, kurias rašau soc.tinkluose'
 
 # TechIT straipsniai
 
+## 2019-06
+
+### WWDC 2019 - 2019-06-03
+
+Kaip įprasta, praėjus Apple renginiui visada kyla įvairių pastebėjimų. Taigi, WWDC 2019:
+
+* šiemet renginys tikrai solidus, nuveikta nemažai ir prabėgta pro krūvą punktų, ties kai kuriais iš jų stabtelint vos akimirkai. Visgi tikėtasi, kad iOS apps'ai MacOS sistemoje ir iOS dark mode'as bus renginio fokusas ir ties tuo naujovės ir pasibaigs.Tokia išties naudingų pakeitimų, kaip pvz XCode IDE patobulinimai, SwiftUI framework'as ar Macbook lokacijos nustatymas, kai kompiuteris yra sleep režime, gausa yra didelis kontrastas nuo praėjusių metų, kai daug laiko sugaišta kalbant apie Memoji ir kitus useless dalykus;
+* iPad OS. iOS iPad'e pagaliau pradeda rimtai diferencijuotis nuo iPhone versijos ir įgavo atskirą branch'ą nauju pavadinimu. Panašu, kad Apple girdi kritiką apie tai, jog iš iPad'o geležies didelės spartos mažai naudos, kai įrenginio galimybės išlieka apribotos dėl OS. Atsiranda funkcionalumas, kurio iš tiesų prašė vartotojai: gerinamos multi-task funkcijos, kaip kad galimybė atsidaryti porą to paties apps'o langų, scrollinti su scrollbar'u, folderių share'as, taipogi pagaliau bus galima prisijungti flashiukus ir SD korteles, Safaris nebeatidarinės telefoninės svetainių versijos, įgaus download manager'į ir kita. Nors iPad OS vis dar išlieka limituojanti, tačiau tai jau žingsnis tinkama linkme;
+* Apple Watch. Atsiranda atskiri nuo telefono appsai bei App Store'as jau pačiame laikrodyje. Taipogi kelios naujos health funkcijos, kaip kad aplinkos triukšmo matavimas ir keli native apps'ai, kaip voice memos, audiobook'ai ir skaičiuotuvas. Laikrodis pagaliau gavo kalkuliatorių, o iPad'as per visus tuos metus taip ir liko be jo :/ Jau nebedaug lieka, jog Apple Watch taptų pilnai autonominiu ir jį įsigyti galės jau ne tik iPhone savininkai;
+* pagaliau parodytas žadėtasis modulinis Mac Pro. Jei bulvių tarkos dizainas gali įkvėpti ne visus, tai galimybės jau kita kalba: iki 28 branduolių Xeon'as, 12 operatyviosios atminties slotų, palaikančių iki 1,5TB \(taip, rimtai kalbama apie RAM, o ne SSD\), 8 PCI-E, galima pasijungti dvi Radeon Pro Vega 2 Duo, kurios tarpusavyje turės 128GB atminties ir palaiko iki aštuonių 4K ekranų, na o visam tam energiją paduos įspūdingas 1.4 kW maitinimo blokas. Kažkodėl pasilikta prie Intel, kai Macbook'uose dabar pagrinde naudojami AMD procesoriai. Atrodė, kad bus galima tikėtis Threadripper'io. Įdomi bus maksimalios komplektacijos kaina, kai bazinė prasideda nuo 6K$ ir joje galima rasti 8 branduolius su 32gb RAM ir RX580 ir tai ko ne 6 kartus didesnė, nei naudojamų komponentų kaina, o tas 28 branduolių Intel Xeon W vienas pats kainą išpūs visais 3K; 
+* nepaisant to, kad overall renginys šaunus, neišvengta ir kontroversijos: kartu su naujuoju Mac Pro pristatytas ir 6K monitorius, pavadinimu Pro Display XDR, kurio kaina 5000$. Atsižvelgiant į šio monitoriaus specifikacijas ir į tai, kad tokių savybių ekrano daugiau niekas negamina, tai kaina visai nestebina, o ir produktas labiau orientuotas profesionalias dizaino ir montažo kompanijas ar pavienius specialistus, kuriems reikia tokio įrankio. Ir šiai nišai gaminys visgi paliko įspūdį. Tačiau kontroversija kyla iš to, jog pasirodo jog stovas monitoriui nėra pridedamas komplektacijoje ir jį reikia nusipirkti papildomai už 1000 o.O Ši kaina bandyta paskelbti greitai, prabėgom, tačiau salės autorija į ją iš karto sureagavo. Manau, kad būtų užtekę padaryti monitorių už 6K$, neišskiriant stovo ir daugumai visai nebūtų užkliuvę.
+
 ## 2019-05
 
 ### Chrome limituos adblock'us tik iki enterprice user'ių - 2019-05-30

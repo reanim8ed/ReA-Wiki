@@ -4,6 +4,12 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 
 # Timeline
 
+## 2019-06
+
+#### 2019-06-03
+
+* Apple [WWDC 2019](wiki/technologijos/technologijos.md#wwdc-2019-2019-06-03) renginio pastebėjimai
+
 ## 2019-05
 
 #### 2019-05-30
