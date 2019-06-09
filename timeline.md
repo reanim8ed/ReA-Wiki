@@ -9,6 +9,7 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 #### 2019-06-09
 
 * [Černobylio istorija](wiki/istorija/#cernobylis) su nuotraukomis
+* Istorija apie paskutinį sovietų sąjungos pilietį, kuris liko įkalintas kosmose.
 
 #### 2019-06-06
 
