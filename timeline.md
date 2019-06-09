@@ -8,8 +8,8 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 
 #### 2019-06-09
 
-* [Černobylio istorija](wiki/istorija/#cernobylis) su nuotraukomis
-* Istorija apie[ paskutinį sovietų sąjungos pilietį](wiki/istorija/#paskutinis-soviet-sajungos-pilietis), kuris liko įkalintas kosmose.
+* [Černobylio istorija](wiki/istorija.md#cernobylis) su nuotraukomis
+* Istorija apie[ paskutinį sovietų sąjungos pilietį](wiki/istorija.md#paskutinis-soviet-sajungos-pilietis), kuris liko įkalintas kosmose.
 
 #### 2019-06-06
 
@@ -50,7 +50,7 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 * Didelių [miestų apatiškumo](wiki/teorijos-efektai.md#dideli-miest-apatiskumas) efektas
 * [Avengers: Endgame](wiki/filmai.md#avengers-endgame-2019) filmas
 * [The way way back](wiki/filmai.md#the-way-way-back-2013) filmas
-* Pirmasis [McDonalds Rusijoje](wiki/istorija/)
+* Pirmasis [McDonalds Rusijoje](wiki/istorija.md)
 * Vaistai nuo gonorėjos, o tuo pačiu ir [grindų plovimo skystis](wiki/faktai.md)
 
 #### 2019-05-19
