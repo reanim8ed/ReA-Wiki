@@ -6,7 +6,7 @@
 
 ### Černobylis
 
-* Serialas Chernobyl \(2019\), kuris susilaukė netikėtai daug populiarumo \(ir ne be reikalo, nes jis išties puikus\), labai suaktyvino domėjimąsi šia istorine tema. Visgi tai išties labai įdomi istorija apie ko gero vieną didžiausių žmogaus sukeltų katastrofų istorijoje. Vienas reddit'o vartotojas sukūrė įrašą, kuriame prabėga pro visus pagrindinius šios istorijos punktus, kartu su [istorinėmis nuotraukomis](https://imgur.com/a/TwY6q). O kas liečia TV serialą, kaip bebūtų 5 valandose visko nesudėsi, tačiau kūrėjai stengėsi išlaikyti istoriją kuo arčiau teisybės. Apie tai kokie sprendimai buvo priimami ką ir kaip parodyti ir kaip tokia istorija perteikiama video formatu - [podcaste ](https://www.youtube.com/watch?v=rUeHPCYtWYQ)pasakoja serialo autoriai.
+* Serialas Chernobyl \(2019\), kuris susilaukė netikėtai daug populiarumo \(ir ne be reikalo, nes jis išties puikus\), labai suaktyvino domėjimąsi šia istorine tema. Visgi tai išties labai įdomi istorija apie vieną didžiausių žmogaus sukeltų katastrofų istorijoje. Vienas reddit'o vartotojas sukūrė įrašą, kuriame prabėga pro visus pagrindinius šios istorijos punktus, kartu su [istorinėmis nuotraukomis](https://imgur.com/a/TwY6q). O kas liečia TV serialą, kaip bebūtų 5 valandose visko nesudėsi ir žinoma show turi bent kiek dramatizuoti įvykius, tačiau kūrėjai stengėsi išlaikyti istoriją kuo arčiau teisybės ir jiem tai išties puikiai pavyko. Apie tai kokie sprendimai buvo priimami ką ir kaip parodyti ir kaip tokia istorija perteikiama video formatu - [podcaste ](https://www.youtube.com/watch?v=rUeHPCYtWYQ)pasakoja serialo autoriai.
 
 ### Pirmasis McDonalds Rusijoje
 
