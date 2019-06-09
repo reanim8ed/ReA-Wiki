@@ -94,7 +94,7 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 #### 2019-05-01
 
 * Japonijos naujasis [imperatorius](wiki/pasaulis/valstybes/japonija.md)
-* Carlin'o "I Kinda Like It When a Lotta People Die".
+* [Carlin'o](wiki/asmenybes/pop-kultura/george-carlin.md) "I Kinda Like It When a Lotta People Die".
 
 ## 2019-04
 
