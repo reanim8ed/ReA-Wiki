@@ -6,6 +6,10 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 
 ## 2019-06
 
+#### 2019-06-09
+
+* [Černobylio istorija](wiki/istorija/#cernobylis) su nuotraukomis
+
 #### 2019-06-03
 
 * Apple [WWDC 2019](wiki/technologijos/technologijos.md#wwdc-2019-2019-06-03) renginio pastebėjimai
