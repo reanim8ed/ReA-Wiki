@@ -10,6 +10,10 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 
 * [Černobylio istorija](wiki/istorija/#cernobylis) su nuotraukomis
 
+#### 2019-06-06
+
+* C&C žaidimų [remaster versija](wiki/technologijos/technologijos.md#c-and-c-remaster-2019-06-06)
+
 #### 2019-06-03
 
 * Apple [WWDC 2019](wiki/technologijos/technologijos.md#wwdc-2019-2019-06-03) renginio pastebėjimai

@@ -6,6 +6,10 @@ description: 'IT pasaulio naujienos, kurias rašau soc.tinkluose'
 
 ## 2019-06
 
+### C&C remaster - 2019-06-06
+
+* Žinoma, gaila jog ne nauji release'ai, tačiau bent jau strateginiai žaidimai ir vėl susilaukia developer'ių dėmesio: šiemet Age of Empires trilogija susilauks Definitive Editions ir bus išleista Steam'e, o C&C jau gaminami pirmieji 2 remasteriai. [https://www.neowin.net/news/command--conquer-remastered-now-in-full-production-ui-updates-shared](https://www.neowin.net/news/command--conquer-remastered-now-in-full-production-ui-updates-shared)
+
 ### WWDC 2019 - 2019-06-03
 
 Kaip įprasta, praėjus Apple renginiui visada kyla įvairių pastebėjimų. Taigi, WWDC 2019:
