@@ -6,6 +6,11 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 
 ## 2019-06
 
+#### 2019-06-10
+
+* [Anonsuota ](wiki/technologijos/technologijos.md#xbox-project-scarlett-2019-06-10)nauja Xbox konsolė
+* Firefox planuoja [mokamą Firefox](wiki/technologijos/technologijos.md#mozilla-planuoja-mokama-firefox-varianta-2019-06-10) variantą
+
 #### 2019-06-09
 
 * [Černobylio istorija](wiki/istorija.md#cernobylis) su nuotraukomis

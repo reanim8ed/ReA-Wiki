@@ -6,6 +6,19 @@ description: 'IT pasaulio naujienos, kurias rašau soc.tinkluose'
 
 ## 2019-06
 
+### Xbox Project Scarlett - 2019-06-10
+
+* Naujas Xbox'as. Pelės, klaviatūros support'as jau yra nuo rudens, o naujasis X'as turės Zen 2 ir Navi pagrindą. Pridėkim SSD ir gaunasi, kad šiuolaikinės konsolės iš esmės niekuom nuo stacionarių PC'iukų ir nesiskiria, apart OS. Vienintelis ryškus skirtumas - standartizuotas vienodas hardware'as, kuriam devai gali labiau optimizuoti.
+* [https://www.cnet.com/news/new-xbox-project-scarlett-8k-120-fps-ssd-coming-in-2020-microsoft-says-e3-2019/](https://www.cnet.com/news/new-xbox-project-scarlett-8k-120-fps-ssd-coming-in-2020-microsoft-says-e3-2019/)
+
+### Mozilla planuoja mokamą Firefox variantą - 2019-06-10
+
+* Kai 2/3 viso interneto suvalgoma per Chrome, Mozillai tenka ieškoti naujų būdų iš ko valgyti.
+
+> "Mozilla's precarious funding situation. According to Beard's answer in the interview 90% of the organization's income comes from search - i.e the royalties received from companies like Google and Yandex for including their search engines in Firefox. From our report on its 2017 balance sheet, the latest year for which it has published its accounts, Royalties amounted to $539,168,000 of total revenue of $562,279,000, which is around 96%."
+
+[https://thenextweb.com/apps/2019/06/10/mozilla-will-reportedly-launch-a-paid-version-of-firefox-this-fall/](https://thenextweb.com/apps/2019/06/10/mozilla-will-reportedly-launch-a-paid-version-of-firefox-this-fall/)
+
 ### C&C remaster - 2019-06-06
 
 * Žinoma, gaila jog ne nauji release'ai, tačiau bent jau strateginiai žaidimai ir vėl susilaukia developer'ių dėmesio: šiemet Age of Empires trilogija susilauks Definitive Editions ir bus išleista Steam'e, o C&C jau gaminami pirmieji 2 remasteriai. [https://www.neowin.net/news/command--conquer-remastered-now-in-full-production-ui-updates-shared](https://www.neowin.net/news/command--conquer-remastered-now-in-full-production-ui-updates-shared)
