@@ -10,6 +10,7 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 
 * [Anonsuota ](wiki/technologijos/technologijos.md#xbox-project-scarlett-2019-06-10)nauja Xbox konsolė
 * Firefox planuoja [mokamą Firefox](wiki/technologijos/technologijos.md#mozilla-planuoja-mokama-firefox-varianta-2019-06-10) variantą
+* [Patarimas studentui](wiki/ekonomika/investavimas.md#patarimas-studentui-kaip-teisingai-but-galima-pad-ti-gautus-40000eur), kuris domisi kaip būtų galima saugiai investuoti 40 000€
 
 #### 2019-06-09
 
