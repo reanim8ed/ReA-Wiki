@@ -9,6 +9,7 @@ description: 'IT pasaulio naujienos, kurias rašau soc.tinkluose'
 ### Xbox Project Scarlett - 2019-06-10
 
 * Naujas Xbox'as. Pelės, klaviatūros support'as jau yra nuo rudens, o naujasis X'as turės Zen 2 ir Navi pagrindą. Pridėkim SSD ir gaunasi, kad šiuolaikinės konsolės iš esmės niekuom nuo stacionarių PC'iukų ir nesiskiria, apart OS. Vienintelis ryškus skirtumas - standartizuotas vienodas hardware'as, kuriam devai gali labiau optimizuoti.
+* Buvo minėta, jog konsolė bus 4x galingesnė, nei Xbox One S. Žinoma, su Zen2 visko gali būti, kol kas apie šio procesoriaus galimybes pilnai dar nežinom, kol jis neištestuotas, tačiau gali būti, kad kalbant apie spartą turėta omenyje ir tokie dalykai, kaip loading times, cache ir pan, kas tiesiogiai nesiverčia į didesnį FPS. Taipogi buvo svaištomasi ir 4K 120FPS bet manau, kad tai BS. 2080Ti net to nepasiekia. Tai čia vėlgi upscailinimas, kas toli gražu nėra tas pats. Manau, realistiškai konsolėje galima tikėtis maždaug 2070 lygio GPU.
 * [https://www.cnet.com/news/new-xbox-project-scarlett-8k-120-fps-ssd-coming-in-2020-microsoft-says-e3-2019/](https://www.cnet.com/news/new-xbox-project-scarlett-8k-120-fps-ssd-coming-in-2020-microsoft-says-e3-2019/)
 
 ### Mozilla planuoja mokamą Firefox variantą - 2019-06-10
