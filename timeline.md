@@ -6,6 +6,15 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 
 ## 2019-06
 
+#### 2019-06-13
+
+* [Zawinskio taisyklė](wiki/programavimas/#law-of-software-envelopment)
+* [Chernobyl serialo įspūdžiai](wiki/filmai.md#chernobyl-2019)
+
+#### 2019-06-12
+
+* Kelios neblogos [citatos apie pinigus](wiki/ekonomika/#notes) iš Andriulio interviu žinių radijuje
+
 #### 2019-06-11
 
 * Naujasis AMD [flagmanas](wiki/technologijos/technologijos.md#naujasis-amd-consumer-lygio-flagmanas-2019-06-11)

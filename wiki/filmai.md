@@ -35,6 +35,23 @@ Reikia atkreipti dėmesį ir tai, kad šiame sąraše nežymiu serialų, tad či
 
 ## Komentarai
 
+### Chernobyl \(2019\)
+
+* Vienas įspūdingiausių ir geriausių serialų, kurį mačiau per pastaruosius keletą metų ir kuris išties puikiai atpasakoja įvykusio įvykio masiškumą ir padarinius. Toks siaubo ir katastrofų žanrų mišinys, kuris net tokią sceną, kaip 90 sekundžių akmenų metimas su kastuvu gali padaryti absoliučiai bauginančią.
+* Geras ne dėlto, kad filmuotas Lietuvoje ar kad jame vaidina vienas kitas lietuvių aktorius. Geras dėl amazing aktorių, puikiai parašytų dialogų, puikiai išvystytų veikėjų ir jų dinamikos tarpusavyje, siužeto, tempo, garso takelio, atmosferos, scenų, kostiumų ir kinematografijos. Praktiškai ne abejoju, jog Emmy apdovanojimuose turėtų susirinkti visą krūvą apdovanojimų, nes be abejonės tai stipriausias metų serialas. Šiuo metu jis turi geriausią reitingą tarp visų serialų ir double džiugina tai, kad titruose galima matyti dešimtis lietuviškų pavardžių.
+* Po pirmos serijos pasiskaitinėjau apie katastrofą plačiau, stebina, kaip puikiai ir tiksliai čia viskas perteikta. Nuo buities, atmosferos iki realių faktų ar net personažų išvaizdos \(ypač 3 teisiamieji\). Žiūrint tikras įvykių nuotraukas, pasimato kaip on-point viskas perteikta seriale. Taip pat nors atominiai reaktoriai yra išties sudėtinga tema, tačiau seriale išties gerai išaiškintas jų veikimas. Nupaprastatinta tiek, kad visiškai nenutuokiantis žmogus suprastų, tačiau nenuklystama nuo principų, kad net šią sritį suprantantys žmonės gali pritariamai linksėti.
+* Labai gerai, kad jis tokios trumpos, fiksuotos trukmės. Kiekviena scena seriale buvo reikalinga, svarbi, visiškai nesijautė tuščių, fillerinių vietų, tad istorija papasakota labai balansuotai. Net ir paskutinė serija išlaikė nerimą ir įtampą, ko įprastai nebūna serialų finaluose.
+* Gerai ir tai, kad nors serialas JAV gamybos, tačiau išvengta rusų vaizdavimo stereotipiškai, komiškai - t.y. incompetent, degtinę geriančiais durneliais. Veikėjai realistiški, ne perspausti. Taipogi ir tai, kad iš principo seriale nėra išties neigiamų veikėjų. Neigiama piešiama melais pagrįsta sistema, o ne konkretus asmuo. Bei nebuvo bandyta kiršti pozicija apie tai kokia visa ši industrija pavojinga. Serialo tikslas ne toks.
+* Po paskutinės serijos buvo paminėtos, net tos smulkios detalės, dėl kurių kažkas kibdavo, kaip pvz kad moteris mokslininkė neegzistavo ar kad 3 vyrai herojai kurie atsuko vožtuvus, išties nemirė, nors serialas taip ir leido suprasti. Yra išleistas atskiras[ podcast'as](https://www.youtube.com/watch?v=rUeHPCYtWYQ), kuriame režisierius aptaria kiekvieną seriją atskirai. Apie tai kas parodyta, ko neparodė, kokius kūrybinius sprendimus priiminėjo, norint istoriją geriau išversi į ekranus. Tikrai vertas dėmesio ir padeda šį serialą vertinti dar labiau.
+
+`Every lie we tell incurs a debt to the truth. Sooner or later that debt is paid.   
+  
+Why worry about something that isn’t going to happen? That’s perfect. They should put that on our money.`
+
+Ištrauka iš Lyudmilla Ignatenko \(gaisrininko žmona\) knygos Voices From Chernobyl:
+
+> At the morgue they said, "Want to see what we'll dress him in?" I do! They dressed him up in formal wear, with his service cap. They couldn't get shoes on him because his feet had swelled up. They had to cut up the formal wear, too, because they couldn't get it on him, there wasn't a whole body to put it on. It was all — wounds. The last two days in the hospital — I'd lift his arm, and meanwhile the bone is shaking, just sort of dangling, the body has gone away from it. Pieces of his lungs, of his liver, were coming out of his mouth. He was choking on his internal organs. I'd wrap my hand in a bandage and put it in his mouth, take out all that stuff. It's impossible to talk about. It's impossible to write about. And even to live through. It was all mine.
+
 ### The way way back \(2013\)
 
 * Po Kings of summer norėjosi pažiūrėti dar kokį coming of age stiliaus filmą. Besiknaisiodamas radau rekomendacijas į šį.
