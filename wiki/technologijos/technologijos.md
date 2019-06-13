@@ -6,6 +6,24 @@ description: 'IT pasaulio naujienos, kurias rašau soc.tinkluose'
 
 ## 2019-06
 
+### Audi etron ir Jaguar I-Pace sekasi ne per geriausiai - 2019-06-11
+
+* Įdomus kontrastas su tuo, kai būna neigiamos Tesla žinios. Apie tai skalambija pro visas puses, kaip WSJ, Bloomberg, NYT ir t.t. O vat kai tokios žinios, tai jos praeina patyliukais.
+
+> "According to investigators, the I-PACE’s regen brakes could exhibit an “increased delay” between the point when a driver hits the brakes and when the vehicle actually begins slowing down.
+>
+> According to the British carmaker, a software update is expected to address the increased delay in the all-electric crossover’s braking system, though this would not be rolled out through an over-the-air update similar to Tesla. Instead, the software update will be distributed through Jaguar’s dealer network at no cost to I-PACE owners. Jaguar is expected to start implementing the firmware update next month."
+
+Ouch. Until then, please enjoy your delayed braking. It's just like regular braking, but less timely.
+
+* [https://www.teslarati.com/tesla-killers-audi-etron-jaguar-ipace-recalled-over-fire-braking-risk/](https://www.teslarati.com/tesla-killers-audi-etron-jaguar-ipace-recalled-over-fire-braking-risk/)
+* [https://pbs.twimg.com/media/D8n6HH3UwAEgZUA.jpg](https://pbs.twimg.com/media/D8n6HH3UwAEgZUA.jpg)
+
+### Naujasis AMD consumer lygio flagmanas - 2019-06-11
+
+* O štai ir Ryzen flagmanas. 16 branduolių ateina į mainstreaminius consumer lygio CPU. Didesnė sparta, dvigubai mažesnė kaina ir energijos eikvojimas, nei Intel 16 branduolių atitikmuo.
+* [https://wccftech.com/amd-ryzen-9-3950x-cpu-official-16-core-32-thread-749-us-price/](https://wccftech.com/amd-ryzen-9-3950x-cpu-official-16-core-32-thread-749-us-price/)
+
 ### Xbox Project Scarlett - 2019-06-10
 
 * Naujas Xbox'as. Pelės, klaviatūros support'as jau yra nuo rudens, o naujasis X'as turės Zen 2 ir Navi pagrindą. Pridėkim SSD ir gaunasi, kad šiuolaikinės konsolės iš esmės niekuom nuo stacionarių PC'iukų ir nesiskiria, apart OS. Vienintelis ryškus skirtumas - standartizuotas vienodas hardware'as, kuriam devai gali labiau optimizuoti.

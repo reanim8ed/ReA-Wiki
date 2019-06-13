@@ -6,6 +6,11 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 
 ## 2019-06
 
+#### 2019-06-11
+
+* Naujasis AMD [flagmanas](wiki/technologijos/technologijos.md#naujasis-amd-consumer-lygio-flagmanas-2019-06-11)
+* "[Teslos killeriams](wiki/technologijos/technologijos.md#audi-etron-ir-jaguar-i-pace-sekasi-ne-per-geriausiai-2019-06-11)" sekasi ne per labiausiai
+
 #### 2019-06-10
 
 * [Anonsuota ](wiki/technologijos/technologijos.md#xbox-project-scarlett-2019-06-10)nauja Xbox konsolė
