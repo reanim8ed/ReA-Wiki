@@ -54,7 +54,23 @@ Podcast'ų klausymui yra išties nemažai gerų programų, tačiau pagrindinis m
 
 ## Perklausos
 
-### 2019 - 05
+### 2019-06
+
+* [Naval Ravikant](https://www.youtube.com/watch?v=3qHkcs3kG44) - vienas iš angel investorių AngelList kompanijoje
+
+> If you want to see who rules over you see who you not allowed to criticise.
+
+> Working for things as rewards is a real trap there a lot of people follow into.
+
+Netapsi turtingu vien tik pardavinėdamas savo laiką. Kiekvieną kartą, kai pradedi charginti daugiau už savo darbą, prasideda lėtas upgrade loop'as ir tavo išlaidos taipogi padidėja. Savo pajamų prieaugį panaudoji gyvenimo kokybės nedideliam pagerinimui, galbūt pasidarai remontą, susitvarkai ar nusiperki automobilį, perki butą, persikraustai į geresnį rajoną ir t.t. Dėl šios priežasties net dideles pajamas gaunantys žmonės, kaip pvz teisininkai, gydytojai ir pan taipogi nėra tokie jau išties turtingi, t.y. neturi milžiniškų sūmų savo sąskaitose. Ir gan greitai pradedama vėl sieki didesnio charginimo, nes niekas pernelyg nepasikeitė. Kitaip tariant - jei nori užsidirbti, turi tiesiog daug dirbti. Jeigu nori praturtėti - turi daryti kažką kito.
+
+> There are two great addictions - heroin and the monthly salary.
+
+> Specialisation is for insects.
+
+Žmonės randa vieną sritį, kurioje jiems sekasi ir dažniausiai lieka joje visą likusį gyvenimą. Dėlto, kad patogu, dėlto, kad taip nepasirodys neišmanėliais ir dėl baimės pradėti viską iš naujo. Romėnai, graikai turėjo visą ciklą - eini į mokyklą, dalyvauji kare, vertiesi veslu, tarnauji senate ir galiausiai tampi filosofu. Kitaip tariant turi daug skirtingų "karjerų", išbandai save keliose visiškai skirtingose srityse. Kitaip tariant, tai būdavo, tarsi gyvenimo arka. Dabar dažniausiai taip nebegyvename, specializuojamės.
+
+> ### 2019 - 05
 
 * [Jamie Metzl](https://youtu.be/aaZRiN15tXI) - futuristas, knygos Hacking Darwin autorius
 

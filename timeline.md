@@ -6,6 +6,10 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 
 ## 2019-06
 
+#### 2019-06-14
+
+* Podcastas su [Naval Ravikant](wiki/podcastai.md#2019-06)
+
 #### 2019-06-13
 
 * [Zawinskio taisyklė](wiki/programavimas/#law-of-software-envelopment)
