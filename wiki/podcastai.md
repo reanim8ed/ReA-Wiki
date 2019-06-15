@@ -54,7 +54,7 @@ Podcast'ų klausymui yra išties nemažai gerų programų, tačiau pagrindinis m
 
 ## Perklausos
 
-### 2019-06
+### 2019 - 06
 
 * [Naval Ravikant](https://www.youtube.com/watch?v=3qHkcs3kG44) - vienas iš angel investorių AngelList kompanijoje
 
@@ -68,7 +68,9 @@ Netapsi turtingu vien tik pardavinėdamas savo laiką. Kiekvieną kartą, kai pr
 
 > Specialisation is for insects.
 
-Žmonės randa vieną sritį, kurioje jiems sekasi ir dažniausiai lieka joje visą likusį gyvenimą. Dėlto, kad patogu, dėlto, kad taip nepasirodys neišmanėliais ir dėl baimės pradėti viską iš naujo. Romėnai, graikai turėjo visą ciklą - eini į mokyklą, dalyvauji kare, vertiesi veslu, tarnauji senate ir galiausiai tampi filosofu. Kitaip tariant turi daug skirtingų "karjerų", išbandai save keliose visiškai skirtingose srityse. Kitaip tariant, tai būdavo, tarsi gyvenimo arka. Dabar dažniausiai taip nebegyvename, specializuojamės.
+Žmonės randa vieną sritį, kurioje jiems sekasi ir dažniausiai lieka joje visą likusį gyvenimą. Dėlto, kad patogu, dėlto, kad taip nepasirodys neišmanėliais ir dėl baimės pradėti viską iš naujo. Romėnai, graikai turėjo visą ciklą - eini į mokyklą, dalyvauji kare, vertiesi veslu, tarnauji senate ir galiausiai tampi filosofu. Kitaip tariant turi daug skirtingų "karjerų", išbandai save keliose visiškai skirtingose srityse. Tarsi gyvenimo arka. Dabar dažniausiai taip nebegyvename, specializuojamės.
+
+> We each have two lives. The second one begins, when we realize we have only one.
 
 > ### 2019 - 05
 
