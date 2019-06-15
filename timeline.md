@@ -8,7 +8,7 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 
 #### 2019-06-14
 
-* Podcastas su [Naval Ravikant](wiki/podcastai.md#2019-06)
+* Pokalbis apie gyvenimo būdą, laimę, pinigus, meditaciją su silicon valley žvaigžde [Naval Ravikant](wiki/podcastai.md#2019-06)
 
 #### 2019-06-13
 
