@@ -11,9 +11,9 @@ description: >-
 * Bet kuriuo duotuoju momentu yra užsiėmimų, kuriais galėtum užsiimti ir kurie beveik nieko nekainuoja, tačiau visgi padaro tave laimingesniu.
 * Gyvenimo perteklius, kuris dar vadinamas turtu, ganėtinai priklauso nuo to, kaip dažnai pasirenki surasti tuos džiaugsmingus momentus.
 * Jeigu problemą galima lengvai išspręsti pinigais, tai ne problema, o tiesiog išlaidos. 
-* Laisvas žmogus - tai žmogus, kuriam nebereikia pardavinėti savo laiko kitiems. Kuo daugiau turi pinigų, tuo daugiau laiko iš kitų gali nusipirkti ir tuo mažiau tau reikia pardavinėti savojo.
+* Laisvas žmogus - tai žmogus, kuriam nebereikia pardavinėti savo laiko kitiems. Kuo daugiau turi turto, tuo daugiau laiko iš kitų gali nusipirkti ir tuo mažiau tau reikia pardavinėti savojo. Nebereikia nešioti kaklaraiščio, kuris yra tarsi antkaklis ant tavo kaklo. Nebereikia keltis 7-ą, tam jog skubėti į darbą bei sėdėti automobilių kamščiuose. Nebereikia švaistyti visų savo produktyvių valandų dirbant darbą, kuris tavęs neužpildo. Taigi viena ir iš tiesų esminė turto paskirtis - laisvė.
 * Pinigai yra konservuotas laikas
-* Fizinis darbas, protinis darbas ir nervinis darbas
+* Yra trys darbų rūšys: įprastiniai fizinis bei protinis darbas, bet yra ir dar viena - nervinis darbas.
 
 ## Faktai
 
