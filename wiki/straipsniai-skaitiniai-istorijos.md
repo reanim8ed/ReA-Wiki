@@ -2,7 +2,7 @@
 
 ### [Computational photography](https://vas3k.ru/blog/computational_photography/)
 
-* Long grid'as apie visus pagrindinius computational photography principus. Kitaip tariant, papasakojama kodėl nuotraukos vis gerėja, nors objektyviai iš esmės smarkiai nesikeičia ir apie tai, kad iš esmės visos esminės fotografijos inovacijos pastaruosius 10 metų vyksta būtent dėka mobiliųjų įrenginių.
+* Long grid'as apie visus pagrindinius computational photography principus. Kitaip tariant, papasakojama kodėl nuotraukos vis gerėja, nors objektyviai iš esmės smarkiai nesikeičia ir apie tai, kad visos esminės fotografijos inovacijos pastaruosius 10 metų vyksta būtent dėka mobiliųjų įrenginių.
 
 ### [I charged $18,000 for a Static HTML Page](https://idiallo.com/blog/18000-dollars-static-web-page)
 
