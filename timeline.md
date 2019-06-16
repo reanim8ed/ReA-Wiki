@@ -9,6 +9,7 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 #### 2019-06-16
 
 * [Computational photography](wiki/straipsniai-skaitiniai-istorijos.md#computational-photography). Fotografija jau dabar didele dalimi yra tiesiog kodas, o šios srities ateitis visiškai priklausys algoritmams.
+* [LOVE DEATH + ROBOTS](wiki/filmai.md#love-death-robots-2019)
 
 #### 2019-06-14
 

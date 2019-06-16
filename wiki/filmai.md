@@ -33,9 +33,19 @@ Reikia atkreipti dėmesį ir tai, kad šiame sąraše nežymiu serialų, tad či
 
 \*rikiavimas nėra eilės tvarka
 
-## Komentarai
+## Atsiliepimai
 
-### Chernobyl \(2019\)
+### [LOVE DEATH + ROBOTS \(2019\)](https://www.youtube.com/watch?v=wUFwunMKa4E)
+
+* Paskutinis iš tiesų įsimintinas, dėmesį išties patraukęs ir lūkesčius pateisinęs reginys Netflix'e buvo Devilman crybaby. Dabar šį titulą sėkmingai gali perimti šis serialas.
+* Pirmą kartą su antologija susidūriau dar mokydamasis mokykloje, kai išvydau Animatrix \(2003\). Ir šioji įsiminė, jog vat iki šiol dar prisimenu. Dabar su šiuo žanru daugiausiai žmonės susipažinę iš Black Mirror \(kurio naujausias 5 sezonas buvo stebėtinai silpnas\).
+* Love Death + Robots apima 18 trumpų serijų, kurias ir vienija šios 3 esminės temos.
+* Kadangi epizodai kardinaliai skirtingi, tai žinoma patiko toli gražu ne visi, bet antologijos tuom ir geros, jog kažką sau rasti tokiame asorti gali kiekvienas.
+* Epizodai Good Hunting ar Shape-Shifters per gan trumpą laiką spėjo išvystyti gan nemažai istorijos ir visai nesunku būtų įsivaizduoti, kad šiuos pavienius epizodus būtų galima išplėsti į atskirus show.
+* Labai neblogai parašyta Zima Blue epizodas, o ir jo stilistika primena, lyg taipogi būtų iš Animatrix. Įsimintina liko ir The witness. Sužavėjo ne tiek savo istorija, kiek labai unikalia stilistika. Pirmą kartą mačiau kažką tokio panašaus. Galbūt turi panašumų su Into the spiderverse, tik daug labiau NSFW ;\)
+* Džiaugiuosi ir tuom, kad tai ne vienkartinis reikalas ir jau yra paskelbtas antrasis sezonas.
+
+### [Chernobyl \(2019\)](https://www.youtube.com/watch?v=s9APLXM9Ei8)
 
 * Vienas įspūdingiausių ir geriausių serialų, kurį mačiau per pastaruosius keletą metų ir kuris išties puikiai atpasakoja įvykusio tragedijos masiškumą ir kraupumą. Toks siaubo ir katastrofų žanrų mišinys, kuris net tokią sceną, kaip 90 sekundžių trukmės akmenų metimą su kastuvu, gali padaryti absoliučiai bauginančią. 
 * Senokai jau teko susidurti su serialu, apie kurį kalba net tie aplinkiniai, kurie įprastai serialų nelabai žiūri. Šiuo metu tai patį aukščiausią reitingą turintis serialas, kuris nusipelnė pasidžiaugti tokia šlove ir kiek liūdnoka stebėti, kai mūsuose garsiausiai einantis atsiliepimas yra pašiepimas dėl plastikinių langų.
@@ -54,7 +64,7 @@ Taipogi ištrauka iš Lyudmilla Ignatenko \(gaisrininko žmona\) knygos Voices F
 
 > At the morgue they said, "Want to see what we'll dress him in?" I do! They dressed him up in formal wear, with his service cap. They couldn't get shoes on him because his feet had swelled up. They had to cut up the formal wear, too, because they couldn't get it on him, there wasn't a whole body to put it on. It was all — wounds. The last two days in the hospital — I'd lift his arm, and meanwhile the bone is shaking, just sort of dangling, the body has gone away from it. Pieces of his lungs, of his liver, were coming out of his mouth. He was choking on his internal organs. I'd wrap my hand in a bandage and put it in his mouth, take out all that stuff. It's impossible to talk about. It's impossible to write about. And even to live through. It was all mine.
 
-### The way way back \(2013\)
+### [The way way back \(2013\)](https://www.youtube.com/watch?v=6qoaVUdbWMs)
 
 * Po Kings of summer norėjosi pažiūrėti dar kokį coming of age stiliaus filmą. Besiknaisiodamas radau rekomendacijas į šį.
 * Istorija apie kuklų paauglį berniuką, kuris kartu su savo mama, jos naujuoju, gan nemaloniu valdingu jos vaikinu ir jo dukra išsiruošia atostogauti. Negalėdamas pritapti, stengiasi kuo mažiau būti namie ir netikėtai susipažįsta ir susidraugauja su vyruku, dirbančiu vandens pramogų parke.
@@ -68,7 +78,7 @@ Taipogi ištrauka iš Lyudmilla Ignatenko \(gaisrininko žmona\) knygos Voices F
 > [walks away from picinic table where he has been sitting alone]  
 > Owen: Hey, hey! Whoa, whoa. I'm just kidding. Wow! That wasn't even my best stuff. Are you for real? Listen, I can tell you're in complete awe of our picnic table. It is one-of-a-kind, except for the 200 other ones here that are exactly like it. There is more to the park to be seen.`
 
-### Avengers: Endgame \(2019\)
+### [Avengers: Endgame \(2019\)](https://www.youtube.com/watch?v=TcMBFSGVi1c)
 
 * Net 3h ilgio filmas, užbaigiantis visą prieš dešimtmetį pradėtą Marvel arką.
 * Nors filmas išties ilgas, tačiau žiūrint visai neprailgo ir laikas prabėgo išties greitai. Bendrai paėmus, tikrai enjoyable filmas, su sąlyga, kad žmogui tinka fantastika/comic book filmai.
@@ -87,7 +97,7 @@ Taipogi ištrauka iš Lyudmilla Ignatenko \(gaisrininko žmona\) knygos Voices F
 * Visgi nereikia pamiršti priežasčių, kodėl serialas tapo tokiu populiariu in the first place. Jo production'o kokybė  nuostabi: set'ai, kostiumai, CGI, praktiniai efektai ar vaidyba išties aukščiausio lygio, visa galva aukščiau už bet kurį kitą televizijos serialą. Problema, kad šiomis savybėmis sunku mėgautis, kai scenarijus tampa silpnas. Tad nors ir buvo išties įdomu stebėti šią kelionę, kuri padovanojo tikrai ne vieną neišdildomą įspūdį, tačiau pabaiga išties sugadina šio show legacy.
 * Geras, scenarijaus didžiausius trūkumus aptariantis [video ](https://www.youtube.com/watch?v=I8U6kjqLkJQ)apie tai.
 
-### The Witch: Part 1. The Subversion \(2018\)
+### [The Witch: Part 1. The Subversion \(2018\)](https://www.youtube.com/watch?v=BmD6BAQjDzY)
 
 * Iki šiol kiek teko matyti korejietiškų filmų - visi paliko įspūdį. Taip, dažniausiai jų filmai leidžiasi į gan nemažus kraštutinumus ir yra gan smarkiai perspaudžiama. Ypač tai galioja jeigu filmas yra su fantastiniais elementais. Jeigu jau pradedi, tai jau eiti iki galo ir pateikti fantastikų fantastiką. Tačiau... Kad ir kokie nerealistiški scenarijai tai būtų, pats filmas būna padarytas išties kokybiškai ir dėlto susižiūri kaip visai nebloga pramoga.
 * Filmas pasakoja istoriją apie mergaitę, kurį pabėgusi iš kažkokios organizacijos, praranda atmintį ir ją priglaudžia pas savęs vyresnio amžiaus pora. Praėjus dešimtmečiui jos gyvenime pradeda atsirasti ir persekioti žmonės iš jos praeities, teigiantys, kad mergaitė yra ypatinga ir turi specialių sugebėjimų.
@@ -102,7 +112,7 @@ Taipogi ištrauka iš Lyudmilla Ignatenko \(gaisrininko žmona\) knygos Voices F
 * Tačiau visgi pati istorija nebuvo labai įtraukianti. Filmas, kurio pagrindas kaip ir yra perteikti to laikmečio žiaurumus, jų pernelyg daug taip ir neparodė. Pora šūvių ir psichologinio smurto ir viskas susiveda tiesiog į atšiaurias klimato sąlygas. Galbūt būtų norėjęsi daugiau terorizavimo, sunkumų, kuriuos tenka įveikti pagrindiniams herojams. Veikėjai taipogi nebuvo labai įdomūs, dėlto su jais tapatintis sunku.
 * Gan per lengvas, pateiktas gan paviršutiniškai ir akivaizdžiai yra orientuotas į užsienio rinką ir šiame kontekste ko gero ir veikia labiausiai. Lengvai ir greitai nupiešia bendrą paveikslą, supažindina su mitais ir tautiškumu. Manau tokių filmų eksportui tikrai reikia. Tačiau, šis, puikiai mums pažįstamas istorijas pasakojantis filmas, namuose, be savo aukštos produkcijos, didelio įspūdžio visgi nepalieka.
 
-### Mid90s \(2018\)
+### [Mid90s \(2018\)](https://www.youtube.com/watch?v=zXzSE0uqmjI)
 
 * Jonah Hill režisūrinis debiutas, pasakojantis apie 13-metį gyvenantį 90-tųjų Los Angeles, kuris gyvena tipiniame low income rajone, probleminėje šeimoje ir ieško pabėgimo nuo rūpesčių tarp savo naujų skaterių draugų.
 * Filmas iš esmės siužeto nelabai turi. Didžioji filmo dalis yra tiesiog paauglių laiko leidimas kartu vasaros laikotarpiu. Tačiau pagrindinė filmo užduotis buvo perkelti žiūrovą į tą laikmetį ir manau, kad tai padaroma puikiai su 16mm "kvadratinio vaizdo" kamera, muzika, charakteriais. 
@@ -112,7 +122,7 @@ Taipogi ištrauka iš Lyudmilla Ignatenko \(gaisrininko žmona\) knygos Voices F
 
 `You literally take the hardest hits out of anybody I'd ever seen in my life. You know you don't have to do that, right?`
 
-### After Life \(2019\)
+### [After Life \(2019\)](https://www.youtube.com/watch?v=eIGGKSHMQOM)
 
 * Naujausias Ricky Gervais serialas apie vyrą, kuris po savo žmonos netekties tampa kandus ir praranda norą ir tikslą toliau gyventi.
 * Serialo siužetas paprastas, labai nepretenzingas, ganėtinai struktūriškas ir lėtas.  Nesitikėjau iš jo daug, iš anksto pernelyg neįsigilinęs tikėjausi kiek lėkštoko, Gervais būdingo humoro, o visgi maloniai nustebino. Pirmiausia savo paprastumu, eiga ir tuo, kad liečiamos depresijos, egzistencinės krizės temos, tačiau tai daroma be pernelyg daug užmojo ir šiuo atveju man tai patinka. Taipogi labai puikiai sueina ir humoras. Kasdieninės, nepatogios situacijos, pripildytos sarkastiskų replikų.
@@ -125,7 +135,7 @@ Taipogi ištrauka iš Lyudmilla Ignatenko \(gaisrininko žmona\) knygos Voices F
   
 #Happiness is amazing. It's so amazing, it doesn't matter if it's yours or not`
 
-### Kings of summer \(2013\)
+### [Kings of summer \(2013\)](https://www.youtube.com/watch?v=fThJt2nRUeM)
 
 * Yra toks filmų stilius, kuriuos galima apibūdinti, kaip nerūpestingi, šarmo turintys nedidelio biudžeto indie filmai, kur veiksmas vyksta vasarą ir pasakoja coming of age istoriją bei apie santykius, pirmąsias meiles ar draugystes. Į tokių filmų kategoriją galima būtų įstatyti Earl and the Dying Girl, The Spectacular Now, The Perks of Being a Wallflower, Stand By Me ir šį, Kings Of Summer.
 * Rimtai į save nežiūrintis filmas, turintis nemažai quirky scenų, kartais gal besistengiantis būti per daug hipsterišku. Bet turintis tokį savo labai įdomiai keistą stilių.
