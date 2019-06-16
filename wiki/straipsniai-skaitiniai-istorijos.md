@@ -1,5 +1,9 @@
 # Straipsniai / skaitiniai / istorijos
 
+### [Computational photography](https://vas3k.ru/blog/computational_photography/)
+
+* Long grid'as apie visus pagrindinius computational photography principus. Kitaip tariant, papasakojama, kaip telefonų kameros sugeba fotografuoti vis geriau, nors jų objektyvai tokie riboti ir apie tai, kad iš esmės visos esminės fotografijos inovacijos pastaruosius 10 metų vyksta būtent dėka mobiliųjų įrenginių.
+
 ### [I charged $18,000 for a Static HTML Page](https://idiallo.com/blog/18000-dollars-static-web-page)
 
 * Istorija, labai puikiai parodanti kokie gremėzdiški ir darbų atžvilgių neefektyvūs gali būti korporatyvai. Tikri laiko siurbikai ir jis deginamas daugybėje susitikimų, laukime ir begalėje elektroninių laiškų. Skaitant kitų industrijoje dirbančių žmonių reakcijas į šį straipsnį, galima nesunkiai suprasti, kad tai toli gražu nėra vienetinis atvejis ir tokios ir panašios istorijos ištiesų nutinka nuolat.
