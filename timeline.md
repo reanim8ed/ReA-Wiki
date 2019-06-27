@@ -6,6 +6,10 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 
 ## 2019-06
 
+#### 2019-06-27
+
+* [Socialinės klasės](wiki/ekonomika/socialines-klases.md)
+
 #### 2019-06-16
 
 * [Computational photography](wiki/straipsniai-skaitiniai-istorijos.md#computational-photography). Fotografija jau dabar didele dalimi yra tiesiog kodas, o šios srities ateitis visiškai priklausys algoritmams.

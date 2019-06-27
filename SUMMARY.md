@@ -16,6 +16,7 @@
 * [Citatos](wiki/citatos.md)
 * [Ekonomika / finansai](wiki/ekonomika/README.md)
   * [Investavimas / FIRE](wiki/ekonomika/investavimas.md)
+  * [Socialinės klasės](wiki/ekonomika/socialines-klases.md)
 * [Faktai](wiki/faktai.md)
 * [Filmai / serialai](wiki/filmai.md)
 * [Istorija](wiki/istorija.md)
