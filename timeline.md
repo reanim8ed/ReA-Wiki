@@ -12,6 +12,7 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 * [Tamsioji reCAPTCHA pusė](wiki/technologijos/technologijos.md#tamsioji-recaptcha-pus)
 * [Senoliai nusikaltėliai](wiki/straipsniai-skaitiniai-istorijos.md#senoliai-nusikalt-liai)
 * [Xbox hakerių grupuotė](wiki/straipsniai-skaitiniai-istorijos.md#xbox-hakeri-grupuot)
+* [Kompensacijos už vėluojantį skrydį išmušimo instrukcija](wiki/pasaulis/keliones/kompensacijos-uz-veluojanti-skrydi-ismusimo-instrukcija.md)
 
 #### 2019-06-27
 

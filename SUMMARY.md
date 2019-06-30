@@ -29,6 +29,7 @@
 * [MealTimeVideos](wiki/mealtimevideos.md)
 * [Pasaulis](wiki/pasaulis/README.md)
   * [Kelionės](wiki/pasaulis/keliones/README.md)
+    * [Kompensacijos už vėluojantį skrydį išmušimo instrukcija](wiki/pasaulis/keliones/kompensacijos-uz-veluojanti-skrydi-ismusimo-instrukcija.md)
     * [Barcelona \(2019\)](wiki/pasaulis/keliones/barcelona-2019.md)
     * [Graikija \(2018\)](wiki/pasaulis/keliones/graikija-2018.md)
     * [Tailandas \(2015\)](wiki/pasaulis/keliones/tailandas-2015/README.md)
