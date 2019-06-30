@@ -6,6 +6,11 @@ description: 'IT pasaulio naujienos, kurias rašau soc.tinkluose'
 
 ## 2019-06
 
+### 500$ AMD Ryzen 9 3900X yra praktiškai toks pat greitas, kaip 2k$ Intel Core i9-9980XE
+
+* Šito buvo galima tikėtis, nes 3900X optimizuotas mažesniam branduolių kiekiui, kurie yra greitesni \(12 x 3,8 GHz\) kai tuo tarpu 9980XE turi didesnį kiekį lėtesnių branduolių \(18 x 3.0 Ghz\). Geresnis palyginimas būtų tarp 3950X vs 9980XE kurių branduolių kiekis yra panašesnis \(16 vs 18\). Ir AMD vis vien lenkia Intel tiek single-threaded, tiek multi-treaded spartoje, nors ir turi 2 branduoliais mažiau! Ir plius yra 62% pigiau \(750$ vs 1950$\) bei eikvoja 36% mažiau energijos.
+* [https://www.techquila.co.in/amd-ryzen-9-3900x-intel-core-i9/](https://www.techquila.co.in/amd-ryzen-9-3900x-intel-core-i9/)
+
 ### Audi etron ir Jaguar I-Pace sekasi ne per geriausiai - 2019-06-11
 
 * Įdomus kontrastas su tuo, kai būna neigiamos Tesla žinios. Apie tai skalambija pro visas puses, kaip WSJ, Bloomberg, NYT ir t.t. O vat kai tokios žinios, tai jos praeina patyliukais.
