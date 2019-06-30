@@ -9,6 +9,7 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 #### 2019-06-30
 
 * [500$ AMD Ryzen 9 3900X yra praktiškai toks pat greitas, kaip 2k$ Intel Core i9-9980XE](wiki/technologijos/technologijos.md#500usd-amd-ryzen-9-3900x-yra-praktiskai-toks-pat-greitas-kaip-2kusd-intel-core-i-9-9980xe)
+* [Tamsioji reCAPTCHA pusė](wiki/technologijos/technologijos.md#tamsioji-recaptcha-pus)
 
 #### 2019-06-27
 

@@ -6,6 +6,14 @@ description: 'IT pasaulio naujienos, kurias rašau soc.tinkluose'
 
 ## 2019-06
 
+### Tamsioji reCAPTCHA pusė
+
+* Naujoji nematoma reCAPTCHA veikia principu, kai tikrinama ne ar esi botas, o digital fingerprinting pagalba bandoma nustatyti, kuris konkrečiai žmogus esi. Labai efektyvu iš saugumo pusės, not so great jei kalbama apie privatumą.
+
+  Blogiausia, jog jei nori atsisakyti tokio informacijos rinkimo, blokuoji Google script'us, naudojiesi VPN'u, secure browseriais ar pan, tai dalis interneto svetainių tampa nebepanaudojamos.
+
+* [https://www.fastcompany.com/90369697/googles-new-recaptcha-has-a-dark-side](https://www.fastcompany.com/90369697/googles-new-recaptcha-has-a-dark-side)
+
 ### 500$ AMD Ryzen 9 3900X yra praktiškai toks pat greitas, kaip 2k$ Intel Core i9-9980XE
 
 * Šito buvo galima tikėtis, nes 3900X optimizuotas mažesniam branduolių kiekiui, kurie yra greitesni \(12 x 3,8 GHz\) kai tuo tarpu 9980XE turi didesnį kiekį lėtesnių branduolių \(18 x 3.0 Ghz\). Geresnis palyginimas būtų tarp 3950X vs 9980XE kurių branduolių kiekis yra panašesnis \(16 vs 18\). Ir AMD vis vien lenkia Intel tiek single-threaded, tiek multi-treaded spartoje, nors ir turi 2 branduoliais mažiau! Ir plius yra 62% pigiau \(750$ vs 1950$\) bei eikvoja 36% mažiau energijos.
