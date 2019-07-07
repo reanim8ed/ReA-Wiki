@@ -1,5 +1,19 @@
 # Komunikacija
 
+## [10 ways to have a better conversation](https://www.ted.com/talks/celeste_headlee_10_ways_to_have_a_better_conversation)
+
+Dažniausiai, kai susiduriama su tokio pobūdžio list'ais - dauguma punktų yra pažįstami, esame juos skaitę jau ne kartą ar atrodo kaip visiškai obvious ar nieko naujo. Bet, reali nauda susikuria būtent tada, kai šie punktai yra išties įsisavinami. O kad tai įvyktų, jie turi būti nuolat primenami. Tiek, kad jie taptų lengvai atsimenami esant situacijoje, kurioje tuos patarimus galima būtų pritaikyti. Ir tuomet dažnai ir sąmoningai juos bandant panaudoti, po kažkiek laiko tai tampa natūralu ir paprasta. Repetition is the mother of learning.
+
+* It used to be that in order to have a polite conversation, we just had to follow the advice of Henry Higgins in "My Fair Lady": Stick to the weather and your health. But these days, with climate change and anti-vaxxing, those subjects are not safe either. 
+* Many of you have already heard a lot of advice on this, things like look the person in the eye, think of interesting topics to discuss in advance, look, nod and smile to show that you're paying attention, repeat back what you just heard or summarize it. So I want you to forget all of that. It is crap. There is no reason to learn how to show you're paying attention if you are in fact paying attention.
+* Don't pontificate. If you want to state your opinion without any opportunity for response or argument or pushback or growth, write a blog.
+* You need to enter every conversation assuming that you have something to learn. The famed therapist M. Scott Peck said that true listening requires a setting aside of oneself. And sometimes that means setting aside your personal opinion. He said that sensing this acceptance, the speaker will become less and less vulnerable and more and more likely to open up the inner recesses of his or her mind to the listener. Again, assume that you have something to learn. Bill Nye: "Everyone you will ever meet knows something that you don't." I put it this way: Everybody is an expert in something.
+* Stories and ideas are going to come to you. You need to let them come and let them go.
+* Don't equate your experience with theirs. It's not the same. It is never the same. All experiences are individual. And, more importantly, it is not about you.
+* Stay out of the weeds. Frankly, people don't care about the years, the names, the dates, all those details that you're struggling to come up with in your mind. They don't care. So forget the details. Leave them out.
+* Buddha said, and I'm paraphrasing, "If your mouth is open, you're not learning." And Calvin Coolidge said, "No man ever listened his way out of a job." Stephen Covey said it very beautifully. He said, "Most of us don't listen with the intent to understand. We listen with the intent to reply."
+* A good conversation is like a miniskirt; short enough to retain interest, but long enough to cover the subject.
+
 ## Pasiūlymo teikimas
 
 Pavyzdys, kaip aš organizacijos viduje pateikiu idėją truputį pakeisti workflow:
