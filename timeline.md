@@ -10,6 +10,7 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 
 * [Tim Cook yra naujasis Steve Ballmer](wiki/kompanijos/apple.md)
 * [10 ways to have a better conversation](wiki/komunikacija.md#10-ways-to-have-a-better-conversation)
+* [Spotify keičia, kaip yra kuriama muzika](wiki/mealtimevideos.md#2019-07-07)
 
 ## 2019-06
 
