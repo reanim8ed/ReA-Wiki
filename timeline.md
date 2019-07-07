@@ -4,6 +4,12 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 
 # Timeline
 
+## 2019-07
+
+#### 2019-07-07
+
+* [Tim Cook yra naujasis Steve Ballmer](wiki/kompanijos/apple.md)
+
 ## 2019-06
 
 #### 2019-06-30
