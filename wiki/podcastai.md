@@ -54,6 +54,10 @@ Podcast'ų klausymui yra išties nemažai gerų programų, tačiau pagrindinis m
 
 ## Perklausos
 
+### 2019 - 07
+
+[Internet History podcast'as](kompanijos/apple.md) apie pirmojo iPhone sukūrimą
+
 ### 2019 - 06
 
 * [Naval Ravikant](https://www.youtube.com/watch?v=3qHkcs3kG44) - vienas iš angel investorių AngelList kompanijoje

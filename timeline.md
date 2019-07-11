@@ -6,6 +6,10 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 
 ## 2019-07
 
+#### 2019-07-11
+
+* [Internet History podcast'as](wiki/kompanijos/apple.md) apie pirmojo iPhone sukūrimą
+
 #### 2019-07-07
 
 * [Tim Cook yra naujasis Steve Ballmer](wiki/kompanijos/apple.md)
