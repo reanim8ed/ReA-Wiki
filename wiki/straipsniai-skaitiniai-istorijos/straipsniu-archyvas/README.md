@@ -1,6 +1,14 @@
+---
+description: >-
+  Po šia skiltimi perkopijuosiu išties labai patikusius, mane paveikusius
+  skaitinius, vertus išsaugojimo. Žinoma laikantis elementarios pagarbos ir
+  nurodant autorių ir pateikiant nuorodą
+---
+
 # Straipsnių archyvas
 
-Po šia skiltimi perkopijuosiu išties labai patikusius, įsimintinus, svarbius straipsnius. Žinoma laikantis elementarios pagarbos ir nurodant autorių ir pateikiant nuorodą į šaltinį.
+Priežastis, kodėl noriu juos nusikopijuoti, o ne tiesiog įkelti nuorodą į tėvinę [Straipsnių ](../)kategoriją yra dėlto, kad internetas yra labai nepastovi vieta. Esu daug kartų patyręs, jog bandant atrasti kadaise skaitytą puikų straipsnį ar tai youtube klipą, suprantu, kad jo tiesiog nebėra. Kai kuriais atvejais atkapstyti galima puikaus [Internet Archive](https://archive.org/) pagalba, tačiau kaip bebūtų, net ir jis padeda ne visada. Tad straipsnis tiesiog tampa prarastu. Pvz taip itin dažnai nutinka su mažesniais portalais ar asmeniniais tinklaraščiais. Pasikeičia aplinkybės, gyvenimai, pomėgiai, o galbūt tiesiog atsibodo ar projektas nepateisino lūkesčių ir puslapis apleidžiamas. O kadangi jo talpinimas reikalauja resursų ir visgi dažniausiai yra mokama paslauga, tai atsisakius už jį mokėti, hostingo kompanija jį tiesiog ištrina.   
+Taigi, susidūrus su straipsniu, kuris išties rezonuoja su manimi, kuriame pateikiama svarbi informacija ar tiesiog manau, kad jis vertas išsaugojimo - dėti į Wiki tiesiog nuorodą gali būti rizikinga. Paliekama per daug nežinomų dedamųjų, kurios tą informaciją gali pradanginti. Tad tokius straipsnius esu linkęs tiesiog išsisaugoti ir taip žinau, kad no matter what - turėsiu juos pasiekiamus. Patariu taip daryti ir jums - jeigu išties norite kažką išsaugoti, nepalikite to gulėti tiesiog internete, viliantis, kad jis visada bus ten.
 
-Priežastis, kodėl noriu juos nusikopijuoti, o ne tiesiog įkelti nuorodą į tėvinę [Straipsnių ](../)kategoriją yra dėlto, kad internetas yra labai nepastovi vieta. Esu daug kartų susidūręs, jog bandant atrasti kadaise skaitytą įsimintiną straipsnį ar youtube klipą, suprantu, kad jis yra tiesiog buvo pašalintas. Kai kuriais atvejais atkapstyti tą informaciją gali padėti padėti [Internet Archive](https://archive.org/), tačiau toli gražu ne visada. Tad toji informacija tampa prarasta. Taigi, jei susiduriu su straipsniu, kuris mane išties paveikia, laikau jį svarbiu ar turinčiu svarbią reikšmę - dėti į Wiki gali būti gan slidus reikalas ir palikčiau per daug dedamųjų, kurios tą informaciją gali pradanginti. Pvz žmonės rašo tinklaraščius, bet pasikeičia gyvenimai ar pomėgiai, tinklaraštis apleidžiamas, o kadangi jo laikymas yra mokama paslauga, dažnu atveju autoriai tiesiog nustoja mokėti ir tinklaraštis tiesiog pradingsta. Tad tokius straipsnius norėmas išsisaugoti, juos tiesiog pilnai persikopijuoju ir tokiu būdu žinau, kad no matter what - turėsiu juos pasiekiamus. Tikrai nesisavinu jų autorystės ir jeigu straipsnis patiko ir jums - rekomenduoju nueiti į oficialų šaltinį ir susipažinti ir su daugiau autoriaus darbų.
+Tikrai nesisavinu kitų autorystės ir jeigu straipsnis patiko, rekomenduoju nueiti ir į oficialų šaltinį ir susipažinti ir su daugiau to autoriaus darbų.
 
