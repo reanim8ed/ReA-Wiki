@@ -1,3 +1,7 @@
+---
+description: 'Pateikiami sudominę skaitiniai, istorijos, vertos paskaitymo laisvalaikiu'
+---
+
 # Straipsniai / skaitiniai / istorijos
 
 ### [Xbox hakerių grupuotė](https://www.wired.com/story/xbox-underground-videogame-hackers/)

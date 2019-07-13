@@ -6,6 +6,11 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 
 ## 2019-07
 
+#### 2019-07-13
+
+* Nauja skiltis [Straipsnių archyvas](wiki/straipsniai-skaitiniai-istorijos/straipsniu-archyvas/)
+* [Mahilos straipsnis apie 90-ųjų vaikus](wiki/straipsniai-skaitiniai-istorijos/straipsniu-archyvas/pasikutenkim-jausmus-90-ju-vaikai.md)
+
 #### 2019-07-11
 
 * [Internet History podcast'as](wiki/kompanijos/apple.md) apie pirmojo iPhone sukūrimą
@@ -22,8 +27,8 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 
 * [500$ AMD Ryzen 9 3900X yra praktiškai toks pat greitas, kaip 2k$ Intel Core i9-9980XE](wiki/technologijos/technologijos.md#500usd-amd-ryzen-9-3900x-yra-praktiskai-toks-pat-greitas-kaip-2kusd-intel-core-i-9-9980xe)
 * [Tamsioji reCAPTCHA pusė](wiki/technologijos/technologijos.md#tamsioji-recaptcha-pus)
-* [Senoliai nusikaltėliai](wiki/straipsniai-skaitiniai-istorijos.md#senoliai-nusikalt-liai)
-* [Xbox hakerių grupuotė](wiki/straipsniai-skaitiniai-istorijos.md#xbox-hakeri-grupuot)
+* [Senoliai nusikaltėliai](wiki/straipsniai-skaitiniai-istorijos/#senoliai-nusikalt-liai)
+* [Xbox hakerių grupuotė](wiki/straipsniai-skaitiniai-istorijos/#xbox-hakeri-grupuot)
 * [Kompensacijos už vėluojantį skrydį išmušimo instrukcija](wiki/pasaulis/keliones/kompensacijos-uz-veluojanti-skrydi-ismusimo-instrukcija.md)
 
 #### 2019-06-27
@@ -32,7 +37,7 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 
 #### 2019-06-16
 
-* [Computational photography](wiki/straipsniai-skaitiniai-istorijos.md#computational-photography). Fotografija jau dabar didele dalimi yra tiesiog kodas, o šios srities ateitis visiškai priklausys algoritmams.
+* [Computational photography](wiki/straipsniai-skaitiniai-istorijos/#computational-photography). Fotografija jau dabar didele dalimi yra tiesiog kodas, o šios srities ateitis visiškai priklausys algoritmams.
 * [LOVE DEATH + ROBOTS](wiki/filmai.md#love-death-robots-2019)
 
 #### 2019-06-14
@@ -108,7 +113,7 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 
 #### 2019-05-19
 
-* Istorija apie paprastutį HTML'inį one-pagerį, už kurį gauta [21 000 dolerių](wiki/straipsniai-skaitiniai-istorijos.md#i-charged-usd-18-000-for-a-static-html-page).
+* Istorija apie paprastutį HTML'inį one-pagerį, už kurį gauta [21 000 dolerių](wiki/straipsniai-skaitiniai-istorijos/#i-charged-usd-18-000-for-a-static-html-page).
 * Idėja apie tai, kaip skirtųsi visuomenė, jei vyrai [galėtų būti nėšti](wiki/idejos.md#2019-05-18)
 * Pietų korėjos filmas [The Witch](wiki/filmai.md#the-witch-part-1-the-subversion)
 * [Vebleno efektas](wiki/ekonomika/) - prekės pardavimai kyla, dėlto, jog kyla jos kaina
@@ -137,7 +142,7 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 
 * Idėja apie tai, kad Pornhub komanda turėtų pakankamai [know-how](wiki/idejos.md#2019-05-04), kad sukurti Youtube konkurentą
 * Technologijose pridėta [Interneto ](wiki/technologijos/internetas.md)tema ir aprašytos vienos iš [Google+](wiki/technologijos/internetas.md#google) nesekmės priežastys.
-* Pridėta Andy Weir trumpa istorija "[Digitocracy](wiki/straipsniai-skaitiniai-istorijos.md#bookTitle)".
+* Pridėta Andy Weir trumpa istorija "[Digitocracy](wiki/straipsniai-skaitiniai-istorijos/#bookTitle)".
 
 #### 2019-05-02
 
