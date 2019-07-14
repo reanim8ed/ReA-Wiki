@@ -6,6 +6,10 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 
 ## 2019-07
 
+#### 2019-07-14
+
+* Video apie Starlink palydovų [konsteliaciją](wiki/kosmosas.md#starlink-palydov-konsteliacija)
+
 #### 2019-07-13
 
 * Nauja skiltis [Straipsnių archyvas](wiki/straipsniai-skaitiniai-istorijos/straipsniu-archyvas/)
