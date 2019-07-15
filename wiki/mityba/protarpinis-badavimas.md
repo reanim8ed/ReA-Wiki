@@ -36,3 +36,7 @@ Asmeniškai man, IF yra kur kas labiau patrauklesnė forma, nes nėra to nuolati
 
 Idealogiškai man IF labai patinka - pusryčių būtinybe jau senokai buvo suabejota ir niekas kaip ir nesugebėjo to pagrįsti, tad galima sakyti - mitas, prie kurio išpopuliarinimo labai prisidėjo pieno dribsnių brand'ai. O evoliuciškai esame medžiotojai ir nesame išsivystę tam, kad turėtume nuolatinį visiškai lengvą priėjimą prie maisto. Tad ilgesnės pertraukėlės be maisto mūsų organizmams turi būti visiškai normali eiga ir tikriausiai į naudą, tad esu tikrai už. Beja, ta pati logika galioja ir naminiams gyvūnams, kuriems neturėtų būti prikrautas pilnas indelis maisto, kurį jie gali valgyti kada tik užsinorėję.
 
+### Links
+
+* [https://www.nytimes.com/2019/06/04/well/eat/intermittent-fasting-made-my-life-easier-and-happier.html](https://www.nytimes.com/2019/06/04/well/eat/intermittent-fasting-made-my-life-easier-and-happier.html)
+
