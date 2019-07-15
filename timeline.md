@@ -6,6 +6,10 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 
 ## 2019-07
 
+#### 2019-07-16
+
+* [Intermittent fasting](wiki/mityba/protarpinis-badavimas.md)
+
 #### 2019-07-14
 
 * Video apie Starlink palydovų [konsteliaciją](wiki/kosmosas.md#starlink-palydov-konsteliacija)
