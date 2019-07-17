@@ -23,6 +23,8 @@
 * [Knygos](wiki/knygos.md)
 * [Kompanijos](wiki/kompanijos/README.md)
   * [Apple](wiki/kompanijos/apple.md)
+  * [Neurolink](wiki/kompanijos/neurolink.md)
+  * [SpaceX](wiki/kompanijos/spacex.md)
 * [Komunikacija](wiki/komunikacija.md)
 * [Kosmosas](wiki/kosmosas.md)
 * [Kūrybingumas](wiki/kurybingumas.md)

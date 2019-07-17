@@ -1,5 +1,13 @@
 # MealTimeVideos
 
+### 2019-07-17
+
+* [Pirmoji Neurolink prezentacija](kompanijos/neurolink.md)
+
+### 2019-07-14
+
+* [Starlink palydovų konsteliacija](kosmosas.md#starlink-palydov-konsteliacija)
+
 ### 2019-07-07
 
 * [Spotify keičia, kaip yra kuriama muzika.](https://youtu.be/hnfTaqGFW8M) Pvz. labai nenaudinga daryti ilgas, lėtas įžangas, nes žmogus labiau tikėtina, kad dainą tiesiog skippins, o atlikėjui mokami pinigai, tik jei daina praklausoma bent 30s. Taipogi tai lemia ir tai, jog dainos trumpėja. Ekonomiškai atlikėjui apsimoka albume turėti didesnį kiekį trumpesnių dainų.

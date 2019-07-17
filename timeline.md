@@ -6,6 +6,10 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 
 ## 2019-07
 
+#### 2019-07-17
+
+* [Neurolink prezentacija](wiki/kompanijos/neurolink.md)
+
 #### 2019-07-16
 
 * [Intermittent fasting](wiki/mityba/protarpinis-badavimas.md)
