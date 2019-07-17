@@ -9,6 +9,7 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 #### 2019-07-17
 
 * [Neurolink prezentacija](wiki/kompanijos/neurolink.md)
+* Facebook'as liko [praktiškai nenubaustas](wiki/technologijos/technologijos.md#facebook-5-mlrd-baudos-paviesinimas-uzdirbo-1mlrd-vos-per-30-min) dėl Cambride Analytica skandalo
 
 #### 2019-07-16
 

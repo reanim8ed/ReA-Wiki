@@ -4,6 +4,14 @@ description: 'IT pasaulio naujienos, kurias rašau soc.tinkluose'
 
 # TechIT straipsniai
 
+## 2019-07
+
+### Facebook 5 mlrd. baudos paviešinimas uždirbo 1mlrd. vos per 30 min.
+
+* JAV federalinė prekybos komisija baigusi tyrimą dėl Cambridge Analytica skandalo, patvirtino 5 mlrd. $ baudą Facebook'ui, tačiau vos naujienos buvo paviešintos, akcijų kaina iš karto šoktelėjo ir kompanijos savininko turimas akcijų paketas ugtelėjo savo verte 1 mlrd. $ greičiau nei per 30 min. Tai puikiai demonstruoja, kaip lengvai ši kompanija išsisuko iš didžiausio skandalo savo istorijoje.
+* Kodėl taip nutiko? Akcininkai tikėjosi maždaug 3-5 mlrd. $ dydžio baudos, tad ši jau buvo įskaičiuota į dabartinę akcijų kainą. Taipogi akcininkai vertina užtikrintumą, o rizika turi neigiamą vertę. Taigi, kai bauda buvo paskelbta, rizika, kad bauda galėjo būti kur kas didesnė ar kad paskui ją galėjo sekti gan drastiški reguliaciniai sprendimai, įtakojantys kompanijos pelningumą, išnyko ir dėlto akcijų kaina šoktelėjo į viršų.
+* [https://www.businessinsider.com/mark-zuckerberg-net-worth-increases-after-5-billion-facebook-fine-2019-7](https://www.businessinsider.com/mark-zuckerberg-net-worth-increases-after-5-billion-facebook-fine-2019-7)
+
 ## 2019-06
 
 ### Tamsioji reCAPTCHA pusė
