@@ -1,5 +1,12 @@
 # Istorija
 
+### Pirmoji žmogaus jėga varoma transporto priemonė
+
+![](../.gitbook/assets/giovanni-fontana-carriage.png)
+
+* The concept of a human-powered vehicle goes back many centuries. The earliest reference I have found is to Venetian engineer Giovanni Fontana, who in the early 1400s described a four-wheeled carriage powered by a driver pulling on a loop of rope connected by gears to the wheels
+* Straipsnis: [Kodėl dviratis nebuvo išrastas anksčiau?](https://rootsofprogress.org/why-did-we-wait-so-long-for-the-bicycle)
+
 ### Paskutinis sovietų sąjungos pilietis
 
 * Yra 2004-ųjų metų filmas su Tom Hanks pavadinimu _The Terminal_. Istorija apie rytų Europos pilietį, kuris įstringa oro uosto terminale, nes skrydžio metu jo šalyje įvyksta perversmas, pasikeičia politinė situacija ir šalies tokiu pavadinimu tiesiog nebelieka. Jis, kaip nebeegzistuojančios šalies pilietis, nebegali nei įžengti kojos į Ameriką, nei sugrįžti atgal, tad jam tenka gyventi tiesiog oro uoste. Nors šis filmas įkvėptas[ Irano pabėgelio](https://www.wikiwand.com/en/Mehran_Karimi_Nasseri), kuris iš tiesų pragyveno viename prancūzijos oro uostų net 18 metų, tačiau yra ir kita išties gan nemažai panašumų turinti istorija.[ Istorija apie kosmonautą](https://www.rbth.com/history/330415-last-soviet-citizen-cosmonaut), kuris buvo Mir kosmoso stotyje, kai sovietų režimas sugriuvo. Dėl kilusios krizės ir prasidėjusios hiperinfliacijos, pinigų labai trūko ir buvo stengiamasi taupyti kiek įmanoma, tad akivaizdu, kad kosmoso industrija tikrai nebuvo pagrindinis prioritetas. Vietos Soyuz raketoje buvo atidavinėjamos kitų šalių astronautams už gan pigiai, o taipogi net buvo svarstoma apie kosminės stoties pardavimą, kol ji dar pilnai funkcionuojanti. Klausiant apie grįžimą namo, šiam kosmonautui būdavo atsakoma jog nėra pinigų, kad dar reikės palaukti. Rezultate jis kosmose įkalintas prabuvo dvigubai ilgiau nei buvo numatyta jo misija, t.y. 311 dienų ir gavo "paskutinio sovietų piliečio" pravardę. Nors skaičius ir nemažas, tačiau tai visgi nėra rekordas, kurį vis dar turi kitas rusas, toje pačioje Mir stotyje už poros metų išbuvęs daugiau nei 14 mėn, t.y. [437 dienas](https://www.wikiwand.com/en/Valeri_Polyakov). Skirtumas tik tas, kad rekordininko buvimas buvo numatytas, jis pats tam pasisiūlė savanoriu ir buvo pasiruošęs.

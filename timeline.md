@@ -6,6 +6,11 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 
 ## 2019-07
 
+#### 2019-07-21
+
+* [Vinilinės plokštelės ](wiki/technologijos/#vinilin-s-plokstel-s)ir HiFi garso aparatūra
+* Kodėl dviratis nebuvo [išrastas anksčiau](wiki/istorija.md#pirmoji-zmogaus-j-ga-varoma-transporto-priemon)?
+
 #### 2019-07-17
 
 * [Neurolink prezentacija](wiki/kompanijos/neurolink.md)
