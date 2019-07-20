@@ -10,6 +10,8 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 
 * [Vinilinės plokštelės ](wiki/technologijos/#vinilin-s-plokstel-s)ir HiFi garso aparatūra
 * Kodėl dviratis nebuvo [išrastas anksčiau](wiki/istorija.md#pirmoji-zmogaus-j-ga-varoma-transporto-priemon)?
+* [Ghostbusters AR](wiki/idejos.md#2019-07-21)
+* [Perfection is finally attained](wiki/citatos.md) not when there is no longer anything to add, but when there is no longer anything to take away.
 
 #### 2019-07-17
 
