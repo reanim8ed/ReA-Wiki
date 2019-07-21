@@ -9,6 +9,7 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 #### 2019-07-21
 
 * Extra Credits apie [Super Mario ir Portal](wiki/zaidimai.md#game-design) tutorial'ų dizainą
+* 3 didžiausia atominė katastrofa istorijoje, kuri ko gero paveikė net daugiau žmonių, nei Chernobyl'io įvykiai - [Kyshtym Disaster](wiki/istorija.md#cernobylis)
 
 #### 2019-07-20
 
