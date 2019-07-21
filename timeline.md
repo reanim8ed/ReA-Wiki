@@ -16,6 +16,7 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 * Kodėl dviratis nebuvo [išrastas anksčiau](wiki/istorija.md#pirmoji-zmogaus-j-ga-varoma-transporto-priemon)?
 * [Ghostbusters AR](wiki/idejos.md#2019-07-21)
 * [Perfection is finally attained](wiki/citatos.md) not when there is no longer anything to add, but when there is no longer anything to take away.
+* [Apollo 11 50-metis](wiki/kosmosas.md#apollo-11-misijos-50-metis)
 
 #### 2019-07-17
 

@@ -1,5 +1,10 @@
 # Kosmosas
 
+### Apollo 11 misijos 50-metis
+
+* Liepos 20-tą švenčiamas 50-metis, kai Apollo 11 kartu su Buzz'u ir Neil'u pirmą kartą pasiekė mėnulio paviršių. 
+* Puiki proga prisiminti ikoninę Kenedžio kalbą "[_We choose to go to the moon_](https://www.businessinsider.com/animation-jfk-speech-moon-apollo-nasa-mission-john-f-kennedy-2016-8)", su kuria jis paskelbė šalies sprendimą skirti resursus šios misijos startui.
+
 ### Starlink palydovų konsteliacija
 
 * Į TechIT gegužės pabaigoje dėjau [naujieną ](technologijos/technologijos.md#starlink-startas-2019-05-25)apie tai, jog buvo paleisti pirmieji SpaceX palydovai, skirti Starlink palydovų tinklui. FCC kompanijai davė leidimą iš viso iškelti 12000 palydovų, kurie interneto ryšiu padengtų visą žemės gaublį ir šį tikslą tikimasi pasiekti per artimiausius 10 metų. [Puikus video](https://youtu.be/giQ8xEWjnBs) paaiškinantis šios technologijos detales.
