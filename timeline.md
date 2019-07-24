@@ -9,6 +9,7 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 #### 2019-07-24
 
 * [HOTorNOT ](wiki/mealtimevideos.md#2019-07-24)socialinis tinklas
+* [Apie FaceApp](wiki/straipsniai-skaitiniai-istorijos/#faceapp)
 
 #### 2019-07-21
 
