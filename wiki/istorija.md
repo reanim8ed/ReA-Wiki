@@ -1,5 +1,9 @@
 # Istorija
 
+### [Sovietų super lėktuvas](https://youtu.be/7Hv2dsVkA38)
+
+Ekranoplan'as, milžiniškas, išties labai didelę talpą turintis lėktuvas pagamintas USSR laikais, kuris skrisdamas palei vandens paviršių, sugebėdavo ne tik pasiekti milžiniškus greičius, tačiau ir išlikti nepastebėtas radaruose išties labai ilgai. Nors turėjo išties didelių pranašumų, tačiau pasižymėjo ir gan rimtomis problemomis ir sugriuvus sovietų sąjungai, nebebuvo daugiau gaminamas.
+
 ### Pirmoji žmogaus jėga varoma transporto priemonė
 
 ![](../.gitbook/assets/giovanni-fontana-carriage.png)
