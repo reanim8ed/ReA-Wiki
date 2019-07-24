@@ -8,3 +8,5 @@
 
 ## Backend
 
+* Jetbrains vystomi IDE produktai išties yra puikūs. Pats naudojuosi PhpStorm'u ir man labai patinka jų kainodaros politika: jei pasiėmi prenumeratą bent 12mėn laikotarpiui, tai paskutinė major versija, kuri buvo išleista tos prenumeratos laikotarpiu, jai pasibaigus lieka tavo ir gali ją naudotis neribotai. Manau tokiu principu turėtų veikti visi prenumeratos principu veikiantys įrankiai, kaip pvz Adobe gaminiai. O [čia ](https://www.material-theme.com/)išties kokybiškai padaryta tema PhpStorm'ui.
+
