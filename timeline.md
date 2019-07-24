@@ -10,6 +10,7 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 
 * [HOTorNOT ](wiki/mealtimevideos.md#2019-07-24)socialinis tinklas
 * [Apie FaceApp](wiki/straipsniai-skaitiniai-istorijos/#faceapp)
+* Pridėta [PHP ](wiki/programavimas/php.md)skiltis
 
 #### 2019-07-21
 

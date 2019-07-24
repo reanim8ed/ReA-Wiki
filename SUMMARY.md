@@ -48,6 +48,7 @@
 * [Politika](wiki/politika/README.md)
   * [Rusija](wiki/politika/rusija.md)
 * [Programavimas](wiki/programavimas/README.md)
+  * [PHP](wiki/programavimas/php.md)
   * [Įrankiai](wiki/programavimas/tools.md)
 * [Self-improvement](wiki/self-improvement.md)
 * [Showerthoughts](wiki/idejos.md)
