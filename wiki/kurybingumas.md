@@ -26,3 +26,5 @@ Plagijavimas yra tada, kai tiesiog pasisavinamas kito žmogaus darbas. O jei pam
 
 [exurb1a](https://www.youtube.com/channel/UCimiUgDLbi6P17BdaCZpVbg) yra nuostabus Youtube kanalas, kuriantis egzistencinių novelių stiliaus video, su smagiomis metaforomis ir juokeliais, tad man šis stilius "sueina" labai puikiai. Vienas naujausių jo video yra apie [rašymą](https://www.youtube.com/watch?v=MANyX7woDPA). Man, kaip žmogui, kuriam patinka rašyti, šios jo mintys, patarimai apie rašymą pasirodė labai pažįstama.
 
+_We live in the minds, we don't understand but one doesn't have to understand the machine to determine the optimal conditions for use it just takes a bit of experimentation and self observation._
+
