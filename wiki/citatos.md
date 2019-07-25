@@ -21,6 +21,14 @@
 * The two things people dislike the most: the way things are, and when they change.
 * Facts dont care about your feelings
 
+### What's Wrong With Science Fiction
+
+* So what's gone wrong? What happened to the genre that once held such towering giants such as Isaac Asimov, Robert Heinlein, and Arthur C. Clarke \(other than the fact that all three are dead\)?
+
+  I think that the answer lies in society's perception of what the "future" is. When science fiction got its start back in the post-war period, the future was all jet-packs and flying cars: the GE Home Of Tomorrow, the Nuclear Family \(both socially and literally\), the whole World's Fair Promise of the Future ideal. Science fiction channeled this optimism, putting men on Mars and fighting evil Aliens from Outer Space in shiny space ships with neat-o ray guns.
+
+  It wasn't, of course, going to stay this rosy for long. The Atomic Bomb revealed the other side of the coin on all this futurism: death and destruction. Science Fiction, however, thrived. The 50s and 60s were a great time for what's now called "hard" Science Fiction: Asimov's Robot Novels \(1954, 1957\), as well as his Galactic Empire series in the early 1950s; Clarke released the highly influential Childhood's End in 1953; and Heinlein's Starship Troopers \(1959\), Stranger in a Strange Land \(1961\), and The Moon Is a Harsh Mistress \(1966\) all during this period, as well as innumerable quantities of short fiction.
+
 ### Traveling
 
 * When we dream about travelling, we do so because we think we'd be happier somewhere else. In fact, usually, the place doesn't matter, as long as it's just not here. When we arrive and actually experience the destination, our old modes of thinking persist. We get bored, distracted, worry about details, and spend very little time taking it in. Only in our memories of our journey does the trip take on an ephemeral form again, where we edit out and forget everything except the most potent few moments.
