@@ -11,7 +11,7 @@ Ir tada išgirdau [Naval Ravikant](https://fs.blog/naval-ravikant/) idėjas api
 * Vienas labai nemažas kelių knygų vienu metu skaitymo privalumas: atradęs naują knygą, kuri išties labai sudomina, gali viską mesti ir pradėti ją skaityti dabar pat, iškarto. Nereikia dėtis į vis ilgėjančius wishlist'us, kuriuose akumuliuojasi vis daugiau knygų, sąrašai išauga iki šimtų skirtingų knygų ir autorių ir kuriame apie dalį knygų nebegalėtum pasakyti nei iš kur apie ją sužinojai, nei kodėl išvis įsidėjai į tą listą. 
 * Vienas iš fundamentalių mokymosi metodų yra informacijos kartojimas. Taip ją įsisamoniname geriau ir ji užsifiksuoja ilgesniam laikui. Tad skaitydamas tą patį skyrių protarpiais po 10 min per dieną gali pasiekti geresnių rezultatų, nei perskaitęs viską vienu prisėdimu, kai informacija tiesiog susiplaka ir lieka tik esmė.
 
-Nėra vieno teisingiausio būdo, kaip reikėtų skaityti. Save pažįstame geriausiai ir galima surasti labai individualius būdus, kurie mums veikia geriausiai. Ir kai įpročiai yra suformuojami aplink mus pačius, aplink mūsų pomėgius, norus ir galimybes - rezultatai gali būti kur kas veiksmingesni.
+Nėra vieno teisingiausio būdo kaip reikėtų skaityti. Save pažįstame geriausiai ir galima surasti labai individualius būdus, kurie mums asmeniškai veikia geriausiai. Ir kai įpročiai yra suformuojami aplink mus pačius, aplink mūsų pomėgius, norus ir galimybes - rezultatai gali būti kur kas veiksmingesni.
 
 Source: [https://hackernoon.com/everything-i-knew-about-reading-was-wrong-bde7e57fbfdc](https://hackernoon.com/everything-i-knew-about-reading-was-wrong-bde7e57fbfdc)
 
