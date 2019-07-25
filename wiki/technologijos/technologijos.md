@@ -6,6 +6,14 @@ description: 'IT pasaulio naujienos, kurias rašau soc.tinkluose'
 
 ## 2019-07
 
+### 15 metų, o The Pirate Bay taip vis dar ir nesustabdomas
+
+* Spotify did it right; they managed to put together a service that is actually better than piracy in the ways that matter to a typical consumer. The movie and TV industry have instead put great effort into building services that are significantly worse than piracy.
+
+  And nobody can understand why movie piracy is still rampant, while music piracy is receding.
+
+* [https://news.ycombinator.com/item?id=19992381](https://news.ycombinator.com/item?id=19992381)
+
 ### Facebook 5 mlrd. baudos paviešinimas uždirbo 1mlrd. vos per 30 min.
 
 * JAV federalinė prekybos komisija baigusi tyrimą dėl Cambridge Analytica skandalo, patvirtino 5 mlrd. $ baudą Facebook'ui. Tačiau vos naujienos buvo paviešintos, akcijų kaina iš karto šoktelėjo ir kompanijos savininko turimas akcijų paketas ugtelėjo savo verte 1 mlrd. $ greičiau nei per 30 min. Tai puikiai demonstruoja, kaip lengvai ši kompanija išsisuko iš didžiausio skandalo savo istorijoje.
