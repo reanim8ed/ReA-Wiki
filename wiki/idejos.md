@@ -4,6 +4,14 @@
 
 * Geras teisininkas yra tas, kuris su tokiu pačiu užsidegimu galėtų kovoti bet kurioje pusėje.
 
+## 2019-07-24
+
+* Daugumai nepatinka jausmas, kai jiems dainuojama "Su gimimo diena" ir dauguma irgi jaučiasi awkward, kai reikia tą dainą dainuoti, tai WTF mes darom?
+
+## 2019-07-23
+
+* Kino teatruose kėdės galėtų turėti stalčiuką, kuriame būtų saugomos garsą izoliuojančios ausinės. Nepasisekė ir greta atsisėda triukšmingi žmonės garsiai valgantys čipsus ir besišnekučiuojantys filmo metu? Užsidėjai ausines ir problem solved.
+
 ## 2019-07-21
 
 * Turim AR žaidimus, tokius, kaip Ingress, Pokemon Go, Harry Potter: Wizards Unite, Minecraft Earth. Sekantis žaidimas, kuris iš tiesų labai tiktų tokiam formatui - Ghostbusters AR.

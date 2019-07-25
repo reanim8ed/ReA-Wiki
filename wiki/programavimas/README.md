@@ -3,6 +3,7 @@
 ## Notes
 
 * Software engineering is what happens to programming when you add time and other programmers.
+* C programmer’s motto: “Build upon the work of others”
 
 ### The greatest of all weaknesses is the fear of appearing weak. 
 
