@@ -22,3 +22,7 @@ Jeigu į kūrybingumą žiūrėti iš šios pusės, tai gerokai nustekena mintį
 
 Plagijavimas yra tada, kai tiesiog pasisavinamas kito žmogaus darbas. O jei pamatei idėją, ji tau sukėlė reakciją, naujų minčių ir tai perteiki kitiems per savo prizmę - tai jau ne turinio vagimas, o tiesiog įprastinė kūryba. Galima net pasiginčyti apie tai, jog ko ne dauguma idėjų, kurios jums kadanors yra šovusios į galvą, tikriausiai kažkur, kažkas apie tą jas jau yra pagalvojęs ir jūsų mintis nėra tokia jau originali.
 
+## Rašymas
+
+[exurb1a](https://www.youtube.com/channel/UCimiUgDLbi6P17BdaCZpVbg) yra nuostabus Youtube kanalas, kuriantis egzistencinių novelių stiliaus video, su smagiomis metaforomis ir juokeliais, tad man šis stilius "sueina" labai puikiai. Vienas naujausių jo video yra apie [rašymą](https://www.youtube.com/watch?v=MANyX7woDPA). Man, kaip žmogui, kuriam patinka rašyti, šios jo mintys, patarimai apie rašymą pasirodė labai pažįstama.
+

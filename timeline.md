@@ -9,6 +9,7 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 #### 2019-07-25
 
 * Nirvanos daina [Polly ](https://www.youtube.com/watch?v=NJ97KdTQFww)yra viena tamsesnių grupės dainų
+* exurb1a   patarimai apie [rašymą](https://www.youtube.com/watch?v=MANyX7woDPA)
 
 #### 2019-07-24
 
