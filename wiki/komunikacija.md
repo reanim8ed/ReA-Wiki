@@ -15,6 +15,8 @@ Dažniausiai, kai susiduriama su tokio pobūdžio list'ais - dauguma punktų yra
 
 ## Pasiūlymo teikimas
 
+_There is no better time than when someone is frustrated by something to tell them you have an idea for how to improve it!_
+
 Pavyzdys, kaip aš organizacijos viduje pateikiu idėją truputį pakeisti workflow:
 
 > Turiu pasiūlymą atsinaujinti ir mūsų vidinę įmonės komunikaciją padaryti labiau šiuolaikiškesne. Nors dabar naudojamas Skype vis dar yra neblogas sprendimas skambučiams, tačiau komunikacijai organizacijos viduje jau senokai nebėra optimalus variantas. Tenka susidurti, kad žinutės kartais neišssiunčia, failų siuntimo apribojimai, lb neefektyvi paieška ir pan. Nors PM'ams Skype ko gero pilnai atsisakyti nepavyktų, jis sunkiai pakeičiamas, kas liečia bendravimą su klientais, tačiau manau, kad gamyba visiškai nėra pririšta prie vieno konkretaus serviso ir būtų galima pasirinkti labiau tinkamus ir labiau developerių poreikius atitinkančius įrankius.  
