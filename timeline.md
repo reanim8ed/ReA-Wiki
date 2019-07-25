@@ -6,6 +6,10 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 
 ## 2019-07
 
+#### 2019-07-25
+
+* Nirvanos daina [Polly ](https://www.youtube.com/watch?v=NJ97KdTQFww)yra viena tamsesnių grupės dainų
+
 #### 2019-07-24
 
 * [HOTorNOT ](wiki/mealtimevideos.md#2019-07-24)socialinis tinklas

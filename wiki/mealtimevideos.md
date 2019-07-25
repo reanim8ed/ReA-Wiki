@@ -1,5 +1,9 @@
 # MealTimeVideos
 
+### 2019-07-25
+
+* Įdomu kaip gali dainą girdėti šimtus kartų, tačiau visiškai pro ausis praleisti dainos reikšmę. [Nirvana - Polly](https://www.youtube.com/watch?v=NJ97KdTQFww)
+
 ### 2019-07-24
 
 * 2000-aisiais, kol dar nebuvo Facebook, YouTube, Twitter ar Tinder'io, patys didžiausi socialiniai tinklapiai buvo pažinčių portalai \(by the way, Youtube'as kai startavo irgi buvo taikytas į [video pažintis](https://news.ycombinator.com/item?id=20492373)\). Tuo laikotarpiu neįtikėtinu interneto fenomenu tapo socialinis tinklas, pavadinimu HOTorNOT - iš principo į Tinderį gan panašus saitas, kuriame patalpinus savo nuotrauką, nepažįstami žmonės iš viso pasaulio galėjo vertinti ją skalėje nuo 0 iki 10. [Šioje prezentacijoje](https://youtu.be/uagKWIEffq8) vienas iš kūrėjų gan šmaikščia maniera pasakoja kaip šis projektas atsirado ir kaip jie sugebėjo savo didžiausią silpnybę paversti dar vienu pajamų šaltiniu.

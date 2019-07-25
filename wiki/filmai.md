@@ -19,6 +19,7 @@ Reikia atkreipti dėmesį ir tai, kad šiame sąraše nežymiu serialų, tad či
 * [Love Me If You Dare](https://www.imdb.com/title/tt0364517/)
 * [About Time](https://www.imdb.com/title/tt2194499/)
 * [Into The Wild](https://www.imdb.com/title/tt0758758/)
+* [Stranger Than Fiction](https://www.imdb.com/title/tt0420223/)
 * [500 days of summer](https://www.imdb.com/title/tt1022603/)
 * [Contact](https://www.imdb.com/title/tt0118884/)
 * [Memories of Murder](https://www.imdb.com/title/tt0353969/)
