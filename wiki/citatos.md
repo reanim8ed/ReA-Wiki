@@ -1,7 +1,5 @@
 # Citatos
 
-* All happy families are alike; each unhappy family is unhappy in its own way. — Leo Tolstoy
-* Everyone you will ever meet knows something you don't. — Bill Nye
 * Comparison is the death of joy. — Mark Twain
 * A goal without a plan is just a wish.
 * Pain is inevitable. Suffering is optional.
@@ -20,12 +18,4 @@
 * There is only one sin, only one. And that is theft. Every other sin is a variation of theft... When you kill a man, you steal a life. You steal his wife's right to a husband, rob his children of a father. When you tell a lie, you steal someone's right to the truth. When you cheat, you steal the right to fairness.
 * The two things people dislike the most: the way things are, and when they change.
 * Facts dont care about your feelings
-
-### Traveling
-
-* When we dream about travelling, we do so because we think we'd be happier somewhere else. In fact, usually, the place doesn't matter, as long as it's just not here. When we arrive and actually experience the destination, our old modes of thinking persist. We get bored, distracted, worry about details, and spend very little time taking it in. Only in our memories of our journey does the trip take on an ephemeral form again, where we edit out and forget everything except the most potent few moments.
-
-### Minčių generavimas rytais
-
-* Лучшие мои идеи рождались в хаосе и я начал это использовать. Каждое утро мне надо минимум полчаса \(и кофе\) чтобы собраться с мыслями и начать жить. Однако, это состояние оказалось идеальным для генерации новых идей. Мысли сами соединяются в случайном порядке потому что основная часть мозга еще не проснулась и не сказала всем собраться и жить правильно.
 
