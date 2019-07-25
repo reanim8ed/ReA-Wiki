@@ -53,6 +53,7 @@
 * [Self-improvement](wiki/self-improvement.md)
 * [Showerthoughts](wiki/idejos.md)
 * [Straipsniai / skaitiniai / istorijos](wiki/straipsniai-skaitiniai-istorijos/README.md)
+  * [Skaitymo įpročiai](wiki/straipsniai-skaitiniai-istorijos/skaitymo-prociai.md)
   * [Straipsnių archyvas](wiki/straipsniai-skaitiniai-istorijos/straipsniu-archyvas/README.md)
     * [Pasikutenkim jausmus, 90-ųjų vaikai](wiki/straipsniai-skaitiniai-istorijos/straipsniu-archyvas/pasikutenkim-jausmus-90-ju-vaikai.md)
 * [Technologijos](wiki/technologijos/README.md)
