@@ -14,6 +14,7 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 * [Geras teisininkas](wiki/idejos.md#2019-07-25) yra tas, kuris su tokiu pačiu užsidegimu galėtų kovoti bet kurioje pusėje.
 * Citata apie [minčių generavimą](wiki/citatos.md#minci-generavimas-rytais) rytais
 * Citata apie [keliones](wiki/citatos.md#traveling)
+* 15 metų, o [The Pirate Bay](wiki/technologijos/technologijos.md#15-met-o-the-pirate-bay-taip-vis-dar-ir-nesustabdomas) vis dar aktualus
 
 #### 2019-07-24
 

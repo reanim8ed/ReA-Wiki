@@ -8,10 +8,7 @@ description: 'IT pasaulio naujienos, kurias rašau soc.tinkluose'
 
 ### 15 metų, o The Pirate Bay taip vis dar ir nesustabdomas
 
-* Spotify did it right; they managed to put together a service that is actually better than piracy in the ways that matter to a typical consumer. The movie and TV industry have instead put great effort into building services that are significantly worse than piracy.
-
-  And nobody can understand why movie piracy is still rampant, while music piracy is receding.
-
+* Galima būtų sakyti, kad Spotify did it right. Taip, muzikos piratavimas neišnyko, tačiau jeigu žiūrėti big picture: vidutinis consumeris muzikos piratavimo atsisakė, nes Spotify pasiūlė alternatyvą, kuri iš esmės yra patogesnė, pranašesnė ir paprastesnė nei piratavimas. Tuo tarpu filmų ir TV pramonė įdėjo nemažai pastangų kurdama kiekviena po savo atskirą sprendimą ir rezultate turime dešimtis servisų, kurie kiekvienas turi skirtingą katalogą, kuris kiekviename pasaulio regione yra skirtingas ir kuriame filmai ar serialai, tai dingsta, tai atsiranda. Daugumai vartotojų jie yra tiesiog useless ir dar stebimasi, kodėl video piratavimas vis dar toks populiarus.
 * [https://news.ycombinator.com/item?id=19992381](https://news.ycombinator.com/item?id=19992381)
 
 ### Facebook 5 mlrd. baudos paviešinimas uždirbo 1mlrd. vos per 30 min.
