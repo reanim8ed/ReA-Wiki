@@ -11,6 +11,7 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 * Nirvanos daina [Polly ](https://www.youtube.com/watch?v=NJ97KdTQFww)yra viena tamsesnių grupės dainų
 * exurb1a   patarimai apie [rašymą](https://www.youtube.com/watch?v=MANyX7woDPA)
 * [Apie skaitymo įpročius](wiki/straipsniai-skaitiniai-istorijos/skaitymo-prociai.md)
+* [Geras teisininkas](wiki/idejos.md#2019-07-25) yra tas, kuris su tokiu pačiu užsidegimu galėtų kovoti bet kurioje pusėje.
 
 #### 2019-07-24
 

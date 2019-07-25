@@ -1,5 +1,9 @@
 # Showerthoughts
 
+## 2019-07-25
+
+* Geras teisininkas yra tas, kuris su tokiu pačiu užsidegimu galėtų kovoti bet kurioje pusėje.
+
 ## 2019-07-21
 
 * Turim AR žaidimus, tokius, kaip Ingress, Pokemon Go, Harry Potter: Wizards Unite, Minecraft Earth. Sekantis žaidimas, kuris iš tiesų labai tiktų tokiam formatui - Ghostbusters AR.
