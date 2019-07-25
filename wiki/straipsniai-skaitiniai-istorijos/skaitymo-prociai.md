@@ -1,6 +1,6 @@
 # Skaitymo įpročiai
 
-Jaučiu, kad man netinka įprastinės taisyklės, kaip turi būti skaitomos knygos, nes jomis vadovaujantis skaitau kurkas mažiau nei norėčiau. Dažniausiai man koją pakiša tai, kad knygų skaitymas yra laikui reiklus užsiėmimas ir pirmenybę atiduodu kitiems dalykams, primarily internetui. Kartais būna, jog knyga tiesiog neįtraukia ar yra ne tokia jau ir gera, kaip tikėjausi, o kartais pati knyga gali būti nuostabi, tačiau apie jos aprašomą temą paskutiniu metu jau domėjausi ir nebesvarbu, kaip gerai ji susisteminta ir aprašyta, tačiau jau nebeturiu susidomėjimo ir būna nuobodu.
+Jaučiu, kad man netinka įprastinės taisyklės, kaip turi būti skaitomos knygos, nes jomis vadovaujantis skaitau kurkas mažiau nei norėčiau. Dažniausiai man koją pakiša tai, kad knygų skaitymas yra laikui reiklus užsiėmimas ir pirmenybę atiduodu kitiems dalykams, primarily internetui. Kartais būna, jog knyga tiesiog neįtraukia ar yra ne tokia jau ir gera, kaip tikėjausi, o kartais pati knyga gali būti nuostabi, tačiau apie jos aprašomą temą paskutiniu metu jau domėjausi ir nebesvarbu, kaip gerai ji susisteminta ir aprašyta, tačiau jau nebeturiu susidomėjimo ir būna tiesiog nuobodu.
 
 Ir tada išgirdau [Naval Ravikant](https://fs.blog/naval-ravikant/) idėjas apie skaitymą, kurios privertė susimąstyti. Štai kelios mintys apie skaitymą: 
 
