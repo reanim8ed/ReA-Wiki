@@ -1,5 +1,10 @@
 # Showerthoughts
 
+## 2019-07-26
+
+* Kai kurie žmonės norėtų, kad jų vaikai niekada nepradėtų galvoti, nes tėvai, patys laikydami save jau perėjusiais šį vertybių apsvarstymo etapą, tiki visų savo vertybių tikrumu ir tvirtumu, todėl neabejoja, jog jos yra pačios geriausios ir jų vaikams.
+* Vieną dieną jūsų autonominis automobilis specialiai važiuos ne pačiu optimaliausiu maršrutu, kad pamatytumėte tam tikras parduotuves ar reklamas. Kitaip tariant popup banerių alternatyva IRL. "Įsigykite premium narystę už 19.99€ per mėnesį ir važiuokite į darbą be jokių reklamų!"
+
 ## 2019-07-25
 
 * Geras teisininkas yra tas, kuris su tokiu pačiu užsidegimu galėtų kovoti bet kurioje pusėje.

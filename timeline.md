@@ -6,6 +6,11 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 
 ## 2019-07
 
+#### 2019-07-26
+
+* [Tėvų vertybės](wiki/idejos.md#2019-07-26)
+* Autonominio automobilio optimalus [reklaminis maršrutas](wiki/idejos.md#2019-07-26)
+
 #### 2019-07-25
 
 * Nirvanos daina [Polly ](https://www.youtube.com/watch?v=NJ97KdTQFww)yra viena tamsesnių grupės dainų
