@@ -14,13 +14,9 @@ _As with any technology, there are benefits and downsides - and excitement as we
 * Neurolink pirmą kartą nuo įkūrimo 2016-aisiais surengė prezentaciją ir papasakojo apie savo pasiekimus bei kuriamą N1 sensorių: [Straipsnis](https://www.theverge.com/2019/7/16/20697123/elon-musk-neuralink-brain-reading-thread-robot) apie prezentaciją [Prezentacijos video](https://youtu.be/lA77zsJ31nA)
 * Visiškai puikus ir išties masyvus Tim Urban [straipsnis](https://waitbutwhy.com/2017/04/neuralink.html), pasakojantis apie tai, ką šiuo metu suprantame apie smegenų veikimą, kokius Brain Machine Interface'us turime jau dabar ir kokie yra ilgalaikiai Neurolink tikslai.
 
-_Intelligence gives us godlike powers over all other creatures on Earth—which has not been a fun time for the creatures. If any of their body parts are possible value creators, we have major industries processing and selling those body parts. We sometimes kill them for sport. But we’re probably the least fun all the times we’re just doing our thing, for our own reasons, with no hate in our hearts or desire to hurt anyone, and there are creatures, or ecosystems, that just happen to be in our way or in the line of fire of the side effects of what we’re doing. People like to get all mad at humanity about this, but really, we’re just doing what species do—being selfish, first and foremost._
+### Notes
 
-_We’re going to have the choice of either being left behind and being effectively useless or like a pet—you know, like a house cat or something—or eventually figuring out some way to be symbiotic and merge with AI._
-
-_Then, a second later:_
-
-_A house cat’s a good outcome, by the way._
+* _We’re going to have the choice of either being left behind and being effectively useless or like a pet—you know, like a house cat or something—or eventually figuring out some way to be symbiotic and merge with AI. Then, a second later: A house cat’s a good outcome, by the way._
 
 
 

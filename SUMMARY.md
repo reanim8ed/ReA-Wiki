@@ -6,6 +6,7 @@
 
 ## Wiki
 
+* [AI](wiki/ai.md)
 * [Asmenybės](wiki/asmenybes/README.md)
   * [Apie mane](wiki/asmenybes/apie-mane.md)
   * [Pop kultūra](wiki/asmenybes/pop-kultura/README.md)
