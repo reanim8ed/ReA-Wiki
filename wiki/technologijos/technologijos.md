@@ -1,5 +1,5 @@
 ---
-description: 'IT pasaulio naujienos, kurias rašau soc.tinkluose'
+description: 'https://www.facebook.com/techit.lt'
 ---
 
 # TechIT straipsniai
