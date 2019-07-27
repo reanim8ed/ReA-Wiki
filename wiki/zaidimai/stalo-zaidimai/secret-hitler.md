@@ -4,7 +4,7 @@ description: 'Publikuota: 2017-06-17'
 
 # Secret Hitler
 
-![](../../.gitbook/assets/secret_game-e5c9cdf1.jpg)
+![](../../../.gitbook/assets/secret_game-e5c9cdf1.jpg)
 
 Mėgstu stalo žaidimus, nes jie leidžia užimti susirinkusią į svečius kompaniją ir žaidžia net ir tie, kurių prie kompiuterinių žaidimų net nepasodintum. Vienintelė bėda, kad kai kuriais atvejais jei žaidimas išties labai simplistiškas ir neatrodo, jog jis bus žaidžiamas taip jau dažnai, mokėti dešimtis eurų už šio žaidimo korteles būna kiek gaila. Tokiais atvejais užsiimu ir pats pasidarau šio žaidimo versiją. Prieš porą metų jums papasakojau ir leidau parsisiųsti lietuvišką „[Kortos prieš žmoniją](http://reanimated.lt/kortos-pries-zmonija)“ versiją, šį kartą turiu pasiruošęs dar vieną puikų žaidimą, kurį pačiam pasigaminti tenka vien jau ir dėlto, kad šiuo metu žaidimas oficialiuose kanaluose yra išparduotas ir jo net negalima įsigyti.
 
@@ -37,7 +37,7 @@ Vienas žaidėjas privalo būti Hitleris ir jis negali būti vienintelis fašist
 
 Taigi rolių ir partijų kortelių poros yra sudėliojamos užverstos ant stalo ir jų eiliškumas išmaišomas, jog niekas nežinotų kur yra kokios kortelės. Visi žaidėjai pasiima po kortelių porą ir pasižiūrį į savo slaptąją rolę. Žaidėjas tapo arba liberalu arba fašistu, tačiau vienas žaidėjas yra ne tik fašistas, bet ir slaptasis Hitleris. Jo tikslas yra būti išrinktam kancleriu, tačiau neišsiduoti ir nebūti nušautam.
 
-![](../../.gitbook/assets/8e713b571aaa7179c9e94fc5b5d2aa80_original.png)
+![](../../../.gitbook/assets/8e713b571aaa7179c9e94fc5b5d2aa80_original.png)
 
 #### **Nakties fazė**
 
@@ -53,7 +53,7 @@ Valdančiąją valdžią sudaro du asmenys: prezidentas ir kancleris. Žaidimo p
 
 Kai rinkimai baigiasi ir turima nauja valdančioji pora, prasideda įstatymo priėmimas: prezidentas iš įstatymų krūvos traukia tris užverstas korteles. Įstatymai yra arba fašistiniai arba liberalūs. Jis išmeta vieną kortelę ir likusias dvi paduoda kancleriui. Kancleris taipogi išmeta vieną kortelę ir likęs įstatymas yra priimamas. Kokios kortelės yra išmetamos parodyti negalima.
 
-![](../../.gitbook/assets/25b7ae3d131bba43de5a08635766b024_original.gif)
+![](../../../.gitbook/assets/25b7ae3d131bba43de5a08635766b024_original.gif)
 
 #### **Diskusijos**
 
@@ -74,7 +74,7 @@ Prezidentas negali kancleriu nominuoti žmogaus, kuris praėjusį ėjimą jau bu
 
 Jei priimamas fašistinis įstatymas, prezidentas įgauna galią, nurodytą ant fašistinės žaidimo lentos: prezidentas gali patikrinti kito žaidėjo partiją, 3 pirmuosius įstatymų krūvoje gulinčius įstatymus, kuriuos trauks sekantis prezidentas arba nušauti kitą žaidėją. Šis bonusas turi būti panaudotas iškarto, kol nepasibaigė round’as.
 
-![](../../.gitbook/assets/73725430ab516d42d6955d991d6da354_original.png)
+![](../../../.gitbook/assets/73725430ab516d42d6955d991d6da354_original.png)
 
 ### Žaidimo dinamika
 
@@ -96,7 +96,7 @@ Hitlerio iškilimas į valdžią, kaip diktatoriui, buvo neįtikėtinai politiš
 
 Žaidimas sukurtas 2015-aisiais metais, kai Kickstarter finansavimo platformoje surinko 20 kartų daugiau lėšų, nei kad prašė. Pasisekimas, prie kurio sukūrimo ir prodiusavimo prisidėjo žmogus, taipogi dirbęs ir prie to paties „Cards Against Humanity“. 
 
-![](../../.gitbook/assets/608526daf554bfaf06b8d10bc4873be2_original.png)
+![](../../../.gitbook/assets/608526daf554bfaf06b8d10bc4873be2_original.png)
 
 ### Atsisiųsti žaidimą
 
@@ -104,7 +104,7 @@ Hitlerio iškilimas į valdžią, kaip diktatoriui, buvo neįtikėtinai politiš
 
 ### Links
 
-{% file src="../../.gitbook/assets/secret-hitler.pdf" caption="Siųstis \"Secret Hitler\"" %}
+{% file src="../../../.gitbook/assets/secret-hitler.pdf" caption="Siųstis \"Secret Hitler\"" %}
 
 [Taisykles anglų kalba](http://www.secrethitler.com/assets/Secret_Hitler_Rules.pdf)
 

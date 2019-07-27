@@ -10,6 +10,7 @@ description: 'Pateikiami sudominę skaitiniai, istorijos, vertos paskaitymo lais
 * [Foto reportažas iš Š.Korėjos](https://imgur.com/gallery/cxwZs)
 * Darbuotojas, kuris dirba gerai, padaro savo darbus laiku ir jam nereikia visiems girtis apie tai, [kiek daug jis dirba](https://medium.com/@aidisdalikas/niekam-ne%C4%AFdomu-kiek-daug-tu-dirbi-65ae1036d08f#.3u1ypeom0).
 * Žmogus, kuris nusipirko „auksinį bilietą“ ir skraidė avialinijomis beveik 30 metų, pakol šį bilietą[ iš jo atėmė](http://nypost.com/2012/05/13/freequent-flier-has-wings-clipped-after-american-airlines-takes-away-his-unlimited-pass/), nes avialinijoms jis kainavo daug daugiau, nei bet kas tikėjosi.
+* [Veik, kai gali neveikti nieko](http://kernius.net/kodel-jauni-zmones-neturi-darbo-ir-ka-daryti-kad-tu-ji-visuomet-turetum). Straipsnis, skirtas jauniems žmonėms, apie tai, kaip diplomas jau senokai nebegarantuoja gero darbo ir apie taip, kokiomis savybėmis reikia pasižymėti, kad visgi jį gauti
 
 ### FaceApp
 

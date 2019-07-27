@@ -4,6 +4,7 @@
 
 * Turėjome viršgarsinius keleivinius lėktuvus, kuriais perskristi Atlantą būdavo galima per 3,5 valandos, tačiau dabar skraidome su dvigubai lėtesniais lėktuvais. Ir visai ne dėl saugumo. Tai kodėl taip nutiko? TLDW: [too load too expensive](https://www.youtube.com/watch?v=a_wuykzfFzE)
 * Jau ne kartą įsitikinau, kad [Matt’ui Damon’ui](https://www.youtube.com/watch?v=vj-cK_KfjsI) charizmos tikrai netrūksta. Tai dar kartą įrodo ši puiki kalba absolventams.
+* Puiki [Ellen ](https://www.youtube.com/watch?v=0e8ToRVOtRo)kalba studijų baigimo ceremonijoje
 * Ką reiškia gyvenimas[ su depresija](https://www.youtube.com/watch?v=EJ_S5Rjt_iI). Perteikta video formatu.
 * [Artėja bananų krizė](https://www.youtube.com/watch?v=9H0dy8fv33M)
 * AI iš [pirmo asmens](https://www.youtube.com/watch?v=dLRLYPiaAoA) perspektyvos
@@ -13,6 +14,15 @@
 * Kai draugai yra patys geriausi, tačiau tuo pat metu – [visiški idiotai](https://www.youtube.com/watch?v=5viXaIJ7S5U).
 * Vieno įspūdingiausių kinematografų [dėmesingumas detalėms](https://www.youtube.com/watch?v=-woNlmVcdjc&feature=youtu.be)
 * [Netikėtai puikūs](https://www.youtube.com/watch?v=Pyfn0QmmG7A) taxi pokalbiai su nepažįstamaisiais žaidime
+* [Ateitis prasidėjo](https://www.youtube.com/watch?v=oIhcdi3leqE). Prieš keletą metų rusiškuose internetuose \(sutrumpintai vadinamu ru’netas\), viral būdu pasklido šis klipas, pavadinimu Будущее началось. Klipe aptarinėjamas tolesnis žmonijos, kaip visuomenės vystymasis. Darau prielaidą, kad bent kažkiek suprantate rusiškai \(o jei nemokate, tai pažiūrėkite jį [čia](http://goo.gl/jLX3gA)\) ir tikrai rekomenduoju pažiūrėti šį klipą, kuris yra padarytas iš ties gerai:
+
+  * animacijos stilius labai unikalus ir geek’iškas/sci-fi’iškas
+  * gerai parašytas tekstas, kuris įtraukia ir nepaleidžia visas tas 15 min, net jei ir nesate didelis fantastikos mėgėjas
+  * na ir galiausiai galima pagirti įgarsinusį asmenį, nes turi išties gerą dikciją
+
+  Tai apie ką mes dar vakar skaitėm fantastinėse knygose, po truputėlis su kiekviena diena virsta į realybę.
+
+* Viena labiausiai pražiūrėtų konsolių buvo [Dreamcast](https://www.youtube.com/watch?v=bfTv0IvGYwU), kurią ištiko tragiškas likimas, net ir neskatant fakto, kiek daug inovaciju ir kiek daug things done right šis daiktas turėjo
 
 ### 2019-07-25
 
