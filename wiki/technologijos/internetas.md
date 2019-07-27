@@ -1,3 +1,7 @@
+---
+description: The Internet treats censorship as a malfunction and routes around it.
+---
+
 # Internetas
 
 ## Google+ 
