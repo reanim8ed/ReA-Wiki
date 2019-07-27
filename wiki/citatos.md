@@ -2,6 +2,7 @@
 
 * Įsivaizduokite – jaunas žmogus susižavi repu. Pirmiausia, ką jis daro pradžioje tai rengiasi plačiais drabužiais – rūpinasi savo išvaizda vien tam, kad likęs pasaulis suvoktų, jog jis reperis ir jį taip priimtų. Jis repuoja apie žolę, kurios niekada nerūkė, apie gatves ir t.t. Aš nepašiepiu, tik noriu pasakyti, kad jaunas žmogus nori būti kažkam priskiriamas. Bėgant laikui, jeigu jis išlieka subkultūroje, pradeda atsisakyti jos pradinių įvaizdžio detalių. Jis gali netgi nebenešioti plačių drabužių. Pats juos nešioju iki šiol, nes niekada gyvenime nemėgau kai į mane trinasi drabužiai. Net jeigu nerepuočiau, juos nešiočiau. Pažįstu metalistus, kurie vaikšto su siaurais džinsais, be ilgų plaukų ir su paprastomis striukėmis, nors jie daug metų klauso tik metalą ir labai jį myli. Toks supratimas ateina tuomet, kai suvoki, jog svarbiausia kaip tu mastai ir kaip gyveni. – Svaras, Yomango Interviu
 * Save vertiname pagal ketinimus, kitus – pagal poelgius.
+* The only difference between intuition and paranoia is whether you’re right or wrong
 * If you don't build your dream, someone will hire you to help build theirs. - Tony Gaskins
 * Opportunity is missed by most people because it is dressed in overalls and looks like work. - Thomas Edison
 * Kuo vyresnis tampi, tuo mažiau norisi intrigų, tuščių spektaklių, isterijos priepuolių. Tiesiog nori jaukių namų, skanios vakarienės ir žmogaus šalia, kuris žino, kiek šaukštelių cukraus dėti į tavo arbatą.

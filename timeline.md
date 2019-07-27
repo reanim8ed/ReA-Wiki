@@ -11,6 +11,7 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 * Tinklaraščio migracija: [Bevielės ausinės](wiki/technologijos/gadgets/bevieles-ausines.md)
 * Tinklaraščio migracija:  [Pirmasis raketos „Falcon Heavy“ skrydis](wiki/kosmosas.md#pirmasis-raketos-falcon-heavy-skrydis-2018-01-31)
 * Tinklaraščio migracija: [Secret Hitler](wiki/zaidimai/stalo-zaidimai/secret-hitler.md)
+* Tinklaraščio migracija: [Cards Against Humanity](wiki/zaidimai/stalo-zaidimai/cards-against-humanity.md)
 * Tinklaraščio migracija: [Garmin Virb Ultra 30 apžvalga](wiki/technologijos/gadgets/apzvalgos/garmin-virb-ultra-30.md)
 * Tinklaraščio migracija: [Dell Inspiron 15 7559 apžvalga](wiki/technologijos/gadgets/apzvalgos/dell-inspiron-15-7559.md)
 * Tinklaraščio migracija: [IT Talk](wiki/technologijos/it-talk/)

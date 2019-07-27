@@ -96,6 +96,7 @@
     * [3 didieji telefonų baterijų mitai](wiki/technologijos/it-talk/3-didieji-telefonu-bateriju-mitai.md)
     * [Android iniciatyva pavadinimu „Project Volta“](wiki/technologijos/it-talk/android-iniciatyva-pavadinimu-project-volta.md)
     * [Apie Apple Event’ą](wiki/technologijos/it-talk/apie-apple-eventa.md)
+    * [Apie branduolius ir telefonus](wiki/technologijos/it-talk/apie-branduolius-ir-telefonus.md)
     * [Apie HDMI](wiki/technologijos/it-talk/apie-hdmi.md)
     * [Apple ir Google naujienos](wiki/technologijos/it-talk/apple-ir-google-naujienos.md)
     * [Ar „Nokia“ sugrįžimas galimas tik su „Android“?](wiki/technologijos/it-talk/ar-nokia-sugrizimas-galimas-tik-su-android.md)
