@@ -4,7 +4,12 @@ description: 'Pateikiami sudominę skaitiniai, istorijos, vertos paskaitymo lais
 
 # Straipsniai / skaitiniai / istorijos
 
-### [Foto reportažas iš Š.Korėjos](https://imgur.com/gallery/cxwZs)
+## Notes
+
+* Minties eksperimentas: jei panaikinti visą žmonijos progresą ir pradėti nuo absoliutaus 0, kiek laiko prireiktų [vėl sukurti iPhone 6s](https://waitbutwhy.com/table/iphone-thought-experiment)?
+* [Foto reportažas iš Š.Korėjos](https://imgur.com/gallery/cxwZs)
+* Darbuotojas, kuris dirba gerai, padaro savo darbus laiku ir jam nereikia visiems girtis apie tai, [kiek daug jis dirba](https://medium.com/@aidisdalikas/niekam-ne%C4%AFdomu-kiek-daug-tu-dirbi-65ae1036d08f#.3u1ypeom0).
+* Žmogus, kuris nusipirko „auksinį bilietą“ ir skraidė avialinijomis beveik 30 metų, pakol šį bilietą[ iš jo atėmė](http://nypost.com/2012/05/13/freequent-flier-has-wings-clipped-after-american-airlines-takes-away-his-unlimited-pass/), nes avialinijoms jis kainavo daug daugiau, nei bet kas tikėjosi.
 
 ### FaceApp
 

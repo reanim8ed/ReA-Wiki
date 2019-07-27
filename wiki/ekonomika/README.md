@@ -8,6 +8,13 @@ description: >-
 
 ## Notes 
 
+* People say money doesn’t buy happiness, but it does. It’s associated with increased happiness. People are happier with more money at every single point in the continuum to $500,000 a year. The saying should be that money doesn’t guarantee happiness.
+
+  I think it’s better to say that money can solve some problems that can lead to unhappiness, rather than it actually buys happiness. There is plenty of research out there which shows things we actually buy really don’t give us any long term departure from our baseline ‘satisfaction’ level.  
+  Someone having money and being able to use it to buy a nice car probably won’t make them happy \(other than for a few weeks, then it’s just a car\), but someone having money so they no longer have to deal with a car that breaks down every other week and they have to figure out how to pay to fix it this time, well that will definitely give them some longer term happiness because they’ve eliminated a repeatedly stressful situation.
+
+  Money buys freedom, freedom enables happiness, therefore money buys happiness.
+
 * Bet kuriuo duotuoju momentu yra užsiėmimų, kuriais galėtum užsiimti ir kurie beveik nieko nekainuoja, tačiau visgi padaro tave laimingesniu. Gyvenimo perteklius, kuris dar vadinamas turtu, ganėtinai priklauso nuo to, kaip dažnai pasirenki surasti tuos džiaugsmingus momentus.
 * Jeigu problemą galima lengvai išspręsti pinigais, tai ne problema, o tiesiog išlaidos. 
 * Laisvas žmogus - tai žmogus, kuriam nebereikia pardavinėti savo laiko kitiems. Kuo daugiau turi turto, tuo daugiau laiko iš kitų gali nusipirkti ir tuo mažiau tau reikia pardavinėti savojo. Nebereikia nešioti kaklaraiščio, kuris yra tarsi antkaklis ant tavo kaklo. Nebereikia keltis 7-ą, tam jog skubėti į darbą bei sėdėti automobilių kamščiuose. Nebereikia švaistyti visų savo produktyvių valandų dirbant darbą, kuris tavęs neužpildo. Taigi viena ir iš tiesų esminė turto paskirtis - laisvė.

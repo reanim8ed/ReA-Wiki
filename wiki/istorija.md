@@ -1,14 +1,11 @@
 # Istorija
 
-### [Japonijos istorija](https://www.youtube.com/watch?v=Mh5LY4Mz15o)
+## Notes
 
-### Pirmasis greičio viršijimas
-
-[Pirmoji bauda už greičio viršijimą](https://ca.finance.yahoo.com/news/8-mph-speeding-ticket-other-automotive-firsts-152500480.html) istorijoje buvo išrašytą už 4 kartus viršytą greitį: važiuota 8 mylių per valandą \(~13km/h\) greičiu, kai leidžiamas greitis – 2 mylios per valandą. Policininkas pasivijo automobilį dviračiu ir išrašė 1 šilingo dydžio baudą.
-
-### Tankų skaičiavimas pagal serijinius numerius
-
-[Antrojo pasaulinio karo metais](https://www.wikiwand.com/en/German_tank_problem#/Historical_problem) sąjungininkai statistinės tankų serijinių numerių analizės pagalba apskaičiavo Vokietijos mėnesinės tankų gamybos apimtis. Skaičiavimai pavyko netikėtai puikiai – buvo apsirikta tik vienu tanku.
+* [Japonijos istorija](https://www.youtube.com/watch?v=Mh5LY4Mz15o)
+* Pirmasis realus atsiskaitymas Bitcoin’ais įvyko, kai programuotojas atsiskaitė už picą. Tą kart jis paklojo [10 000 bitcoin’ų](http://www.coindesk.com/bitcoin-pizza-day-celebrating-pizza-bought-10000-btc/). Brangiausia pasaulio pica, BY FAR.
+* [Antrojo pasaulinio karo metais](https://www.wikiwand.com/en/German_tank_problem#/Historical_problem) sąjungininkai statistinės tankų serijinių numerių analizės pagalba apskaičiavo Vokietijos mėnesinės tankų gamybos apimtis. Skaičiavimai pavyko netikėtai puikiai – buvo apsirikta tik vienu tanku.
+* Susirūpinę dėl per didelio [kobrų kiekio Indijoje](http://www.wikiwand.com/en/Cobra_effect), britai buvo paskyrę premiją už jas, tačiau vėliau sužinojo, kad buvo įkurtos atskiros fermos, kurios augino kobras vien tam, jog galėtų pasiimti premijas. Tai sužinoję, britai premiją panaikino, o to pasekmė – minėtos fermos paleido jiems nebereikalingas kobras į laisvę, tad kobrų kiekis gamtoje tik dar labiau padidėjo.
 
 ### [Sovietų super lėktuvas](https://youtu.be/7Hv2dsVkA38)
 

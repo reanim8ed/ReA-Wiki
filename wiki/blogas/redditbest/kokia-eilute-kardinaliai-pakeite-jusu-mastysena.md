@@ -4,7 +4,7 @@ description: 'Publikuota: 2016-03-03'
 
 # Kokia eilutė kardinaliai pakeitė jūsų mąstyseną?
 
-![](../../.gitbook/assets/hqryguc.jpg)
+![](../../../.gitbook/assets/hqryguc.jpg)
 
 * Buvau 34 metų amžiaus, su keliomis profesijomis, trimis jaunais vaikais ir bebaigiąs skyrybų procesą, kai aptarinėjau savo ateitį su geriausiu draugu. Draugas patarė grįžti į mokslus ir galbūt studijuoti mano naujai atrastą aistrą – geologiją. Mano atsakymas buvo: „bet kol pabaigsiu studijuoti, man jau bus 40…“. Mano draugo atsakymas, pakeitęs mano gyvenimą buvo: „Būsi 40-ties bet kuriuo atveju“.
 * Kai buvau neapykantos pilna, savęs susinaikinimo keliu pasukusi paauglė, mano krikštatėvis pasakė: „žiūrėk, aš tave myliu ir visada būsiu su tavimi, padėsiu tau susirinkti iš dalių… Bet dėl dievo meilės, ar tų dalių tikrai turi būti tiek daug?“.

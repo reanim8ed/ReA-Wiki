@@ -8,6 +8,11 @@
 * [Artėja bananų krizė](https://www.youtube.com/watch?v=9H0dy8fv33M)
 * AI iš [pirmo asmens](https://www.youtube.com/watch?v=dLRLYPiaAoA) perspektyvos
 * [Japonijos istorija](https://www.youtube.com/watch?v=Mh5LY4Mz15o)
+* Apie [praktinius efektus](https://goo.gl/nb55aa) kino filmuose, bei CGI
+* Gražiausias ir [kūrybiškiausias šokis](https://www.youtube.com/watch?v=sy4Ogh4TEuI), kurį esu matęs.
+* Kai draugai yra patys geriausi, tačiau tuo pat metu – [visiški idiotai](https://www.youtube.com/watch?v=5viXaIJ7S5U).
+* Vieno įspūdingiausių kinematografų [dėmesingumas detalėms](https://www.youtube.com/watch?v=-woNlmVcdjc&feature=youtu.be)
+* [Netikėtai puikūs](https://www.youtube.com/watch?v=Pyfn0QmmG7A) taxi pokalbiai su nepažįstamaisiais žaidime
 
 ### 2019-07-25
 

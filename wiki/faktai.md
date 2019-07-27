@@ -1,16 +1,29 @@
 # Faktai
 
-### Imperatoriaus balsas
-
-Pirmasis kartas, kai japonų liaudis išgirdo imperatoriaus balsą per radiją, buvo tada, kai jis antrojo pasaulinio karo pabaigoje paskelbė apie [Japonijos pasidavimą](https://www.wikiwand.com/en/Hirohito#/Last_days_of_the_war).
-
-### 15-os arklio jėgų arklys
-
-Vienas arklys gali pasiekti iki 15 arklių jėgų. Taip yra todėl, kad viena arklio galia buvo nustatytas jėgos dydis, kurį vidutinis arklys gali palaikyti ilgą laiką.
-
-### Uždrausta auginti jūrų kiaulytes vienišas
-
-Šveicarijoje yra uždrausta laikyti [tik vieną ](https://www.spiegel.de/international/zeitgeist/hope-for-lonely-rodents-rent-a-guinea-pig-service-takes-off-in-switzerland-a-787336.html)jūrų kiaulytę, nes šie gyvūnėliai yra labai jautrūs vienatvei.
+* 1985-aisiais per 100 gelbėtojų susirinko į vakarėlį, kuriame buvo švenčiama vasara be nuskendimų ir vakarėlio metu vienas iš svečių [nuskendo](https://news.google.com/newspapers?nid=1964&dat=19850802&id=38sqAAAAIBAJ&sjid=2M4FAAAAIBAJ&pg=1072,819320&hl=en).
+* Nors mes pripratę girdėti, kad tai nuodėmingasis, uždraustasis obuolys, tačiau iš tikrųjų biblijoje vaisius nė karto nėra įvardijamas.
+* Automobilių padangos yra juodos, nes vienas iš gamintojų norėjo „išsiskirti“ ir pradėjo maišyti juodos spalvos anglies dažus į gumą. Rezultatas gavosi netikėtas – tokios padangos dėvėjosi 4-5 [kart lėčiau](http://www.bntraaca.org/index.php/misc/2013-07-03-16-49-12/why-are-tires-black).
+* Populiarieji Sostų Karai prasidėjo nuo [vėžliukų](http://www.simplethingcalledlife.com/2013/game-of-thrones-turtles/). Autorius, kuris juos augino, įsivaizdavo, kad šie yra riteriai ir karaliai, kurdavo istorijas apie tai, kaip jie vienas kitą išduoda, nužudo ir kovoja dėl sosto.
+* Kompanija Hitachi buvo sukūrusi bankomatus, kurie tiesiogine to žodžio prasme [plovė pinigus](http://www.telecompaper.com/news/notecleaning-atm-from-hitachi--32229?argument): banknotai buvo pašildomi iki 200 laipsnių, tam, kad užmušti ant jų besikaupiančias bakterijas ir tada išlyginami.
+* Žmonės jau maždaug nuo antikos laikų nebegalvojo, kad žemė yra plokščia. Toks mitas buvo sukurtas apie 19a, norint pabrėžti to meto mokslo pažangą.
+* Būdamas 1,68m. ūgio, Napoleonas toli gražu nebuvo liliputas. Tiesą sakant tai buvo to laikmečio vidurkis. Klaida atsirado dėlto, kad prancūzai ir anglai naudojo skirtingas matavimo sistemas. Taipogi spekuliuojama, kad toks faktas galėjo būti ir karo propaganda, bandant sumenkinti Napoleono įvaizdį.  Tai, kad jis būdavo nuolat apsuptas elitinių karių, kurių ūgis buvo didesnis, taipogi nepadėjo.
+* Vokiečiai turi keletas išties žavių įstatymų, pvz: įsibrovimas į privačią teritoriją nėra baudžiamas, jei įsibrovėlis vejasi savo bičių spiečių, o taipogi yra visiškai legalu bandyti pabėgti iš kalėjimo. Žinoma, pabėgti nesugadinant turto ar neužsipuolant personalo yra sunkoka, tačiau jei jokios žalos nepadaryta ir pabėgelis pagaunamas, jis tiesiog grąžinamas į kalėjimo kamerą, tačiau bausmė jam neprailginama. Taip yra dėlto, kad laisvės troškimas yra laikoma natūralia įkalinto žmogaus reakcija.
+* Tona žmonių iš tikrųjų yra viso labo apie 12 žmonių.
+* Neskaitant to, ką jus bando įtikinti konspiracijų teorijų šalininkai, NASA 1969-taisiais turėjo technologijas nusileisti mėnulyje, tačiau neturėjo technologijų pakankamai įtikinamai sufake’inti nusileidimų [studijoje](https://goo.gl/ywy5Tu).
+* Valgymas valandą prieš plaukimo nepadidina mėšlungio tikimybės. Labiausiai tikėtina, kad faktas buvo sugalvotas mamų, kurios tiesiog siekė, kad jų vaikai pavalgytų prieš bėgdami į lauką. Na arba dėlto, kad vaikai neprivemtų į baseiną.
+* Pelės iš tiesų nemėgsta sūrio. Turėdamos tokią stiprią uoslę, jos neperneša stipraus sūrio kvapo. Spekuliuojama, kad tokia prielaida susidarė viduramžių laikais, dėl bado sąlygų. Kitas maistas pelėms buvo sunkiai prieinamas – mėsa būdavo sūdoma ir pakabinama, grūdai saugomi konteineriuose, o net ir nesaugomi, sunkiau pastebėti, jog jų šiek tiek sumažėjo. Kovodomos su išgyvenimu, pelės imdavosi sūrio, nors iš esmės jis joms ir nepatinka. Smalsiems – tikrąją sūrio paskirtį pelėms atstoja riešutų sviestas. Beja, beja, kad jau palietėm šią temą, tai dauguma kačių netoleruoja laktozės, tad joms negalima duoti pieno. Pavartojus didesnio kiekio šie naminiai gyvūnėliai ima viduriuoti ir gali net susirgti.
+* Jei [šioje japonų šeimoje ](http://www.ho-shi.co.jp/jiten/Houshi_E/master.htm)būtum vienturtis vaikas, jaustum išties didelį spaudimą dėl savo karjeros pasirinkimo, nes šios šeimos verslas – užeiga, dirba nuo pat 718-ųjų metų ir klientus aptarnauja jau beveik 1300 metų!
+* Žmogus, kuris šiaip ne taip išgyveno laivo skendimą, susiruošė įveikti savo baimę ir po daugelio metų pirmą kartą [išplaukė laivu](http://www.encyclopedia-titanica.org/titanic-victim/ramon-artagaveytia.html). Laivo pavadinimas buvo Titanikas.
+* Dėl kalėjimo kanceliarijoje įsivėlusios klaidos viena Amerikos valstija darė prielaidą, kad [nuteisė vyriškį kalėti](http://www.thisamericanlife.org/blog/2014/05/update-mike-anderson-released), tačiau tik po 13 metų, kai buvo pradėta ruoštis šio vyro paleidimo procesui, pastebėta, kad vyriškis pamirštas atgabenti į kalėjimą.
+* Animacijos kompanijoje Disney dauguma vyresniųjų animatorių pasirinko darbą prie Pocahontas filmo, užuot Lion King, nes [mažai kas tikėjo projekto sėkme](http://www.wikiwand.com/en/The_Lion_King#/Animation), taip palikdami darbą praktiškai vien tik naujokams ir internams.
+* [Pirmoji bauda už greičio viršijimą](https://ca.finance.yahoo.com/news/8-mph-speeding-ticket-other-automotive-firsts-152500480.html) istorijoje buvo išrašyta už 4 kartus viršytą greitį: važiuota 8 mylių per valandą \(~13km/h\) greičiu, kai leidžiamas greitis – 2 mylios per valandą. Policininkas pasivijo automobilį dviračiu ir išrašė 1 šilingo dydžio baudą.
+* Tol, kol avokadai kaba ant medžių – [negenda](http://www.wikiwand.com/en/Avocado).
+* Ilijada ir Odisėja yra tik dvi dalys iš aštuonių dalių epo, tačiau likusios dalys [buvo prarastos](http://www.wikiwand.com/en/Epic_Cycle).
+* Pirmasis kartas, kai japonų liaudis išgirdo imperatoriaus balsą per radiją, buvo tada, kai jis antrojo pasaulinio karo pabaigoje paskelbė apie [Japonijos pasidavimą](https://www.wikiwand.com/en/Hirohito#/Last_days_of_the_war).
+* Vienas arklys gali pasiekti iki 15 arklių jėgų. Taip yra todėl, kad viena arklio galia buvo nustatytas jėgos dydis, kurį vidutinis arklys gali palaikyti ilgą laiką.
+* Šveicarijoje yra uždrausta laikyti [tik vieną ](https://www.spiegel.de/international/zeitgeist/hope-for-lonely-rodents-rent-a-guinea-pig-service-takes-off-in-switzerland-a-787336.html)jūrų kiaulytę, nes šie gyvūnėliai yra labai jautrūs vienatvei.
+* 2000-aisiais atliktos apklausos metu paaiškėjo, kad svarbiausiu 20 amžiau išradimu Japonai laiko „instant noodle“ [užpilamas sriubas](http://www.wikiwand.com/en/Instant_noodle#/History). Studentai visame pasaulyje linksi galvomis.
+* Pasaulis kupinas tokių neįtikėtinų gyvūnų, kad kartais sunku ir patikėti. Štai jūra turi jūros arkliukus, jūrų karves, o pasirodo yra ir neįtikėtinai mielai atrodančios [jūrų avelės](http://www.fubiz.net/2015/07/27/the-adorable-sea-sheep/?utm_source=feedly&utm_medium=webfeeds).
 
 ### Žmogaus akies galimybės
 

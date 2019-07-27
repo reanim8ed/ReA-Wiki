@@ -35,6 +35,11 @@ Reikia atkreipti dėmesį ir tai, kad šiame sąraše nežymiu serialų, tad či
 
 \*rikiavimas nėra eilės tvarka
 
+## Notes
+
+* Yra nemažai pavyzdžių, kai dabar laikomos klasikinės knygos ar kino filmai nebuvo taip jau gerai vertinami jų išleidimo metu. Pvz už legendinį Kubrick’o siaubo filmą „The Shining“ režisierius buvo nominuotas, prasčiausio metų režisieriaus [titului](http://www.wikiwand.com/en/The_Shining_%28film%29#/Initial_reception).
+* Vieno įspūdingiausių kinematografų [dėmesingumas detalėms](https://www.youtube.com/watch?v=-woNlmVcdjc&feature=youtu.be)
+
 ## Atsiliepimai
 
 ### [LOVE DEATH + ROBOTS \(2019\)](https://www.youtube.com/watch?v=wUFwunMKa4E)

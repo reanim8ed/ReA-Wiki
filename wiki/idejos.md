@@ -7,10 +7,20 @@
 * Whenever I yell at my dog to stop barking, he probably thinks „Awesome now we’re both barking“.
 * Teach a Parrot to say Parrot and you basically have a Pokémon.
 * If Steve Jobs was reincarnated into a Chinese family he would be old enough to be making iPhones now.
+* If inmates fall in love, do they finish each other’s sentences?
 * Vienintelis skirtumas tarp orų prognozės „daugiausia saulėta“ ir „truputis debesuota“ yra orų pranešėjo požiūris į gyvenimą.
+* Kai žmogus didžiuodamasis išrėžia, kad jis nežiūri tv, tai signalizuoja apie žmogų, kuris 8h ar daugiau per dieną praleidžia internete.
 * Jeigu turi sūnų ir jis užaugęs tampa kunigu ar vis vien turi jį vadinti šventuoju tėvu?
 * Pesimistu būti gerai dėlto, kad visuomet būni arba teisus arba maloniai nustebintas.
+* Šunys nežino, kad jų savininkai gali daryti klaidas. Tad, kai keldamasis naktį netyčia jį paspiri, jis galvoja, kad tu vidurį nakties kėleisi specialiai būtent tam, kad jį paspirtum.
+* Jeigu dirbi darbo biržoje ir tave atleidžia, tai reiškia, kad tau ir toliau teks vaikščioti į savo darbovietę, pakol tau suras kitą darbą.
 * Jeigu mokaisi kulinarijos mokykloje, tai pasiteisinimas jog šuo suėdė tavo namų darbus yra pakankamai legit.
+* Filmų informacijos saitai, kaip IMDB, turėtų turėti atskirą žymą, nurodančią ar filmas turi baigiamąją sceną po creditų ar ne.
+* Kaip pagerinti rezultatus sporto salėse? Tiesiog užtektų ant treniruoklių padaryti taškų skaičiavimą ir high score lenteles.
+* Gyvenimo aktualijos: pirma mes laikome egzaminus, o tik po to pradedame iš tiesų mokytis.
+* NASA gauna duomenis iš daugiau nei 4 milijardų km, kai tuo tarpu man užtenka nueiti į tualetą, kad dingtų wifi signalas.
+* Jei gyvenimas būtų kaip MMO, tai būtų smarkiai kritikuojamas, dėl didelių balanso problemų, bei kiek daug bukinančio grindinimo jame reikia atlikinėti.
+* Vargu ar gamtos pasaulyje rasi bejėgiškesnę būtybę nei moteris su neišdžiuvusiu nagų laku.
 * Nuomos pasirinkimai Vilniuje: pigiai, bet su šeimininke. Pigiai, be šeimininkės, bet su sovietiniais baldais ir kilimais ant sienos. Pigiai, be šeimininkės, be sovietinių baldų ir kilimų, bet Naujininkuose. Pigiai, be šeimininkės, be sovietinių baldų ir kilimų, ne Naujininkuose, bet jau ir ne visai Vilniuj. Arba brangiai. \(credits to kaspiniuotis\).
 
 ## 2019-07-26
