@@ -1,5 +1,6 @@
 # Citatos
 
+* Going to church doesn’t make you a Christian any more than standing in a garage makes you a car.
 * When you someday find a way of life that you can be truly proud of, you’ll be forced into your own battle whether you like it or not.
 * Įsivaizduokite – jaunas žmogus susižavi repu. Pirmiausia, ką jis daro pradžioje tai rengiasi plačiais drabužiais – rūpinasi savo išvaizda vien tam, kad likęs pasaulis suvoktų, jog jis reperis ir jį taip priimtų. Jis repuoja apie žolę, kurios niekada nerūkė, apie gatves ir t.t. Aš nepašiepiu, tik noriu pasakyti, kad jaunas žmogus nori būti kažkam priskiriamas. Bėgant laikui, jeigu jis išlieka subkultūroje, pradeda atsisakyti jos pradinių įvaizdžio detalių. Jis gali netgi nebenešioti plačių drabužių. Pats juos nešioju iki šiol, nes niekada gyvenime nemėgau kai į mane trinasi drabužiai. Net jeigu nerepuočiau, juos nešiočiau. Pažįstu metalistus, kurie vaikšto su siaurais džinsais, be ilgų plaukų ir su paprastomis striukėmis, nors jie daug metų klauso tik metalą ir labai jį myli. Toks supratimas ateina tuomet, kai suvoki, jog svarbiausia kaip tu mastai ir kaip gyveni. – Svaras, Yomango Interviu
 * Everything is OK in the end. If it's not OK, then it's not the end.
