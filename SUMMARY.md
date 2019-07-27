@@ -18,6 +18,7 @@
   * [Pakeisti pasaulį taip, jog tai kažką reikštų](wiki/blogas/pakeisti-pasauli-taip-jog-tai-kazka-reikstu.md)
   * [RedditBest](wiki/blogas/redditbest/README.md)
     * [What is a story you have been dying to tell?](wiki/blogas/redditbest/what-is-a-story-you-have-been-dying-to-tell.md)
+    * [What is the laziest thing you’ve ever done?](wiki/blogas/redditbest/what-is-the-laziest-thing-youve-ever-done.md)
     * [Kokia eilutė kardinaliai pakeitė jūsų mąstyseną?](wiki/blogas/redditbest/kokia-eilute-kardinaliai-pakeite-jusu-mastysena.md)
   * [Tinklai ir vardai](wiki/blogas/tinklai-ir-vardai.md)
 * [Citatos](wiki/citatos.md)
