@@ -18,6 +18,7 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 * Tinklaraščiu migracija: [Madinga](wiki/blogas/madinga.md)
 * Tinklaraščio migracija: [Nesusitikinėk su mergina, kuri keliauja](wiki/blogas/nesusitikinek-su-mergina-kuri-keliauja.md)
 * Tinklaraščio migracija: [Tinklai ir vardai](wiki/blogas/tinklai-ir-vardai.md)
+* Tinklaraščio migracija: [Apie rašymą](wiki/blogas/apie-rasyma.md)
 * Tinklaraščiu migracija:[ Laivas vaiduoklis](wiki/istorija/baychimo-laivas-vaiduoklis-nenorejes-nuskesti.md)
 * Tinklaraščio migracija: [RedditBest](wiki/blogas/redditbest/)
 * Tinklaraščio migracija: Pakeisti pasaulį taip, jog tai [kažką reikštų](wiki/blogas/pakeisti-pasauli-taip-jog-tai-kazka-reikstu.md)

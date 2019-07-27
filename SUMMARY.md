@@ -21,6 +21,7 @@
   * [Apie graužtukus](wiki/blogas/apie-grauztukus.md)
   * [Apie Kalėdas](wiki/blogas/apie-kal-das.md)
   * [Apie populiariuosius vaistukus](wiki/blogas/apie-populiariuosius-vaistukus.md)
+  * [Apie rašymą](wiki/blogas/apie-rasyma.md)
   * [Apie turinio vartojimą](wiki/blogas/apie-turinio-vartojima.md)
   * [A tale of nice guys](wiki/blogas/a-tale-of-nice-guys.md)
   * [Apie pinigus ir laisvę](wiki/blogas/apie-pinigus-ir-laisve.md)

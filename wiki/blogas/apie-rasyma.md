@@ -1,0 +1,24 @@
+---
+description: 'Publikuota: 2011-12-09'
+---
+
+# Apie rašymą
+
+![](../../.gitbook/assets/writing_by_after_the_party_thumb.jpg)
+
+> “The only thing standing between me and greatness is me.”  
+> ― Woody Allen
+
+Žinot, rašymas jau yra tapęs dalimi manęs. Kažkas yra pasakęs, kad daryk tą patį ilgą laiką ir prie to priprasi. Tuo remiasi elementarusis 30 dienų eksperimentas. Tikriausiai esate girdėję apie jį. Esmė, kad 30 dienų atkakliai, sąžiningai darote visiškai jums naują, neįprastą veiklą. Na tarkim, kad ir bėgiojimas ar merginų užkalbinimas viešose vietose. Taigi, 30 dienų, be jokių išimčių darant tą patį, 31-oji jums jau bus natūrali kasdienybės dalis.   
+Soooo… Jau tiek metų reiškiant mintis raštu, prie to tikrai pripratau ir tiesiog ilgesnį laiką nieko neparašius jauti trūkumą, kurį užpildyti gali tik vėl sėdęs prie klaviatūros. Aišku, dalis to reiškimosi nubėga į Muzikos Virtuvę, kurioje iš esmės rašau kiekvieną dieną. Parašai bent pora eilučių užsimindamas apie savo dabartinę būseną ar aktualijas, kurios tuo metu tau atrodo svarbios – ir iškart pasijauti geriau. Lyg susileidęs dozę savojo narkotiko. Tikiu, kad rašytojai, kurie tai daro visai kitokiu lygiu, jaučia ir kitokį poreikio jausmą. Skant, priklausomybė daug didesnė. Tai gerai jei ilgesnį laiką ko nors neparašius dar rankos neima drebėti.
+
+Ir iš esmės, nors tikrai dažnai savo paties tekstais būnu nepatenkintas, tačiau kartais paskaitai kokį vieną kitą senesnį ne informacinio pobūdžio straipsnį ir šypteli nuo kurios nors minties, kurią tada pavyko išgrumuliuoti. O tokiomis akimirkomis tiesiog pasidaro žavingai gera :j
+
+Ir niekada nepagalvojau, kad rašymas atneš man kažkokios naudos. Taip, pastoviai rašant skaičiukai statistikoje po truputis auga, kartais būna stebėtinai keistai malonu, kai susipažinęs ir kiek labiau papliurpęs su nauju žmogumi, sužinai, kad jis žino tavo puslapį, yra skaitęs tavo minčių, dar prieš susipažįstant. Tačiau efektyviausiai rašymas paveikia kitą dalį. Konkrečiai tai būtų minčių reiškimas. Nebūtinai ir raštu. Nuolat dėliojant mintis, kad tinkamai išsireikštum rašant straipsnį, išmoksti jas dėliojimo tinkamai daug greičiau. O tai atsispindi šnekamojoje kalboje – kalba ima darytis sterilesnė. Daug mažiau tuščiažodžiaujama, dažnai pavartojami tokie žodžiai, kurie šnekamojoje kalboje vartojami kiek rečiau, beveik nebelieka keiksmažodžių, na o sakinių formuluotės ima skambėti formaliai, tarsi skaitomos žinių vedėjo. Šiandien kalbėdamas telefonu, tai puikiai pajutau. Tiesiog greitai bandžiau supažindinti žmogų su nauja, jam visiškai nežinoma sfera ir mano pasakojimas buvo panašus į straipsnį. Na taip, šnekamojoje kalboje vis dar išlieka minčių šuoliai, kurie taip man būdingi, per juos kartais atsiranda ir minties užmiršimas, bet visumoje mano kalba yra tikrai smarkiai pasikeitusi ir viso to nuopelnai be abejonių kliūna rašymo procesui.
+
+Dar mokyklos suole sėdėdamas ir už lietuvių kalbą gaudavęs minimalius įvertinimus aš svajodavau išmokti savo mintis dėstyti taisyklingai. Taip, nesiginčysiu, gramatinių klaidų pas manęs vis vien išlieka ir matyt jų visada ir bus, tačiau mokyklos svajonė apie minčių reiškimą priartėjo prie realybės. Ir štai čia atsiranda didelis noras žengti žingsniu į priekį. Niekada nenoriu užsiciklinti ir sustoti vienoje vietoje, man tiesiog būtinas judėjimas į priekį. Pasiekus vieną tikslą, išsikeli sekantį ir judi jo link dar atkakliau. Koks gi mano dabartinis?
+
+Yra tokių žmonių, kuriais sunku nesižavėti. Žmonės išreiškę tikrai neįtikėtinas mintis, požiūrius ar tiesiog kultines frazes. Bukowski, Allen, Shakur, Carlin – visi jie yra pažėrę perliukų. Noriu pasižymėti pakankama įžvalga, protu ir ironija, kad taipogi mokėti taip genialiai reikšti savo mintis. Reikšti tiek gerai, kad kažkas perskaitęs jas susimastytų, susižavėtų, sukikentų ar galų gale net cituotų. Galbūt aš ir nerašysiu romanų ar dienoraščių, tačiau būna, jog pagalvoji, kad vienas ar kitas mintis apie išgyvenimus ar pastebėjimus reiktų pabandyti išreikšti trumpomis frazėmis, supinti viską tarp žodžių ir paversti viso labo keliomis užkoduotomis eilutėmis, kurias iššifruoti sugebėtų ne kiekvienas. Eilėraščiai – ne, tam manyje nėra tokio subtilumo ir grožio įžvelgimo. Aš daug arčiau realybės, kasdienybės, to kas mane supa. Rimas, konkrečiai rap’o rimas. Bet kai tik noriu kažką tokio parašyti, iškart apninka mintys, o ką gi rašyti, kaip visa tai parašyti tokiu lygiu kokiu norėčiau. Nors pamąstymų man kyla daug ir įvairių, tačiau visada atrodo, kad tai nėra tinkama rimo formatui, kad tai nėra įdomu or smth.
+
+Tiesiog reikia galų gale perlipti save ir tiesiog rašyti. Rašyti, kaip kad rašiau pradėjęs šį blogą. Norimas įgūdis ateis savaime. Su patirtimi, bei su parašytų eilučių kiekiu. Kol vieną dieną tomis rimuotomis frazėmis mokėsiu išsireikšti taikliai ir lengvai…
+
