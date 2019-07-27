@@ -23,8 +23,10 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 * Tinklaraščio migracija: [Laiko valiuta](wiki/blogas/laiko-valiuta.md)
 * Tinklaraščio migracija: [ShowerThoughts](wiki/idejos.md#2019-07-27)
 * Tinklaraščio migracija: [Peter Pan generation](wiki/straipsniai-skaitiniai-istorijos/straipsniu-archyvas/peter-pan-generation.md)
-* Tinklaraščio migracija: [Sapnas su Olga](wiki/blogas/redditbest/sapnas-su-olga.md)
+* Tinklaraščio migracija: [Sapnas su Olga](wiki/blogas/sapnas-su-olga.md)
 * Tinklaraščio migracija:[ Gyvenimas kartu su mergina](wiki/blogas/gyvenimas-kartu-su-mergina.md)
+* Tinklaraščio migracija: [Apie geriausius draugus ir drauges](wiki/blogas/apie-geriausius-draugus-ir-drauges.md)
+* Tinklaraščio migracija: [Apie graužtukus](wiki/blogas/apie-grauztukus.md)
 * Tinklaraščio migracija: [44 pragaro dienos](wiki/istorija/44-pragaro-dienos.md)
 
 #### 2019-07-26

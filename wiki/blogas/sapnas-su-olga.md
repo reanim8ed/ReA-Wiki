@@ -4,7 +4,7 @@ description: 'Publikuota: 2013-08-23'
 
 # Sapnas su Olga
 
-![](../../../.gitbook/assets/placeholder-title.jpg)
+![](../../.gitbook/assets/placeholder-title.jpg)
 
 Dievaži, hilarious, kokių tik kartais sapnų man neprisisapnuoja. Nepaisant visų šyzų, kartais, tačiau tikrom retenybėm, būna ir kažkas labai tokio. Kažkas įsimintino ir žavingo. Vakarykštis sapnas buvo su kviestine kino žvaigžde. Leiskite pristatyti: ukrainietė aktorė ir modelis Olga Kurylenko. Taip, tai ta pati mergina iš kritiškai geimerių suvertinto kino filmo [Hitman \(2007\)](http://www.imdb.com/title/tt0465494/),  Bond’u apsimesti bebandančio Craig’o filmo [Quantum of Solace \(2008\)](http://www.imdb.com/title/tt0830515/) ir galiausiai šiemetinio klasikinių sci-fi filmų tribute’o su nuspėjama pabaiga, tačiau labai gražaus dizaino – [Oblivion \(2013\)](http://www.imdb.com/title/tt1483013/), apie kurį dar spėsiu papasakoti \(taip, visgi dar grįšiu prie filmų aprašymų, turėkit kantrybės\). Olga yra ta aktorė, kurią siūlyčiau pačią pirmą, jei kada būtų filmuojamas žaidimo[ Portal motyvais paremtas filmas](http://www.deviantart.com/art/Portal-For-science-you-monster-383649030).
 
