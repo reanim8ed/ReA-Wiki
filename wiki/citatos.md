@@ -1,5 +1,7 @@
 # Citatos
 
+* Opportunity is missed by most people because it is dressed in overalls and looks like work. - Thomas Edison
+* Ships don't sink because of water AROUND them. Ships sink because of water that gets IN them.
 * Kai pinigų planams nebelieka, tuomet jie pavadinami svajonėmis.
 * Technology didn’t make our society shittier, it just exposed all of the shitty things in our society.
 * All happy families are alike; each unhappy family is unhappy in its own way. — Leo Tolstoy
