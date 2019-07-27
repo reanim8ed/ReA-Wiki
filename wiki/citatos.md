@@ -34,6 +34,13 @@
 * The two things people dislike the most: the way things are, and when they change.
 * Facts dont care about your feelings
 
+### You say
+
+You say you love rain, but you open your umbrella.   
+You say you love the sun, but you find a shadow spot.   
+You say you live the wind, but you close your windows.   
+This is why I am afraid, you say that you love me too.
+
 ### Žmonės nebedirba
 
 Iš vaikiškos knygelės „Ką žmonės dirba visą dieną?“
