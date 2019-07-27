@@ -58,6 +58,8 @@
   * [Straipsnių archyvas](wiki/straipsniai-skaitiniai-istorijos/straipsniu-archyvas/README.md)
     * [Pasikutenkim jausmus, 90-ųjų vaikai](wiki/straipsniai-skaitiniai-istorijos/straipsniu-archyvas/pasikutenkim-jausmus-90-ju-vaikai.md)
 * [Technologijos](wiki/technologijos/README.md)
+  * [Gadgets](wiki/technologijos/gadgets/README.md)
+    * [Bevielės ausinės](wiki/technologijos/gadgets/bevieles-ausines.md)
   * [Internetas](wiki/technologijos/internetas.md)
   * [TechIT straipsniai](wiki/technologijos/technologijos.md)
 * [Teorijos / efektai / fenomenai](wiki/teorijos-efektai.md)

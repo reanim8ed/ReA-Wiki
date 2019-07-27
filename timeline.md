@@ -6,6 +6,10 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 
 ## 2019-07
 
+#### 2019-07-27
+
+* Tinklaraščio migracija: [Bevielės ausinės](wiki/technologijos/gadgets/bevieles-ausines.md)
+
 #### 2019-07-26
 
 * [Tėvų vertybės](wiki/idejos.md#2019-07-26)
