@@ -16,10 +16,13 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 * Tinklaraščio migracija: IT Talk: Apple laikas pradėti gaminti savo [pačių procesorius](wiki/technologijos/it-talk/apple-laikas-pradeti-gaminti-savo-paciu-procesorius.md)
 * Tinklaraščio migracija: IT Talk: Ar[ „Nokia“ sugrįžimas](wiki/technologijos/it-talk/ar-nokia-sugrizimas-galimas-tik-su-android.md) galimas tik su „Android“?
 * Tinklaraščio migracija: IT Talk: [3 didieji telefonų baterijų mitai  ](wiki/technologijos/it-talk/3-didieji-telefonu-bateriju-mitai.md)
+* Tinklaraščio migracija: IT Talk: [Aukštos klasės ausinės](wiki/technologijos/it-talk/aukstos-klas-s-ausin-s.md)
+* Tinklaraščio migracija: IT Talk: [Apie HDMI](wiki/technologijos/it-talk/apie-hdmi.md)
 * Tinklaraščio migracija: [Nesusitikinėk su mergina, kuri keliauja](wiki/blogas/nesusitikinek-su-mergina-kuri-keliauja.md)
 * Tinklaraščio migracija: [Tinklai ir vardai](wiki/blogas/tinklai-ir-vardai.md)
 * Tinklaraščio migracija: [RedditBest](wiki/blogas/redditbest/)
 * Tinklaraščio migracija: Pakeisti pasaulį taip, jog tai [kažką reikštų](wiki/blogas/pakeisti-pasauli-taip-jog-tai-kazka-reikstu.md)
+* Tinklaraščio migracija: [Michael Jackson](wiki/asmenybes/pop-kultura/michael-jackson.md)
 * Tinklaraščio migracija: [ShowerThoughts](wiki/idejos.md#2019-07-27)
 
 #### 2019-07-26
