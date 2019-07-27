@@ -32,6 +32,7 @@
   * [Graži moteris](wiki/blogas/grazi-moteris.md)
   * [Hysterical Literature: Stoya](wiki/blogas/hysterical-literature-stoya.md)
   * [I’m sorry Tom, but you have to run again](wiki/blogas/im-sorry-tom-but-you-have-to-run-again.md)
+  * [Iššūkiai](wiki/blogas/issukiai.md)
   * [Kalėdų lūkesčiai](wiki/blogas/kaledu-lukesciai.md)
   * [Kraunamės daiktus studentavimui](wiki/blogas/kraunames-daiktus-studentavimui.md)
   * [Laiko valiuta](wiki/blogas/laiko-valiuta.md)

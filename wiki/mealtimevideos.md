@@ -4,6 +4,7 @@
 
 * Turėjome viršgarsinius keleivinius lėktuvus, kuriais perskristi Atlantą būdavo galima per 3,5 valandos, tačiau dabar skraidome su dvigubai lėtesniais lėktuvais. Ir visai ne dėl saugumo. Tai kodėl taip nutiko? TLDW: [too load too expensive](https://www.youtube.com/watch?v=a_wuykzfFzE)
 * [Why Men and Women Cant Be Friends](https://www.youtube.com/watch?v=ko5sSeU-TrY)
+* \_\_[_The Beauty Of A Second_](https://www.youtube.com/watch?v=cyj_aVYDlAc) – tai trumpametražių filmų konkursas, kuruojamas Wim Wenders’o. Šis režisierius prašo dalyvių tik vieno: užfiksuoti grožio akimirką vos sekundėje juostos. 
 * Jau ne kartą įsitikinau, kad [Matt’ui Damon’ui](https://www.youtube.com/watch?v=vj-cK_KfjsI) charizmos tikrai netrūksta. Tai dar kartą įrodo ši puiki kalba absolventams.
 * Puiki [Ellen ](https://www.youtube.com/watch?v=0e8ToRVOtRo)kalba studijų baigimo ceremonijoje
 * Ką reiškia gyvenimas[ su depresija](https://www.youtube.com/watch?v=EJ_S5Rjt_iI). Perteikta video formatu.
