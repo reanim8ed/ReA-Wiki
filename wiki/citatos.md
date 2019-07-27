@@ -1,5 +1,6 @@
 # Citatos
 
+* Save vertiname pagal ketinimus, kitus – pagal poelgius.
 * Opportunity is missed by most people because it is dressed in overalls and looks like work. - Thomas Edison
 * Kuo vyresnis tampi, tuo mažiau norisi intrigų, tuščių spektaklių, isterijos priepuolių. Tiesiog nori jaukių namų, skanios vakarienės ir žmogaus šalia, kuris žino, kiek šaukštelių cukraus dėti į tavo arbatą.
 * Ships don't sink because of water AROUND them. Ships sink because of water that gets IN them.

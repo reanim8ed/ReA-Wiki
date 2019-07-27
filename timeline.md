@@ -26,6 +26,7 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 * Tinklaraščio migracija: [Laiko valiuta](wiki/blogas/laiko-valiuta.md)
 * Tinklaraščio migracija: [ShowerThoughts](wiki/idejos.md#2019-07-27)
 * Tinklaraščio migracija: [Peter Pan generation](wiki/straipsniai-skaitiniai-istorijos/straipsniu-archyvas/peter-pan-generation.md)
+* Tinklaraščio migracija: [Sapnas su Olga](wiki/blogas/redditbest/sapnas-su-olga.md)
 
 #### 2019-07-26
 
