@@ -39,6 +39,7 @@
   * [Laiko valiuta](wiki/blogas/laiko-valiuta.md)
   * [Mano studijos ir profesinė karjera](wiki/blogas/mano-studijos-ir-profesine-karjera.md)
   * [Madinga](wiki/blogas/madinga.md)
+  * [Maža išpažintis](wiki/blogas/maza-ispazintis.md)
   * [Mens ReA](wiki/blogas/mens-rea.md)
   * [Nesusitikinėk su mergina, kuri keliauja](wiki/blogas/nesusitikinek-su-mergina-kuri-keliauja.md)
   * [Noblesse oblige](wiki/blogas/noblesse-oblige.md)
