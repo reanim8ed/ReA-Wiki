@@ -1,5 +1,13 @@
 # Istorija
 
+### Pirmasis greičio viršijimas
+
+[Pirmoji bauda už greičio viršijimą](https://ca.finance.yahoo.com/news/8-mph-speeding-ticket-other-automotive-firsts-152500480.html) istorijoje buvo išrašytą už 4 kartus viršytą greitį: važiuota 8 mylių per valandą \(~13km/h\) greičiu, kai leidžiamas greitis – 2 mylios per valandą. Policininkas pasivijo automobilį dviračiu ir išrašė 1 šilingo dydžio baudą.
+
+### Tankų skaičiavimas pagal serijinius numerius
+
+[Antrojo pasaulinio karo metais](https://www.wikiwand.com/en/German_tank_problem#/Historical_problem) sąjungininkai statistinės tankų serijinių numerių analizės pagalba apskaičiavo Vokietijos mėnesinės tankų gamybos apimtis. Skaičiavimai pavyko netikėtai puikiai – buvo apsirikta tik vienu tanku.
+
 ### [Sovietų super lėktuvas](https://youtu.be/7Hv2dsVkA38)
 
 Ekranoplan'as, milžiniškas, išties labai didelę talpą turintis lėktuvas pagamintas USSR laikais, kuris skrisdamas palei vandens paviršių, sugebėdavo ne tik pasiekti milžiniškus greičius, tačiau ir išlikti nepastebėtas radaruose išties labai ilgai. Nors turėjo išties didelių pranašumų, tačiau pasižymėjo ir gan rimtomis problemomis ir sugriuvus sovietų sąjungai, nebebuvo daugiau gaminamas.
