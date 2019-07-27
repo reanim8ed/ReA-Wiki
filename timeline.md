@@ -25,6 +25,7 @@ Tinklaraščio migracija:
 * [Gera būti manim](wiki/blogas/gera-buti-manimi.md)i
 * [Laivas vaiduoklis](wiki/istorija/baychimo-laivas-vaiduoklis-nenorejes-nuskesti.md)
 * [RedditBest](wiki/blogas/redditbest/)
+* [Bob knows better](wiki/blogas/bob-knows-better.md)
 * Pakeisti pasaulį taip, jog tai [kažką reikštų](wiki/blogas/pakeisti-pasauli-taip-jog-tai-kazka-reikstu.md)
 * [Mano studijos ir profesinė karjera](wiki/blogas/mano-studijos-ir-profesine-karjera.md)
 * [Kraunamės daiktus studentavimui](wiki/blogas/kraunames-daiktus-studentavimui.md)
