@@ -14,6 +14,7 @@
     * [Kevin Hart](wiki/asmenybes/pop-kultura/kevin-hart.md)
     * [Jackie Chan](wiki/asmenybes/pop-kultura/jackie-chan.md)
 * [Blog'as](wiki/blogas/README.md)
+  * [Kokia eilutė kardinaliai pakeitė jūsų mąstyseną?](wiki/blogas/kokia-eilut-kardinaliai-pakeit-jus-mastysena.md)
   * [Nesusitikinėk su mergina, kuri keliauja](wiki/blogas/nesusitikinek-su-mergina-kuri-keliauja.md)
 * [Citatos](wiki/citatos.md)
 * [Darbas / produktyvumas](wiki/darbas-produktyvumas.md)
