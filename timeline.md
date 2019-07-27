@@ -9,7 +9,7 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 #### 2019-07-27
 
 * Tinklaraščio migracija: [Bevielės ausinės](wiki/technologijos/gadgets/bevieles-ausines.md)
-* Tinklaraščio migracija:  [Pirmasis raketos „Falcon Heavy“ skrydis](wiki/kosmosas.md#pirmasis-raketos-falcon-heavy-skrydis-2018-01-31)
+* Tinklaraščio migracija: [Pirmasis raketos „Falcon Heavy“ skrydis](wiki/kosmosas.md#pirmasis-raketos-falcon-heavy-skrydis-2018-01-31)
 * Tinklaraščio migracija: [Secret Hitler](wiki/zaidimai/stalo-zaidimai/secret-hitler.md)
 * Tinklaraščio migracija: [Cards Against Humanity](wiki/zaidimai/stalo-zaidimai/cards-against-humanity.md)
 * Tinklaraščio migracija: [Garmin Virb Ultra 30 apžvalga](wiki/technologijos/gadgets/apzvalgos/garmin-virb-ultra-30.md)
@@ -19,11 +19,14 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 * Tinklaraščio migracija: [Tinklai ir vardai](wiki/blogas/tinklai-ir-vardai.md)
 * Tinklaraščio migracija: [RedditBest](wiki/blogas/redditbest/)
 * Tinklaraščio migracija: Pakeisti pasaulį taip, jog tai [kažką reikštų](wiki/blogas/pakeisti-pasauli-taip-jog-tai-kazka-reikstu.md)
+* Tinklaraščio migracija: [Mano studijos ir profesinė karjera](wiki/blogas/mano-studijos-ir-profesine-karjera.md)
+* Tinklaraščio migracija: [Kraunamės daiktus studentavimui](wiki/blogas/kraunames-daiktus-studentavimui.md)
 * Tinklaraščio migracija: [Michael Jackson](wiki/asmenybes/pop-kultura/michael-jackson.md)
 * Tinklaraščio migracija: [Laiko valiuta](wiki/blogas/laiko-valiuta.md)
 * Tinklaraščio migracija: [ShowerThoughts](wiki/idejos.md#2019-07-27)
 * Tinklaraščio migracija: [Peter Pan generation](wiki/straipsniai-skaitiniai-istorijos/straipsniu-archyvas/peter-pan-generation.md)
 * Tinklaraščio migracija: [Sapnas su Olga](wiki/blogas/sapnas-su-olga.md)
+* Tinklaraščiu migracija: [Mens ReA](wiki/blogas/mens-rea.md)
 * Tinklaraščio migracija:[ Gyvenimas kartu su mergina](wiki/blogas/gyvenimas-kartu-su-mergina.md)
 * Tinklaraščio migracija: [Apie geriausius draugus ir drauges](wiki/blogas/apie-geriausius-draugus-ir-drauges.md)
 * Tinklaraščio migracija: [Apie graužtukus](wiki/blogas/apie-grauztukus.md)

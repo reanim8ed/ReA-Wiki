@@ -32,6 +32,19 @@
 * The two things people dislike the most: the way things are, and when they change.
 * Facts dont care about your feelings
 
+### Žmonės nebedirba
+
+Iš vaikiškos knygelės „Ką žmonės dirba visą dieną?“
+
+_Vaikai, šiais laikais žmonės nebedirba. Jie tik eina į darbą ir ten užsiima kas kuo:  
+Štai žurnalistai – pliurpia.  
+Mokslininkai – tyrinėja. Bomžai – irgi tyrinėja. Konteinerius.  
+Ofiso planktonas – žaidžia kompiuteriu.  
+Policininkai – važinėjasi. Pardavėjos – nuobodžiauja. Seimūnai – važinėjasi ir nuobodžiauja.  
+Kurie nori pabūti seimūnais – žada. Žada maždaug kaip vaikinas merginai likę dviese.  
+Prezidentė – barasi. Premjeras – aiškina. Politologai paaiškina juos abu.  
+Finansų ministrė – neduoda. Niekam arba truputį kai kam. Kai kurios moterys irgi neduoda. Niekam arba truputį kai kam._
+
 ### Momentum of the time
 
 _„History is hard to know, because of all the hired bullshit, but even without being sure of ‘history’ it seems entirely reasonable to think that every now and then the energy of a whole generation comes to a head in a long fine flash, for reasons that nobody really understands at the time—and which never explain, in retrospect, what actually happened . . . There was madness in any direction, at any hour. If not across the Bay, then up the Golden Gate or down 101 to Los Altos or La Honda . . . You could strike sparks anywhere. There was a fantastic universal sense that whatever we were doing was right, that we were winning . . . And that, I think, was the handle—that sense of inevitable victory over the forces of Old and Evil. Not in any mean or military sense; we didn’t need that. Our energy would simply prevail. There was no point in fighting—on our side or theirs. We had all the momentum; we were riding the crest of a high and beautiful wave . . . So now, less than five years later, you can go up on a steep hill in Las Vegas and look West, and with the right kind of eyes you can almost see the high-water mark—that place where the wave finally broke and rolled back.“ **– Hunter S. Thompson – Fear and Loathing in Las Vegas: A Savage Journey to the Heart of the American Dream**_
