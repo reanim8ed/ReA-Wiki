@@ -6,6 +6,18 @@ description: >-
 
 # Ekonomika / finansai
 
+## Automatizavimas
+
+{% embed url="https://www.youtube.com/watch?v=7Pq-S557XQU" %}
+
+Ko gero geriausias mano taip mėgiamo [CGP Grey](https://www.youtube.com/channel/UC2C_jShtL725hvbm1arSV9w)‘jaus paruoštas video. Ir nors video klipe kalbama ganėtinai ne pozityviai optimizavimo linkme, tačiau reikia suprasti, kad globalūs pokyčiai nors ir nevyksta taip jau staigiai, bet visgi gan atkakliai judame būtent ta linkme. Jei ne mūsų, tai galbūt mūsų vaikų gyvenimuose.
+
+Ekonomikai reikia ne tik pasiūlos, bet ir paklausos. Jei automatizavimas itin efektyviai ir pigiai be perstojo gamins produktus, bet žmonės, kuriuos iš darbo rinkos tas automatizavimas išstūmė, nebeturės už ką pirkti – ekonomikoje nebebus pakankamai pirkėjų ir visa ši ilgus metus veikusi sistema sustoja. Kitą vertus Marx’as teigė, kad socializmas išsivystys labai pažengusioje kapitalistinėje visuomenėje, kai pelno lygiai nukris beveik iki nulinių, o efektyvumas bus milžiniškai aukštas.
+
+Cracked podcaste kalbėdami panašia tema, vienas iš diskusijos narių puikiai apibendrino tai, ką galvoju ir aš: šiuo metu mes ieškome priežasčių duoti nedirbantiems žmonėms minimalias pajamas, kad jie galėtų funkcionuoti visuomenėje – bedarbystės pašalpos, invalidumo pašalpos, pensijos. Ateityje nusimato laikas, kai nustosime ieškoti priežasčių ir tiesiog būsime priversti keisti sistemos modelį, kuriame mes gyvename, nes gyventi pagal senąsias žaidimo taisykles nebe išeis ir pradėsime duoti visiems žmonėms minimalias pajamas, kitaip tariant – [bazinį atlyginimą](https://en.wikipedia.org/wiki/Basic_income) \(visai ne nauja koncepcija\), kurio užtektų pragyvenimui ir kurį žmonės leistų vyriausybei priklausančioms bendrovėms ir taip sudarytų pinigų tekėjimo ratą. Kažkiek turės pasikeisti ir visuomenės požiūris, kuris šiuo metu labai skeptiškai priima nedirbančius, „išlaikomus“ žmones. Jei 10% žmonių sugeba sugeneruoti pakankamai, jog užtektų visai populiacijai, tai reiškia, kad likusi dalis žmonijos nebebūtų priversti dirbti vien tik dėl išgyvenimo, vien tik dėl poreikio. Resursai reikalingi pragyvenimui būtų prigimtinė žmogaus teisė ir tik tie, kurie norėtų siekti daugiau ir kurie dar turi galimybę savo sugebėjimus panaudoti naujojoje rinkoje, galėtų savanoriškai dirbti, nežabojami privalomumo. Tokioje visuomenėje iš esmės ne taip svarbu, kad darbo vietų bus mažiau, nes darbo vietų poreikis bus taipogi sumažėjęs.
+
+Problema yra ne tai, kad įsigalės tokia utopinė sistema, o tai, kad mums reikės daryti pakeitimus, pereiti prie jos ir tas perėjimas bus skausmingas. Žmonės praradinės darbus dar toli gražu iki pasikeitumų ir niekas nesikeis iki kol tai taps vis opesnė ir opesnė problema. Ir tik tada, kai jau pasieksime milžiniškus bedarbystės lygius ir visuomenę ištiks labai didelė krizė, tik tada bus imtasi priemonių, kurių įsigalėjimui ir darniam sukūrimui taipogi prireiks dar nemažai laiko. Taigi rezultate tarpiniu laikotarpiu tarp vienos ir kitos sistemos laukia išties sudėtingas laikotarpis, didžiausia kadanors buvusi ekonominė depresija.
+
 ## Notes 
 
 * People say money doesn’t buy happiness, but it does. It’s associated with increased happiness. People are happier with more money at every single point in the continuum to $500,000 a year. The saying should be that money doesn’t guarantee happiness.

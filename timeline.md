@@ -13,11 +13,7 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 * Tinklaraščio migracija: [Secret Hitler](wiki/zaidimai/secret-hitler.md)
 * Tinklaraščio migracija: [Garmin Virb Ultra 30 apžvalga](wiki/technologijos/gadgets/apzvalgos/garmin-virb-ultra-30.md)
 * Tinklaraščio migracija: [Dell Inspiron 15 7559 apžvalga](wiki/technologijos/gadgets/apzvalgos/dell-inspiron-15-7559.md)
-* Tinklaraščio migracija: IT Talk: Apple laikas pradėti gaminti savo [pačių procesorius](wiki/technologijos/it-talk/apple-laikas-pradeti-gaminti-savo-paciu-procesorius.md)
-* Tinklaraščio migracija: IT Talk: Ar[ „Nokia“ sugrįžimas](wiki/technologijos/it-talk/ar-nokia-sugrizimas-galimas-tik-su-android.md) galimas tik su „Android“?
-* Tinklaraščio migracija: IT Talk: [3 didieji telefonų baterijų mitai  ](wiki/technologijos/it-talk/3-didieji-telefonu-bateriju-mitai.md)
-* Tinklaraščio migracija: IT Talk: [Aukštos klasės ausinės](wiki/technologijos/it-talk/aukstos-klas-s-ausin-s.md)
-* Tinklaraščio migracija: IT Talk: [Apie HDMI](wiki/technologijos/it-talk/apie-hdmi.md)
+* Tinklaraščio migracija: [IT Talk](wiki/technologijos/it-talk/)
 * Tinklaraščio migracija: [Nesusitikinėk su mergina, kuri keliauja](wiki/blogas/nesusitikinek-su-mergina-kuri-keliauja.md)
 * Tinklaraščio migracija: [Tinklai ir vardai](wiki/blogas/tinklai-ir-vardai.md)
 * Tinklaraščio migracija: [RedditBest](wiki/blogas/redditbest/)
@@ -27,6 +23,8 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 * Tinklaraščio migracija: [ShowerThoughts](wiki/idejos.md#2019-07-27)
 * Tinklaraščio migracija: [Peter Pan generation](wiki/straipsniai-skaitiniai-istorijos/straipsniu-archyvas/peter-pan-generation.md)
 * Tinklaraščio migracija: [Sapnas su Olga](wiki/blogas/redditbest/sapnas-su-olga.md)
+* Tinklaraščio migracija:[ Gyvenimas kartu su mergina](wiki/blogas/gyvenimas-kartu-su-mergina.md)
+* Tinklaraščio migracija: [44 pragaro dienos](wiki/istorija/44-pragaro-dienos.md)
 
 #### 2019-07-26
 
@@ -50,7 +48,7 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 * [HOTorNOT ](wiki/mealtimevideos.md#2019-07-24)socialinis tinklas
 * [Apie FaceApp](wiki/straipsniai-skaitiniai-istorijos/#faceapp)
 * Pridėta [PHP ](wiki/programavimas/php.md)skiltis
-* [Sovietų super lėktuvas](wiki/istorija.md#soviet-super-l-ktuvas)
+* [Sovietų super lėktuvas](wiki/istorija/#soviet-super-l-ktuvas)
 * Daugumai nepatinka dainuoti "[Su gimimo diena](wiki/idejos.md#2019-07-24)"
 
 #### 2019-07-23
@@ -60,12 +58,12 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 #### 2019-07-21
 
 * Extra Credits apie [Super Mario ir Portal](wiki/zaidimai/#game-design) tutorial'ų dizainą
-* 3 didžiausia atominė katastrofa istorijoje, kuri ko gero paveikė net daugiau žmonių, nei Chernobyl'io įvykiai - [Kyshtym Disaster](wiki/istorija.md#cernobylis)
+* 3 didžiausia atominė katastrofa istorijoje, kuri ko gero paveikė net daugiau žmonių, nei Chernobyl'io įvykiai - [Kyshtym Disaster](wiki/istorija/#cernobylis)
 
 #### 2019-07-20
 
 * [Vinilinės plokštelės ](wiki/technologijos/#vinilin-s-plokstel-s)ir HiFi garso aparatūra
-* Kodėl dviratis nebuvo [išrastas anksčiau](wiki/istorija.md#pirmoji-zmogaus-j-ga-varoma-transporto-priemon)?
+* Kodėl dviratis nebuvo [išrastas anksčiau](wiki/istorija/#pirmoji-zmogaus-j-ga-varoma-transporto-priemon)?
 * [Ghostbusters AR](wiki/idejos.md#2019-07-21)
 * [Perfection is finally attained](wiki/citatos.md) not when there is no longer anything to add, but when there is no longer anything to take away.
 * [Apollo 11 50-metis](wiki/kosmosas.md#apollo-11-misijos-50-metis)
@@ -143,8 +141,8 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 
 #### 2019-06-09
 
-* [Černobylio istorija](wiki/istorija.md#cernobylis) su nuotraukomis
-* Istorija apie[ paskutinį sovietų sąjungos pilietį](wiki/istorija.md#paskutinis-soviet-sajungos-pilietis), kuris liko įkalintas kosmose.
+* [Černobylio istorija](wiki/istorija/#cernobylis) su nuotraukomis
+* Istorija apie[ paskutinį sovietų sąjungos pilietį](wiki/istorija/#paskutinis-soviet-sajungos-pilietis), kuris liko įkalintas kosmose.
 
 #### 2019-06-06
 
@@ -185,7 +183,7 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 * Didelių [miestų apatiškumo](wiki/teorijos-efektai.md#dideli-miest-apatiskumas) efektas
 * [Avengers: Endgame](wiki/filmai/#avengers-endgame-2019) filmas
 * [The way way back](wiki/filmai/#the-way-way-back-2013) filmas
-* Pirmasis [McDonalds Rusijoje](wiki/istorija.md)
+* Pirmasis [McDonalds Rusijoje](wiki/istorija/)
 * Vaistai nuo gonorėjos, o tuo pačiu ir [grindų plovimo skystis](wiki/faktai.md)
 
 #### 2019-05-19

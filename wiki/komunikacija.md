@@ -52,3 +52,46 @@ Tikrai nesu koks komunikacijos guru. Žinau, kad visada galima geriau. Pvz. jog 
 * Pateikiu keletą šaltinių, jog parodyti, kad tai nėra vien tik mano asmeninė nuomonė ir kad sprendimas išties yra rekomenduotinas ir populiarus
 * Ir paprasta gudrybė: pasiūlau palike'int. Po tokio gan optimistišką vaizdą nupiešiančio įrašo jis support'o įgauna greitai. O tuomet sprendimus priimantys žmonės matydami rezultatus - t.y. kad pasiūlymui dauguma pritaria, kur kas labiau linkusi jį priimti.
 
+## Vaikų auklėjimo klaidos
+
+![](../.gitbook/assets/kids_by_onurrus.jpg)
+
+Publikuota: 2014-05-03
+
+Let’s face some facts: aš neturiu vaikų, tad čia nėra kažkokie konkretūs, gyvenimiški pastebėjimai. Labai lengva badyti pirštu į kitų klaidas ir sakyti kokie jie blogi tėvai ir „vat aš taip tikrai nedaryčiau“. Visgi tobulo vaikų auklėjimo plano neturi niekas ir kiekvienas auklėja taip, kaip išmano. Yra labai daug vietų, kuriose auklėjimas gali pasisukti tikrai ne ta linkme, kokia tikimasi. Ir kiekvienas darome savas klaidas.  
+Pateikiu vaikų auklėjimo klaidų, apie kurias kartais visai nesusimąstoma, sąrašėlį.
+
+**-Išmokoma ką galvoti, užuot tai, kaip galvoti.**  
+Nors čia ir yra vienas iš tų variantų, kur tikrai lengviau pasakyti, nei iš tikrųjų įgyvendinti, tačiau tiesa, kad per nelyg dažnai vaikams per ilgai priperšama tėvų nuomonė, niekada neleidžiama išsireikti ar pagalvoti savo galva ir vėliau gaunamas rezultatas, kad turime jau abitūroje ar net ir vyresnio amžiaus jaunuolius, kurie iš esmės neturi savo nuomonės, negali patys išsirinkti, nuspręsti ir priimti sprendimų. Lengvamaniai idealistai, per nelyg daug pasitikintys kitais žmonėmis, be jokių didelių klausimų priimantys pirmą jiems pateiktą „tiesą“, nelabai naudojantys savarankiškai plėtojamą loginį mąstymą ir to pasekoje jiems gali būti sunku susidoroti su kai kuriais gyvenimo iššūkiais.
+
+**-Nederėtų girti tik už protą / gabumus, o vertėtų girti už darbą.**  
+Vaikai, kurie pagiriami ne už įdirbį, o už protą yra linkę išlaikyti šią nuomonę apie save. Atrodytų kas čia blogo, juk tada turėtų stengtis labiau? Ne visai taip… Yra atlikti keli tyrimai, kuriuose vaikai turėjo atlikti du testus. Atlikus pirmąjį testą, viena grupė vaikų buvo pagiriami už atliktą darbą, o kita grupė vaikų buvo giriama, už rezultatus ir kad gavę tokius gerus rezultatus, jie tikriausiai esą labai protingi. Antrąjam testui vaikams buvo galima rinktis tarptokio pačio sudėtingumo testo arba gan sunkesnio. Rezultatai tokie, kad vaikai, kurie buvo giriami už protą, nenorėjo susigadinti šio įvaizdžio apie save prieš mokytoją, tad nusprendė nesiimti rizikos, sprendžiant sunkesnį testą, kuriame tikriausiai neparodytų tokių puikių rezultatų, kai tuo tarpu pirmieji vaikai, kurie buvo pagirti už darbą, norėjo didesnio iššūkio ir pažiūrėti, kiek tas sunkus darbas nuves juos toliau.
+
+Jeigu nenorite, kad vaikas užaugtų su jausmu, kad viskas jam įvyks automatiškai, bus patiekta ant lėkštutės, be didelių pastangų ir jei norite, kad vaikas siektų daugiau, nei kad siekia dauguma iš mūsų, sakykite jam sunkiai ir atkakliai dirbti to linkme. Yra nemažai žmonių, kurie užaugę pripažįsta, kad patyrė sunkumų būtent todėl, kad visi juos laikydavo labai protingais ir būtent tai juos sugadino.  
+Nesvarbu koks protingas esi, reikės daug dirbi, norint būti sėkmingu savo pasirinktoje karjeroje.
+
+**-Praktinių žinių neišmokymas.**  
+Užuot paaiškinus, how things work, pvz, kaip protingiau reikėtų sutaisyti dviračio ratą, prikalti lentą, surišti virvę ir pan., dažniausiai būna pasakoma: imk, palaikyk žibintuvėlį. Kitą vertus, šito dėka užauga velniškai geri žibintuvėlių ir atsuktuvų laikytojai, kurie kiekvienam meistriukui vėliau turi mokėti pinigus, kad pvz tapetus išklijuotų vietoj jų, nes jiems su tuo susidurti tiesiog neteko ir jie nuoširdžiai nežino, kaip tai yra daroma. O neišmokoma dažniausiai arba iš tingumo, „laiko eikvojimo“, arba tiesiog teisinantis, kad vaikas viską sugadins, sulaužys ar padarys netinkamai.
+
+**-Per didelis paauglio laisvės apribojimas a.k.a. perdėtas saugojimas.**  
+Įprastinis variantas „mano namai, mano primetamos taisyklės, kurių tu privalai laikytis“, kuris galioja iki kol jaunimėlis išlekia studijuoti į aukštąsias mokyklas ištikrųjų netinka. Žinot kas tada dažniausiai nutinka? Vos tik išvažiavus, dažniausiai būna kuriam laikui nutrūkstama nuo grandinės, neretai gan smarkiai apsideginama alkoholiu, narkotikais ir pan. Būtent dėl šios priežasties dažniausiai ir matome savo ribų nežinančius, tačiau nuo visagalės tėvų akies pasprukusius pirmakursius, kurie po krikštynų ar kitų studentiškų vakarūškų apvemia kolidorius, liftus, kriaukles ir visą kitą. Iš dalies, kai per daug ribojama jauno, save dar tik atrandančio, maištingos sielos žmogaus laisvė, iškarto kyla konfliktas, jaunuolis gali ir greičiausiai bandys laužyti taisykles, išsmukdamas iš namų, sėlindamas patyliukais paryčiais, bandydamas pabėgti ar galbūt rūkydamas pasislėpus kambaryje. Žinau merginą, kuriai vidurinės metais buvo draudžiama susitikinėti su vaikinais. Kas nutiko išvykus jai studijuoti, tikriausiai galite numanyti.
+
+**-Per didelis laivės davimas iki paauglinio amžiaus vaikams.**  
+Praktiškai atvirkščias variantas minėtam aukščiau, tačiau amžiaus grupė jaunesnė. Miestuose labai ryškiai galima pastebėti vaikų grupę, kurių tėvai visai nesibodi išvis sužiūrėti kur ir ką veikia jų vaikai, kurie gauna ryškiai per daug laisvės ir per mažai auklėjimo ir disciplinos. Taip ir gauname 12-14 metų vandalus, mušančius bomžus, mėtančius škacus nuo daugiabučių stogų, spjaudančius ant žmonių, rūkančius, besikeikiančius riebiais rusiškais keiksmažodžiais ir pan. Geras filmas, parodantis, kaip tai gali būti baisu, yra 1995-ųjų [Kids](http://www.imdb.com/title/tt0113540/?ref_=fn_al_tt_1).
+
+**-Bandymas įgyvendinti savo neišpildytas svajones per savo vaikus.**  
+Nieko nėra blogo, paskatinti pabandyti naujus dalykus, kuriuose vaikas galbūt galėtų save atrasti, išbandyti. Blogai yra, kai vaikas verčiamas daryti tai, kas jam visiškai nepatinka, o patinka tik jo tėvams. Sportas, dainavimo, šokių, dailės, muzikos, plaukimo pamokos ir pan. Tėvų perdėtas noras, kad vaikas grotų pianinu, gali iššaukti rezultatą, kad iki to laiko, kol vaikas pabaigs muzikos mokyklą, jis taip nekęs pianino, kad nebenorės prie jo prisiliesti didžiąją gyvenimo dalį.
+
+**-Neskaitymas jiems nuo mažų dienų.**  
+15-20 minučių per dieną – viskas ko užtenka, kad vaikas ne tik, kad išsiugdytų pomėgį knygoms, bet ir turėtų geresnius rezultatus mokykloje, kai jau kiek ugtels, nes tai turtina žodyną, gerina minčių dėstymą, bei koncentraciją.
+
+**-Griežtumo nebuvimas.**  
+Tėvai neturėtų grąsinti vaikams dėl bausmės, tačiau nebūti pasiruošę tos bausmės taikyti. Jei buvo pasakyta „baikit arba mes išeinam“, tai geriau ir būti pilnai pasiruošus ištikrųjų išeiti. Kitu atveju vaikai greitai perpras, kad jie visvien gali gauti savo ir kad grėsmės dažnai gali būti tuščios, o tada nederėtų stebėtis, kad vaikai jūsų nebeklauso ir susitvarkyti su jais tampa sunku. Dažniausiai tai tampa scenarijumi: mama pasako baigti ir visiškai ignoruoja, kad vaikai visvien daro tą patį iki to momento, pakol pakrinka nervai, įsiunta ir nueina jų raminti ar krėsti jiems kailio. Vaikai tada būna pripratę, kad gali visiškai nekreipti dėmesio į grąsinimus iki kol mamytė nepasius. Gaunasi vienas didelis teatriškas balaganas.
+
+**-Neišmokymas meluoti.**  
+OK, šitas gali skambėti keistai ir gali lengvai atsisukti prieš jus pačius. O, bet, tačiau, būtinai pasakykite kaip prigavote juos meluojančius, nes reikia, kad jie taptų geresni tame. Jei jūsų santykiai su jau paaugusiais vaikais bus geri, tai dėl šio savybės jums jaudintis, kaip ir nederėtų, o vaiko sugebėjimas tai daryti nuo mažų dienų, išgelbės jus nuo tokių situacijų, kai tarkime kažką norite nuslėpti nuo kito žmogaus, o jūsų atžala pasididžiuodamas viską išpliurpia lauk, atskleisdamas jūsų melą. Visi žinome, kaip nemalonu tai gali būti. Ir nors iš dalies, melas atrodo lyg ir neigiama savybė, tačiau tai yra vertingas sugebėjimas, kuris gyvenime gali padėti išsisukti iš labai nemalonių, o kartais net ir pavojingų situacijų. Žmogui, kuriam nelabai tenka meluoti, gali būti sunku tai padaryti padaryti staigiai, kai išties prireiks.
+
+Iš to kartais gali gimti ir labai nuotaikingų istorijų: pvz vienam keturmečiui buvo pasakyta, kad tėvai žino, kad jis meluoja, nes kai jis bando tai daryti, jo žandai paraudonuoja. Tad vaikis pradėdavo meluoti jau užsidengęs žandus. Labai gerai tėvus nuteikia, kai vaikis įeina į kambarį, atsistoja prieš juos ir prieš kalbėdamas, pirma užsidengia delnais žandus.
+
+Žinoma, sąrašą galima tęsti ir tęsti, bet norėčiau išskirti ir apsistoti tik konkrečiai šiomis klaidomis. Kaip sakoma: one step at a time.
+
