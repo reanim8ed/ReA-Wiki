@@ -1,5 +1,13 @@
 # Showerthoughts
 
+## 2019-07-27
+
+* I like to think money wouldn’t change me; yet when I’m winning Monopoly I’m a terrible person.
+* What if all the Ancient Greek sculptures are actually victims of Medusa?
+* Whenever I yell at my dog to stop barking, he probably thinks „Awesome now we’re both barking“.
+* Teach a Parrot to say Parrot and you basically have a Pokémon.
+* Nuomos pasirinkimai Vilniuje: pigiai, bet su šeimininke. Pigiai, be šeimininkės, bet su sovietiniais baldais ir kilimais ant sienos. Pigiai, be šeimininkės, be sovietinių baldų ir kilimų, bet Naujininkuose. Pigiai, be šeimininkės, be sovietinių baldų ir kilimų, ne Naujininkuose, bet jau ir ne visai Vilniuj. Arba brangiai. \(credits to kaspiniuotis\).
+
 ## 2019-07-26
 
 * Kai kurie žmonės norėtų, kad jų vaikai niekada nepradėtų galvoti, nes tėvai, patys laikydami save jau perėjusiais šį vertybių apsvarstymo etapą, tiki visų savo vertybių tikrumu ir tvirtumu, todėl neabejoja, jog jos yra pačios geriausios ir jų vaikams.

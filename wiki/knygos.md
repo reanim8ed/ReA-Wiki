@@ -1,3 +1,7 @@
+---
+description: 'Good book is like a puppy: easy to pick up, but hard to put down.'
+---
+
 # Knygos
 
 ## Mėgstamiausi autoriai

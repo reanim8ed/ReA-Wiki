@@ -1,5 +1,10 @@
 # MealTimeVideos
 
+### 2019-07-26
+
+* Turėjome viršgarsinius keleivinius lėktuvus, kuriais perskristi Atlantą būdavo galima per 3,5 valandos, tačiau dabar skraidome su dvigubai lėtesniais lėktuvais. Ir visai ne dėl saugumo. Tai kodėl taip nutiko? TLDW: [too load too expensive](https://www.youtube.com/watch?v=a_wuykzfFzE)
+* Jau ne kartą įsitikinau, kad [Matt’ui Damon’ui](https://www.youtube.com/watch?v=vj-cK_KfjsI) charizmos tikrai netrūksta. Tai dar kartą įrodo ši puiki kalba absolventams.
+
 ### 2019-07-25
 
 * Įdomu kaip gali dainą girdėti šimtus kartų, tačiau visiškai pro ausis praleisti dainos reikšmę. [Nirvana - Polly](https://www.youtube.com/watch?v=NJ97KdTQFww)
