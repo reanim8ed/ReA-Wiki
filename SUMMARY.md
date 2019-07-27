@@ -65,5 +65,6 @@
 * [Teorijos / efektai / fenomenai](wiki/teorijos-efektai.md)
 * [Terminai](wiki/terminai.md)
 * [Tools](wiki/tools.md)
-* [Žaidimai](wiki/zaidimai.md)
+* [Žaidimai](wiki/zaidimai/README.md)
+  * [Secret Hitler](wiki/zaidimai/secret-hitler.md)
 

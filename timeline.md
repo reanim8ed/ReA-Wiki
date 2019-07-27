@@ -9,6 +9,8 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 #### 2019-07-27
 
 * Tinklaraščio migracija: [Bevielės ausinės](wiki/technologijos/gadgets/bevieles-ausines.md)
+* Tinklaraščio migracija:  [Pirmasis raketos „Falcon Heavy“ skrydis](wiki/kosmosas.md#pirmasis-raketos-falcon-heavy-skrydis-2018-01-31)
+* Tinklaraščio migracija: [Secret Hitler](wiki/zaidimai/secret-hitler.md)
 
 #### 2019-07-26
 
@@ -41,7 +43,7 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 
 #### 2019-07-21
 
-* Extra Credits apie [Super Mario ir Portal](wiki/zaidimai.md#game-design) tutorial'ų dizainą
+* Extra Credits apie [Super Mario ir Portal](wiki/zaidimai/#game-design) tutorial'ų dizainą
 * 3 didžiausia atominė katastrofa istorijoje, kuri ko gero paveikė net daugiau žmonių, nei Chernobyl'io įvykiai - [Kyshtym Disaster](wiki/istorija.md#cernobylis)
 
 #### 2019-07-20
