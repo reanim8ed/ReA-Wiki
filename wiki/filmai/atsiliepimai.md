@@ -1,46 +1,4 @@
-# Filmai / serialai
-
-## Peržiūrėtų filmų sąrašas
-
-[https://www.imdb.com/user/ur21345472/ratings](https://www.imdb.com/user/ur21345472/ratings) 
-
-Visus peržiūrėtus filmus įsivertinu IMDB svetainėje ir pirmuosius vertinimus galima rasti net iš 2009-ųjų. Tad galima matyti, kad per pastaruosius 10 metų peržiūrėjau viso 910 filmų O.o   
-Nesitikėjau, kad skaičius galėjo būti toks didelis.  
-Reikia atkreipti dėmesį ir tai, kad šiame sąraše nežymiu serialų, tad čia dar ir atskira kalba.
-
-## Peržiūrėtų anime sąrašas
-
-[https://myanimelist.net/animelist/reanimated](https://myanimelist.net/animelist/reanimated)
-
-## Mėgstamiausi
-
-* [12 Angry Men](https://www.imdb.com/title/tt0050083/)
-* [Léon](https://www.imdb.com/title/tt0110413/)
-* [Love Me If You Dare](https://www.imdb.com/title/tt0364517/)
-* [About Time](https://www.imdb.com/title/tt2194499/)
-* [Before Sunset](https://youtu.be/9f0_Liz5_XM)
-* [Into The Wild](https://www.imdb.com/title/tt0758758/)
-* [Stranger Than Fiction](https://www.imdb.com/title/tt0420223/)
-* [500 days of summer](https://www.imdb.com/title/tt1022603/)
-* [Contact](https://www.imdb.com/title/tt0118884/)
-* [Memories of Murder](https://www.imdb.com/title/tt0353969/)
-* [Eternal Sunshine of the Spotless Mind](https://www.imdb.com/title/tt0338013/)
-* [Yes Man](https://www.imdb.com/title/tt1068680/)
-* [What Dreams May Come Stranger Than Fiction](https://www.imdb.com/title/tt0120889/)
-* [Hotaru no haka](https://www.imdb.com/title/tt0095327/)
-* [Byôsoku 5 senchimêtoru](https://www.imdb.com/title/tt0983213/?ref_=rt_li_tt)
-* [Spirited Away](https://www.imdb.com/title/tt0245429/)
-* [Intouchables](https://www.imdb.com/title/tt1675434/)
-* [The Pursuit of Happyness](https://www.imdb.com/title/tt0454921/)
-
-\*rikiavimas nėra eilės tvarka
-
-## Notes
-
-* Yra nemažai pavyzdžių, kai dabar laikomos klasikinės knygos ar kino filmai nebuvo taip jau gerai vertinami jų išleidimo metu. Pvz už legendinį Kubrick’o siaubo filmą „The Shining“ režisierius buvo nominuotas, prasčiausio metų režisieriaus [titului](http://www.wikiwand.com/en/The_Shining_%28film%29#/Initial_reception).
-* Vieno įspūdingiausių kinematografų [dėmesingumas detalėms](https://www.youtube.com/watch?v=-woNlmVcdjc&feature=youtu.be)
-
-## Atsiliepimai
+# Atsiliepimai
 
 ### [LOVE DEATH + ROBOTS \(2019\)](https://www.youtube.com/watch?v=wUFwunMKa4E)
 
@@ -57,7 +15,7 @@ Reikia atkreipti dėmesį ir tai, kad šiame sąraše nežymiu serialų, tad či
 * Vienas įspūdingiausių ir geriausių serialų, kurį mačiau per pastaruosius keletą metų ir kuris išties puikiai atpasakoja įvykusio tragedijos masiškumą ir kraupumą. Toks siaubo ir katastrofų žanrų mišinys, kuris net tokią sceną, kaip 90 sekundžių trukmės akmenų metimą su kastuvu, gali padaryti absoliučiai bauginančią. 
 * Senokai jau teko susidurti su serialu, apie kurį kalba net tie aplinkiniai, kurie įprastai serialų nelabai žiūri. Šiuo metu tai patį aukščiausią reitingą turintis serialas, kuris nusipelnė pasidžiaugti tokia šlove ir kiek liūdnoka stebėti, kai mūsuose garsiausiai einantis atsiliepimas yra pašiepimas dėl plastikinių langų.
 * O geras jis ne dėlto, kad filmuotas Lietuvoje ar kad jame vaidina vienas kitas lietuvių aktorius. Geras dėl puikiai savo darbą atlikusių aktorių, puikiai parašytų dialogų, dėl veikėjų išvystymo ir jų dinamikos tarpusavyje, siužeto, tempo, garso takelio, atmosferos, scenų, kostiumų, makeup'o ir kinematografijos. Praktiškai nė neabejoju, jog Emmy apdovanojimuose turėtų susirinkti visą krūvą apdovanojimų, nes tai išties stipriausias metų serialas. Dvigubai džiugina ir tai, kad titruose galima matyti dešimtis lietuviškų pavardžių, vienaip ar kitaip prisidėjusių prie šio serialo gamybos.
-* Po pirmos serijos [pasiskaitinėjau apie katastrofą](istorija.md#cernobylis) plačiau ir išties džiugina ir serialo tikslumas. Nuo buities, atmosferos iki realių faktų perteikimo ar net personažų išvaizdos \(ypač 3 teisiamieji\). Žiūrint tikras įvykių nuotraukas, kaip pvz [ši](https://pbs.twimg.com/media/D7npH33XsAUv4Yc.jpg), pasimato kaip on point viskas perteikta seriale. Netgi buvo panaudoti realūs skambučio į gaisrinę įrašai ir televizijos pranešimai. 
+* Po pirmos serijos [pasiskaitinėjau apie katastrofą](../istorija.md#cernobylis) plačiau ir išties džiugina ir serialo tikslumas. Nuo buities, atmosferos iki realių faktų perteikimo ar net personažų išvaizdos \(ypač 3 teisiamieji\). Žiūrint tikras įvykių nuotraukas, kaip pvz [ši](https://pbs.twimg.com/media/D7npH33XsAUv4Yc.jpg), pasimato kaip on point viskas perteikta seriale. Netgi buvo panaudoti realūs skambučio į gaisrinę įrašai ir televizijos pranešimai. 
 * Gerai ir tai, kad nors serialas JAV gamybos, tačiau išvengta gan įprasto jiems rusų vaizdavimo stereotipiškai, komiškai - t.y. nekompetentingais, degtinę geriančiais durneliais. Veikėjai išlaikyti natūralūs, realistiški. Taipogi ir tai, kad iš principo seriale nėra išties neigiamų veikėjų. Neigiama piešiama melais ir informacijos slėpimu pagrįsta sistema ir tai, kaip nuo jos nukenčia visi. Bei nebuvo bandyta kiršti žalios energetikos pozicija apie tai kokia branduolinė industrija pavojinga. 
 * Nors atominai reaktoriai yra išties sudėtinga tema, tačiau seriale padarytas geras darbas išaiškinant jų veikimą. Nupaprastinta tiek, kad visiškai nenutuokiantis žmogus suprastų patį principą, tačiau nenuklystama nuo faktų, kad net šią sritį suprantantys žmonės gali tiesiog pritariamai linksėti.
 * Labai gerai, kad jis tokios trumpos, fiksuotos trukmės. Kiekviena scena seriale buvo reikalinga, svarbi, visiškai nesijautė tuščių, fillerinių vietų, tad istorija papasakota labai balansuotai. Net ir paskutinė serija išlaikė dėmesį, nerimą ir įtampą, ko įprastai nebūna serialų finaluose.

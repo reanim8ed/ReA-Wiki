@@ -23,7 +23,9 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 * Tinklaraščio migracija: [RedditBest](wiki/blogas/redditbest/)
 * Tinklaraščio migracija: Pakeisti pasaulį taip, jog tai [kažką reikštų](wiki/blogas/pakeisti-pasauli-taip-jog-tai-kazka-reikstu.md)
 * Tinklaraščio migracija: [Michael Jackson](wiki/asmenybes/pop-kultura/michael-jackson.md)
+* Tinklaraščio migracija: [Laiko valiuta](wiki/blogas/laiko-valiuta.md)
 * Tinklaraščio migracija: [ShowerThoughts](wiki/idejos.md#2019-07-27)
+* Tinklaraščio migracija: [Peter Pan generation](wiki/straipsniai-skaitiniai-istorijos/straipsniu-archyvas/peter-pan-generation.md)
 
 #### 2019-07-26
 
@@ -112,7 +114,7 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 #### 2019-06-16
 
 * [Computational photography](wiki/straipsniai-skaitiniai-istorijos/#computational-photography). Fotografija jau dabar didele dalimi yra tiesiog kodas, o šios srities ateitis visiškai priklausys algoritmams.
-* [LOVE DEATH + ROBOTS](wiki/filmai.md#love-death-robots-2019)
+* [LOVE DEATH + ROBOTS](wiki/filmai/#love-death-robots-2019)
 
 #### 2019-06-14
 
@@ -121,7 +123,7 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 #### 2019-06-13
 
 * [Zawinskio taisyklė](wiki/programavimas/#law-of-software-envelopment)
-* [Chernobyl serialo įspūdžiai](wiki/filmai.md#chernobyl-2019)
+* [Chernobyl serialo įspūdžiai](wiki/filmai/#chernobyl-2019)
 
 #### 2019-06-12
 
@@ -176,12 +178,12 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 
 #### 2019-05-25
 
-* Game Of Thrones [finalas](wiki/filmai.md#game-of-thrones-pabaiga)
+* Game Of Thrones [finalas](wiki/filmai/#game-of-thrones-pabaiga)
 * Mintis apie galimybę [share'inti ir annotate'inti ](wiki/idejos.md#2019-05-25)podcast'ų appsuose
 * Youtube[ viral video](wiki/teorijos-efektai.md#youtube-viral) efektas
 * Didelių [miestų apatiškumo](wiki/teorijos-efektai.md#dideli-miest-apatiskumas) efektas
-* [Avengers: Endgame](wiki/filmai.md#avengers-endgame-2019) filmas
-* [The way way back](wiki/filmai.md#the-way-way-back-2013) filmas
+* [Avengers: Endgame](wiki/filmai/#avengers-endgame-2019) filmas
+* [The way way back](wiki/filmai/#the-way-way-back-2013) filmas
 * Pirmasis [McDonalds Rusijoje](wiki/istorija.md)
 * Vaistai nuo gonorėjos, o tuo pačiu ir [grindų plovimo skystis](wiki/faktai.md)
 
@@ -189,7 +191,7 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 
 * Istorija apie paprastutį HTML'inį one-pagerį, už kurį gauta [21 000 dolerių](wiki/straipsniai-skaitiniai-istorijos/#i-charged-usd-18-000-for-a-static-html-page).
 * Idėja apie tai, kaip skirtųsi visuomenė, jei vyrai [galėtų būti nėšti](wiki/idejos.md#2019-05-18)
-* Pietų korėjos filmas [The Witch](wiki/filmai.md#the-witch-part-1-the-subversion)
+* Pietų korėjos filmas [The Witch](wiki/filmai/#the-witch-part-1-the-subversion)
 * [Vebleno efektas](wiki/ekonomika/) - prekės pardavimai kyla, dėlto, jog kyla jos kaina
 
 #### 2019-05-17
@@ -198,12 +200,12 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 
 #### 2019-05-13
 
-* Lietuviškas filmas [Tarp pilkų debesų](wiki/filmai.md#tarp-pilk-debes-2018)
+* Lietuviškas filmas [Tarp pilkų debesų](wiki/filmai/#tarp-pilk-debes-2018)
 
 #### 2019-05-11
 
-* [After Life ](wiki/filmai.md#after-life-2019)serialas
-* Jonah Hill filmas [Mid90 ](wiki/filmai.md#mid-90-s-2018)
+* [After Life ](wiki/filmai/#after-life-2019)serialas
+* Jonah Hill filmas [Mid90 ](wiki/filmai/#mid-90-s-2018)
 * Ištrauka iš pokalbio su[ Lex Fridman](wiki/podcastai.md#2019-05) apie tai, jog kai dalis mūsų natūralių instinktų yra šiai dienai nebereikalingi, žmonės dėlto tampa nelaimingi.
 * Ištrauka iš pokalbio su [Jamie Metzl ](wiki/podcastai.md#2019-05)apie tai, kaip Kinija yra susifokusavusi ir sistemingai siekia tikslo iki 2050-ųjų tapti lyderiaujančia technologijų valstybe.
 
@@ -233,7 +235,7 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 #### 2019-04-28
 
 * [Answers to Questions You’ve Never Asked knyga](wiki/knygos.md#bookTitle)
-* Komentaras apie [Kings of summer](wiki/filmai.md#kings-of-summer-2013) filmą
+* Komentaras apie [Kings of summer](wiki/filmai/#kings-of-summer-2013) filmą
 
 #### 2019-04-25
 
@@ -270,7 +272,7 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 
 #### 2019-04-04
 
-* Pridėti 500 days of summer ir Yes Man į [mėgstamiausių filmų sąrašą](wiki/filmai.md#m-gstamiausi)
+* Pridėti 500 days of summer ir Yes Man į [mėgstamiausių filmų sąrašą](wiki/filmai/#m-gstamiausi)
 
 #### 2019-04-03
 
@@ -306,8 +308,8 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 
 * [Pridėtas pokalbis su Chris Hadfield iš Joe Rogan podcast'o.](wiki/kosmosas.md)
 * [Pridėtas klausomų podcastų sąrašas](wiki/podcastai.md#prenumeratos)
-* [Pridėtas peržiūrėtų filmų sąrašas](wiki/filmai.md#perziur-t-film-sarasas-ir-j-vertinimai)
-* Pridėtos [knygų ](wiki/knygos.md)ir [filmų ](wiki/filmai.md)skiltys
+* [Pridėtas peržiūrėtų filmų sąrašas](wiki/filmai/#perziur-t-film-sarasas-ir-j-vertinimai)
+* Pridėtos [knygų ](wiki/knygos.md)ir [filmų ](wiki/filmai/)skiltys
 * Pridėta naudojamų [įrankių](wiki/tools.md) skiltis
 
 #### 2019-03-24
