@@ -1,5 +1,7 @@
 # Citatos
 
+* Kai pinigų planams nebelieka, tuomet jie pavadinami svajonėmis.
+* Technology didn’t make our society shittier, it just exposed all of the shitty things in our society.
 * All happy families are alike; each unhappy family is unhappy in its own way. — Leo Tolstoy
 * Everyone you will ever meet knows something you don't. — Bill Nye
 * Comparison is the death of joy. — Mark Twain

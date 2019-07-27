@@ -12,6 +12,11 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 * Tinklaraščio migracija:  [Pirmasis raketos „Falcon Heavy“ skrydis](wiki/kosmosas.md#pirmasis-raketos-falcon-heavy-skrydis-2018-01-31)
 * Tinklaraščio migracija: [Secret Hitler](wiki/zaidimai/secret-hitler.md)
 * Tinklaraščio migracija: [Garmin Virb Ultra 30 apžvalga](wiki/technologijos/gadgets/apzvalgos/garmin-virb-ultra-30.md)
+* Tinklaraščio migracija: [Dell Inspiron 15 7559 apžvalga](wiki/technologijos/gadgets/apzvalgos/dell-inspiron-15-7559.md)
+* Tinklaraščio migracija: IT Talk: Apple laikas pradėti gaminti savo [pačių procesorius](wiki/technologijos/it-talk/apple-laikas-pradeti-gaminti-savo-paciu-procesorius.md)
+* Tinklaraščio migracija: IT Talk: Ar[ „Nokia“ sugrįžimas](wiki/technologijos/it-talk/ar-nokia-sugrizimas-galimas-tik-su-android.md) galimas tik su „Android“?
+* Tinklaraščio migracija: [Nesusitikinėk su mergina, kuri keliauja](wiki/blogas/nesusitikinek-su-mergina-kuri-keliauja.md)
+* Tinklaraščio migracija: [ShowerThoughts](wiki/idejos.md#2019-07-27)
 
 #### 2019-07-26
 

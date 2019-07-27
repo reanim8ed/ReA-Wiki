@@ -6,6 +6,11 @@
 * What if all the Ancient Greek sculptures are actually victims of Medusa?
 * Whenever I yell at my dog to stop barking, he probably thinks „Awesome now we’re both barking“.
 * Teach a Parrot to say Parrot and you basically have a Pokémon.
+* If Steve Jobs was reincarnated into a Chinese family he would be old enough to be making iPhones now.
+* Vienintelis skirtumas tarp orų prognozės „daugiausia saulėta“ ir „truputis debesuota“ yra orų pranešėjo požiūris į gyvenimą.
+* Jeigu turi sūnų ir jis užaugęs tampa kunigu ar vis vien turi jį vadinti šventuoju tėvu?
+* Pesimistu būti gerai dėlto, kad visuomet būni arba teisus arba maloniai nustebintas.
+* Jeigu mokaisi kulinarijos mokykloje, tai pasiteisinimas jog šuo suėdė tavo namų darbus yra pakankamai legit.
 * Nuomos pasirinkimai Vilniuje: pigiai, bet su šeimininke. Pigiai, be šeimininkės, bet su sovietiniais baldais ir kilimais ant sienos. Pigiai, be šeimininkės, be sovietinių baldų ir kilimų, bet Naujininkuose. Pigiai, be šeimininkės, be sovietinių baldų ir kilimų, ne Naujininkuose, bet jau ir ne visai Vilniuj. Arba brangiai. \(credits to kaspiniuotis\).
 
 ## 2019-07-26
