@@ -1,5 +1,7 @@
 # Istorija
 
+### [Japonijos istorija](https://www.youtube.com/watch?v=Mh5LY4Mz15o)
+
 ### Pirmasis greičio viršijimas
 
 [Pirmoji bauda už greičio viršijimą](https://ca.finance.yahoo.com/news/8-mph-speeding-ticket-other-automotive-firsts-152500480.html) istorijoje buvo išrašytą už 4 kartus viršytą greitį: važiuota 8 mylių per valandą \(~13km/h\) greičiu, kai leidžiamas greitis – 2 mylios per valandą. Policininkas pasivijo automobilį dviračiu ir išrašė 1 šilingo dydžio baudą.

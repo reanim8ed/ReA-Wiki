@@ -4,6 +4,10 @@
 
 * Turėjome viršgarsinius keleivinius lėktuvus, kuriais perskristi Atlantą būdavo galima per 3,5 valandos, tačiau dabar skraidome su dvigubai lėtesniais lėktuvais. Ir visai ne dėl saugumo. Tai kodėl taip nutiko? TLDW: [too load too expensive](https://www.youtube.com/watch?v=a_wuykzfFzE)
 * Jau ne kartą įsitikinau, kad [Matt’ui Damon’ui](https://www.youtube.com/watch?v=vj-cK_KfjsI) charizmos tikrai netrūksta. Tai dar kartą įrodo ši puiki kalba absolventams.
+* Ką reiškia gyvenimas[ su depresija](https://www.youtube.com/watch?v=EJ_S5Rjt_iI). Perteikta video formatu.
+* [Artėja bananų krizė](https://www.youtube.com/watch?v=9H0dy8fv33M)
+* AI iš [pirmo asmens](https://www.youtube.com/watch?v=dLRLYPiaAoA) perspektyvos
+* [Japonijos istorija](https://www.youtube.com/watch?v=Mh5LY4Mz15o)
 
 ### 2019-07-25
 
