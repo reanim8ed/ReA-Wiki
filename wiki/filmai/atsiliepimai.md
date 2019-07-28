@@ -181,3 +181,9 @@ Galbūt filme ir yra loginių klaidų ir jis nėra absoliučiai teisingas, tači
 
 Svarbiausia čia yra prajudinti tas užkalkėjusias žmogaus smegenis, kad pagaliau nustotų priimti jau “suvirškintą” informaciją, kokią pateikia TV, laikraščiai ir kiti informacijos šaltiniai, o pradėtų patys mąstyti. Zeitgeist neturi tikslo plauti visiems smegenis ir maitinti nerealiomis idėjomis. Zeitgeist turi tikslą žmonėms pasakyti, kad pats laikas nustoti pasikliauti kitais ir pradėti patiems galvoti. Nes kaip rodo šiandiena, tuo yra stipriai manipuliuojama. Dėl to kyla karai, dėl to žmonės tampa vis labiau abejingi įvykiams vykstantiems bent milimetru toliau jų nosies, ir dėl to, žmonių gyvenimas yra vergovė apie kurią jie nė nenutuokia.
 
+### [ **Super Size Me \(2004\)**](https://www.imdb.com/title/tt0390521/)\*\*\*\*
+
+Publikuota: 2008-07-12
+
+2004 metų dokumentinis filmas, sukurtas nepriklausomo filmų kūrėjo – Morgan Spurlock. Šis filmas seka 30 dienų laikotarpį, kurio metu filmo autorius atsisakė viso normalaus maisto ir mito tik McDonald’s greito maisto restoranuose pateikiamu maistu. Filmas dokumentuoja drastiškus tokios gyvensenos padarinius filmo herojaus fizinei ir psichinei sveikatai, o taip pat analizuoja greito maisto pramonės įtaką visuomenės mitybos įpročiams, ir pasakoja, pvz., kaip greito maisto verslas bando pritraukti žmones – ypatingai vaikus – pas save ir pripratinti juos prie žalingos, nepilnavertiškos mitybos – vardan savo pelno. Filme galite sužinoti daug faktų apie McDonalds maistą. Tie faktai tiesiog pribloškiantys. Jei dar nematėte šio filmo – siūlau pasižiūrėti
+

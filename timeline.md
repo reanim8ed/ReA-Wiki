@@ -30,6 +30,7 @@ Tinklaraščio migracija:
 * [Savaitgalis sibire](wiki/blogas/savaitgalis-sibire.md)
 * [Geocaching](wiki/blogas/geocaching.md)
 * [Blogadienis](wiki/blogas/blogadienis.md)
+* [Linkin Park @ Siemens Arena](wiki/blogas/linkin-park-siemens-arena-in-2008-06-10.md)
 * [Sushi valgymo etiketas](wiki/blogas/sushi-valgymo-etiketas.md)
 * [Audio knygos](wiki/technologijos/it-talk/audio-knygos.md)
 * [Pavydas](wiki/blogas/pavydas.md)
