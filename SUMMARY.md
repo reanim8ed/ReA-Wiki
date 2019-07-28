@@ -42,6 +42,7 @@
   * [Kinestetikas](wiki/blogas/kinestetikas.md)
   * [Kraunamės daiktus studentavimui](wiki/blogas/kraunames-daiktus-studentavimui.md)
   * [Laiko valiuta](wiki/blogas/laiko-valiuta.md)
+  * [Listen, think and understand](wiki/blogas/listen-think-and-understand.md)
   * [Mano studijos ir profesinė karjera](wiki/blogas/mano-studijos-ir-profesine-karjera.md)
   * [Madinga](wiki/blogas/madinga.md)
   * [Maža išpažintis](wiki/blogas/maza-ispazintis.md)
