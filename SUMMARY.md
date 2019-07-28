@@ -94,6 +94,7 @@
   * [Trikampiai](wiki/blogas/trikampiai.md)
   * [Tūkstantmečio šuva](wiki/blogas/tukstantmecio-suva.md)
   * [Užpuolikas](wiki/blogas/uzpuolikas.md)
+  * [Vyrų ir moterų neištikimybė](wiki/blogas/vyru-ir-moteru-neistikimybe.md)
 * [Citatos](wiki/citatos.md)
 * [Darbas / produktyvumas](wiki/darbas-produktyvumas.md)
 * [Ekonomika / finansai](wiki/ekonomika/README.md)
