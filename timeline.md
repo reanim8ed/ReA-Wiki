@@ -10,6 +10,7 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 
 Tinklaraščio migracija:
 
+* [7 efektyvaus laiko planavimo žingsniai](wiki/blogas/7-efektyvaus-laiko-planavimo-zingsniai.md)
 * [Tobulos merginos tipažas](wiki/blogas/tobulos-merginos-tipazas.md)
 * [Stylish Blog Award](wiki/blogas/stylish-blog-award.md)
 * [Bioshock](wiki/zaidimai/bioshock.md)

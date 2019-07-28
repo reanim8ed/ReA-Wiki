@@ -17,6 +17,7 @@
     * [Michael Jackson](wiki/asmenybes/pop-kultura/michael-jackson.md)
 * [Blog'as](wiki/blogas/README.md)
   * [2007 vasara](wiki/blogas/2007-vasara.md)
+  * [7 efektyvaus laiko planavimo žingsniai](wiki/blogas/7-efektyvaus-laiko-planavimo-zingsniai.md)
   * [Apie geriausius draugus ir drauges](wiki/blogas/apie-geriausius-draugus-ir-drauges.md)
   * [Apie graužtukus](wiki/blogas/apie-grauztukus.md)
   * [Apie Kalėdas](wiki/blogas/apie-kal-das.md)
