@@ -26,6 +26,7 @@ Tinklaraščio migracija:
 * [Tobulos merginos tipažas](wiki/blogas/tobulos-merginos-tipazas.md)
 * [Stylish Blog Award](wiki/blogas/stylish-blog-award.md)
 * [Bioshock](wiki/zaidimai/bioshock.md)
+* [Starcraft II: Wings Of Liberty](wiki/zaidimai/starcraft-ii-wings-of-liberty.md)
 
 #### 2019-07-27
 

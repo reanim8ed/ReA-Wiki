@@ -187,4 +187,5 @@
   * [Stalo žaidimai](wiki/zaidimai/stalo-zaidimai/README.md)
     * [Cards Against Humanity](wiki/zaidimai/stalo-zaidimai/cards-against-humanity.md)
     * [Secret Hitler](wiki/zaidimai/stalo-zaidimai/secret-hitler.md)
+  * [Starcraft II: Wings Of Liberty](wiki/zaidimai/starcraft-ii-wings-of-liberty.md)
 
