@@ -6,25 +6,23 @@ description: 'Publikuota: 2009-02-13'
 
 ## \(Part 1\): Patys pirmieji kompiuteriniai žaidimai
 
-Pagalvojau, kad seniai berašiau didelį straipsnį. Kai ketinau rašyti paskutinį ilgą straipsnį – tiesiog ėmiau ir padariau video apžvalgą apie Win7. Kadangi patirtis rodo, kad labai ilgus straipsnius žmones tingi skaityti, tai padalinsiu šį straipsnį į daug, daug mažesnių dalių.
+Kadangi studijuoju elektronikos inžineriją bei esu šiaip kompiuterinių žaidimų mėgėjas, tai mane gana domina žaidimų istorija. Kokie žaidimai pasirodė vakar, prieš mėnesį ar porą metų, mes visi kuo puikiausiai žinom. O vat apie žaidimų išsivystymą iki dabartinio lygio – informacijos mažokai. Kokie buvo žaidimai prieš 30 metų? Nuo ko viskas prasidėjo? Kokie žaidimai buvo mano vaikystėje? Į šiuos klausimus ir pabandysiu atsakyti.
 
-Kadangi studijuoju elektronikos inžineriją, bei esu šiaip kompiuterinių žaidimų mėgėjas, tai mane gana domina žaidimų tobulėjimo istorija. Kokie žaidimai pasirodė vakar, prieš mėnesį ar porą metų, mes visi kuo puikiausiai žinom, o ir tokios informacijos pilnas internetas. O vat apie žaidimų išsivystymą iki dabartinio lygio – informacijos mažokai. Kokie buvo žaidimai prieš 30 ar daugiau metų? Nuo ko viskas prasidėjo? Kokie žaidimai buvo mano vaikystėje? Į šiuos klausimus ir pabandysiu atsakyti.
+Pačią pradžią apžvelgsiu prabėgom, daugiau papasakosiu jau nuo tos kompiuterinių epochos, kurią pats prisimenu ir teko prisiliesti.
 
-Pačią pradžią apžvelgsiu elementariai, daugiau papasakosiu, nuo tos kompiuterinių žaidimų epochos, prie kurios man dar teko prisiliesti. Kad ir labai mažas buvau, bet prisiminimų dar turiu.
-
-#### Patys pirmieji kompiuteriniai žaidimai
+### Patys pirmieji kompiuteriniai žaidimai
 
 ![](../../.gitbook/assets/nimrod-thumb.jpg)
 
-1951 kovo 5 pasaulį išvydo pirmasis kompiuterinis žaidimas “NIM” žaidžiamas kompiuteriu “[NIMROD](http://en.wikipedia.org/wiki/Nimrod_%28computing%29)”. Šis kompiuteris neturėjo grafinės išvesties. Žaidimas žaidžiamas mygtuko paspaudimais. Kompiuteris paspausdavo mygtuką tik po žmogaus paspaudimo. Taisyklių pagal kurias buvo žaidžiamas žaidimas neradau. Šitas kompiuteris davė pradžią visiem kitiem iki šiol sukurtiem žaidimam.
+1951 kovo 5 pasaulį išvydo pirmasis kompiuterinis žaidimas “NIM” žaidžiamas kompiuteriu “[NIMROD](http://en.wikipedia.org/wiki/Nimrod_%28computing%29)”. Šis kompiuteris neturėjo grafinės išvesties. Žaidimas žaidžiamas mygtuko paspaudimais. Kompiuteris paspausdavo mygtuką tik po žmogaus paspaudimo. Taisyklių pagal kurias buvo žaidžiamas žaidimas neradau. Šitas kompiuteris davė pačią žaidimų kompiurių pradžią.
 
 ![](../../.gitbook/assets/tictactoe-thumb.gif)
 
-1952 A.S.Douglas \(Kembridžo universiteto profesorius/daktaras\) sukūrė Tic-Tac-Toe žaidimą \(iksiukai – nuliukai\) ant katodinio spindulių aparato. Šis aparatas tūrėjo 35×16 vienspalvių taškų ekraną. Tai pirmasis žinomas žaidimas turintis grafinę išvestį. Šis žaidimas gali būti sužaistas ir šiais laikais naudojant EDSAC simuliatorių su originaliu žaidimo algoritmu. Kas būtų, jei jis nebūtų sukurtas? Ogi žaistumėt žaidimus be jokios grafikos; nebebūtų to tipo žmonių, kurie žaidžia žaidimus tik dėl grafikos.
+1952 A.S.Douglas \(Kembridžo universiteto profesorius\) sukūrė Tic-Tac-Toe žaidimą \(iksiukai – nuliukai\) ant katodinio spindulių aparato. Šis aparatas turėjo 35×16 vienspalvių taškų ekraną. Tai pirmasis žinomas žaidimas turintis grafinę išvestį. Šis žaidimas gali būti sužaistas ir šiais laikais naudojant EDSAC simuliatorių su originaliu žaidimo algoritmu.
 
 ![](../../.gitbook/assets/higinpong-thumb.gif)
 
-1958 William A Higinbotam sukūrė pirmą žaidimą žaidžiamą dviejų žaidėjų. Tai buvo tenisas žaidžiamas oscilografo ekrane. Buvo galima keisti gravitaciją, imituojant koks būtų teniso žaidimas kitose planetose. Autorius išradimo neužpatentavo, nes palaikė jį beverčiu ir netinkančiu prekybai. Kas būtų, jei William\`as nebūtų sukonstravęs šito daikčiuko? Ogi nežinotumėt kas yra Counter\`is.
+1958 William A Higinbotam sukūrė pirmą žaidimą žaidžiamą dviejų žaidėjų. Tai buvo tenisas žaidžiamas oscilografo ekrane. Buvo galima keisti gravitaciją, imituojant koks būtų teniso žaidimas kitose planetose. Autorius išradimo neužpatentavo, nes palaikė jį beverčiu ir netinkančiu prekybai.
 
 ![](../../.gitbook/assets/s-russell-thumb.jpg)
 
@@ -36,53 +34,49 @@ Pačią pradžią apžvelgsiu elementariai, daugiau papasakosiu, nuo tos kompiut
 
 1971 du bičai: Bill Pitts ir Hugh Tuck įkūrė kompaniją ir pasinaudoję tuo, kad Steve\`as Russell\`as neprieštarauja padarė kiek patobulintą “Spacewar”, pavadino jį “[Galaxy Game](http://en.wikipedia.org/wiki/Galaxy_Game)”, įkišo jį į savo žaidimų automatą ir taip sukūrė pirmąjį komercinį video žaidimą. Toks žaidimų automatas kainavo 20000 dolerių. Ot žaidimukas. Tokį pirmąjį automatą pasistatė Stanfordo studentai savo kavinėje ir buvo itin populiarus studentų tarpe.
 
-Kas jei nebūtų šios kaladės? Ogi per GTA IV netūrėtumėt kur pažaisti arkadų.
-
 ## \(Part 2\): Pirmoji konsolių karta
-
-![](../../.gitbook/assets/magnavoxodyssey.jpg)
 
 Ir taip pagaliau prižygiavom prie perversmo. Žinote, kad dabartinės konsolės \(PS3, Xbox 360, Wii\) yra jau septintoji karta? Apžvelkime jas visas!!!
 
 #### Pirma kompiuterinių žaidimų karta \(1972-1977\)
 
+![](../../.gitbook/assets/magnavoxodyssey.jpg)
+
 ![](../../.gitbook/assets/odysseyflierp2.jpg)
 
-Ankstyvaisiais 1971 pradėta gaminti žaidimų konsolė [Magnavox Odyssey](http://lt.wikipedia.org/wiki/Magnavox_Odyssey) \(matote viršuje\), kurios prototipą [Ralfas Bajeris](http://lt.wikipedia.org/wiki/Ralfas_Bajeris) \(nieko bendro su dabartiniu jaunimo žodynu neturi\) sukūrė septintojo dešimtmečio antroje pusėje, o prototipą nusipirkusi kompanija Magnavox konsolę išleido 1972 m. gegužės mėnesį. 2005 m. Bajer\`is buvo apdovanotas _Nacionaliniu technologijos pažangos medaliu_ dėl pirmos kompiuterinių žaidimų konsolės išradimo. Šis žmogus laikomas kompiuterinių žaidimų tėvu. Įdomu, o kas motina? Televizorius? Na bet reikia pripažinti konsolė buvo revoliucinga, žaidimai kiek primeną Ping pong\`ą tik su kitokiomis taisyklėmis + ant teliko reikėjo uždėti skaidres, žaidimo įvaizdžiui pagerinti.
+Ankstyvaisiais 1971 pradėta gaminti žaidimų konsolė [Magnavox Odyssey](http://lt.wikipedia.org/wiki/Magnavox_Odyssey) \(matote viršuje\), kurios prototipą [Ralfas Bajeris](http://lt.wikipedia.org/wiki/Ralfas_Bajeris) \(nieko bendro su dabartiniu jaunimo žodynu neturi\) sukūrė septintojo dešimtmečio antroje pusėje, o prototipą nusipirkusi kompanija Magnavox konsolę išleido 1972 m. 2005 m. Bajer\`is buvo apdovanotas _Nacionaliniu technologijos pažangos medaliu_ dėl pirmos kompiuterinių žaidimų konsolės išradimo. Šis žmogus laikomas kompiuterinių žaidimų tėvu. Įdomu, o kas motina? Televizorius? Na bet reikia pripažinti konsolė buvo revoliucinga, žaidimai kiek primeną Ping pong\`ą tik su kitokiomis taisyklėmis + ant teliko reikėjo uždėti skaidres, žaidimo įvaizdžiui pagerinti.
 
 ![](../../.gitbook/assets/atari-pong.jpg)
 
 ![](../../.gitbook/assets/pong-thumb%20%281%29.gif)
 
-1975 m. Atari kompanija pristatė [PONG](http://en.wikipedia.org/wiki/Pong) – patobulintą Odyssey variantą. Ši konsolė turejo jau visai padorius joystick\`us \(linksmalazdes\). Pagrindinis šios konsolės žaidimas tapo žinomu visame pasaulyje – tai Ping Pong. Daugelis prisimena, šią konsolę, kaip pačią pirmąją, dėlto, kad ankstesnės konsolės nebuvo taip paplitusios. Ši konsolė buvo pirmosios kartos žaidimų kompiuterių lyderė. Su konsole buvo pridedami net 12 žaidimų tokių, kaip šachmatai, Ping Pong\`as.
+1975 m. Atari kompanija pristatė [PONG](http://en.wikipedia.org/wiki/Pong) – patobulintą Odyssey variantą. Ši konsolė turejo jau visai padorius joystick\`us \(linksmalazdes\). Daugelis prisimena šią konsolę, kaip pačią pirmąją, dėlto, kad ankstesnės konsolės nebuvo taip paplitusios. Ši konsolė buvo pirmosios kartos žaidimų kompiuterių lyderė. Su konsole buvo pridedami net 12 žaidimų tokių, kaip šachmatai, Ping Pong\`as.
 
 ![](../../.gitbook/assets/ctelstar.jpg)
 
-1976 Coleco kompanija išleidžia [Coleco Telstar](http://en.wikipedia.org/wiki/Coleco_Telstar) konsolę. Paskutinioji pirmosios kartos konsolė, turėjusi net 14 skirtingų leidimų \(su spalvom, be spalvų, su Ping Pong\`u, be Ping Pong\`o ir pan\). Bet kaip bebūtų, kompanija ją leido tik 2 metus. Matyt nenusisekė jų biznis. Per didelis PONG populiarumas 1980 privedė kompaniją prie bankroto. Bus jiem kopijuoti kitų gaminius.
+1976 Coleco kompanija išleidžia [Coleco Telstar](http://en.wikipedia.org/wiki/Coleco_Telstar) konsolę. Paskutinioji pirmosios kartos konsolė, turėjusi net 14 skirtingų leidimų \(su spalvom, be spalvų, su Ping Pong\`u, be Ping Pong\`o ir pan\). Bet kaip bebūtų, kompanija ją leido tik 2 metus. Per didelis PONG populiarumas 1980 privedė kompaniją prie bankroto.
 
 {% embed url="https://www.youtube.com/watch?v=EZYv5bAhitk" %}
-
-
 
 ## \(Part 3\): Antroji konsolių karta
 
 Taigi žygiuojam toliau istorijos koridoriais. Antroji konsolių karta jau čia ![](http://www.zu14.cn/coolemotion/emotions/msn_1.png)
 
-#### Antra konsolių karta \(1977-1983
+#### Antra konsolių karta \(1977-1983\)
 
 ![](../../.gitbook/assets/atari2600.jpg)
 
-1977 Spalio 2 \(nesunku paskaičiuoti, kad pernai konsolei sukako jau 30 metų\), Atari išleido diskelių principu paremtą Video Computer System pavadintą konsolę, vėliau pervadintą į [Atari 2600](http://en.wikipedia.org/wiki/Atari_2600). Tai buvo Atari Pong įpėdinis, kuris galėjo pasiūlyti joystick\`us, perrašomas žaidimų kasetes, daugybė žaidimų. Nors ši konsolė ir nebuvo išvaizdi, tačiau tada tai buvo „dėžė“, kuri leido pažaisti combat‘ą, Pac-Man‘ą \(sėkmingiausias Atari žaidimas\), tennis‘ą ir kitus žaidimus. Tai neabejotinai, geriausia antrosios kartos konsolė \(parduota 40 mln. vienetų\), bei sėkmingiausias Atari gaminys, kurį teko aptūrėt ir man. Savo prisiminimus aprašysiu ateinančiame įraše.
+1977 Spalio 2 \(nesunku paskaičiuoti, kad pernai konsolei sukako jau 30 metų\), Atari išleido diskečių principu paremtą Video Computer System pavadintą konsolę, vėliau pervadintą į [Atari 2600](http://en.wikipedia.org/wiki/Atari_2600). Tai buvo Atari Pong įpėdinis, kuris galėjo pasiūlyti joystick\`us, perrašomas žaidimų kasetes ir daugybę žaidimų. Nors ši konsolė ir nebuvo išvaizdi, tačiau tada tai buvo „dėžė“, kuri leido pažaisti combat‘ą, Pac-Man‘ą \(sėkmingiausias Atari žaidimas\), tennis‘ą ir kitus žaidimus. Tai neabejotinai geriausia antrosios kartos konsolė \(parduota 40 mln. vienetų\) bei sėkmingiausias Atari gaminys. Taipgo šią konsolę teko aptūrėt ir man. Savo prisiminimus aprašysiu sekančioje dalyje.
 
 ![](../../.gitbook/assets/230pxintellivision-gi-1326971.jpg)
 
 ![](../../.gitbook/assets/150pxintellivision-controllera.jpg)
 
-1979 m. kompanija Mattel pristatė [Intellivision](http://en.wikipedia.org/wiki/Intellivision) konsolę, kainavusią 299 USD. Šis žaidimų kompiuteris buvo kiek galingesnis ir geresnės grafikos \(tūrėjo net 16 spalvų\) nei Atari 2600 ir pirmasis pasikėsino į Atari postą, tačiau dėl pastarosios konsolės populiarumo nepavyko taip smarkiai pasidauginti ir liko gėdingoje antroje vietoje. Iš viso parduota 3 milijonai vnt, bei išleisti 125 žaidimai. Sunku patikėti, bet pradžioje žaidimus šiai konsolei kūrė 5 žmonių komanda, kuri vėliau išsiplėtė iki 110.
+1979 m. kompanija Mattel pristatė [Intellivision](http://en.wikipedia.org/wiki/Intellivision) konsolę, kainavusią 299 USD. Šis žaidimų kompiuteris buvo kiek galingesnis ir geresnės grafikos \(turėjo net 16 spalvų\) nei Atari 2600 ir pirmasis pasikėsino į Atari postą, tačiau dėl pastarosios konsolės populiarumo nepavyko taip smarkiai pasidauginti ir liko gėdingoje antroje vietoje. Iš viso parduota 3 milijonai vnt, bei išleisti 125 žaidimai. Pradžioje žaidimus šiai konsolei kūrė vos 5 žmonių komanda, kuri vėliau išsiplėtė iki 110.
 
 ![](../../.gitbook/assets/300pxcolecovision.jpg)
 
-1982 m. pasirodė dar galingesnis žaidimų kompiuteris, [Telstar Arcade](http://en.wikipedia.org/wiki/Telstar_%28game_console%29) palikuonis  – [Colecovision](http://en.wikipedia.org/wiki/ColecoVision). Ši konsolė jau sugebėjo atvaizduoti [arkadų lygio](http://en.wikipedia.org/wiki/Arcade_game) žaidimus, galimybę žaisti Atari 2600 žaidimus, bei konsolės patobulinimo galimybes. Coleco tikslas buvo licenzijuoti visus arkadinius žaidimus, kurių nepavyko gauti Atari. Rezultatas – 125 žaidimai, per du konsolės gyvavimo metus. Konsolės pardavimai buvo išaugę po 1983 video žaidimų krizės, kai konsolė kainavo gerokai mažiau už konkurentus. Įdomus faktas: šią konsolę galima išgirsti minint tokių atlikėjų dainose, kaip: Fugees, Jay-Z ar Dr. Dre. Šaunumėlis.
+1982 m. pasirodė dar galingesnis žaidimų kompiuteris, [Telstar Arcade](http://en.wikipedia.org/wiki/Telstar_%28game_console%29) palikuonis  – [Colecovision](http://en.wikipedia.org/wiki/ColecoVision). Ši konsolė jau sugebėjo atvaizduoti [arkadų lygio](http://en.wikipedia.org/wiki/Arcade_game) žaidimus, turėjo Atari 2600 emuliatorių bei upgrade galimybes. Coleco tikslas buvo licenzijuoti visus arkadinius žaidimus, kurių nepavyko gauti Atari. Rezultatas – 125 žaidimai per du konsolės gyvavimo metus. Konsolės pardavimai buvo išaugę po 1983 video žaidimų krizės, kai konsolė kainavo gerokai mažiau už konkurentus. Įdomus faktas: šią konsolę galima išgirsti minint tokių atlikėjų dainose, kaip: Fugees, Jay-Z ar Dr. Dre.
 
 Negaliu neparodyti bent keletos šios galingiausios antrosios kartos konsolės žaidimų:
 
@@ -92,63 +86,57 @@ Negaliu neparodyti bent keletos šios galingiausios antrosios kartos konsolės �
 
 ![](../../.gitbook/assets/dkong-end-thumb%20%281%29.png)
 
-Kitos to laikmečio konsolės, susilaukusios gerokai mažiau dėmesio: [Fairchild Channel F](http://en.wikipedia.org/wiki/Fairchild_Channel_F)[RCA Studio II](http://en.wikipedia.org/wiki/RCA_Studio_II)[Interton VC 4000](http://en.wikipedia.org/wiki/VC_4000)[Odyssey²](http://en.wikipedia.org/wiki/Magnavox_Odyssey%C2%B2) \(bandymas sugrįžti į rinką\) [Arcadia 2001](http://en.wikipedia.org/wiki/Arcadia_2001)[Atari 5200](http://en.wikipedia.org/wiki/Atari_5200) \(komerciškai taip nenusisekęs projektas, tūrėjęs stoti į kovą su Colecovision\) [Vectrex](http://en.wikipedia.org/wiki/Vectrex)[SG-1000](http://en.wikipedia.org/wiki/Sega_SG-1000)[Bally Astrocade](http://en.wikipedia.org/wiki/Bally_Astrocade)[Color TV Game](http://en.wikipedia.org/wiki/Color_TV_Game).
+Kitos to laikmečio konsolės, susilaukusios gerokai mažiau dėmesio: [Fairchild Channel F](http://en.wikipedia.org/wiki/Fairchild_Channel_F)[RCA Studio II](http://en.wikipedia.org/wiki/RCA_Studio_II)[Interton VC 4000](http://en.wikipedia.org/wiki/VC_4000)[Odyssey²](http://en.wikipedia.org/wiki/Magnavox_Odyssey%C2%B2) \(bandymas sugrįžti į rinką\) [Arcadia 2001](http://en.wikipedia.org/wiki/Arcadia_2001)[Atari 5200](http://en.wikipedia.org/wiki/Atari_5200) \(komerciškai taip nenusisekęs projektas, turėjęs stoti į kovą su Colecovision\) [Vectrex](http://en.wikipedia.org/wiki/Vectrex)[SG-1000](http://en.wikipedia.org/wiki/Sega_SG-1000)[Bally Astrocade](http://en.wikipedia.org/wiki/Bally_Astrocade)[Color TV Game](http://en.wikipedia.org/wiki/Color_TV_Game).
 
 {% embed url="https://www.youtube.com/watch?v=aEj4pjYHlD8" %}
 
 ## \(Part 4\): Atari 2600
 
-![](../../.gitbook/assets/2600vader-thumb1.jpg)
+Taigi žadėjau daugiau dėmesio skirti konsolėms, kurias jau teko minkyti. Nors ši konsolė jau atšventė savo 30-metį, o aš visgi ne toks jau senas, tačiau man teko prie jos prisiliesti. Kaip? Ogi atradau sandėliuke. Tai tikriausiai buvo mano brolio žaidimų kompiuteris. Taigi apie viską iš eilės.
 
-Taigi žadėjau daugiau dėmesio skirti konsolėm, kurias jau teko minkyt. Nors ši konsolė jau atšventė savo 30-metį, bet man teko prie jos prisiliesti. Kaip? Ogi atradau sandėliuke. Tai tikriausiai buvo mano brolio žaidimų kompiuteris. Taigi apie viską iš eilės.
+![](../../.gitbook/assets/81la7mj5eul._sl1500_.jpg)
 
-![](../../.gitbook/assets/sys_atari2600-300x167.jpg)
-
-#### Life Story:
+### History
 
 Taigi 1977 spalį Atari pristatė savo Video Computer System \(toks konkretaus pavadinimo nebuvimas ir lėmė, kad ilgą laiką aš nė nenumaniau kas per daiktas ten pas mane gulėdavo\). Tačiau vėliau konsolė pervadinta į Atari 2600 pagal kompiuterio partijos numerį: CX2600.
 
-Pradinis konsolės variantas buvo Stella, bet projektėlis buvo kiek pastrigęs. Reikalai pajudėjo tik į kompaniją priėmus [Jay Miner](http://en.wikipedia.org/wiki/Jay_Miner). Mikroschemų architektas sugebėjo sujungti keletą sistemų į vieną ir taip kompanija išleidusi 100 milijonų dolerių tokio aparačiuko sukūrimui, sugebėjo išleisti konsolę.
+Pradinis konsolės variantas buvo Stella, bet šis projektas buvo kiek pastrigęs. Reikalai pajudėjo tik į kompaniją priėmus [Jay Miner](http://en.wikipedia.org/wiki/Jay_Miner). Mikroschemų architektas sugebėjo sujungti keletą sistemų į vieną ir taip kompanija išleidusi 100 milijonų dolerių aparačiuko sukūrimui, sugebėjo išleisti konsolę.
 
-Konsolės pradinė kaina buvo 199 USD, nesunku paskaičiuoti, kad kompanija privalėjo parduoti virš pusė milijonų konsolės vienetų, kad jai atsipirktų šis darbas. Atrodytų kiek bauginamai. Bet visgi konsolės pardavimai pranoko lūkesčius. 40 milijonų konsolės kopijų!!!
+Konsolės pradinė kaina buvo 199 USD, nesunku paskaičiuoti, kad kompanija privalėjo parduoti virš pusės milijono konsolės vienetų, kad jai atsipirktų šis darbas. Atrodytų kiek bauginamai, bet visgi konsolės pardavimai pranoko lūkesčius: parduota virš 40 milijonų konsolės kopijų!!!
 
-Nors ne viskas įvyko taip iškart. Pirmaisiais metais, kai konsolė buvo gaminama Kalifornijoje, pasisekė parduoti tik 250000 vienetų \(pusė tikslo\). O konsolei jau prilipo “Sunkiosios šešeriukės” vardas \(konsolė buvo tikrai didelė ir sunki, bei tūrėjo 6 valdomąsias svirtis korpuse\). Tuo metu sugebėjusi sutalpinti 1,19 MHz procesorių ir net 128 bytus operatyviosios atminties.
+Nors ne viskas įvyko taip iš karto. Pirmaisiais metais, kai konsolė buvo gaminama Kalifornijoje, pasisekė parduoti tik 250000 vienetų \(pusė tikslo\), o konsolei jau prilipo “Sunkiosios šešeriukės” vardas \(konsolė buvo tikrai didelė ir sunki bei tūrėjo 6 valdomąsias svirtis korpuse\). Tuo metu sugebėjusi sutalpinti 1,19 MHz procesorių ir net 128 baitus operatyviosios atminties.
 
-Kai publika suprato, kad galima žaisti nė vien Pong\`ą, bet ir kitus žaidimus, bei kai tik gamintojai išmoko išnaudoti konsolės galimybes – pardavimai ėmė augti, kaip ant mielių. 1979 ši dėžutė tapo geidžiamiausia ir daugiausiai parduodama Kalėdų dovana. Tais metais 1 limonas dėžučių paliko gamyklą ir iškeliavo pas laiminguosius vaikus ar jų tėvelius.
+Kai publika suprato, kad galima žaisti nė vien Pong\`ą bet ir kitus žaidimus, bei kai tik gamintojai išmoko išnaudoti konsolės galimybes – pardavimai ėmė augti kaip ant mielių. 1979 ši dėžutė tapo geidžiamiausia ir daugiausiai parduodama Kalėdų dovana. Tais metais 1 mln dėžučių paliko gamyklą ir iškeliavo pas laiminguosius vaikus ar jų tėvelius.
 
-Sekančiais metais Atari licenzijavo tikru arkadų hitu tapusį [_Space Invaders_](http://en.wikipedia.org/wiki/Space_Invaders), kuris išaugino konsolės pardavimus dvigubai. Tais metais Atari iš savo konsolės, bei žaidimų pardavimų susišlavė 2 milijardus dolerių… Nieko sau, sakysit…. Palaukit, konsolės pardavimai nė neketino sustoti. Ateinačius du metus konsolės pardavimai vis dvigubėdavo. 1982 beveik 8 milijardai Atari\`ų išriedėjo į naujuosius namus.
+Sekančiais metais Atari licenzijavo tikru arkadų hitu tapusį [_Space Invaders_](http://en.wikipedia.org/wiki/Space_Invaders), kuris išaugino konsolės pardavimus dvigubai. Tais metais Atari iš savo konsolės bei žaidimų pardavimų susišlavė 2 milijardus dolerių… Nieko sau. Palaukit, konsolės pardavimai nė neketino sustoti. Ateinačius du metus konsolės pardavimai vis dvigubėdavo. 1982 m. beveik 8 mln. Atarių išriedėjo į naujuosius namus.
 
 1980 kompanija pašalino kairiąją ir dešiniąją lygių sunkumo svirteles \(skant, kad nesikartotų\). Konsolė kiek palengvėjo, bet atrodė lygiai taip pat, kaip ir standartinis variantas.
 
-O štai 1982 kompanija išleido kiek pigesnį variantą, kuriame buvo pašalinta medinė dalis. Konsolė buvo praminta „Darth Vader“, dėl savo visiškai juodos, kampuotos išvaizdos, kiek primenančios mūsų gerai pažystamą veikėją. Tais pat metais kompanija pradėjo spausdinti ant konsolės, kad tai 2600 \(iki tol būdavo tik VCS užrašiukas\), nes prekyboje jau buvo pasirodžiusi ir [5200](http://en.wikipedia.org/wiki/Atari_5200) versija, kuri visgi nenusisekė.
+O štai 1982 kompanija išleido kiek pigesnį variantą, kuriame buvo pašalinta medinė dalis. Konsolė buvo praminta „Darth Vader“, dėl savo visiškai juodos, kampuotos išvaizdos, kiek primenančios mūsų gerai pažįstamą veikėją. Tais pat metais kompanija pradėjo spausdinti ant konsolės, kad tai 2600 \(iki tol būdavo tik VCS užrašiukas\), nes prekyboje jau buvo pasirodžiusi ir [5200](http://en.wikipedia.org/wiki/Atari_5200) versija, kuri visgi nenusisekė.
 
 Per tą laiką buvo sukurtos dar dvi konsolės versijos: [2700](http://en.wikipedia.org/wiki/Atari_2700) – kuri taip ir nebuvo pasirodžiusi, dėl savo nepatogaus dizaino; bei [2800](http://en.wikipedia.org/wiki/Atari_2800), kuri buvo pristatyta būtent Japonijos rinkai, bet iš jos buvo išstumta, dėl [Nintendo](http://en.wikipedia.org/wiki/Nintendo) [Famicom](http://en.wikipedia.org/wiki/Nintendo_Entertainment_System) populiarumo šiame regione.
 
-Kaip bebūtų, šis gaminys tūrėjo tam tikrų problemų. Gamintojai teigė, kad konsolė tikriausiai kaip niekas kitas keliaudavo po garantinius centrus, nes nuolat gesdavo, perkaisdavo, sugesdavo gana nepatvarūs pulteliai, kuriuos įsižaidęs žaidėjas galėdavo visai nesunkai sugadinti.
+Kaip bebūtų, šis gaminys turėjo tam tikrų problemų: gamintojai teigė, kad konsolė tikriausiai kaip niekas kitas keliaudavo po garantinius centrus, nes nuolat gesdavo, perkaisdavo, sugesdavo gana nepatvarūs pulteliai, kuriuos įsižaidęs žaidėjas galėdavo visai nesunkai sugadinti.
 
-Neužilgo į kovą su Atari populiarumu stojo kiti gamintojai: [Imagic](http://en.wikipedia.org/wiki/Imagic) ir [Coleco](http://en.wikipedia.org/wiki/Coleco). Taip kompanija įsivėlė į skandalą, kai kompanija [Mystique](http://en.wikipedia.org/wiki/Mystique_%28company%29) pradėjo masiškai gaminti pornografinius žaidimus. Neilgai trukus nenaudėliai buvo išmesti iš sutarties. Konsolė tesė ramų savo viešpatavimą.
+Neužilgo į kovą su Atari populiarumu stojo kiti gamintojai: [Imagic](http://en.wikipedia.org/wiki/Imagic) ir [Coleco](http://en.wikipedia.org/wiki/Coleco). Taip pat kompanija įsivėlė į skandalą, kai kompanija [Mystique](http://en.wikipedia.org/wiki/Mystique_%28company%29) pradėjo masiškai gaminti pornografinius žaidimus. Neilgai trukus nenaudėliai buvo išmesti iš sutarties, o konsolė tęsė ramų savo viešpatavimą.
 
-Tačiau viskas turi pabaigą. Atėjo 1983 video žaidimų krizė, kai kompanijos pardavimai smarkiai krito, niekas nebenorėjo pirkti kompiuterinių žaidimų ir kompanija pradėjo patirti milžiniškus nuostolius \(apie 10000 USD per dieną!\) Taigi 1984 konsolė atiteko tokiem bičam iš [Commodore Business Machines](http://en.wikipedia.org/wiki/Commodore_Business_Machines), kurie sumastė pasipelnyt iš žinomosios konsolės. Po dviejų metų perleido konsolę, supaprastindami dizainą, suteikdami galimybę žaisti visus klasikinius žaidimus ir už visa tai prašydami tik 50 dolerių mokesčio. Taip jie iš senosios konsolės spaudė ką galėjo ir išspaudė iki 1990. Reikalą oficialiai parišo Atari kompanija, kuri 1992 Sausio 1 sako: “Viskas bičai, užteks”. Taip konsolė patapo visų laikų ilgiausiai išgyvenusi konsolė. Gaminama ji buvo 14 metų ir du mėnesius.
+Tačiau viskas turi pabaigą. Atėjo 1983m. video žaidimų krizė, kai kompanijos pardavimai smarkiai krito, niekas nebenorėjo pirkti kompiuterinių žaidimų ir kompanija pradėjo patirti milžiniškus nuostolius \(apie 10000 USD per dieną!\) Taigi 1984m. konsolė atiteko tokiem bičam iš [Commodore Business Machines](http://en.wikipedia.org/wiki/Commodore_Business_Machines), kurie sumastė pasipelnyt iš žinomosios konsolės. Po dviejų metų perleido konsolę, supaprastindami dizainą, suteikdami galimybę žaisti visus klasikinius žaidimus ir už visa tai prašydami tik 50 dolerių mokesčio. Taip jie iš senosios konsolės spaudė ką galėjo ir išspaudė iki pat 1990. Reikalą oficialiai parišo Atari kompanija, kuri 1992 Sausio 1 sako: “Viskas bičai, užteks”. Taip konsolė patapo visų laikų ilgiausiai išgyvenusi konsolė. Gaminama ji buvo 14 metų ir du mėnesius.
 
-Rest In Peace 2600 \(Y\)
+### My memories
 
-#### My memories
+![](../../.gitbook/assets/sys_atari2600-300x167.jpg)
+
+Buvau tokio amžiaus, kad vos beprisimenu. Sandeliuke radau šią dėžę, jei tiksliau, tai “Vader\`į” \(be tų medinių pagražinimų ir tik su 4 svirtimis, kaip šioje nuotraukoje\), paprašiau sesers, kad pajungtų prie teliko ir oj, kaip prasidėjo. Atsimenu ne vieną kartą dar teko kviestis sesę, kad patvarkytų mano “linksmalazdę", nes buvo gan palūžęs trantas. Vėliau, neišsikentusi nupirko kažkokį Sega variantą, kuris buvo suderintas su Atari ir labiau panašus į mum žinomus JoyStick\`us.
 
 ![](../../.gitbook/assets/ata26con0076l-thumb.gif)
 
-Ech, buvau aš visai pyplius, kai tekdavo grajint su šia konsole. Sandeliuke radau šią dėžę, jei tiksliau, tai “Vader\`į” \(be tų medinių pagražinimų ir tik su 4 svirtim\), paprašiau sesers, kad pajungtų prie teliko ir oj, kaip prasidėjo. Atsimenu ne vieną kartą dar teko kviesis sesę, kad patvarkytų mano “linksmalazdę, nes oj trantas buvo. Vėliau, neišsikentusi nupirko kažkokį Sega variantą, kuris buvo suderintas su Atari ir labiau panašus į mum žinomus JoyStick\`us.
+Tiesa tokių dalykų kaip kasečių netūrėjau, pačiame kompiuteryje buvo įrašyti 40 žaidimų kurių pakankamai pakakdavo, o apie kasečių egzistavimą tada tik spėliodavau, kadangi niekas iš mano pažįstamų nieko apie tokius čiūdus nė nežinojo, tai netūrėjau kieno pasiklaust. Visgi čia buvo kokie 1997-1999m.
 
-Tiesa tokių dalykų kaip kasečių netūrėjau, pačiame kompiuteryje buvo įrašyti 40 žaidimų kurių pakankamai pakakdavo, o apie kasečių egzistavimą tada tik spėliodavau. Kadangi niekas iš mano draugelių nieko apie tokius čiūdus nė nežinojo, tai netūrėjau kieno paklaust.
+O vat žaidimai… Tada žaidimai tikrai neatrodydavo primityvūs ar prasti, man, tokiam tetrių berniukui čia buvo oj kaip įdomu. Tik labai jau gąsdindavo gan drąstiški garsai sklindatys žaidžiant žaidimus. Kai kuriuos žaidimus niekad nežaisdavau, nes bijodavau!!! Įsitikinti tuo galėsite vaizdo įrašuose, kiek žemiau.
 
-O vat žaidimai… Uch. Tada žaidimai tikrai neatrodydavo durni, ar prasti. Man tokiam tetrių berniukui čia buvo oj kaip įdomu. Tik labai jau gasdnidavo garsai sklindatys žaidžiant žaidimus. Kai kuriuos žaidimus niekad nežaisdavau, nes bijodavau!!!
+Įdomumo dėlei, tai visai neseniai aptikau Atari emuliatorių kartu su begales žaidimų. Kam įdomu – galit [išbandyt.](http://www.failai.lt/m8us5z4ktf6b/ATARI_GAMES_3326_ROMS.rar.htm)
 
-Apačioje pateiksiu keletas žaidimų nuotraukų. Tų žaidimų, kuriuos dar prisimenu.
-
-Ech. va taip va ir bėgo mano 5-7 gyvenimo metai.
-
-Įdomumo dėliai, tai visai neseniai aptikau Atari emuliatorių kartu su begales žaidimų. Kam įdomu – galit [išbandyt.](http://www.failai.lt/m8us5z4ktf6b/ATARI_GAMES_3326_ROMS.rar.htm)
-
-Jei sumastytumėte šią konsolę nusipirkti dabar, tai eBay aukcione plotumėte 30-40 USD. Užsimaniau aš ją išsitraukt ir pažiūrėt, kokia jos būklė dabar, bet… Deja mano mama jau išmetė, ech o toks malonumas būtų buvęs. Na ką gi….
+Jei sumastytumėte šią konsolę nusipirkti dabar, tai eBay aukcione plotumėte 30-40 USD. Užsimaniau aš ją išsitraukt ir pažiūrėt, kokia jos būklė dabar, bet… Deja mano mama ją jau išmetė.
 
 Keli žaidimai, kuriuos prisimenu:
 
@@ -166,19 +154,19 @@ Keli žaidimai, kuriuos prisimenu:
 
 ## \(Part 5\): Trečioji konsolių karta
 
-Štai ir pasiekėm 8-bit\`ų erą, dar kitaip žinomą kaip trečiąją kartą. Liaudiškai vadinamąją “paprastuškę”.
+Štai ir pasiekėm 8-bit\`ų erą, dar kitaip žinomą kaip trečiąją kartą. Ir garsiąją “paprastuškę”.
 
 ![](../../.gitbook/assets/nessystem.jpg)
 
-Taigi, pamatę arkadinių žaidimų sėkmę, iš šito sumastė pralobti ir japonai Nintendo. Na japonai, nebūtų japonai, jei nepadarytų tikrai gero produkto. Taip 1983 Japonijoje pasirodė [**Nintendo Family Computer \(Famicom\)**](http://en.wikipedia.org/wiki/Nintendo_Entertainment_System) ****arba dar žinomą, kaip NES \(Nintendo Entertainment System\). Pasiekus Nr.1 konsolės statusą savo šalyje, nusprendė atakuoti ir likusį pasaulį. Taip 1985 konsolė pasiekė Ameriką, bei kitas šalis. Rezulatas – per 12 metų sugebėjo aplenkti populiariąją Atari net 20 milijonų vienetų. Tai buvo trečiosios kartos žvaigždė, apie kurią plačiau – sekančiame straipsnyje.
+Taigi, pamatę arkadinių žaidimų sėkmę, iš to pabandė pralobti ir japonai Nintendo. Na japonai, nebūtų japonai, jei nepadarytų tikrai gero produkto. Taip 1983m. Japonijoje pasirodė [**Nintendo Family Computer \(Famicom\)**](http://en.wikipedia.org/wiki/Nintendo_Entertainment_System) ****arba dar žinoma, kaip NES \(Nintendo Entertainment System\). Pasiekus Nr.1 konsolės statusą savo šalyje, nusprendė atakuoti ir likusį pasaulį. Taip 1985 konsolė pasiekė Ameriką bei kitas šalis. Rezultatas – per 12 metų sugebėjo aplenkti populiariąją Atari net 20-čia milijonų vienetų. Tai buvo trečiosios kartos žvaigždė, apie kurią plačiau – sekančiame straipsnyje.
 
 ![](../../.gitbook/assets/segamastersystem.png)
 
-Sega negalėjo leisti taip totaliai viešpatauti vien Nintendo, tai ėmė ir 1986 mestelėjo [**Sega Master System.**](http://en.wikipedia.org/wiki/Sega_Master_System) Europoje konsolė buvo gana mėgiama, dėl savo techninės įrangos pranašumo prieš NES. Tačiau konsolė negalėjo varžytis Amerikoje ar Japonijoje, kur Nintendo ėmė viršų, kaip reikalas. Taip besitenkindamas mažesnėmis rinkomis Sega visgi sugebėjo išsiparduoti 13 milijonų konsolės vienetų.
+Sega negalėjo leisti taip totaliai viešpatauti tik Nintendo kompanijai, tai ėmė ir 1986 pristatė [**Sega Master System.**](http://en.wikipedia.org/wiki/Sega_Master_System) Europoje konsolė buvo gana mėgiama dėl savo techninės įrangos pranašumo prieš NES. Tačiau konsolė negalėjo varžytis Amerikoje ar Japonijoje, kur Nintendo ėmė viršų. Taip besitenkinant  mažesnėmis rinkomis Sega visgi sugebėjo išsiparduoti 13 milijonų konsolės vienetų.
 
 ![](../../.gitbook/assets/800pxatari-800xl-plain-white.jpg)
 
-Tais pačiais metais prisikelti pabandė ir Atari. Pristatė savo [**7800**](http://en.wikipedia.org/wiki/Atari_7800) modelį, kuris tūrėjo pakeisti nenusisekusį 2600 įpėdinį – [5200](http://en.wikipedia.org/wiki/Atari_5200) ir tūrėjo sugražinti kompanijos pardavimus atimant dalį rinkos iš Nintendo. Tačiau kiek pabandę, pamatė kad nieko gero čia nebus ir pasitraukė į gerokai jiem pelningesnę: namų kompiuterių sferą, kur konsolė prilygo tuometiniams [8-bitų namų kompiuteriams](http://en.wikipedia.org/wiki/Atari_8-bit_family), kaip [Apple II](http://en.wikipedia.org/wiki/Apple_II_series). Sukūrė klaviatūrą, parašė visokias spausdinimo, skaičiavimo programėles, bei suderino konsolę su spausdintuvais. Taip Atari galutinai pasitraukė iš Video žaidimų rinkos ir jau ketvirtoje kartoje šios gamintojos nebepamatysime.
+Tais pačiais metais prisikelti pabandė ir Atari. Pristatė savo [**7800**](http://en.wikipedia.org/wiki/Atari_7800) modelį, kuris turėjo pakeisti nenusisekusį 2600 įpėdinį – [5200](http://en.wikipedia.org/wiki/Atari_5200) ir turėjo grąžinti kompanijos pardavimus atimant dalį rinkos iš Nintendo. Tačiau kiek pabandę, pamatė kad nieko gero čia nebus ir pasitraukė į gerokai jiem pelningesnę: namų kompiuterių sferą, kur konsolė prilygo tuometiniams [8-bitų namų kompiuteriams](http://en.wikipedia.org/wiki/Atari_8-bit_family), kaip [Apple II](http://en.wikipedia.org/wiki/Apple_II_series). Sukūrė klaviatūrą, parašė visokias spausdinimo, skaičiavimo programėles bei suderino konsolę su spausdintuvais. Taip Atari galutinai pasitraukė iš Video žaidimų rinkos ir jau ketvirtoje kartoje šios gamintojos nebepamatysime.
 
 Kiti mažiau nusisekę/trumpalaikiai gaminiai:
 
@@ -189,37 +177,35 @@ Kiti mažiau nusisekę/trumpalaikiai gaminiai:
 
 ![](../../.gitbook/assets/downloadnes01.jpg)
 
-Kaip žadėjau – šįkart apie Nintendo konsolę, kurią prieš gerus 10 metų tūrėjom visi.
+Kaip žadėjau – šįkart apie Nintendo konsolę, kurią prieš gerus 10 metų tūrėjom ir žaidėm ko gero visi.
 
 Taigi apie viską iš pradžių:
 
-#### History
+### History
 
-Stebėję milžiniškus Atari populiarumus tyleniai Japonai kūrė planus užvaldyti pasaulį. Taigi taip [Masayuki Uemura](http://en.wikipedia.org/wiki/Masayuki_Uemura) sukūrė naujosios kartos konsolę, kurią į Japonijos rinką paleido 1983 metais. Tačiau Japonai irgi yra žmonės ir klysta. Konsolėje buvo blogas chipas ir dėlto naujasis gaminys labai greit gedo ir mažai kas norėjo ją pirkti, bet greit vyrukai išsprendė savo bėdas ir kitais metais perleido konsolę, geriausiai žinomą kaip Nintendo Entertainment System \(NES\) arba Famicom. Taigi pasitaisius savo padarytas klaidas, konsolės pradavimai ėmė kilti ir 1984 pabaigoje tai jau buvo daugiausiai parduodama konsolė Japonijoje.
+Ankstyvaisiais 80-aisiais nemažai sėkmės su arkadiniais žaidimais susilaukę kūrė savo planus. Taip [Masayuki Uemura](http://en.wikipedia.org/wiki/Masayuki_Uemura) kūrė naujosios kartos kompiuterį, pavadinimu Family Computer arba tiesiog Famicom, kurią į Japonijos rinką paleido 1983 metais, tačiau startas buvo banguotas:  konsolėje buvo blogas chipas ir dėlto naujasis gaminys labai greit gedo ir mažai kas norėjo pirkti, bet problemos buvo greitai išspręstos ir kitais metais konsolė perleista su geriau žinomo pavadinimu - Nintendo Entertainment System \(NES\). Konsolės pardavimai ėmė kilti ir 1984 pabaigoje tai jau buvo geriausiai parduodama konsolė Japonijoje.
 
-Jei jau sėkmė tokia didelė, tai kodėl nepabandžius ir kitur. Taip Nintendo stojo į kovą su absoliučiais lyderiais Atari, 1985 pristatydami savo vakarietišką konsolės variantą [Consumer Electronics Show](http://en.wikipedia.org/wiki/Consumer_Electronics_Show) parodoje. Pateikta atnaujinto dizaino konsolė ir keli hitais Japonijoje jau spėję tapti žaidimai, kaip Kung Fu, Pinball, Stack-Up, Tennis, Wrecking Crew, ir _Super Mario Bros._ Kalbant apie pastarąjį, tai visų laikų sėkmingiausias ne tik šios konsolės žaidimas, bet ir visame pasaulyje daugiausiai parduotas žaidimas. Plačiau apie jį – sekančiame straipsnyje
+Jei jau sėkmė tokia didelė, tai kodėl nepabandžius ir kitur. Taip Nintendo stojo į kovą su absoliučiais lyderiais Atari, 1985 pristatydami savo vakarietišką konsolės variantą [Consumer Electronics Show](http://en.wikipedia.org/wiki/Consumer_Electronics_Show) parodoje. Pateikta atnaujinto dizaino konsolė ir keli hitais Japonijoje jau spėję tapti žaidimai kaip Kung Fu, Pinball, Stack-Up, Tennis, Wrecking Crew na ir žinoma - _Super Mario Bros._ Kalbant apie pastarąjį, tai sėkmingiausias ne tik šios konsolės žaidimas, tačiau ir išvis pasaulyje daugiausiai parduotas žaidimas. Plačiau apie jį – sekančiame straipsnyje.
 
-Konsolė pirmoji taikė trečiųjų šalių politika: visi žinome problemą dėl trečiųjų šalių, t.y. įrangos ir žaidimų nelegalų kopijavimą. Originaliose konsolėse buvo įdėtas nedidelis chipas, toks pat chipas būdavo įmontuojamas į originalias pilkąsias Nintendo žaidimų kasetes. Jei kasetė tūrėdavo chip\`ą – žaidimas pasileisdavo be problemų, jei ne, viskas ką galėjote išvysti, tai tik juodas ekranas. O iš trečiųjų šalių sulaukėmė pačių įvairiausių dizainų konsolės klonų, kuriuose nebūdavo šio chipo, žinoma jos būdavo pigios ir nekokybiškos, tačiau mes ir pirkdavom, nes man asmeniškai neteko matyti originalaus konsolės varianto, nei pas vieną pažystamą. Taip pat naudodavome ir geltonąsias kasetes, kurios toli gražu nebuvo originalios. Nintendo licenzijuoti žaidimai tapo tikrai populiarūs, dėlto buvo dar ne kartą perleisti kitom konsolėm. Dar ne kartą galėjome išvysti [Super Mario Bros.](http://en.wikipedia.org/wiki/Super_Mario_Bros._%28series%29), [The Legend of Zelda](http://en.wikipedia.org/wiki/The_Legend_of_Zelda_%28series%29), [Castlevania](http://en.wikipedia.org/wiki/Castlevania), ar žinomąjį [Final Fantasy](http://en.wikipedia.org/wiki/Final_Fantasy).
+Originaliose konsolėse buvo įdėtas nedidelis chipas, toks pat chipas būdavo įmontuojamas į originalias pilkąsias Nintendo žaidimų kasetes. Jei kasetė tūrėdavo chip\`ą – žaidimas pasileisdavo be problemų, jei ne - viskas ką galėjote išvysti, tai tik juodas ekranas. Visgi piratavimo tai nesustabdė. Iš trečiųjų šalių sulaukėmė pačių įvairiausių dizainų konsolės klonų, kuriuose nebūdavo šio chipo, žinoma jos būdavo pigios ir nekokybiškos, tačiau mes ir pirkdavom. Man asmeniškai neteko matyti originalaus konsolės varianto nei pas vieną pažystamą,  taip pat naudodavome ir geltonąsias kasetes, kurios toli gražu nebuvo originalios. Nintendo licenzijuoti žaidimai tapo tikrai populiarūs, dėlto buvo dar ne kartą perleisti ir kitoms konsolėms. Dar ne kartą galėjome išvysti [Super Mario Bros.](http://en.wikipedia.org/wiki/Super_Mario_Bros._%28series%29), [The Legend of Zelda](http://en.wikipedia.org/wiki/The_Legend_of_Zelda_%28series%29), [Castlevania](http://en.wikipedia.org/wiki/Castlevania), ar žinomąjį [Final Fantasy](http://en.wikipedia.org/wiki/Final_Fantasy).
 
-Sekantieji keli metai konsolei tapo ypač sėkmingi ir konsolė išstūmė jau technologiškai pasenusią Atari į šalį. Taip truko iki 1990, kai pasirodė naujos kartos konsolės, tokios, kaip [16-bit\`ų](http://en.wikipedia.org/wiki/16-bit) [Sega Mega Drive](http://en.wikipedia.org/wiki/Sega_Mega_Drive) dar žinoma, kaip Sega Genesis. Tai tūrėjo reikšti konsolės galą, tačiau nenorėdama visiškai atsilikti kompanija dar bandė gelbėtis [Super Nintendo Entertainment System](http://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System) konsole, kuri taip pat buvo 16-bit\`ų, bet nebuvo taip komerciškai nusisekusi, kaip jos pirmtakė NES.
+Sekantieji keli metai tapo ypač sėkmingi ir konsolė išstūmė jau technologiškai pasenusią Atari į šalį. O Nintendo tapo tikru žaidimų pasaulio gigantu. Taip truko iki pat 1990 m., kai pasirodė naujos kartos konsolės, tokios, kaip [16-bit\`ų](http://en.wikipedia.org/wiki/16-bit) [Sega Mega Drive](http://en.wikipedia.org/wiki/Sega_Mega_Drive) dar žinoma, kaip Sega Genesis. Tai tūrėjo reikšti konsolės galą, tačiau nenorėdama visiškai atsilikti kompanija dar bandė gelbėtis su [Super Nintendo Entertainment System](http://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System) konsole, kuri taip pat buvo 16-bit\`ų, tačiau jau nebuvo taip komerciškai nusisekusi, kaip jos pirmtakė NES.
 
-Nepaisant smarkaus konsolės perkamumo mažėjimo Nintendo tęsė tiekti konsoles į Ameriką, netgi išleido keletą konsolės variantų su skirtingais dizainais. Taip konsolė buvo platinama dar iki 1995, kuriais JAV liko be šios konsolės. Tačiau Japonijoje dar buvo likę nemažai senųjų konsolės fanų, kuriem reikėdavo techninio palaikymo, naujų valdymo pultelių, atsarginių dalių ir panašių niekučių, tad kompanija neužraukė pačios konsolės gaminimo iki pat 2003, o techninė pagalba, bei priedai tiekti nustoti tik 2007 Spalio 31!! Tik pagalvokit: 24 metai konsolės istorijos. Reikia pripažinti – įspūdinga. Dar labiau stebina pardavimai, dėmesio! Iškvepiam! 61,91 miljonas kopijų!
+Nepaisant smarkaus konsolės perkamumo mažėjimo Nintendo tęsė tiekti konsoles į Ameriką, netgi išleido keletą konsolės variantų su skirtingais dizainais. Taip ji buvo platinama dar iki 1995, kuriais JAV liko be šios konsolės. Tačiau Japonijoje dar buvo likę nemažai senųjų konsolės fanų, kuriem reikėdavo techninio palaikymo, naujų valdymo pultelių, atsarginių dalių ir panašių niekučių, tad kompanija neužraukė pačios konsolės gaminimo iki pat 2003, o techninė pagalba bei priedai tiekti nustoti tik 2007 Spalio 31!! Tik pagalvokit: 24 metai konsolės istorijos. Reikia pripažinti – įspūdinga. Dar labiau stebina pardavimai, dėmesio! Iškvepiam! 61,91 mln. kopijų!
 
-#### My memories
+### My memories
 
-Ohh… Tikriausiai konsolė, prie kurios praleidau daugiausiai laiko. O kas nepraleido? Smagu, tikrai smagu būna prisiminti, nes atsiminimų begalės. O kartas nuo karto užvaldanti nostalgija, priverčia įsirašyti kokį seną gerą bomberman\`ą ar Super Mario ir pažaisti geras 20 min. Aišku dabar žaidimai atrodo kur kas prastesni, gal net juokingi, tokie kokius dabar atkuria net ir paprasčiausi spalvoti telefonai, bet savo laikais jie tikrai įtraukdavo. Pagrindinis dalykas tokiose konsolėse būdavo žaidimo įdomumas, o ne grafika. O ir norėdamas pereiti žaidimą, tekdavo tą patį lygį kartoti dešimtis kartų, kol jį išmokdavai kone atmintinai. Šiuolaikiniuose žaidimuose tokio dalyko galima pasigesti. Na taip, gal tokie atkalimai mintinai tokiuose Crysis laikuose ir nereikalingi, nebereikalingas toks įdirbis ir “atkalimas”  kada ir kiek spausti “knopkę”, nes kitaip nuo vieno šūvio ar nuo vieno prisilietimo tiesiog numirdavai ir tekdavo kartoti lygį nuo pradžių, nes juk nebūdavo net save\`ų.
+Tikriausiai man ir daugeliui mano amžiaus vaikinų, tai konsolė, prie kurios praleidau daugiausiai laiko. Užaugome su ja ;\) Kartas nuo karto užvaldanti nostalgija priverčia įsirašyti kokį seną gerą bomberman\`ą ar Super Mario ir pažaisti geras 20 min. Savo laikais jie tikrai įtraukdavo, o pagrindinis dalykas tokiose konsolėse būdavo žaidimo įdomumas, o ne grafika. Norėdamas pereiti žaidimą, turėdavai tą patį lygį kartoti dešimtis, šimtus kartų, kol jį išmokdavai kone atmintinai. Šiuolaikiniai žaidimai šiuo atžvilgiu dėlto ir atrodo labai lengvi.
 
 ![](../../.gitbook/assets/gen-x-dual-stationnessegagenesis.jpg)
 
-Buvau vaikas kuris tetūrėjo tetrį, bei Atari 2600 ir netūrėjo jokių kiemo draugų, nes namas pastatytas gerokai toliau nuo viso kaimo. Taip vieną kart pas kaimynų besisvečiuojant užžiūrėjau tą stebuklą… Tie žaidimai man atrodė tokie nesveiki… Parodė man kažkokį karatė mušdamiesi tarpusavyje ir taip užsinorėjau ir aš tokio daikčiuko. Tad ėmiau taupyti. Į mėnesį gaudavau po 5 lt kišenpinigių + kažkiek gaudavau švenčių proga. Taigi susiėmiau, nebepirkau jokių ledų ar saldainių ir per greičiau, nei metus sutaupiau savo pirmąjį 100 lt. Tada man buvo 7 metai. Iš kur žinau taip tiksliai? Neįsivaizduoju. Tiesiog žinau, kad tai buvo 1996-ieji. Apie savo planus nuolat pasakodavau mamai ir kai galų gale tūrėjau savo sukauptus pinigus – kaip sutarta, važiavome į Klaipėdą, į turgų, ir nusipirkau savo pirmąją konsolę. Dar atsimenu, kai pardavėjas parodė, kad viskas gerai veikia, paleido visiem mum žinomą žaidimą, kuriame reikėdavo šaudyti antis. Buvau sužavėtas ir begalo, begalo laimingas, vos sugebėjau nešokinėti iš džiaugsmo. Na ir prasidėjo… Žaidimų iš pradžių netūrėjau daug, bet juos visus belenkiek daug žaisdavau, kol mama nenuvarydavo nuo teliko. Tolesnius savo gautus kišenpinigius taupydavau naujom disketėm, magnetolai ar meškerei, tada jos taip pat buvo gana brangios. Pagrindinė problema, kad žaidimus pirkdavo mano sesuo, tad ką gausiu sužinodavau tik gaudamas disketę į ranką. Vėliau prasidėjo skolinimasis iš draugų, mainymasis žaidimais, ar jų pirkimas vienas iš kitų, žinoma taip žaidimus buvo galima nusipirkti gal 10 kart pigiau, o žaidimo kokybė nuo to visiškai nepriklausydavo.
+Buvau vaikas kuris teturėjo tetrį bei Atari 2600 ir neturėjo greitimų kiemo draugų, nes mano namas gerokai toliau nuo miestelio. Vieną kartą pas kaimynų besisvečiuojant pamačiau NES'ą. Tie žaidimai mane sužavėjo… Man parodė karate žaidimą, kur mušamasi tarpusavyje ir taip užsinorėjau ir aš tokio aparato. Tad ėmiau taupyti: į mėnesį gaudavau po 5 lt kišenpinigių + kažkiek gaudavau švenčių proga. Taigi susiėmiau, nebepirkau jokių ledų ar saldainių ir per greičiau nei metus sutaupiau savo pirmąjį 100 lt. Tada man buvo 7 metai. Iš kur žinau taip tiksliai? Neįsivaizduoju. Tiesiog žinau, kad tai buvo 1996-ieji. Apie savo planus nuolat pasakodavau mamai ir kai galų gale turėjau savo sukauptus pinigus – kaip sutarta, važiavome į Klaipėdą, į turgų ir nusipirkau. Dar atsimenu, kai pardavėjas parodė, kad viskas gerai veikia, paleido visiem mum žinomą žaidimą, kuriame reikėjo šaudyti antis. Buvau sužavėtas ir vos sugebėjau nešokinėti iš džiaugsmo. Žaidimų iš pradžių netūrėjau daug, bet juos visus žaisdavau, kol mama nenuvarydavo nuo teliko. Tolesnius savo gautus kišenpinigius taupydavau naujom disketėm, magnetolai ar meškerei, tada jos taip pat buvo gana brangios. Pagrindinė problema, kad žaidimus pirkdavo mano sesuo, tad ką gausiu sužinodavau tik gaudamas disketę į ranką. Vėliau prasidėjo skolinimasis iš draugų, mainymasis žaidimais, ar jų pirkimas vienas iš kitų.
 
-Vienas iš įsimintinų žaidimų, tai Indiana Jones\`as, kuris kažkodėl man labai giliai įstrigo. Tikriausiai dėlto, kad jo lygiai buvo tikrai labai įvairūs, pats žaidimas buvo tikrai gana sudėtingas ir tai buvo vienas iš tų nedaugelio žaidimų, kurie tūrėjo kodų. Paspaudus pauzę, reikėdavo paspausti į viršų ir berods į kairę. tada pasidarydavai nemirtingas. Lygiai taip pat buvo galima ir išjungti šį kodą. Tokiu būdu pereidavau tas vietas, kurias tiesiog neįveikdavau.
+Vienas iš įsimintinų žaidimų, tai Indiana Jones\`as, kuris kažkodėl man labai giliai įstrigo atmintyje. Tikriausiai dėlto, kad jo lygiai buvo tikrai labai įvairūs, pats žaidimas buvo tikrai gana sudėtingas ir tai buvo vienas iš tų nedaugelio žaidimų, kurie turėjo cheat kodų. Paspaudus pauzę, reikėdavo paspausti į viršų ir berods į kairę ir tada pasidarydavai nemirtingas. Lygiai taip pat buvo galima ir išjungti šį kodą. Tokiu būdu pereidavau tas vietas, kurių tiesiog neįveikdavau.
 
-O ką jau kalbėti apie tokius žaidimus, kaip Super Mario ar “tankiukus” \(tikslaus pavadinimo nepamenu\). Žaisdavau kone kiekvieną dieną, žaisdavau keliomis valandomis, žaisdavau su giminėmis, su draugais, ar tiesiog savo amžiaus vaikais, taip netgi susipažindavome – padedant žaidimui. Atsirasdavo savi terminai, dar dabar pamenu tokius, kaip “darakočka”, “bosiakas” ir pan. Kai kuriuose žaidimuose buvo tokia galimybė, kaip kurti lygius. Ką sukursi – tai tik tavo fantazijos reikalas. Kurdavom lygius vienas kitam ir paskui daug juokdavomės bandydami žaisti.
+O ką jau kalbėti apie tokius žaidimus, kaip Super Mario ar “tankiukus” \(tikslaus pavadinimo nepamenu\). Žaisdavau kone kiekvieną dieną, žaisdavau valandomis, žaisdavau su giminėmis, su draugais, ar tiesiog savo amžiaus vaikais, taip netgi susipažindavom ir susidraugaudavom. Atsirasdavo savi terminai, dar dabar pamenu tokius, kaip “darakočka”, “bosiakas” ir pan. Kai kuriuose žaidimuose buvo tokia galimybė, kaip kurti lygius. Ką sukursi – tai tik tavo fantazijos reikalas. Kurdavom lygius vienas kitam ir paskui daug juokdavomės bandydami žaisti.
 
-Vėliau įsigijau Sega Genesis ir senoji Nintendo liko užmarštyje. Tačiau sugedus Sega\`i ir likus be jokio žaidimų kompiuterio, po kurio laiko dar nusipirkau Nintendo kloną už 10 Lt. Tai jau buvo paskutinis kartas, kuris įvyko kai man buvo kokie 14-15 metų.Heh, didelis jau.
-
-Deja, kad ir kaip norėčiau, neina man nei pusės savo visų atsiminimų išpasakoti. Taigi apsiribojam tuo kas pavyko dabar.
+Vėliau įsigijau Sega Genesis ir senoji Nintendo liko užmarštyje. Tačiau sugedus Segai ir likus be jokio žaidimų kompiuterio po kurio laiko dar iš nostalgijos nusipirkau Nintendo kloną už 10 Lt. Tai jau buvo paskutinis kartas, kada besusidūriau su ja ir man buvo kokie 14-15 metų.
 
 {% embed url="https://www.youtube.com/watch?v=SCRm5IG0Grg" %}
 
@@ -227,15 +213,13 @@ Deja, kad ir kaip norėčiau, neina man nei pusės savo visų atsiminimų išpas
 
 ![](../../.gitbook/assets/si_3dsvc_supermariobros_image1600w.jpg)
 
-Rašiau straipsnį apie trečiąją konsolių kartą, kurioje dievas buvo vienas: Nintendo. O kaip galima neparašyti straipsnio apie šios konsolės Super žvaigždę? Heh, juk prisipažinkit – visi mes jį žaidėm, visi mes ji mylėjom. Taigi prisiminkim/susipažinkim artimiau:
+Kalbant apie NES tiesiog negalima nepaminėti Super Mario Bros. Kultinis ir pirmasis tokio lygio populiarumo susilaukęs video žaidimas. Heh, juk prisipažinkit – visi mes jį žaidėm, visi mes ji mylėjom. Taigi prisiminkim/susipažinkim artimiau:
 
-**Mario** – Nintendo talismanas ir kartu taip vadinama viena populiariausių žaidimų serijų. Taigi šis žaidimas yra [best](http://en.wikipedia.org/wiki/List_of_best-selling_video_games)[ selling video game of all time](http://en.wikipedia.org/wiki/List_of_best-selling_video_games): parduota 40.24 limonų kopijų vien pačio žaidimo, o  Mario frančizė buvo parduota net 201 milijonų kopijų tiražu!!! Fuckin awesome!!! Palyginimui, šiais laikais vienas iš geriausiai parduodamų žaidimų – “The Sims”, parduota 100 milijonų kopijų tiražu. Štai kaip sėkmingai pavyko prasimušti prieš 28 metus [Shigeru Miyamoto](http://en.wikipedia.org/wiki/Shigeru_Miyamoto) sukurtam veikėjui. Net sunku patikėti kokią įtaką gali tūrėti vienas vienintelis video žaidimas: netik sugebėjo įtakoti milžinišką Nintendo konsolės sėkmę, bet ir ištraukė JAV iš du metus trukusios [video žaidimų krizės](http://en.wikipedia.org/wiki/Video_game_crash_of_1983). Azijos šalyse Mario populiarus iki dabar. Iš viso pasirodė daugiau nei 200 žaidimuose, daugiausia Nintendo konsolems.
-
-Firminė žaidimo melodija, sukurta [Kōji Kondō](http://en.wikipedia.org/wiki/K%C5%8Dji_Kond%C5%8D) yra atpažįstama visame pasaulyje, net tų žmonių, kurie nėra žaidę šio žaidimo, bei yra naudojama kaip sinonimas, kalbant apie video žaidimus.
+**Mario** – Nintendo talismanas ir kartu viena populiariausių žaidimų serijų. Taigi šis žaidimas yra [best](http://en.wikipedia.org/wiki/List_of_best-selling_video_games)[ selling video game of all time](http://en.wikipedia.org/wiki/List_of_best-selling_video_games): parduota 40.24 mln. kopijų vien pačio žaidimo, o bendra Mario frančizė buvo parduota net 201 mln. kopijų tiražu!!! Palyginimui, šiais laikais vienas iš geriausiai parduodamų žaidimų – “The Sims”, pasiekė 100 mln. kopijų tiražą. Štai kaip sėkmingai pavyko prasimušti prieš 28 metus [Shigeru Miyamoto](http://en.wikipedia.org/wiki/Shigeru_Miyamoto) sukurtam veikėjui. Net sunku patikėti kokią įtaką gali turėti vienas vienintelis video žaidimas: ne tik sugebėjo įtakoti milžinišką Nintendo konsolės sėkmę, bet ir ištraukė JAV iš du metus trukusios [video žaidimų krizės](http://en.wikipedia.org/wiki/Video_game_crash_of_1983). Azijos šalyse Mario populiarus iki dabar. Iš viso pasirodė daugiau nei 200 žaidimuose, daugiausia Nintendo konsolėms. Firminė žaidimo melodija, sukurta [Kōji Kondō](http://en.wikipedia.org/wiki/K%C5%8Dji_Kond%C5%8D) yra atpažįstama visame pasaulyje, net tų žmonių, kurie nėra žaidę šio žaidimo, bei yra naudojama kaip sinonimas, kalbant apie video žaidimus.
 
 ![](../../.gitbook/assets/smbcover.jpg)
 
-Taigi pirmą kart Mario pasirodė dar 1981 metais [Donkey Kong](http://en.wikipedia.org/wiki/Donkey_Kong_%28video_game%29) žaidime kaip šalutinis veikėjas _Jumpman_. Tai buvo paprastas arkadinis žaidimas, kuriame mes valdydami veikėją, bandome išvengti kliūčių ir užlipti į viršų pas princesę.
+Taigi pirmą kart Mario pasirodė dar 1981 metais [Donkey Kong](http://en.wikipedia.org/wiki/Donkey_Kong_%28video_game%29) žaidime kaip šalutinis veikėjas _Jumpman_. Tai buvo paprastas arkadinis žaidimas, kuriame mes valdydami veikėją bandome išvengti kliūčių ir užlipti į viršų pas princesę.
 
 ![](../../.gitbook/assets/dkong-end-thumb.png)
 
@@ -245,7 +229,7 @@ Po šio žaidimo, 1983 pasirodė antrasis serijos žaidimas [Mario Bros](http://
 
 Na ir galiausiai 1985 pasirodė tas Mario kurį aš, tu ir visi žinom – [Super Mario Bros](http://en.wikipedia.org/wiki/Super_Mario_Bros.). Linijinis žaidimas, kuriame valdai santechniką Mario, kuris moka bėgioti, trypti savo priešus ir net šaudyti.
 
-Dauguma žino tik Super Mario Bros. žaidimą ir nė neįtaria esant kitų serijos žaidimų. O iš tikro visa serija susideda iš:
+Dauguma žino tik Super Mario Bros. žaidimą, tačiau jų yra daug daugiau. Visa serija susideda iš:
 
 * [_Donkey Kong_](http://en.wikipedia.org/wiki/Donkey_Kong_%28video_game%29) \(1981\)
 * [_Mario Bros._](http://en.wikipedia.org/wiki/Mario_Bros.) \(1983\)
@@ -262,13 +246,14 @@ Dauguma žino tik Super Mario Bros. žaidimą ir nė neįtaria esant kitų serij
 * [_New Super Mario Bros._](http://en.wikipedia.org/wiki/New_Super_Mario_Bros.) \(2006\)
 * [_Super Mario Galaxy_](http://en.wikipedia.org/wiki/Super_Mario_Galaxy) \(2007\)
 
-**Super Mario Bros. Siužetas:**
+### **Siužetas**
 
-Super Mario Bros_._ žaidime, pagrindinis veikėjas – santechnikas [Mario](http://en.wikipedia.org/wiki/Mario) turi išgelbėti Grybų karalystės princesę Toadstool \(vėliau pervadintą į princesę Peach\) iš blogojo karaliaus[ Koopa](http://en.wikipedia.org/wiki/Bowser_%28character%29) \(vėliau žinomą, kaip karalių Bowser\)Dviejų žaidėjų režime pagrindiniam žaidėjui į pagalbą stoja ir jo jaunesnis brolis [Luigi](http://en.wikipedia.org/wiki/Luigi). Kad išgelbėtų minėtąją princesę, broliai turi įveikti 8 skirtingus pasaulius išvengdami kliūčių ir priešus tiesiog sumindydami. Mario turi nukeliauti į kiekvieną naujojo pasaulio pilį ir nugalėti vieną iš karaliaus Koopa parankinių. Kad pasiektų parankinio pilį, veikėjui reikia įveikti tris to pasaulio lygius. Nugalėjus parankinį, sutinkamas grybažmogis Toad, kuris praneša: „Thank you Mario! But our princess is in another castle!“ – heh legendinė frazė :\) Taip išvadavę 7 grybažmogius ir įveikę patį Bowser, mes galų gale atrandame savo taip ilgai ieškotą princesę. Perėjus žaidimą, žaidėjui leidžiama žaidimą žaisti sunkiu režimu, kur paprasti priešai yra pakeisti vėžliais, kurių neina nugalėti ugniniais rutuliais, o ir priešų judėjimo greitis padvigubėjęs.Na taip, istorija gal ir nėra nuostabi. Ką čia slėpti… Visiškas mėšlas, bet tais laikais kai žaisdavau, tai buvo nė motais, tai būdavo galima sakyti žaidimų žaidimas. Visi mėgo Mario, visi žaidė Mario ir niekas nesiskųsdavo, kad va jo istorija yra totaliai sumauta. Gosh… Net filmą žmogeliai pastatė. Tarp kitko tai buvo pats pirmasis filmas, pastatytas pagal kompiuterinį žaidimą.
+Super Mario Bros_._ žaidime, pagrindinis veikėjas – santechnikas [Mario](http://en.wikipedia.org/wiki/Mario) turi išgelbėti Grybų karalystės princesę Toadstool \(vėliau pervadintą į princesę Peach\) iš blogojo karaliaus[ Koopa](http://en.wikipedia.org/wiki/Bowser_%28character%29) \(vėliau žinomą, kaip karalių Bowser\). Dviejų žaidėjų režime pagrindiniam žaidėjui į pagalbą stoja ir jo jaunesnis brolis [Luigi](http://en.wikipedia.org/wiki/Luigi). Kad išgelbėtų minėtą princesę, broliai turi įveikti 8 skirtingus pasaulius išvengdami kliūčių ir priešus tiesiog sumindydami. Mario turi nukeliauti į kiekvieną naujojo pasaulio pilį ir nugalėti vieną iš karaliaus Koopa parankinių. Kad pasiektų parankinio pilį, veikėjui reikia įveikti tris to pasaulio lygius. Nugalėjus parankinį, sutinkamas grybažmogis Toad, kuris praneša: „~~_Thank you Mario! But our princess is in another castle!_~~“ – heh legendinė frazė :\) Taip išvadavę 7 grybažmogius ir įveikę patį Bowser, mes galų gale atrandame savo taip ilgai ieškotą princesę. Perėjus žaidimą, žaidėjui leidžiama žaidimą žaisti sunkiu režimu, kur paprasti priešai yra pakeisti vėžliais, kurių neina nugalėti ugniniais rutuliais, o ir priešų judėjimo greitis padvigubėjęs.   
+Visi mėgo Mario, visi žaidė Mario ir niekas nesiskųsdavo, kad va jo istorija yra kvaila. Gosh… Net filmas buvo pastatytas... Tarp kitko tai buvo pats pirmasis filmas, pastatytas pagal kompiuterinį žaidimą.
 
 Mario kovoja su pačiu Bowser 8 pasaulio pabaigoje.
 
-**Lygiai:**
+### **Lygiai**
 
 Visą žaidimą sudaro 8 pasauliai kurių kiekvienas dar skyla į keturis lygius. Taigi iš viso žaidimą sudaro 32 lygiai. Žaidime yra 4 skirtingi lygių tipai:
 
@@ -280,27 +265,27 @@ Visą žaidimą sudaro 8 pasauliai kurių kiekvienas dar skyla į keturis lygius
 
 ![Pilis](../../.gitbook/assets/100px-mariocastle.png)
 
-**Kiti serijos žaidimai, kuriuos man teko išbandyti:**
+### **Kiti serijos žaidimai, kuriuos teko išbandyti**
 
 **Dr. Mario**
 
 ![](../../.gitbook/assets/drmario-e-01-thumb.png)
 
-Žaidimas, padarytas Tetrio pagrindu, bet kuris man patiko gal kiek labiau. Tikslas: dėliojant skirtingų spalvų piliules, sunaikinti visus stiklainyje esančius virusus. Buvau “atkalęs” žaidimą tiek, kad įveikdavau, net sudėtingiausią lygį, kurio 75 procentai stiklainio jau būdavo užpildyti, o piliulės judėdavo kelis kart greičiau, nei įprasta. Buvau kietas :\)
+Žaidimas padarytas Tetrio pagrindu, bet kuris man patiko gal kiek labiau. Tikslas: dėliojant skirtingų spalvų piliules sunaikinti visus stiklainyje esančius virusus. Buvau “atkalęs” žaidimą tiek, kad įveikdavau, net sudėtingiausią lygį, kurio 75 procentai stiklainio jau būdavo užpildyti, o piliulės judėdavo kelis kart greičiau nei įprasta.
 
  **Super Mario Bros. 3**
 
 ![](../../.gitbook/assets/smb3gameplay-thumb.gif)
 
-Ne toks originalus, kaip mūsų numylėtasis Super Mario Bros. tačiau įnešantis daug naujovių. Šį žaidimą atradau žymiai vėliau – turėdamas NES savo paskutinįjį kartą. Žaidimo stilius man kiek nelipo, bet žaidimas buvo žymiai įdomesnis ir gerokai sudėtingesnis. Prisimenu taip ir neužbaigiau jo.
+Ne toks įsimintinas, kaip mūsų numylėtasis Super Mario Bros. tačiau įnešantis išties daug naujovių. Šį žaidimą atradau žymiai vėliau – turėdamas NES savo paskutinį kartą. Žaidimo stilius man kiek nepatiko, bet žaidimas buvo žymiai įdomesnis ir gerokai sudėtingesnis. Prisimenu taip ir neužbaigiau jo.
 
  **Super Mario Galaxy**
 
 ![](../../.gitbook/assets/smg-powerstar-thumb.jpg)
 
-Na taip, žaidimas pasirodė tik 2007, bet jis mane buvo sudominęs ir parsisiunčiau. Bet deja jis man nepatiko, jokios nostalgijos nesukėlė ir šiaip pasirodė visiškas š, todėl ilgai mano kompe neužsibuvo. Mano nuomonė 3D mario, tai ne ta sfera, kur jam reikėjo nuait. Na bet mielas žaidimukas mažiem vaikam, be jokio smurto. Gražu, paprasta, blizgu.
+Žaidimas pasirodė tik 2007, bet jis mane buvo sudominęs ir parsisiunčiau. Bet deja jis man nepatiko, jokios nostalgijos nesukėlė ir šiaip pasirodė visiškas š, todėl ilgai mano kompe neužsibuvo. Mano nuomonė 3D mario, tai ne ta sfera, kur jam reikėjo nueit. Na bet mielas žaidimukas mažiem vaikam, be jokio smurto. Gražu, paprasta, blizgu.
 
-**In action:**
+### **In action**
 
 Žiūrim į savo vaikystę :\) Faina prisiminti vieną ar kitą levelį.
 
