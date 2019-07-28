@@ -1,4 +1,4 @@
-# Atsiliepimai
+# Atsiliepimai apie filmus
 
 ### [LOVE DEATH + ROBOTS \(2019\)](https://www.youtube.com/watch?v=wUFwunMKa4E)
 
@@ -124,4 +124,25 @@ Kiek teko matyti _Scorsese_ darbų, tai visi jie labai brandūs, solidūs, pasak
 Personažas yra tipiškas Harvey Cleckley “nutapytas” sociopato portretas. Visuomeniškai priimtinas, socialus ir net galima pavadinti “tobula asmenybė”. Įdomiausia yra tai, kad žiūrovas suvokia jo sociopatiškąją gyvenimo žaizdą, o kulminacijoje ji pasirodo visu gražumu, tačiau Scorsese taip įdomiai atpina jo elgseną, kaip pateisinamą poelgį visuomenei, kad net imi svarstyti ar teisingai suvokei jaunojo taksisto būtį.Nepateisinamas elgesys tampa pavizdine visuomenine norma. Savo nepasitenkinimu purvinu pasauliu prarandęs sveiką protą jis visgi tapo miesto didvyriu, paliko anspaudą laikraščių archyvuose, bei, rodos, nusiramina. Deniro puikiai atskleidė herojaus charakterį: vidiniai herojaus monologai, vienatvė ir prisiminimų kančia tiesiog įsigėrę į aktoriaus veidą. Ko gero tai viena iš pagrindinių priežasčių, kodėl šis filmas toks geras.
 
 ![](../../.gitbook/assets/tumblr_kwlti0vdqh1qajll7o1_500_thumb.jpg)
+
+### [Memoirs of a Geisha \(2005\)](https://www.imdb.com/title/tt0397535/)
+
+Publikuota: 2010-10-17
+
+Nors filmas žiūrėtas toli gražu ne pirmą kartą, tačiau užsimaniau pažiūrėti dar kartelį, nes paskutinį kartą žiūrėjau jį dar kokiais 2006-aisiais, kai dar neturėjau tokio susidomėjimo Japonijos kultūra. Na ir eilinį kartą šis filmas mane sužavėjo**…**
+
+**Siužetas:**
+
+Azijietiška pelenės istorija apie vargšę mergaitę parduotą į vergiją ir turinčia sunkiai dirbti, bei sudėtingą jos kelią į sėkmę ir pripažinimą.
+
+Galbūt iš dalies toks geras filmo vertinimas iš mano pusės yra dėlto, kad senai bežiūrėjau gerą japonišką filmą ir mano akys tiesiog buvo išsiilgusios stilingų tekančio vandens, lietaus, bei sakurų vaizdų, o galbūt tai ištikro toks geras darbas, kad jam likti abejingam yra sunku…  
+Manau tikrai daugelis, o ypač tie, kurie prijaučia ir žavisi japoniška kultūra neliks abejingi filmu, kuriame vaizduojamas paslaptingas ir nepažystamas pasaulis, kultūra, etiketas. Kažkuri dalis žmonių liks užliūliuoti įspūdingais vaizdais ir tradicinės japoniškos muzikos, na o trečia žmonių grupė, kurie daugiausiai gilinasi į siužetą – išgyvens dramatišką meilės istoriją, prilygstančią žymiajam Titanikui.
+
+Kaip bebūtų su mano nuomone nesutinka nemaža dalis kritikų, kurie užsipuolė šią juostą, kad ji per daug neoriginali, neįdomi, supopsinta. Nesu didelis ekspertas, tačiau jei žiūrėdamas filmą nė nesusimąstai apie vaidybą, jei dialogai nesubanalėja ir niekas neužkliūna, reiškia viskas atlikta pakankamai profesionaliai. Iš kinematografinės pusės tai vienas gražiausių darbų filmų istorijoje. Garso takelis, kameros darbas, bei neįtikėtini gamtovaizdžiai padaro šį filmą tikru meno kūriniu ir filmo kūrėjai buvo atitinkamai įvertinti – laimėti net 3 oskarai \(už kostiumus, meninį apipavidalinimą ir operatoriaus darbą\). Nors filmą mačiau kokius tris kart, bet susiklosčius aplinkybėms neatsisakyčiau jį žiūrėti ir dar kartelį, nesvarbu, kad vos katik jį žiūrėjau. Tai tikras saldainis japonišką kultūrą mėgstančiam žmogui.
+
+**Keletas faktų apie filmą:**
+
+Režisierius apie filmo statymą planavo 8-erius metus. Apie tai išgirdusi pop muzikos karalienė Madona bandė įsiprašyti į šio filmo aktorių sąrašą. Taigi norėdama įrodyti savo aistrą Japonijos kultūrai nufilmavo muzikinį klipą „[Nothing really matters](http://www.youtube.com/watch?v=BCSmBzfH3WY)”. Na bet tai režisieriaus nepapirko ir vaidmeniui Madona nebuvo pasirinkta.
+
+Japonijoje žmonės piktinasi, kad pagrindinius vaidmenis juostoje apie geišų gyvenimo paslaptis atlieka aktorės iš Kinijos. Tuo tarpu Kinijoje piktinamasi, kad jų šalies aktorės juostoje dėvės tradicinius „nacionalinių priešų ir okupantų“ kimono.
 

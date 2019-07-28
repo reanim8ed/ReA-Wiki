@@ -16,8 +16,10 @@ Tinklaraščio migracija:
 * [Freetime egoist](wiki/blogas/freetime-egoist.md)
 * [Problemos lėktuvuose ir jų šalinimas su lengvu humoru](wiki/standup-humoras.md#problemos-l-ktuvuose-ir-j-salinimas-su-lengvu-humoru)
 * Asmenybės tipas: [Intravertas](wiki/blogas/asmenyb-s-tipas-intravertas.md)
+* [Apie ateizmą bei agnosticizmą](wiki/blogas/apie-ateizma-bei-agnosticizma.md)
 * [Marble Hornets](wiki/blogas/marble-hornets-siaubo-fenomenas.md) siaubo fenomenas
 * [Taxi Driver](wiki/filmai/atsiliepimai.md#taxi-driver-1976)
+* [Memoirs of a Geisha](wiki/filmai/atsiliepimai.md#memoirs-of-a-geisha-2005)
 * [Tobulos merginos tipažas](wiki/blogas/tobulos-merginos-tipazas.md)
 * [Stylish Blog Award](wiki/blogas/stylish-blog-award.md)
 * [Bioshock](wiki/zaidimai/bioshock.md)

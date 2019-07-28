@@ -1,6 +1,10 @@
 # MealTimeVideos
 
-### 2019-07-26
+### 2019-07-28
+
+* City councilman Joel Burns breaks down as he shares his own [anti-LGBT bullying story ](https://www.youtube.com/watch?v=ax96cghOnY4)before Fort Worth city council
+
+### 2019-07-27
 
 * Turėjome viršgarsinius keleivinius lėktuvus, kuriais perskristi Atlantą būdavo galima per 3,5 valandos, tačiau dabar skraidome su dvigubai lėtesniais lėktuvais. Ir visai ne dėl saugumo. Tai kodėl taip nutiko? TLDW: [too load too expensive](https://www.youtube.com/watch?v=a_wuykzfFzE)
 * [Why Men and Women Cant Be Friends](https://www.youtube.com/watch?v=ko5sSeU-TrY)
