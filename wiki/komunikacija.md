@@ -1,4 +1,4 @@
-# Komunikacija
+# Komunikacija / santykiai
 
 ## [10 ways to have a better conversation](https://www.ted.com/talks/celeste_headlee_10_ways_to_have_a_better_conversation)
 
@@ -103,5 +103,13 @@ Kenneth Koch parašyta ir perskaityta poema, iliustruota tipografiniais vaizdais
 
 {% embed url="https://www.youtube.com/watch?v=gjXHRUlKe\_M" %}
 
+## Baimė atsibosti
 
+Publikuota: 2010-06-25
+
+_Sutuoktiniai bijo vienas kitam atsibosti. Tokia baimė kyla iš patirties: kai mums atsibosta naujas mobilusis telefonas ar mašina, akys krypsta į naujesnius ir gražesnius jų modelius. Panašiai žmonės galvoja ir vienas apie kitą. Štai, masto mergina, ateis laikas, kai atsibosiu savo draugui, jis ims žiūrėti į gražesnę, seksualesnę. Psichologai šiuo atveju kalba apie visai kitokius dalykus. Jie primena, kad sutuoktiniai pradžioje idealizuoja vienas kitą, tačiau šią idilę tirpdo ne nuobodulys, o pretenzijos. Turi būti taip, o ne kitaip, jei ne – mane tai žemins ir skaudins.  
+Pirmiausia sutuoktiniai sukaupia daug nuoskaudos. Netrukus tą nuoskaudą išsako vienas kitam ir kai vietoj švelnių žodžių, žvilgsnių, prisilietimų įsivyrauja kritika – ryšys “su juo jaučiuosi gerai” tampa ryšiu “su juo jaučiuosi blogai”. Tuomet sutuoktiniai ieško pakaitalo arba bando keisti santykius aiškindamiesi arba pasitelkdami psichoterapiją.  
+Taigi, dėlto, kad partneris gali nusibosti, psichologai nekalba. Turbūt dėlto, kad žmogus turi subjektyvų pasaulį. Trumpai tariant – jis yra subjektas._
+
+O. Lapinas – 1 MB apie meilę
 
