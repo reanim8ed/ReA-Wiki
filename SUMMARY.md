@@ -210,6 +210,7 @@
 * [Terminai](wiki/terminai.md)
 * [Tools](wiki/tools.md)
 * [Žaidimai](wiki/zaidimai/README.md)
+  * [Žaidimų evoliucija](wiki/zaidimai/zaidim-evoliucija.md)
   * [Bioshock](wiki/zaidimai/bioshock.md)
   * [Little Alchemy](wiki/zaidimai/little-alchemy.md)
   * [Stalo žaidimai](wiki/zaidimai/stalo-zaidimai/README.md)
