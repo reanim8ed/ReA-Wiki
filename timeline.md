@@ -12,6 +12,12 @@ Tinklaraščio migracija:
 
 * [7 efektyvaus laiko planavimo žingsniai](wiki/blogas/7-efektyvaus-laiko-planavimo-zingsniai.md)
 * [Nauja aistra: FED-3](wiki/blogas/nauja-aistra-fed-3.md)
+* [Social Life, With Friends](wiki/komunikacija.md#social-life-with-friends)
+* [Freetime egoist](wiki/blogas/freetime-egoist.md)
+* [Problemos lėktuvuose ir jų šalinimas su lengvu humoru](wiki/standup-humoras.md#problemos-l-ktuvuose-ir-j-salinimas-su-lengvu-humoru)
+* Asmenybės tipas: [Intravertas](wiki/blogas/asmenyb-s-tipas-intravertas.md)
+* [Marble Hornets](wiki/blogas/marble-hornets-siaubo-fenomenas.md) siaubo fenomenas
+* [Taxi Driver](wiki/filmai/atsiliepimai.md#taxi-driver-1976)
 * [Tobulos merginos tipažas](wiki/blogas/tobulos-merginos-tipazas.md)
 * [Stylish Blog Award](wiki/blogas/stylish-blog-award.md)
 * [Bioshock](wiki/zaidimai/bioshock.md)

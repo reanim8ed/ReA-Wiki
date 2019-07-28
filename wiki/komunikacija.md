@@ -95,3 +95,13 @@ Iš to kartais gali gimti ir labai nuotaikingų istorijų: pvz vienam keturmeči
 
 Žinoma, sąrašą galima tęsti ir tęsti, bet norėčiau išskirti ir apsistoti tik konkrečiai šiomis klaidomis. Kaip sakoma: one step at a time.
 
+## Social Life, With Friends
+
+Publikuota: 2010-12-22
+
+Kenneth Koch parašyta ir perskaityta poema, iliustruota tipografiniais vaizdais.
+
+{% embed url="https://www.youtube.com/watch?v=gjXHRUlKe\_M" %}
+
+
+

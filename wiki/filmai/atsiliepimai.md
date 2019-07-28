@@ -109,3 +109,19 @@ Taipogi ištrauka iš Lyudmilla Ignatenko \(gaisrininko žmona\) knygos Voices F
 `Biaggio: Do you know we've been walking for half a mile? I can tell by how much we've bonded.  
 Joe: You haven't said a word the whole time.`
 
+### [Taxi Driver \(1976\)](https://www.imdb.com/title/tt0075314/)
+
+Publikuota: 2010-11-15
+
+Prieš gerus metus žiūrėtas _GoodFellas_ mane sudomino ir nusprendžiau peržiūrėti daugiau Martin Scorsese ir Robert Deniro bendrų darbų. Į mano “Plan To Watch” sąrašiuką įsirašė _Mean Streets_ \(1973\) , _Taxi Driver_ \(1976\), bei _Raking Bull_ \(1980\). Ir štai pagaliau vienas iš jų, būtent 76-tųjų darbas galų gale pasiekė mano akis.
+
+ _I think someone should just take this city and just… just flush it down the fuckin’ toilet._
+
+Begėdiškai jaunas Robert De Niro atlieka 26 metų Travis Bickle vaidmenį. Tai Vietnamo kare dalyvavęs  sveikas, tačiau psichiškai paveiktas vaikinas, kuris negali naktimis užmigti. Tikėdamasis, kad naktinis taksisto darbas jį išsekins ir jis galės išsimiegoti, įsidarbina vienoje taksi kompanijoje ir ima važinėtis po naktinį miestą, kuriame pilna pačių įvairiausių atmatų.
+
+Kiek teko matyti _Scorsese_ darbų, tai visi jie labai brandūs, solidūs, pasakantys daugiau vaizdais, nei žodžiais. Taip ir šioje juostoje labiausiai užburia senoviniai, bei dideli taksi, kurie rieda naktinėmis NY gatvėmis, bei pagal lyrišką jazz’o muziką siūbuojantis spalvų, bei atspindžių šokis ant to taksi stiklų. Tai sukuria aštrų ir įsimintiną naktinių gatvių vaizdą.
+
+Personažas yra tipiškas Harvey Cleckley “nutapytas” sociopato portretas. Visuomeniškai priimtinas, socialus ir net galima pavadinti “tobula asmenybė”. Įdomiausia yra tai, kad žiūrovas suvokia jo sociopatiškąją gyvenimo žaizdą, o kulminacijoje ji pasirodo visu gražumu, tačiau Scorsese taip įdomiai atpina jo elgseną, kaip pateisinamą poelgį visuomenei, kad net imi svarstyti ar teisingai suvokei jaunojo taksisto būtį.Nepateisinamas elgesys tampa pavizdine visuomenine norma. Savo nepasitenkinimu purvinu pasauliu prarandęs sveiką protą jis visgi tapo miesto didvyriu, paliko anspaudą laikraščių archyvuose, bei, rodos, nusiramina. Deniro puikiai atskleidė herojaus charakterį: vidiniai herojaus monologai, vienatvė ir prisiminimų kančia tiesiog įsigėrę į aktoriaus veidą. Ko gero tai viena iš pagrindinių priežasčių, kodėl šis filmas toks geras.
+
+![](../../.gitbook/assets/tumblr_kwlti0vdqh1qajll7o1_500_thumb.jpg)
+

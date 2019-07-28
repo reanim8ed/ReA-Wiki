@@ -39,6 +39,7 @@ Reikia atkreipti dėmesį ir tai, kad šiame sąraše nežymiu serialų, tad či
 
 * Yra nemažai pavyzdžių, kai dabar laikomos klasikinės knygos ar kino filmai nebuvo taip jau gerai vertinami jų išleidimo metu. Pvz už legendinį Kubrick’o siaubo filmą „The Shining“ režisierius buvo nominuotas, prasčiausio metų režisieriaus [titului](http://www.wikiwand.com/en/The_Shining_%28film%29#/Initial_reception).
 * Vieno įspūdingiausių kinematografų [dėmesingumas detalėms](https://www.youtube.com/watch?v=-woNlmVcdjc&feature=youtu.be)
+* Ko gero labiausiai įsirėžusi į pasąmonę [vieta ](https://www.youtube.com/watch?v=1Clt-FZIjJ4)iš visų kino filmų, kuriuos kada nors mačiau.
 
 ## Tikrieji kino industrijos aukso metai
 
