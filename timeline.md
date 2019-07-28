@@ -6,6 +6,14 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 
 ## 2019-07
 
+#### 2019-07-28
+
+Tinklaraščio migracija:
+
+* [Tobulos merginos tipažas](wiki/blogas/tobulos-merginos-tipazas.md)
+* [Stylish Blog Award](wiki/blogas/stylish-blog-award.md)
+* [Bioshock](wiki/zaidimai/bioshock.md)
+
 #### 2019-07-27
 
 Tinklaraščio migracija: 
