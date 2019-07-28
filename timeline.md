@@ -11,6 +11,7 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 Tinklaraščio migracija:
 
 * [7 efektyvaus laiko planavimo žingsniai](wiki/blogas/7-efektyvaus-laiko-planavimo-zingsniai.md)
+* [Nauja aistra: FED-3](wiki/blogas/nauja-aistra-fed-3.md)
 * [Tobulos merginos tipažas](wiki/blogas/tobulos-merginos-tipazas.md)
 * [Stylish Blog Award](wiki/blogas/stylish-blog-award.md)
 * [Bioshock](wiki/zaidimai/bioshock.md)

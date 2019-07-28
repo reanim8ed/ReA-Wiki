@@ -48,6 +48,7 @@
   * [Madinga](wiki/blogas/madinga.md)
   * [Maža išpažintis](wiki/blogas/maza-ispazintis.md)
   * [Mens ReA](wiki/blogas/mens-rea.md)
+  * [Nauja aistra: FED-3](wiki/blogas/nauja-aistra-fed-3.md)
   * [Nesusitikinėk su mergina, kuri keliauja](wiki/blogas/nesusitikinek-su-mergina-kuri-keliauja.md)
   * [Noblesse oblige](wiki/blogas/noblesse-oblige.md)
   * [Ode to the Nice Guys](wiki/blogas/ode-to-the-nice-guys.md)
