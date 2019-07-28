@@ -6,7 +6,7 @@ description: 'Publikuota: 2013-06-16'
 
 ![](../../.gitbook/assets/3uv4kc.jpg)
 
-Žiūrint į savo praeities straipsnius, dėl kurių kartais gal kiek ir gėda darosi, labai ryškiai prisimenu vieną, [Laisvo laiko pardavėjas](http://reanimated.lt/laisvo-laiko-pardavejas). Įsimintinas ko gero ne tik dėlto, kad tai buvo vienas pirmųjų kartų, kai kažką rašiau ne tiesiai šviesiai, o metaforiškai, bet galbūt ir dėl pačios koncepcijos, kai laikas tampa prekė. Prie panašios koncepcijos noriu sugrįžti ir dar kartelį.
+Žiūrint į savo praeities straipsnius, dėl kurių kartais gal kiek ir gėda darosi, labai ryškiai prisimenu vieną, [Laisvo laiko pardavėjas](laisvo-laiko-pardavejas.md). Įsimintinas ko gero ne tik dėlto, kad tai buvo vienas pirmųjų kartų, kai kažką rašiau ne tiesiai šviesiai, o metaforiškai, bet galbūt ir dėl pačios koncepcijos, kai laikas tampa prekė. Prie panašios koncepcijos noriu sugrįžti ir dar kartelį.
 
 Iš esmės gyvenimas turi dviejų rūšių valiutas: pinigus IR laiką. Įsigyjame pinigų su laiku ir leidžiame pinigus, kad nusipirktume laiko. Pagalvokite apie tai.
 

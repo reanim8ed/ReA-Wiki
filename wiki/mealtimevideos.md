@@ -3,6 +3,7 @@
 ### 2019-07-28
 
 * City councilman Joel Burns breaks down as he shares his own [anti-LGBT bullying story ](https://www.youtube.com/watch?v=ax96cghOnY4)before Fort Worth city council
+* [Vista Speech Recognition](https://www.youtube.com/watch?v=MzJ0CytAsec)
 * [Zefyrų išbandymas  
   ](https://www.youtube.com/watch?v=QX_oy9614HQ)Prieš 50 metų Stanford\`o profesorius Walter\`is Mischel\`is atliko vadinamąjį “Zefyrų eksperimentą” \(The marshmallow experiment\). Jo esmė patikrinti vaikų sugebėjimą atsispirti pagundai, laukiant apdovanojimo. Testas parodė labai įdomių rezultatų. Pasirodo, kad keturmečiai vaikai, kurie sugebėjo vieni išsėdėti 20 minučių nesuvalgę zefyro, ateityje daug geriau atsispiria neigiamai aplinkos įtakai, taipogi surenka daug aukštesnius balus žinių patikrinimų metu. Ilgų metų stebėjimai parodė, kad užaugę tokie vaikai sugeba pasiekti didesnės sėkmės tiek karjeroje, tiek ir bendravime su kitais žmonėmis.
 

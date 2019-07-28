@@ -58,7 +58,10 @@ Tikrai nesu koks komunikacijos guru. Žinau, kad visada galima geriau. Pvz. jog 
 
 Publikuota: 2014-05-03
 
-Let’s face some facts: aš neturiu vaikų, tad čia nėra kažkokie konkretūs, gyvenimiški pastebėjimai. Labai lengva badyti pirštu į kitų klaidas ir sakyti kokie jie blogi tėvai ir „vat aš taip tikrai nedaryčiau“. Visgi tobulo vaikų auklėjimo plano neturi niekas ir kiekvienas auklėja taip, kaip išmano. Yra labai daug vietų, kuriose auklėjimas gali pasisukti tikrai ne ta linkme, kokia tikimasi. Ir kiekvienas darome savas klaidas.  
+Let’s face some facts: aš neturiu vaikų, tad čia nėra kažkokie konkretūs, gyvenimiški pastebėjimai. Labai lengva badyti pirštu į kitų klaidas ir sakyti kokie jie blogi tėvai ir „vat aš taip tikrai nedaryčiau“. Visgi tobulo vaikų auklėjimo plano neturi niekas ir kiekvienas auklėja taip, kaip išmano. Yra labai daug vietų, kuriose auklėjimas gali pasisukti tikrai ne ta linkme, kokia tikimasi. Ir kiekvienas darome savas klaidas.
+
+Kai kurie žmonės norėtų, kad jų vaikai niekada nepradėtų galvoti, nes tėvai, patys laikydami save jau perėjusiais šį vertybių apsvarstymo etapą tiki visų savo vertybių tikrumu ir tvirtumu, todėl neabejoja, jog jos yra pačios geriausios ir jų vaikams.
+
 Pateikiu vaikų auklėjimo klaidų, apie kurias kartais visai nesusimąstoma, sąrašėlį.
 
 **-Išmokoma ką galvoti, užuot tai, kaip galvoti.**  
