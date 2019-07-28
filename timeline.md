@@ -20,6 +20,9 @@ Tinklaraščio migracija:
 * [Marble Hornets](wiki/blogas/marble-hornets-siaubo-fenomenas.md) siaubo fenomenas
 * [Taxi Driver](wiki/filmai/atsiliepimai.md#taxi-driver-1976)
 * [Memoirs of a Geisha](wiki/filmai/atsiliepimai.md#memoirs-of-a-geisha-2005)
+* [4.3.2.1](wiki/filmai/atsiliepimai.md#4-3-2-1-2010)
+* [Zeitgeist – Addendum](wiki/filmai/atsiliepimai.md#zeitgeist-addendum-2008)
+* [Savaitgalis sibire](wiki/blogas/savaitgalis-sibire.md)
 * [Tobulos merginos tipažas](wiki/blogas/tobulos-merginos-tipazas.md)
 * [Stylish Blog Award](wiki/blogas/stylish-blog-award.md)
 * [Bioshock](wiki/zaidimai/bioshock.md)

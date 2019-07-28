@@ -76,6 +76,7 @@
     * [What is a story you have been dying to tell?](wiki/blogas/redditbest/what-is-a-story-you-have-been-dying-to-tell.md)
     * [\[WritingPromt\] A wife kills her husband. Make me sympathize with both characters](wiki/blogas/redditbest/writingpromt-a-wife-kills-her-husband.-make-me-sympathize-with-both-characters.md)
   * [Sapnas su Olga](wiki/blogas/sapnas-su-olga.md)
+  * [Savaitgalis Sibire](wiki/blogas/savaitgalis-sibire.md)
   * [She and Her Cat](wiki/blogas/she-and-her-cat.md)
   * [Sugadintas požiūris](wiki/blogas/sugadintas-poziuris.md)
   * [Stylish Blog Award](wiki/blogas/stylish-blog-award.md)

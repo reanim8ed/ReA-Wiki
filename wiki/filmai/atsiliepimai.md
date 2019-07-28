@@ -146,3 +146,38 @@ Režisierius apie filmo statymą planavo 8-erius metus. Apie tai išgirdusi pop 
 
 Japonijoje žmonės piktinasi, kad pagrindinius vaidmenis juostoje apie geišų gyvenimo paslaptis atlieka aktorės iš Kinijos. Tuo tarpu Kinijoje piktinamasi, kad jų šalies aktorės juostoje dėvės tradicinius „nacionalinių priešų ir okupantų“ kimono.
 
+### [4.3.2.1 \(2010\)](https://www.imdb.com/title/tt1514041/)
+
+Publikuota: 2010-10-11
+
+Tie, kas mane skaito dar nuo 2009-tųjų, galbūt prisimena apie mano aprašytą nuostabų britų kino šedevrą, pavadinimu Kidulthood \(tamsus ir purvinas filmas apie britų paauglius\). Taigi, šio filmo režisierius, bei aktorius \(Noel Clarke\) suklijavo dar vieną ne ką prastesnį darbą, pavadinimu 4.3.2.1.
+
+#### Siužetas:
+
+Keturių draugių individualios nuotykių istorijos susipinančios į vieną bendrą deimantų vagystės istoriją.
+
+Prisipažinsiu – britiškų filmų žiūriu iš ties nedaug, nes jie dažniausiai pasižymi kiek slogia nuotaika ir tas slogumas paveikia. Kaip ten bebūtų, tačiau tie filmai, kuriuos visgi prisiruošiu peržiūrėti būna gerokai geresni už holivudišką popcorną. Taip ir šio filmo atveju: laukiau, sulaukiau, pažiūrėjau ir kaip skrajutėje ir parašyta – manau, kad tai geriausias britų filmas šiais metais.
+
+Dauguma iš jūsų tikrai matėte mūsų lietuviško kino žvaigždutę _Zero 2_. Abu šie filmai turi panašumo savo stilistikoje – rodoma vieno žmogaus istorija nuo pradžios iki pabaigos, tada peršokama prie kito žmogaus nuotykių ir t.t. Po truputis bendra istorija, kaip puzlė susidėlioja iš mažų nuotrupų ir pamatome galutinį siužetą. Tokia maniera nėra naujiena kino pramonėje, bet svarbu, kaip visa tai atlikta. Ir turiu pasakyti, kad šiame filme toks modelis suveikė. Kuo toliau žiūri, tuo labiau įsigilini į kiekvieną herojų atskirai, pamatai jų gerąsias/blogąsias savybes, bei rūpesčius, pamatai kokie skirtingi visgi žmonės.  
+Visą filmą išlieka įtampa ir ji neatslūgsta iki pat pabaigos, nes tik tada viskas galutinai susidėlioja į vietas ir paaiškėja. Toks nuolatinis nežinojimas kas vyksta ir kas nutiks vėliau yra labai gerai ir padaro filmą labai mažai nuspėjamu.
+
+Šį kartą juostoje man labiausiai sužibėjo ne Alan Decon ir net ne pats režisierius, o Emma Roberts, kuri yra ne tik, kad labai simpatiška mergužėlė, tačiau moka labai gerai vaidinti, na ir šiuo atveju jos personažas buvo artimiausias širdžiai. Vaikiškas nuoširdumas :j
+
+Šį kartą Noel’is padarė mažiau šokiruojantį, mažiau atvirą, tačiau ne ką mažiau gyvenimišką ir įdomų filmą ir tikrai tikrai rekomenduoju jį susirasti ir pažiūrėti. Lietuvos kino teatruose filmas nebus rodomas.
+
+### [Zeitgeist – Addendum \(2008\)](https://www.imdb.com/title/tt1332128/)
+
+Publikuota: 2010-10-08
+
+Pamenu, kad apie Zeitgeist’o teorijas pastoviai girdėdavau kalbant draugus ir po truputis atsirado susidomėjimas šiuo filmu. Ir nors peržiūrėta pirmoji dalis man tikrai patiko, bet iki antros dalies peržiūros prireikė daugiau nei metų. Nusprendžiau, kad neberašysiu populiarių, kino teatruose rodomų filmų apžvalgų, nes tam yra atskiri, dideli specializuoti interneto portalai ir asmeniniai dienoraščiai, o oriantuosiuosi į senesnius filmus, apie kuriuos jau niekas nebekalba. Taigi, šiandien 2008-tųjų metų filmo _Zeitgeist: Addendum_ eilė.
+
+Po pirmojo filmo _Zeitgeist – The Movie_ pasirodymo, šio filmo režisierius \(Peter Joseph\) susitiko su Veneros projekto kūrėju \(Žaku Fresko\), kuris suteikė įkvėpimo sumontuoti ir antrąjį filmą. Šiame filme bandoma atskleisti dabartinės sistemos veikimo principai, neigiami jų aspektai ir pasakojama apie alternatyvią daug geresnę sistemą, bei stabdžius tai sistemai pasiekti. Lyginant su pirma dalimi, čia daugiau pasakojama ne apie konspiracijos teorijas, o apie konkrečią dabartinę situaciją, kurioje mes gyvename, bei apie būdus mažiau priklausyti nuo šios sistemos pokyčių.
+
+Filmo pradžioje paprasta, mums suprantama kalba paaiškinami įprasti ekonominiai varikliai, tokie kaip: pinigų sukūrimas iš oro, infliacijos atsiradimas, ekonomikos kontroliavimas valdant pinigų kiekį apyvartoje, bei žmonių vergovė. Taip pat atskleidžiama Amerikos veiksmai bandant kontroliuoti pasaulį per savo vadinamąją laisvą prekybą bei atviras rinkas, kurioje užsienio vadovai papirkinėjami arba pašalinami iš kelio.
+
+Antroje filmo dalyje – interviu su Žaku Fresko, bei Roksana Medous, kurie pristato savo kuriamą alternatyvaus pasaulio modelį. Čia, pateikiamas sprendimas neišvengiamai sistemos tragedijai išspręsti – technologija, bei išteklių ekonomika, o ne politika yra problemų sprendimas.
+
+Galbūt filme ir yra loginių klaidų ir jis nėra absoliučiai teisingas, tačiau, kaip Žakas Fresko minėjo: nėra tobulos sistemos ar tobulos visuomenės, bet mūsų siūlomas modelis yra kur kas geresnis, nei šiandieninis.
+
+Svarbiausia čia yra prajudinti tas užkalkėjusias žmogaus smegenis, kad pagaliau nustotų priimti jau “suvirškintą” informaciją, kokią pateikia TV, laikraščiai ir kiti informacijos šaltiniai, o pradėtų patys mąstyti. Zeitgeist neturi tikslo plauti visiems smegenis ir maitinti nerealiomis idėjomis. Zeitgeist turi tikslą žmonėms pasakyti, kad pats laikas nustoti pasikliauti kitais ir pradėti patiems galvoti. Nes kaip rodo šiandiena, tuo yra stipriai manipuliuojama. Dėl to kyla karai, dėl to žmonės tampa vis labiau abejingi įvykiams vykstantiems bent milimetru toliau jų nosies, ir dėl to, žmonių gyvenimas yra vergovė apie kurią jie nė nenutuokia.
+
