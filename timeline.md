@@ -44,6 +44,7 @@ Tinklaraščio migracija:
 * [Stylish Blog Award](wiki/blogas/stylish-blog-award.md)
 * [Bioshock](wiki/zaidimai/bioshock.md)
 * [Starcraft II: Wings Of Liberty](wiki/zaidimai/starcraft-ii-wings-of-liberty.md)
+* [Žaidimų evoliucija](wiki/zaidimai/zaidimu-evoliucija.md)
 
 #### 2019-07-27
 
