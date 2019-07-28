@@ -585,5 +585,211 @@ Jei neturi next-gen konsolės, tai nebūt išbandžiusiam šių dviejų pagrindi
 
 {% embed url="https://www.youtube.com/watch?v=iwC-hnvs868" %}
 
+## \(Part 12\): Septintoji konsolių karta
 
+Po šiokios tokios pertraukos, prisiruošiau užbaigti savo Žaidimų evoliucijos seriją. Taigi šiandien vienas iš paskutiniųjų šios serijos straipsnių: Septintoji konsolių karta.
+
+Septintoji konsolių karta prasidėjo nuo 2005 metų ir tęsiasi iki šiol, nes kada pasirodys kitos kartos konsolės dar nėra aišku. Žinoma tik viena: dar nelabai greit. Ši karta pasižymi tuo, kad yra tik trys pagrindiniai konkurentai: Sony, Microsoft ir Nintendo. Susipažinkim su kiekviena konsole iš arčiau:
+
+![](../../.gitbook/assets/xbox360.png)
+
+**Xbox 360**
+
+2005 lapkričio 22 Microsoft kompanija pristatė pirmąją septintosios kartos konsolę Xbox 360. Lyginant su savo seneliu Xbox, kompiuteris sugebėjo pasiūlyti [high-definition](http://en.wikipedia.org/wiki/High-definition_video) grafiką, bevielį pultelį \(yra ir laidinis variantas\), bei dar savo senelio Xbox laikais jau spėjusį išpopuliarėti [Xbox Live](http://en.wikipedia.org/wiki/Xbox_Live) tinklą, kuris užtikrino didelius žaidimų online pardavimus, bei lyderiaujančią poziciją rinkoje. Tarp kitko konsolė pasirodė metais anksčiau, nei buvo numatoma ir tai buvo tikrai sėkmingas Microsoft žingsnis, leidęs smarkiai išsiveržti į priekį. Net ir pasirodžius konkurentams, Xbox 360 pardavimai buvo ypač stiprūs Šiaurės Amerikoje, bei Europoje, tačiau, kaip ir buvo tikėtasi, Japonijoje daug dėmesio nesusilaukė.
+
+Kaip bebūtų, toks ankstyvas pasirodymas įtakojo keletas problemų. Viena iš žinomiausių konsolės bėdų buvo žinomasis [“red ring of death”](http://en.wikipedia.org/wiki/Red_ring_of_death), dėl kurios kai kurie vartotojai tūrėjo keisti konsolę kelis kartus. Dėl šios problemėlės Microsoft\`as pasiūlė trijų metų garantiją, bei visiškai nemokamą konsolių tvarkymą. Kiek vėliau ši problema buvo ištaisyta, kai konsolė imta gaminti su 65nm čipu, kuris taip pat sumažino sistemos pakibimo, bei perkaitimo problemas.
+
+Xbox pranašumas prieš PS3 pasireiškė ne tik, dėl ankstesnio pasirodymo, bet ir dėl visu 100 doleriu mažesnės kainos, už kurią gaunate gaminį visiškai niekuo nenusileidžiantį Sony kompanijos gaminiui. Didelis smūgis buvo padarytas PS3 konsolei, kai Microsoft\`ui pavyko susitarti dėl žaidimų, kurie buvo žadėti eksliuzyviškai tik PS3 konsolei. Tarp tokių žaidimų yra: [Devil May Cry](http://en.wikipedia.org/wiki/Devil_May_Cry_%28series%29), [Ace Combat](http://en.wikipedia.org/wiki/Ace_Combat), [Virtua Fighter](http://en.wikipedia.org/wiki/Virtua_Fighter_%28series%29), [Grand Theft Auto 4](http://en.wikipedia.org/wiki/Grand_Theft_Auto_4), [_Tekken 6_](http://en.wikipedia.org/wiki/Tekken_6), [Assassin’s Creed](http://en.wikipedia.org/wiki/Assassin%27s_Creed), [Bladestorm: The Hundred Years’ War](http://en.wikipedia.org/wiki/Bladestorm:_The_Hundred_Years%27_War), [Fatal Inertia](http://en.wikipedia.org/wiki/Fatal_Inertia)  ir žymųjį [_Final Fantasy XIII_](http://en.wikipedia.org/wiki/Final_Fantasy_XIII)_,_ serija, kuri būdavo, kaip ir PS3 vizitinė kortelė.
+
+2007 metų pradžioje konsolė buvo parduota jau 11,6 milijonų kopijų tiražu ir kartu su Nintendo Wii konsole užėmė didžiąją dalį rinkos sudarydami labai nepalankias sąlygas PS3.
+
+Vienas iš pagrindinių Xbox 360 žaidimų yra Halo 3 \(8,1 milijonas kopijų\). Kai tik pasirodė šis žaidimas, tą mėnesį jis buvo world wide best selling game.
+
+Xbox 360 didelis pranašumas buvo sėkmingi kontraktai su pagrindinėmis žaidimų kūrėjų firmomis. 2007 [Game Critics Awards](http://en.wikipedia.org/wiki/Game_Critics_Awards) apdovojimuose konsolės žaidimai buvo nominuoti 38 kategorijose ir 11 iš jų laimėjo – tai yra geriausias rezultatas visų konsolių istorijoje.
+
+Šiuo metu yra parduota 28,5 milijonai konsolės vienetų, kurie įtaiso konsolę antroje vietoje.
+
+![](../../.gitbook/assets/ps3.png)
+
+**PlayStation 3**
+
+[![ps3](http://reanimated.lt/wp-content/uploads/2009/04/ps3-thumb.png)](http://reanimated.lt/wp-content/uploads/2009/04/ps3.png)
+
+Prieš tai gana nuvertinau PlayStation 3 konsolę, kuri pasirodė 2006 Lapkričio 11. Bet visgi, ar viskas buvo taip blogai? Na taip, sistemos bandymas pritaikyti naujas technologijas, tokias, kaip daugiabranduolį procesorių ar Blu-ray formatą, susidūrė su problemomis, tačiau iki 2006 Gruodžio firma spėjo išspręsti visas problemas ir buvo pasiruošusi startuoti.
+
+Prekybos specialistai konsolę labai smarkiai surišo su Blu-ray diskais. Vieni iš jų teigė, kad šių diskų populiarumui daugiausiai įtakos ir tūrės PS3 populiarumas, kuris padės išplisti naujajam formatui. O kiti teigė, kad būtent šio formato rinkos populiarėjimas tūrės įtakos  PS3 išpopuliarėjimui, nes už palyginus nedidelę kainą gaunate ne tik blu-ray diskų skaitytuvą, bet ir nuostabius žaidimus, internetą, žaidėjų palaikymo tinklą \(PS3 network – akivaizdus Xbox Live tinklo, kuris suteikdavo Xbox\`ui pranašumo, klonas\).
+
+Sony kėlė savo populiarumą su tokiomis frančizėmis, kaip [Gran Turismo](http://en.wikipedia.org/wiki/Gran_Turismo_%28series%29) ir [God of War](http://en.wikipedia.org/wiki/God_of_War_%28video_game%29), bei koziriais tapusiais [Metal Gear Solid 4](http://en.wikipedia.org/wiki/Metal_Gear_Solid_4:_Guns_of_the_Patriots), bei jau minėtąjį [Final Fantasy Versus XIII](http://en.wikipedia.org/wiki/Final_Fantasy_Versus_XIII).
+
+Sėkmingiausias konsolės žaidimas: [MotorStorm](http://en.wikipedia.org/wiki/MotorStorm), parduota 3,31 milijonai egzempliorių \(galima pastebėti, kad pardavimai silpnoki\).
+
+Bet visgi tas ekskliuzyvinių žaidimų praradimas, bei aukšta kaina lėmė, kad konsolei sekėsi tikrai sunkiai. To pasekoje kompanija 2007 Liepą pranešė sumažinsianti 60 GB modelio kainą 100 doleriu JAV ir Kanados rinkose, kur šis modelis buvo nebepardavinėjamas.
+
+2007 Spalio 18 100 doleriu nuleista ir 80GB modelio kaina, bei Lapkričio 2 išleistas naujas 40 GB modelis, kainuojantis 399 USD, bei turintis kiek sumažintas galimybes, tokias, kaip PS2 žaidimų nepalaikymas. Po kelių savaičių Sony pranešė, kad 40 ir 80 GB versijų pardavimai pakilo 192%.
+
+2008 lapkritį, Sony išleido ir 160 GB modelį.
+
+O visai neseniai lauktas dar vienas kainų mažinimas, buvo nustelbtas, kai Sony pranešė sumažinsianti kainas ne PS3, o senukui PS2. Kaip bebūtų jis vis dar gan neblogai parduodamas ir net esant septintos kartos konsolėms jis užima garbingą ketvirtąją vietą pagal pardavimus.
+
+Viso parduota 21,3 milijonų konsolės kopijų \(geras PS2 vardas labai padeda parduoti naująjį gaminį\), kurios gana prisivijo savo pagrindinį konkurentą Xbox, bet visgi nuo jo dar gana neblogai atsilieka. Taip konsolė pasilieka trečiojoje vietoje.
+
+![](../../.gitbook/assets/nintendowii.png)
+
+**Wii**
+
+2006 Lapkričio 19 [Nintendo](http://en.wikipedia.org/wiki/Nintendo) įėjo į rinką išleisdama visiškai originalų gaminį, kuris buvo visai kitoks, nei pastarosios dvi konsolės. Ši kompanija kūrė gaminį, tikėdamasi, kad naujas žaidimų pojūtis sužavės žmones. Ir jie pataikė kaip į dešimtuką.
+
+Nors konsolei buvo skiriama labai mažai dėmesio, nes tuo metu visi žvalgėsi į ką tik pasirodžiusį PS3, tačiau Wii iškart gavo net labai teigiamą įvertinimą ir vos per keletą mėnesių sugebėjo gerokai sumažinti PS3 ir Xbox 360 pardavimus.
+
+Nintendo stengėsi pateikti ne super realistišką grafiką tikriems žaidimų fanatams, o linksmus, laisvalaikio pramoginius žaidimus, kurie pasižymėtų dideliu interaktyvumu. Taip ir atsirado žinomasis judesiui jautrus pultelis. Mojuok juo kaip teniso rakete ir žaisi tenisą, priglausk netoli žemės ir galėsi žaisti golfą, ar varžykis su draugias, kas greičiau perpjaus malką ar nuvalys langą, užsiiminėk aerobika, sportuok. Iš šalies atrodo kiek kvailokai, bet kai išbandai pats, supranti, kad tai visai kitoks potyris.
+
+Kaip ir ankstesnėse savo konsolėse, Nintendo skyrė didelį dėmesį ir tokiems savo hitams, kaip [Mario](http://en.wikipedia.org/wiki/Mario_%28series%29), [The Legend of Zelda](http://en.wikipedia.org/wiki/The_Legend_of_Zelda_%28series%29), [Metroid](http://en.wikipedia.org/wiki/Metroid_%28series%29), ir [Pokémon](http://en.wikipedia.org/wiki/Pok%C3%A9mon_%28video_games%29). Žinoma konsolė susilaukė ir Ubisoft, EA, Capcom ar Majesco sėkmingiausiųjų gaminių, bet didžiausi pardavimai šiai konsolei susilaukė būtent interaktyvumo kupini Wii Sports \(40,9 milijonai kopijų\).
+
+Dauguma analitikų ėmė labai stebėtis konsolės populiarumu ir orientavimąsi į non-gamers rinką. Nes buvo spėjama, kad žmonėms tas interaktyvumas greit pabos ir konsolė varžysis dėl gamerių dėmesio, kaip tai darė konkurentai. Bet taip nenutiko ir Wii taip ir laikosi ant savo interaktyvumo galimybių ir jai tai daryti sekasi tikrai neblogai.
+
+2007 Spalio 12 pranešta, kad šis mažylis aplenkė metais anksčiau pasirodžiusį Xbox 360 ir tapo pasauliniu žaidimų rinkos lyderiu.
+
+Šiuo metu parduota 44,96 milijonai konsolės vienetų ir taip konsolė dvigubai lenkia savo artimiausią konkurentą Xbox, bei pagal pardavimų kiekį tokiam trumpam laikotarpyje lenkia net konsolių Nr.1 – PS2.
+
+Ar sugebės Wii aplenkti legenda tapusį PS2 ir taip tapti visų laikų populiariausia konsole? Sužinosime ateityje.
+
+{% embed url="https://www.youtube.com/watch?v=C\_E-ZdfwWrw" %}
+
+{% embed url="https://www.youtube.com/watch?v=coSB-\_zDj90" %}
+
+{% embed url="https://www.youtube.com/watch?v=J-f2z0LVPm0" %}
+
+## \(Part 13\): Nešiojamosios konsolės
+
+Kadangi pažadus tesėti reikia, tai šiandien į eterį patenka mano jau gana seniai planuotas parašyti straipsnis apie handheld\`us.
+
+Handheld\`as – tai mažo svorio, nešiojamas žaidimų įrenginys, su įmontuotu ekranu, valdymo klavišais, bei garsiakalbiu. Kitaip sakant žaidimų kompiuteriukas, kurį gali naudoti kur tik nori, kada nori. Absoliučia handheld\`ų lyderę galima laikyti Nintendo kompaniją, kuri pateikia visą galybę best selling šios klasės įrenginių.
+
+Taigi peržvelkim pačius žinomiausius handheld\`us:
+
+Pirmiausia primenu, kad yra daug daugiau nešiojamų konsolių, tiesiog mano nepaminėtos buvo ne itin reikšmingos ir nepaliko didelio pėdsako šių prietaisų vystymosi istorijoje.
+
+![](../../.gitbook/assets/mattelautorace.jpg)
+
+Pirmasis nešiojamas elektronikos žaidimas pasirodė 1977, tai buvo [Mattel](http://en.wikipedia.org/wiki/Mattel) kompanijos išleistas žaidimas [Auto Race](http://en.wikipedia.org/wiki/Mattel_Auto_Race) \(kairėje\). Žaidimas, kiek matom buvo nerealus. Jūs esat raudonas brūkšniukas apačioj ir jum reikia stengtis išvengti kitų brūkšniukų priekyje, kurie leidžiasi žemyn, pas jus. Jaučiat žaidimo jėgą? :kikenu: žŠi konsolė nėra labai žinoma, nes ją užgožė kiek žinomesnė Mattel Electronic Football, kuri išleista lygiai po metų nuo Auto Race pasirodymo.
+
+![](../../.gitbook/assets/originalsimon.jpg)
+
+![](../../.gitbook/assets/295pxparker-brothers-merlin.jpg)
+
+1978 the [Milton Bradley Company](http://en.wikipedia.org/wiki/Milton_Bradley_Company) \(kurioje dirbo ir jau minėtasis [Ralfas Bajeris](http://reanimated.lt/zaidimu-evoliucija-part-2-pirmoji-konsoliu-karta)\) įžengė į besikuriančią handheld\`ų rinką ir pristatė [Simon](http://en.wikipedia.org/wiki/Simon_%28game%29) – ritmo, bei atminties žaidimą \(kairė\). Tais pačiais metais Parker Brothers pristatė [Merlin](http://en.wikipedia.org/wiki/Merlin_%28game%29), konsolę, kuri sugebėjo atvaizduoti 6 skirtingus žaidimus ir tūrėjo net 11 skirtingų mygtukų. Neskaitant šių dviejų konsolių paprastumo \(juk net ekrano nėra!\), kiekviena iš jų buvo pakankamai populiari. O Simon tapo 1980 pop kultūros simboliu.
+
+Toks pirmųjų konsolių populiarumas paskatino daugybės kopijų atsiradimą ankstyvaisias 1980-aisiais. Dauguma jų buvo tiesiog populiarių arkadinių žaidimų sumažintos versijos. Iš sėkmingesnių gamintojų galima išskirti tik [Coleco](http://en.wikipedia.org/wiki/Coleco), kuri sugebėjo pasiūlyti smarkiai išpopuliarėjusį dviejų žaidėjų palaikymą.
+
+![](../../.gitbook/assets/6a00d83452989a69e200e550507a458834800wi%20%281%29.jpg)
+
+Pirmoji tikra nešiojama žaidimų konsolė, su keičiamais žaidimais buvo Milton Bradley [Microvision](http://en.wikipedia.org/wiki/Microvision), sukurta 1979 metais. Vienas iš firminių šios konsolės žaidimų buvo BlockBuster \(kažkas pažystamo, ar nea? :\) \)
+
+Šis mažylis buvo gana sėkmingas ir pirmaisiais metais buvo parduota net 8 milijonai šių mažylių. Tačiau kiek vėliau, 1981 metais, dėl mažo žaidimų pasirinkimo, bei mažo ekrano, jo gamyba buvo nutraukta.
+
+![](../../.gitbook/assets/ball.jpg)
+
+1980 pasirodė ir pirmoji Nintendo handheld\`ų [Game’n’Watch](http://en.wikipedia.org/wiki/Nintendo_Game_%26_Watch) serija, pavadinimu Silver \(kairė\). Pats pirmasis šios serijos žaidimas buvo Ball. Be šio žaidimo Silver serijoje išėjo dar keturi žaidimai. 1981 ši serija atnaujinta ir pavadinta Gold. Tačiau skyrėsi tik kiek paredaguotomis spalvomis. Tokie kompiuteriukai naudojo LCD ekraną \(tokį, kokius dabar deda į elektroninius laikrodžius\), todėl galėjai žaisti tik vieną žaidimą, norėdamas kito – tūrėjai pirkti naują konsolę. Kiek vėliau rusai nukopijavo šią konsolę ir pavadino ją “Elektronika”. Vieną iš “Elektryčkos” serijos konsolių aptūrėjau ir aš, būdamas gal 6-8 metų.
+
+![](../../.gitbook/assets/800pxdonkey-kong-game-and-watch-open.jpg)
+
+1981 metų Nintendo išleista Donkey Kong su dvigubu ekranu. Kažką primena :mm:
+
+![](../../.gitbook/assets/epoch-system2.jpg)
+
+1984 Japonijoje [Epoch](http://en.wikipedia.org/wiki/Epoch_%28company%29) kompanija pristatė [Epoch Game Pocket Computer](http://en.wikipedia.org/wiki/Epoch_Game_Pocket_Computer). Galima sakyti normaliausias ir panašiausias į 80-tųjų gaminys, kuris tūrėjo 75 X 64 taškų ekraną, kuris sugebėjo atvaizduoti [Atari 2600](http://reanimated.lt/zaidimu-evoliucija-part-4-atari-2600) sudėtingumo žaidimus \(tik, kad nespalvotai\). Deja ši konsolė labai nenusisekė, nes jai buvo pritaikyti tik 5 žaidimai. Tokia nesekmė Japonijoje lėmė, kad niekur kitur ši konsolė taip ir nebuvo pradėda pardavinėti. Šiuo metu tai yra tikrai retas gaminys ir kainos eBay aukcione dažnai iškyla virš kelių šimtų JAV dolerių.
+
+![](../../.gitbook/assets/800pxatarilynx11000.jpg)
+
+1989 pasirodė ir Atari, kartu su savo mažyliu [Atari Lynx](http://en.wikipedia.org/wiki/Atari_Lynx). Tai buvo pati pirmoji konsolė sugebėjusi pasiūlyti tikrą spalvotą LCD ekraną, taip pat pasižymėjo tikrai neprasta grafika, tačiau šio modelio buvo parduota vos 500 000. Kodėl? Na Atari neskyrė jam pakankamai daug dėmesio ir tūrėjo permažai žaidimų gamintojų šiam žaisliukui. Kaip bebūtų dar ir dabar yra keletas smukių fanų bendruomenių, kurios vis dar kuria ir pardavinėja žaidimus skirtus Lynx.
+
+![](../../.gitbook/assets/nec-turboexpress-machine.jpg)
+
+Iškart po to, 1990 išėjo [TurboExpress](http://en.wikipedia.org/wiki/TurboExpress) – nešiojama [TurboGrafx-16](http://reanimated.lt/zaidimu-evoliucija-part-8-ketvirtoji-konsoliu-karta) konsolės versija. Tai be abejonės buvo viena pažangiausių konsolių, kuri sugebėjo paleisti visus TurboGrafx-16 žaidimus, kurie buvo įrašomi į kreditinės kortelės dydžio disketes. Konsolė tūrėjo 66 mm \(2.6 colio\) dydžio ekraną, kuris sugebėjo atvaizduoti 481 spalvą. Toks mažylis tūrėjo 8 kilobaitus [RAM](http://en.wikipedia.org/wiki/Random_Access_Memory)\`ų, bei 7.16 [MHz](http://en.wikipedia.org/wiki/Megahertz) procesorių.
+
+![](../../.gitbook/assets/1219592699-nintendo-game-boy.jpg)
+
+Taigi 1989 metų, Balandžio 21 dieną, Japonijoje žmonės pirmą kart išvydo naujausią Nintendo nešiojamą konsolę – GameBoy. Nintendo buvo kuo puikiausiai žinoma pasaulyje, bei karaliavo su savo NES. Kompanijos vardas buvo kaip asociacija su gera kokybe, bei neįtikėtinai įdomiais žaidimais. Tad šios konsolės išleidimas buvo tiesiog pasmergtas sėkmei. Nors galingumu ši konsolė smarkiai atsiliko nuo Atari Lynx, beto šios konsolės ekranas buvo nespalvotas. Vos 1988 buvo pristatytas [Tetris](http://en.wikipedia.org/wiki/Tetris), Nintendo įsigijo visas žaidimo teises ir pradėjo jį pardavinėti kartu su GameBoy\`jum. Tai buvo tikslus žingsnis, nes šis žaidimas tapo neįtikėtinai populiariu ir jo pagalba per pirmuosius metus buvo parduota milijonas konsolės kopijų. Iki 1992 konsolė buvo parduota jau 25 milijonų kopijų tiražu, o pardavimai vis dar buvo gana aukšti. Nintendo, kaip visad išsiveržė į priekį ir tapo absoliučia handheld\`ų lyderė.
+
+![](../../.gitbook/assets/sega-gamegear2.jpg)
+
+Pirmieji rimtai pasipriešinę Nintendo buvo Sega su savo 1990 metų produktu – [Sega Game Gear](http://en.wikipedia.org/wiki/Game_Gear), kuri buvo gaminama iki pat 1997. Tai buvo tarsi sumažinta [Master System](http://reanimated.lt/zaidimu-evoliucija-part-5-trecioji-konsoliu-karta), tik siūlanti mažesnę rezoliuciją, bet išgaunanti daugiau spalvų. Dėl tokių panašumų žaidimai buvo greitai perdaromi ir dauguma Sega fanų begalo troško nusipirkti šį mažylį. Tik pagalvok, gali žaisti savo mėgiamą Sonic\`ą kur tik nori!!! Buvo pagamintas ne vienas priedas, leidžiantis parplėsti šio žaisliuko galimybes: pvz. tv imtuvas. Tad ši konsolė greitai išplito 11 milijonų kopijų tiražu.
+
+![](../../.gitbook/assets/070422-2124.jpg)
+
+GameBoy\`jui sukako šešeri metukai kada jis susilaukė pirmojo ryškesnio patobulinimo – GameBoy Pocket, bei dar po metų ir GameBoy Light. Šios dvi versijos turėjo didesnį, ryškesnį ekraną o naujesnis Light modelis, turėjo ekrano apšvietimą, todėl žaidėjams jau buvo įmanoma žaisti ir naktį. Naujiesiems modeliams reikėjo mažiau baterijų, todėl buvo ir mažesnis svoris.
+
+![](../../.gitbook/assets/golden-tamagotchi-rgb.jpg)
+
+Tais pačiais metais Japonai pasaulį užkrėtė [Tamagotchi](http://en.wikipedia.org/wiki/Tamagotchi) manija. Manau nežinančių kas tai – nėra. Jie buvo patys pigiausi elektroniniai žaidimukai – konsolės ever. Pats tūrėjau gal penkis-šešis :\) Daikčiukas, kuris sukelia begales prisiminimų ir būtų visai linksma su juo pažaisti ir dabar :\) Manau visi prisimenam pagrindinius principus: valgydinti, žaisti, valyti :\) kai kuriose versijose reikėdavo ir atsižvelgti į oro sąlygas. Taip pat atsimenu keletas variantų, kurie tūrėjo net tam tikrus kodus, klavišų derinius, kuriais būdavo išjungiamas garsas, ar gyvunėlio reiklumas. Tai buvo gana naudinga pamokų metu.
+
+![](../../.gitbook/assets/gbc005.jpg)
+
+Ir štai 1998 metais Nintendo padarė [didesnį perversmą](http://en.wikipedia.org/wiki/Gameboy_Color) nei iki tol. Jie į įprastą Gameboy įmontavo spalvotą ekraną. Be šitos naujovės, buvo įdėtas naujas, 8 MHz procesoriukas \(du kart daugiau, nei iki šiol\), keturis kartus praplėsta vidinė atmintis ir atsirado IR sensorius, pakeitęs senają _multiplayer link_ kabelio jungtį ir taip suteikęs Gameboy\`jui wireless’iškumą. Kadangi atsirado tiek naujovių, sistema galėjo ,,pavežti” daug sudėtingesnius, gražesnius žaidimus. Taip pat buvo patobulintos ir žaidimų disketės, tapo mažesnės, lengvesnės. O viena iš džiugiausių GameBoy fanams naujienų tapo tai, kad sistema suderinama su senaisiais žaidimais. Tai lėmė, kad iki 2005 parduota net 118.69 milijonai handhel\`o kopijų. Something unreal…. :oho:
+
+![](../../.gitbook/assets/neogeo-pocket2.jpg)
+
+1999 GameBoy\`jaus viešpatavimui bandė priešintis ir [Neo Geo Pocket Color](http://en.wikipedia.org/wiki/Neo_Geo_Pocket_Color), bet padaryti tai nenusisekė taip jau sėkmingai. Šios 16-bit\`ų sistemos pasaulyje parduota apie milijoną. Konsolė gaminta iki 2001 metų.
+
+![](../../.gitbook/assets/gameboy-advance.jpg)
+
+Matome, kad Nintendo sėkmingai šturmavo handheld\`ų rinką. Ir tai daryti ketino ir toliau. 2000 metais kompanija padarė dar didesnį perversmą pagamindami [GameBoy Advance](http://en.wikipedia.org/wiki/Game_Boy_Advance). Buvo visiškai pakeista išvaizda, idėtas didesnės rezoliucijos 2.9 colio, 240 x 160 pikselių, 16 bitų RGB TFT ekranas, beveik septyniolikos megahercų ARM procesorius ir 32 kb vidinės atminties. Dabar,geimbojuj tereikėjo dviejų standartinių baterijų ir jis buvo gerokai kompaktiškesnis. Klausiate ar jis tapo populiarus? O kaip gi!!!! Parduota 80.72 milijonai Advance modelių.
+
+![](../../.gitbook/assets/nokia-ngage.jpg)
+
+Na ir tada prasidėjo… Žaidimai pradėjo tapti ne be tokie nuostabūs ir įtraukiantys. Buvo tiesiog stengiamasi išplėšti kuo daugiau pinigų, sunaudojant kuo mažiau kaštų. Taip 2003 Nokia išleido ir savo šiokį tokį MP3 grotuvo, PDA, radijo imtuvo, telefono, bei handheld\`o hibridą – [N-Gage](http://en.wikipedia.org/wiki/N-Gage). Tai nebuvo ypatingai populiarus gaminys, dėl savo nepatogaus dizaino. Tačiau Nokia kompanija sugebėjo prastumti 3 milijonus tokių telefoniukų. 2008 metais išleista ir [antroji N-Gage karta](http://en.wikipedia.org/wiki/N-Gage_2.0).
+
+![](../../.gitbook/assets/imggameboyadvancesp3.jpg)
+
+2004 metais pasirodęs [Nintendo Advance SP](http://en.wikipedia.org/wiki/Game_Boy_Advance_SP) modelis atrodė solidžiau ir buvo atlenkiamas. Iš esmės SP beveik nepasikeitė nuo originalaus Advance, skyrėsi tik kosmetiškai, nors visgi jame atsirado kraunama baterija ir žaidėjai galėjo nesibaiminti dėl žaidimo laiko. Na ką gi, Nintendo frančizė daro savo – parduota 43.52 milijonai kopijų.
+
+![](../../.gitbook/assets/zodiac-1.jpg)
+
+2004 pasirodė ir [Tapwave Zodiac](http://en.wikipedia.org/wiki/Tapwave_Zodiac). Tai tūrėjo būti dar vienas hibridas sugebantis rodyti foto, groti muziką, atvaizduot e-knygas, prisijungti prie interneto, bei pateikti nuostabius žaidimus. Gaminys leistas iki 2005 kada Tapwave paskelbė bakrotą. Nenuostabu kodėl :\)
+
+![](../../.gitbook/assets/050302-nintendo-ds-3.jpg)
+
+2004 metais pasirodęs Nintendo DS modelis padarė didžiausią perversmą visų handheld\`ų istorijoje. Kartu su DSi, bei DS Lite versijomis pasaulyje parduota, net 100 milijonų DS modelių. O tai yra neįtikėtina!!! DS turi net du 3 colių, 256 x 192 pikselių ekranus, iš kurių vienas yra liečiamas, bevielio interneto port’ą, du 67 MHz ARM procesorius, 4MB vidinės atminties, stereo garsiakalbius. Žaidimų disketės patapo kompaktiškomis kortelėmis. Dabar sistema pilnai gali render’inti trimatį vaizdą ir suteikti pilnavertį žaidimo malonumą. Retromanai taip pat liko nenuvilti, mat specialiai jiems čia paliktas Advance _gamepak_ slotas. Konsolė prieš savo pagrindinius konkurentus naudojo pagrindinį savo kozirį – interaktyvumą, bei lietimui jautrų ekraną.
+
+![](../../.gitbook/assets/nintendodslite.jpg)
+
+2006 metais DS buvo patobulintas. Daugiau kosmetiškai. Dabar DS vadinasi DS lite, kas išvertus iš anglų kalbos reiškia lengvas. Modelis buvo sumažintas, palengvintas, gerokai padidintas ekrano apšvietimas, patobulintas stylus’as \(pieštukas\) ir daugelis kitų smulkių pakeitimų… Vienas dalykas buvo naujas – mikrofonas, tai suteikia žaidimams dar daugiau interaktyvumo galimybių.
+
+![](../../.gitbook/assets/nintendo.jpg)
+
+Praeitais metais pasirodžiusi naujausia Nintendo konsolė DSi yra ne kas kita kaip dar vienas DS patobulinimas. Dizainas beveik nepasikeitė išskyrus dar šiek tiek sumažintą korpusą. DSi modelyje atsirado dvi kameros, viena VGA viduje, kita išorėje, ketvirtadaliu colio padidinti ekranai, šiek tiek patobulinta geležis, mygtukai ir operacinė sistema. Nors šie atnaujinimai tikrai glosto širdį, daugelis gali nusivilti dėl advance žaidimų palaikymo pašalinimo ir didelės kainos.
+
+![](../../.gitbook/assets/h1126.jpg)
+
+2005 pasirodė ir [Game Park Holdings GP2X](http://en.wikipedia.org/wiki/GP2X) – pirmoji open-source konsolė naudojanti Linux operacinę sistemą. Tai reiškia, kad bet kas gali kurti programas, žaidimus šiai konsolei. Internete yra gana nemažos šios konsolės gerbėjų bendruomenės, kurios diskutuoja apie skirtingų operacinių sistemų diegimą, konsolės galimybių praplėtimą ir kitus dalykus. Šis žaisliukas turi daug oficialiai pasirodžiusių emuliatorių, kurie leidžia [Neo Geo](http://en.wikipedia.org/wiki/Neogeo), [Sega Genesis](http://en.wikipedia.org/wiki/Sega_Genesis), [Master System](http://en.wikipedia.org/wiki/Master_System), [Game Gear](http://en.wikipedia.org/wiki/Game_Gear), [Amstrad CPC](http://en.wikipedia.org/wiki/Amstrad_CPC), [Commodore 64](http://en.wikipedia.org/wiki/Commodore_64), [NES](http://en.wikipedia.org/wiki/NES), [PC-Engine/TurboGrafx-16](http://en.wikipedia.org/wiki/TurboGrafx-16), [MAM](http://en.wikipedia.org/wiki/MAME) ir kitų sistemų žaidimus. Kiek tikslai parduota konsolės vienetų, nėra žinoma, tačiau 2006 buvo parduota 30000 egzempliorių. 2007 pasirodė nauja versija – F200, kurioje įdiegtas touchscreen\`as.
+
+![](../../.gitbook/assets/sonyplaystationportablepsp1504.jpg)
+
+Kaip pagrindinis DS priešininkas tais pat metais išleistas ir PSP. Ši konsolė galėjo pasigirti kiek kietesne technine puse, kuri leidžia ne tik atkurti nuostabios grafikos žaidimus, bet ir rodyti filmus savo 11 cm \(4.3 colio\) ekrane. Tačiau konsolėje nėra tokio interaktyvumo, kokį siūlo DS, bei pradžioje Sony susidūrė su žaidimų gamintojų stygiumi, kurie kurtų žaidimus šiai konsolei. Nuo 5.01 programinės įrangos atnaujinimo konsolėje įdiegta galimybė pirkti žaidimus, ar jų demo, bei muziką iš PlayStation Store tinklo \(visai, kaip PS3 modelyje\).
+
+2007-aisiais, Sony pristatė atnaujintą PSP variantą: [PSP Slim & Lite](http://en.wikipedia.org/wiki/PSP_Slim_%26_Lite). Kaip ir sako pavadinimas – ši versija 33 % lengvesnė, bei 19% plonesnė už originalų PSP. Beto šios versijos ekranas yra žymiai ryškesnis, bei plonesnis, beto  kompiuteryje atsirado galimybė naudoti [Skype](http://en.wikipedia.org/wiki/Skype).
+
+2008 pabaigoje buvo pristatytas ir dar vienas atnaujintas PSP variantas: [PSP-3000](http://en.wikipedia.org/wiki/PSP-3000). Pagrindinis šios versijos atnaujinimas yra ekranas. Praplėsta spalvų paletė, ryškumas, anti-atspindžio technologijos, bei atsirado įmontuotas mikrofonas.
+
+Kone gražiausias, bei stilingiausias handheld\`as iš visų  :manpatinka: \(Just my opinion\).
+
+![](../../.gitbook/assets/iphone-black-fish-2.jpg)
+
+2007 Spalį pasirodė ir dar vienas duetas Apple [iPod Touch](http://en.wikipedia.org/wiki/IPod_Touch), bei [iPhone](http://en.wikipedia.org/wiki/IPhone), kuriuos taip pat galima priskirti handheld\`ų kategorijai. Šie įrenginiai savaime patys yra tokie unreal daikčiukai, kad jiems reikėtų atskiro įrašo. Tačiau ir taip pilnas internetas apie juos rašo, tad tai daryti ir man – nematau tikslo.
+
+Nors šie Apple gaminiai yra skirti labiau multimedijai, bei internetui, tačiau po truputis vis daugėja ir žaidimų skirtų šiems įrenginiams. Visgi tai yra galingiausi kada nors pagaminti handheld\`ai kuriais nesunkiai galima aplenkti PSP grafikos detalumą: iki 16 GB atminties, 620 MHz procesorius, bei 128 MB Ram\`ų. Tokios specifikacijos sugeba paleisti net Quake III lygio žaidimus, o tokio dydžio įrenginiui, tai yra nerealu.
+
+Ką išvysime sekantį? PSP2? DS2? O gal visai naują įrenginį, kuris apvers visą šią nešiojamą industriją aukštyn kojom? Pagyvensim ir pamatysim
+
+![](../../.gitbook/assets/cheaptetrisgame.jpg)
+
+P.S. Įraše galite pasigesti mūsuose kadaise tokio mėgto kompiuteriuko, kaip “Tetris”. Tačiau oficialiai tokios konsolės niekada nebuvo, o visi tie kompiuteriukai, su kuriais męs žaisdavome – būdavo piratinės GameBoy Tetrio versijos.
+
+Dėkui [NetLife](http://vtslblog.blogspot.com/2009/04/nintendo-handheldu-istorija.html), bei [wikipedia](http://wikipedia.org/) už didelį palengvinimą rašant straipsnį.
+
+{% embed url="https://www.youtube.com/watch?v=isejBX1Tyjk" %}
+
+{% embed url="https://www.youtube.com/watch?v=\_Qj75DU4QRM" %}
+
+{% embed url="https://youtu.be/DTxNIuBA6Ag" %}
 
