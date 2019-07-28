@@ -10,7 +10,7 @@ Kadangi studijuoju elektronikos inžineriją bei esu šiaip kompiuterinių žaid
 
 Pačią pradžią apžvelgsiu prabėgom, daugiau papasakosiu jau nuo tos kompiuterinių epochos, kurią pats prisimenu ir teko prisiliesti.
 
-### Patys pirmieji kompiuteriniai žaidimai
+#### Patys pirmieji kompiuteriniai žaidimai
 
 ![](../../.gitbook/assets/nimrod-thumb.jpg)
 
@@ -96,7 +96,7 @@ Taigi žadėjau daugiau dėmesio skirti konsolėms, kurias jau teko minkyti. Nor
 
 ![](../../.gitbook/assets/81la7mj5eul._sl1500_.jpg)
 
-### History
+#### History
 
 Taigi 1977 spalį Atari pristatė savo Video Computer System \(toks konkretaus pavadinimo nebuvimas ir lėmė, kad ilgą laiką aš nė nenumaniau kas per daiktas ten pas mane gulėdavo\). Tačiau vėliau konsolė pervadinta į Atari 2600 pagal kompiuterio partijos numerį: CX2600.
 
@@ -122,7 +122,7 @@ Neužilgo į kovą su Atari populiarumu stojo kiti gamintojai: [Imagic](http://e
 
 Tačiau viskas turi pabaigą. Atėjo 1983m. video žaidimų krizė, kai kompanijos pardavimai smarkiai krito, niekas nebenorėjo pirkti kompiuterinių žaidimų ir kompanija pradėjo patirti milžiniškus nuostolius \(apie 10000 USD per dieną!\) Taigi 1984m. konsolė atiteko tokiem bičam iš [Commodore Business Machines](http://en.wikipedia.org/wiki/Commodore_Business_Machines), kurie sumastė pasipelnyt iš žinomosios konsolės. Po dviejų metų perleido konsolę, supaprastindami dizainą, suteikdami galimybę žaisti visus klasikinius žaidimus ir už visa tai prašydami tik 50 dolerių mokesčio. Taip jie iš senosios konsolės spaudė ką galėjo ir išspaudė iki pat 1990. Reikalą oficialiai parišo Atari kompanija, kuri 1992 Sausio 1 sako: “Viskas bičai, užteks”. Taip konsolė patapo visų laikų ilgiausiai išgyvenusi konsolė. Gaminama ji buvo 14 metų ir du mėnesius.
 
-### My memories
+#### My memories
 
 ![](../../.gitbook/assets/sys_atari2600-300x167.jpg)
 
@@ -181,7 +181,7 @@ Kaip žadėjau – šįkart apie Nintendo konsolę, kurią prieš gerus 10 metų
 
 Taigi apie viską iš pradžių:
 
-### History
+#### History
 
 Ankstyvaisiais 80-aisiais nemažai sėkmės su arkadiniais žaidimais susilaukę kūrė savo planus. Taip [Masayuki Uemura](http://en.wikipedia.org/wiki/Masayuki_Uemura) kūrė naujosios kartos kompiuterį, pavadinimu Family Computer arba tiesiog Famicom, kurią į Japonijos rinką paleido 1983 metais, tačiau startas buvo banguotas:  konsolėje buvo blogas chipas ir dėlto naujasis gaminys labai greit gedo ir mažai kas norėjo pirkti, bet problemos buvo greitai išspręstos ir kitais metais konsolė perleista su geriau žinomo pavadinimu - Nintendo Entertainment System \(NES\). Konsolės pardavimai ėmė kilti ir 1984 pabaigoje tai jau buvo geriausiai parduodama konsolė Japonijoje.
 
@@ -193,7 +193,7 @@ Sekantieji keli metai tapo ypač sėkmingi ir konsolė išstūmė jau technologi
 
 Nepaisant smarkaus konsolės perkamumo mažėjimo Nintendo tęsė tiekti konsoles į Ameriką, netgi išleido keletą konsolės variantų su skirtingais dizainais. Taip ji buvo platinama dar iki 1995, kuriais JAV liko be šios konsolės. Tačiau Japonijoje dar buvo likę nemažai senųjų konsolės fanų, kuriem reikėdavo techninio palaikymo, naujų valdymo pultelių, atsarginių dalių ir panašių niekučių, tad kompanija neužraukė pačios konsolės gaminimo iki pat 2003, o techninė pagalba bei priedai tiekti nustoti tik 2007 Spalio 31!! Tik pagalvokit: 24 metai konsolės istorijos. Reikia pripažinti – įspūdinga. Dar labiau stebina pardavimai, dėmesio! Iškvepiam! 61,91 mln. kopijų!
 
-### My memories
+#### My memories
 
 Tikriausiai man ir daugeliui mano amžiaus vaikinų, tai konsolė, prie kurios praleidau daugiausiai laiko. Užaugome su ja ;\) Kartas nuo karto užvaldanti nostalgija priverčia įsirašyti kokį seną gerą bomberman\`ą ar Super Mario ir pažaisti geras 20 min. Savo laikais jie tikrai įtraukdavo, o pagrindinis dalykas tokiose konsolėse būdavo žaidimo įdomumas, o ne grafika. Norėdamas pereiti žaidimą, turėdavai tą patį lygį kartoti dešimtis, šimtus kartų, kol jį išmokdavai kone atmintinai. Šiuolaikiniai žaidimai šiuo atžvilgiu dėlto ir atrodo labai lengvi.
 
@@ -246,14 +246,14 @@ Dauguma žino tik Super Mario Bros. žaidimą, tačiau jų yra daug daugiau. Vis
 * [_New Super Mario Bros._](http://en.wikipedia.org/wiki/New_Super_Mario_Bros.) \(2006\)
 * [_Super Mario Galaxy_](http://en.wikipedia.org/wiki/Super_Mario_Galaxy) \(2007\)
 
-### **Siužetas**
+#### **Siužetas**
 
 Super Mario Bros_._ žaidime, pagrindinis veikėjas – santechnikas [Mario](http://en.wikipedia.org/wiki/Mario) turi išgelbėti Grybų karalystės princesę Toadstool \(vėliau pervadintą į princesę Peach\) iš blogojo karaliaus[ Koopa](http://en.wikipedia.org/wiki/Bowser_%28character%29) \(vėliau žinomą, kaip karalių Bowser\). Dviejų žaidėjų režime pagrindiniam žaidėjui į pagalbą stoja ir jo jaunesnis brolis [Luigi](http://en.wikipedia.org/wiki/Luigi). Kad išgelbėtų minėtą princesę, broliai turi įveikti 8 skirtingus pasaulius išvengdami kliūčių ir priešus tiesiog sumindydami. Mario turi nukeliauti į kiekvieną naujojo pasaulio pilį ir nugalėti vieną iš karaliaus Koopa parankinių. Kad pasiektų parankinio pilį, veikėjui reikia įveikti tris to pasaulio lygius. Nugalėjus parankinį, sutinkamas grybažmogis Toad, kuris praneša: „~~_Thank you Mario! But our princess is in another castle!_~~“ – heh legendinė frazė :\) Taip išvadavę 7 grybažmogius ir įveikę patį Bowser, mes galų gale atrandame savo taip ilgai ieškotą princesę. Perėjus žaidimą, žaidėjui leidžiama žaidimą žaisti sunkiu režimu, kur paprasti priešai yra pakeisti vėžliais, kurių neina nugalėti ugniniais rutuliais, o ir priešų judėjimo greitis padvigubėjęs.   
 Visi mėgo Mario, visi žaidė Mario ir niekas nesiskųsdavo, kad va jo istorija yra kvaila. Gosh… Net filmas buvo pastatytas... Tarp kitko tai buvo pats pirmasis filmas, pastatytas pagal kompiuterinį žaidimą.
 
 Mario kovoja su pačiu Bowser 8 pasaulio pabaigoje.
 
-### **Lygiai**
+#### **Lygiai**
 
 Visą žaidimą sudaro 8 pasauliai kurių kiekvienas dar skyla į keturis lygius. Taigi iš viso žaidimą sudaro 32 lygiai. Žaidime yra 4 skirtingi lygių tipai:
 
@@ -265,7 +265,7 @@ Visą žaidimą sudaro 8 pasauliai kurių kiekvienas dar skyla į keturis lygius
 
 ![Pilis](../../.gitbook/assets/100px-mariocastle.png)
 
-### **Kiti serijos žaidimai, kuriuos teko išbandyti**
+#### **Kiti serijos žaidimai, kuriuos teko išbandyti**
 
 **Dr. Mario**
 
@@ -285,7 +285,7 @@ Ne toks įsimintinas, kaip mūsų numylėtasis Super Mario Bros. tačiau įneša
 
 Žaidimas pasirodė tik 2007, bet jis mane buvo sudominęs ir parsisiunčiau. Bet deja jis man nepatiko, jokios nostalgijos nesukėlė ir šiaip pasirodė visiškas š, todėl ilgai mano kompe neužsibuvo. Mano nuomonė 3D mario, tai ne ta sfera, kur jam reikėjo nueit. Na bet mielas žaidimukas mažiem vaikam, be jokio smurto. Gražu, paprasta, blizgu.
 
-### **In action**
+#### **In action**
 
 Žiūrim į savo vaikystę :\) Faina prisiminti vieną ar kitą levelį.
 
@@ -542,7 +542,7 @@ Septintoji konsolių karta prasidėjo nuo 2005 metų ir tęsiasi iki šiol, nes 
 
 ![](../../.gitbook/assets/xbox360.png)
 
-### **Xbox 360**
+#### **Xbox 360**
 
 2005 m. lapkričio 22 Microsoft pristatė pirmąją septintosios kartos konsolę Xbox 360. Lyginant su savo pirmtaku, kompiuteris sugebėjo pasiūlyti [high-definition](http://en.wikipedia.org/wiki/High-definition_video) grafiką, bevielį pultelį \(yra ir laidinis variantas\), bei dar savo senelio Xbox laikais jau spėjusį išpopuliarėti [Xbox Live](http://en.wikipedia.org/wiki/Xbox_Live) tinklą, kuris užtikrino didelius žaidimų online pardavimus, bei lyderiaujančią poziciją rinkoje. Tarp kitko konsolė pasirodė metais anksčiau, nei buvo numatoma ir tai buvo tikrai sėkmingas Microsoft žingsnis, leidęs smarkiai išsiveržti į priekį. Net ir pasirodžius konkurentams, Xbox 360 pardavimai buvo ypač stiprūs Šiaurės Amerikoje, bei Europoje, tačiau, kaip ir buvo tikėtasi, Japonijoje daug dėmesio nesusilaukė.
 
@@ -560,7 +560,7 @@ Xbox 360 didelis pranašumas buvo sėkmingi kontraktai su pagrindinėmis žaidim
 
 ![](../../.gitbook/assets/ps3.png)
 
-### **PlayStation 3**
+#### **PlayStation 3**
 
 Prieš tai gana nuvertinau PlayStation 3 konsolę, kuri pasirodė 2006 Lapkričio 11. Bet visgi, ar viskas buvo taip blogai? Na taip, sistemos bandymas pritaikyti naujas technologijas, tokias, kaip daugiabranduolį procesorių ar Blu-ray formatą, susidūrė su problemomis, tačiau iki 2006 Gruodžio firma spėjo išspręsti visas problemas ir buvo pasiruošusi startuoti.
 
