@@ -29,3 +29,7 @@ Laiką jaučia instinktyviai – laikrodis jam nereikalingas. Planuoti veiksmus 
 
 pagal [D.Kersey testą ](http://www.socionika.org/testaik.htm)
 
+### Skorpionas
+
+Skorpionas – pats paslaptingiausias ir prieštaringiausias Zodiako ženklas. Paprastai uždaro būdo, tačiau viduje kunkuliuoja stiprios aistros. Jausmingumas, emocionalumas ir intuicija jame puikiai dera su karingumu, analitiniu mąstymu ir geležine valia. Taip pat jis turi stiprų savininkiškumo jausmą, yra pavydus, kerštingas, kartais net destruktyvus. Įskaudintas ir išduotas gali nešiotis nuoskaudą daugybę metų ir netikėtai smogti į jautriausią priešininko vietą. Neverta Skorpionui meluoti, jis visada supras tiesą. Jam patikėtą paslaptį nusineš į kapus, tačiau apie savo mintis, jausmus ir ketinimus nekalba. Visi Skorpionai nekalbūs ir dažnai vadovaujasi tik jiems vieniems suprantama logika.
+
