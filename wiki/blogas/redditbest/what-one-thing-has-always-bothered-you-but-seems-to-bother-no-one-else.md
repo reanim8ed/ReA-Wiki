@@ -1,3 +1,7 @@
+---
+description: 'Publikuota: 2013-06-06'
+---
+
 # What one thing has always bothered you, but seems to bother no one else?
 
 ![](../../../.gitbook/assets/knitting_by_saraschool-559x416.jpg)

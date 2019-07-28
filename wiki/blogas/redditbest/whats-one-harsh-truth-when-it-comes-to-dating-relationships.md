@@ -1,3 +1,7 @@
+---
+description: 'Publikuota: 2015-03-03'
+---
+
 # What’s one harsh truth when it comes to dating/relationships?
 
 You can do everything right and he/she may still leave you anyway, for things or issues beyond anyone’s control…  

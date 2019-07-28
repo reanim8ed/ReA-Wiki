@@ -1,3 +1,7 @@
+---
+description: 'Publikuota: 2015-06-18'
+---
+
 # What is the laziest thing you’ve ever done?
 
 ![](../../../.gitbook/assets/us_navy_030117-n-9851b-027_the_military_sealift_command_ship_usns_spica_t-afs_9.jpg)

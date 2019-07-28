@@ -1,3 +1,7 @@
+---
+description: 'Publikuota: 2014-11-26'
+---
+
 # Did any of Leonardo Da Vinci’s research actually lead to technological advancement?
 
 ![](../../../.gitbook/assets/da-vinci-invention.jpg)

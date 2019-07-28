@@ -1,5 +1,5 @@
 ---
-description: 'Publikuota:'
+description: 'Publikuota: 2012-01-20'
 ---
 
 # Trikampiai

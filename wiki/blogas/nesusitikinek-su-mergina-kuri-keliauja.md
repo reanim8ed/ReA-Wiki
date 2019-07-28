@@ -1,3 +1,7 @@
+---
+description: 'Publikuota: 2016-07-23'
+---
+
 # Nesusitikinėk su mergina, kuri keliauja
 
 ![](../../.gitbook/assets/little-sheep-1.jpg)

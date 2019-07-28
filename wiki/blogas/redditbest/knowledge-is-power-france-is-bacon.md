@@ -1,3 +1,7 @@
+---
+description: 'Publikuota: 2012-11-04'
+---
+
 # Knowledge is power, France is Bacon
 
 **What word or phrase did you totally misunderstand as a child?**

@@ -1,3 +1,7 @@
+---
+description: 'Publikuota: 2013-09-19'
+---
+
 # Double standard
 
 **Reddit, what is one double standard that is totally bullshit?**
