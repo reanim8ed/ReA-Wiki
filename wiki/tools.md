@@ -5,7 +5,7 @@
 Ieškojau self-hosted alternatyvų Gitbook'ui, kad turėti kiek daugiau laisvės, Wiki valdybe, tačiau nusprendžiau, kad mane pilnai tenkina dabartinis produktas. Tačiau kelios rastos alternatyvos:
 
 * [TiddlyWiki ](https://tiddlywiki.com/)- konceptualiai labai įdomus sprendimas į kurį dar pasigilinsiu, tačiau atrodo, kad skaitytojui struktūra būtų kiek per daug komplikuota. Aš už paprastumą ir aiškumą.
-* [MkDocs ](https://www.mkdocs.org/#mkdocs)/ [MDwiki](http://dynalon.github.io/mdwiki/#!index.md) - iš principo labiausiai artimi Gitbook'ui sprendimai
+* [MkDocs ](https://www.mkdocs.org/#mkdocs)su [Material tema](https://squidfunk.github.io/mkdocs-material/) / [MDwiki](http://dynalon.github.io/mdwiki/#!index.md) - iš principo labiausiai artimi Gitbook'ui selfhosted sprendimai
 * [Vuepress ](https://vuepress.vuejs.org/)/ [Wiki.js](https://wiki.js.org/) / [docsify](https://docsify.js.org/#/?id=docsify) - šiuolaikiškesnės, JS pagrindu veikiančios alternatyvos. Veikia maloniai, tačiau abejotinas SEO ir kiek ribotos galimybės ką nors keisti.
 * [BookStack ](https://www.bookstackapp.com)- knygos, skyrių ir puslapių principu organizuotas laravel'inis CMS'as. Turi build-in redaktorių ir file manager'į, tačiau UI kiek per daug atima iš turinio, bei content'as jau saugojamas duombazėje
 
