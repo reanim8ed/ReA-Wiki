@@ -249,7 +249,7 @@ The map below summarises the main ferry routes.
 * The barmen at L’Appart have been trained extensively in the art of mixology and the best time to try their concoctions for yourself is during their daily sunset happy hour from 17:00-19:00 when all drinks are two-for-one.
 * food which tasted as good As it looked, service was Attentive and efficient very friendly and happy staff nothing was too Much trouble. Drinks on the balcony before and after dinner started and finished the meal with a fantastic View of Bangkok.
 
-![](../../../../.gitbook/assets/scarlett-wine-bar-restaurant-dining-french-silom-bangkok-thailand-5.jpg)
+![](../../../../.gitbook/assets/scarlett-wine-bar--restaurant-dining-french-silom-bangkok-thailand-5.jpg)
 
 #### **Scarlett Wine Bar & Restaurant**
 
