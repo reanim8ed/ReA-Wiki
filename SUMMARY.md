@@ -135,6 +135,7 @@
 * [MealTimeVideos](wiki/mealtimevideos.md)
 * [Mityba](wiki/mityba/README.md)
   * [Protarpinis badavimas](wiki/mityba/protarpinis-badavimas.md)
+* [Muzikos Virtuvė](wiki/muzikos-virtuve.md)
 * [Pasaulis](wiki/pasaulis/README.md)
   * [Kelionės](wiki/pasaulis/keliones/README.md)
     * [Kompensacijos už vėluojantį skrydį išmušimo instrukcija](wiki/pasaulis/keliones/kompensacijos-uz-veluojanti-skrydi-ismusimo-instrukcija.md)
