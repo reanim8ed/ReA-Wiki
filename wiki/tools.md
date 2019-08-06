@@ -7,7 +7,8 @@ Ieškau self-hosted alternatyvų Gitbook'ui. Noriu, kad softas būtinai turėtų
 * [TiddlyWiki ](https://tiddlywiki.com/)- konceptualiai labai įdomus sprendimas, kur kiekvienas notes'as yra tarsi kortelė \(vadinama tiddler'iu\) ir kur kiekvienas atidarytas notes'as ir lieka atidarytas naviguojant tarp jų. Turėtų būti patogu daryti tokiem mindmap'ams. Nepatinka senstelėjęs dizainas \(galima kiek pagerinti situaciją su [Material ](http://demo.santosa.family/)dizainu\) ir tai, kad visas turinys saugosi viename faile.
 * [Trilium Notes](https://github.com/zadam/trilium) - atrodo išties neblogai, tačiau praktiškai neturi markdown palaikymo bei skirta tik personal naudojimui.
 * [MkDocs ](https://www.mkdocs.org/#mkdocs)su [Material tema](https://squidfunk.github.io/mkdocs-material/) / [MDwiki](http://dynalon.github.io/mdwiki/#!index.md) - iš principo labiausiai artimi Gitbook'ui selfhosted sprendimai
-* [Vuepress ](https://vuepress.vuejs.org/)/ [Wiki.js](https://wiki.js.org/) / [docsify](https://docsify.js.org/#/?id=docsify) - šiuolaikiškesnės JS alternatyvos. Veikia maloniai, tačiau kadangi yra runtime-driven tai praktiškai nėra SEO \(išskyrus Vuepress\)
+* [Wiki.js](https://wiki.js.org/) / [docsify](https://docsify.js.org/#/?id=docsify) - šiuolaikiškesnės JS alternatyvos. Veikia maloniai, tačiau kadangi yra runtime-driven tai praktiškai nėra SEO.
+* [Vuepress](https://vuepress.vuejs.org/) - Vue pagrindu veikianti Wiki. Ateityje potencialiai galėčiau pereiti dėl greičio. Tačiau kol kas ne, nes vis dar nėra content meniu, paieška ieško tik pavadinimuose.
 * [BookStack ](https://www.bookstackapp.com)- knygos, skyrių ir puslapių principu organizuotas laravel'inis CMS'as. Turi build-in redaktorių ir file manager'į, tačiau UI kiek per daug atima iš turinio bei content'as jau saugojamas duombazėje
 
 Kelios ne self-hosted alternatyvos:
