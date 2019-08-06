@@ -2,12 +2,13 @@
 
 ## Wikis
 
-Ieškojau self-hosted alternatyvų Gitbook'ui, kad turėti kiek daugiau laisvės, Wiki valdybe, tačiau nusprendžiau, kad mane pilnai tenkina dabartinis produktas. Tačiau kelios rastos alternatyvos:
+Ieškau self-hosted alternatyvų Gitbook'ui. Noriu, kad softas būtinai turėtų hierarchinę struktūrą su markdown palaikymu ir galėčiau pushinti į git'ą. Kelios rastos alternatyvos:
 
-* [TiddlyWiki ](https://tiddlywiki.com/)- konceptualiai labai įdomus sprendimas į kurį dar pasigilinsiu, tačiau atrodo, kad skaitytojui struktūra būtų kiek per daug komplikuota. Aš už paprastumą ir aiškumą.
+* [TiddlyWiki ](https://tiddlywiki.com/)- konceptualiai labai įdomus sprendimas, kur kiekvienas notes'as yra tarsi kortelė \(vadinama tiddler'iu\) ir kur kiekvienas atidarytas notes'as ir lieka atidarytas naviguojant tarp jų. Turėtų būti patogu daryti tokiem mindmap'ams. Nepatinka senstelėjęs dizainas \(galima kiek pagerinti situaciją su [Material ](http://demo.santosa.family/)dizainu\) ir tai, kad visas turinys saugosi viename faile.
+* [Trilium Notes](https://github.com/zadam/trilium) - atrodo išties neblogai, tačiau praktiškai neturi markdown palaikymo bei skirta tik personal naudojimui.
 * [MkDocs ](https://www.mkdocs.org/#mkdocs)su [Material tema](https://squidfunk.github.io/mkdocs-material/) / [MDwiki](http://dynalon.github.io/mdwiki/#!index.md) - iš principo labiausiai artimi Gitbook'ui selfhosted sprendimai
-* [Vuepress ](https://vuepress.vuejs.org/)/ [Wiki.js](https://wiki.js.org/) / [docsify](https://docsify.js.org/#/?id=docsify) - šiuolaikiškesnės, JS pagrindu veikiančios alternatyvos. Veikia maloniai, tačiau abejotinas SEO ir kiek ribotos galimybės ką nors keisti.
-* [BookStack ](https://www.bookstackapp.com)- knygos, skyrių ir puslapių principu organizuotas laravel'inis CMS'as. Turi build-in redaktorių ir file manager'į, tačiau UI kiek per daug atima iš turinio, bei content'as jau saugojamas duombazėje
+* [Vuepress ](https://vuepress.vuejs.org/)/ [Wiki.js](https://wiki.js.org/) / [docsify](https://docsify.js.org/#/?id=docsify) - šiuolaikiškesnės JS alternatyvos. Veikia maloniai, tačiau abejotinas SEO ir kiek ribotos galimybės ką nors keisti.
+* [BookStack ](https://www.bookstackapp.com)- knygos, skyrių ir puslapių principu organizuotas laravel'inis CMS'as. Turi build-in redaktorių ir file manager'į, tačiau UI kiek per daug atima iš turinio bei content'as jau saugojamas duombazėje
 
 Kelios ne self-hosted alternatyvos:
 
@@ -25,6 +26,7 @@ Kelios ne self-hosted alternatyvos:
 ## Markdown
 
 * [Caret](https://caret.io/) - visiškai minimalistinis lokalus Markdown editorius, tačiau kuris turi viską ko reikia tokiam produktui. Savo paskirčiai - puikus, tačiau Notion laimi, nes turi sync.
+* [Notable ](https://github.com/notable/notable)- kokybiškas local Markdown editorius išlaikantis hierarchinę sistemą
 * [Typora](https://typora.io/) - kaip markdown editorius, turi nemažai patogių papildomų funkcijų
 
 
