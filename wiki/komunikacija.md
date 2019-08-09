@@ -1,3 +1,7 @@
+---
+description: 'Never argue against logic with emotion, or against emotion using logic.'
+---
+
 # Komunikacija / santykiai
 
 ## [10 ways to have a better conversation](https://www.ted.com/talks/celeste_headlee_10_ways_to_have_a_better_conversation)

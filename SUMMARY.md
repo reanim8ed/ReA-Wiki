@@ -6,7 +6,6 @@
 
 ## Wiki
 
-* [AI](wiki/ai.md)
 * [Asmenybės](wiki/asmenybes/README.md)
   * [Apie mane](wiki/asmenybes/apie-mane.md)
   * [Pop kultūra](wiki/asmenybes/pop-kultura/README.md)
@@ -165,6 +164,7 @@
     * [Peter Pan generation](wiki/straipsniai-skaitiniai-istorijos/straipsniu-archyvas/peter-pan-generation.md)
     * [Pasikutenkim jausmus, 90-ųjų vaikai](wiki/straipsniai-skaitiniai-istorijos/straipsniu-archyvas/pasikutenkim-jausmus-90-ju-vaikai.md)
 * [Technologijos](wiki/technologijos/README.md)
+  * [AI](wiki/technologijos/ai.md)
   * [Gadgets](wiki/technologijos/gadgets/README.md)
     * [Apžvalgos](wiki/technologijos/gadgets/apzvalgos/README.md)
       * [Dell Inspiron 15 7559](wiki/technologijos/gadgets/apzvalgos/dell-inspiron-15-7559.md)

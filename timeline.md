@@ -91,7 +91,7 @@ Tinklaraščio migracija:
 * [Tėvų vertybės](wiki/idejos.md#2019-07-26)
 * Autonominio automobilio optimalus [reklaminis maršrutas](wiki/idejos.md#2019-07-26)
 * [10x programeriai vs 1x programerius](wiki/programavimas/#notes)
-* [AI skiltis](wiki/ai.md)
+* [AI skiltis](wiki/technologijos/ai.md)
 
 #### 2019-07-25
 
