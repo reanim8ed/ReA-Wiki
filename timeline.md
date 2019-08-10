@@ -6,6 +6,11 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 
 ## 2019-08
 
+#### 2019-08-10
+
+* Pakoreguota [Motyvacijos ](motyvacija.md)skiltis
+* [PS4 žaidimų skiltis](wiki/zaidimai/ps4-games.md)
+
 #### 2019-08-04
 
 * Pradėtas [Muzikos Virtuvė](wiki/muzikos-virtuve.md) archyvas
@@ -40,7 +45,7 @@ Tinklaraščio migracija:
 * [Sushi valgymo etiketas](wiki/blogas/sushi-valgymo-etiketas.md)
 * [Audio knygos](wiki/technologijos/it-talk/audio-knygos.md)
 * [Pavydas](wiki/blogas/pavydas.md)
-* [130 vyriškų dalykų](wiki/blogas/130-vyrisk-dalyk.md)
+* [130 vyriškų dalykų](wiki/blogas/130-vyrisku-dalyku.md)
 * [Baimė atsibosti](wiki/komunikacija.md#baim-atsibosti)
 * [Windows 7 galimybės](wiki/technologijos/it-talk/windows-7-galimybes-video-apzvalga.md) – video apžvalga
 * [Kasetės](wiki/blogas/kasetes.md)
