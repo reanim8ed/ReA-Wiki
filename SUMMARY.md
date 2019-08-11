@@ -161,6 +161,7 @@
 * [Straipsniai / skaitiniai / istorijos](wiki/straipsniai-skaitiniai-istorijos/README.md)
   * [Skaitymo įpročiai](wiki/straipsniai-skaitiniai-istorijos/skaitymo-prociai.md)
   * [Straipsnių archyvas](wiki/straipsniai-skaitiniai-istorijos/straipsniu-archyvas/README.md)
+    * [Ilga blevyzga apie visas gyvenimo vasaras](wiki/straipsniai-skaitiniai-istorijos/straipsniu-archyvas/ilga-blevyzga-apie-visas-gyvenimo-vasaras.md)
     * [Peter Pan generation](wiki/straipsniai-skaitiniai-istorijos/straipsniu-archyvas/peter-pan-generation.md)
     * [Pasikutenkim jausmus, 90-ųjų vaikai](wiki/straipsniai-skaitiniai-istorijos/straipsniu-archyvas/pasikutenkim-jausmus-90-ju-vaikai.md)
 * [Technologijos](wiki/technologijos/README.md)

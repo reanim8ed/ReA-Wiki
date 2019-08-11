@@ -6,6 +6,10 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 
 ## 2019-08
 
+#### 2019-08-11
+
+* Straipsnių archyvas: alkoholikairnieksai apie [visas gyvenimo vasaras](wiki/straipsniai-skaitiniai-istorijos/straipsniu-archyvas/ilga-blevyzga-apie-visas-gyvenimo-vasaras.md)
+
 #### 2019-08-10
 
 * Pakoreguota [Motyvacijos ](motyvacija.md)skiltis
