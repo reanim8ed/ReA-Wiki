@@ -20,22 +20,22 @@ Jau ne vienerius metus pasamoniškai to gainiojuosi: pradedant nuo asmeninio tin
 
 Manau, kad nesu [polimatas](https://www.wikiwand.com/en/Polymath), tačiau tikrai turiu panašių polinkių. Turiu gan didelį alkį žinioms ir man labai patinka sužinoti vis kažką naujo, įgauti vis naujų įžvalgų vis skirtingose srityse. Ir taip, visi žinom, kaip yra sakoma _Jack of all trades, master of none_,  kinų alternatyva: _Equipped with knives all over, yet none is sharp_, o estiškas variantas: _Nine trades, the tenth one — hunger_, tačiau turint platų požiūrį, insight'ų iš daug įvairių sričių ir generalizuotas žinias, tai gali suteikti unikalią [kombinaciją](https://medium.com/accelerated-intelligence/modern-polymath-81f882ce52db), kuri taipogi gali būti pranašumu.
 
-Tačiau visgi neužtenka viską tiesiog kaupti ar tai būtų ištraukos iš knygų ar straipsnių bookmarksai ar pan. Pats kaupimas nors ir sukuria kažkokią progreso iliuziją, tačiau jei su ta informacija nėra dirbama, nėra reflektuojama - iš esmės iš jos kaupimo yra išties mažai naudos.
+Tačiau visgi neužtenka viską tiesiog kaupti ar tai būtų citatos, straipsniai, video įrašai, bookmarksai ir kita. Tai tik sukuria informacijos kaupimo iliuziją ir jeigu su šia nauja info nėra dirbama, nėra apie ją galvojama, reflektuojama ir ji nėra kitaip panaudojama - iš to kaupimo yra išties mažai naudos. Tiesiog nukopijuoji ją ir pamiršti. Perdedi iš vieno stalčiuko į kitą ir jokios realios naudos tai nesukuria.
 
 David'o Allen'o išgrynintas [Getting Things Done](https://gettingthingsdone.com/what-is-gtd/) \(GTD\) metodas susiveda į 5 pagrindinius žingsnius: Capture, Clarify, Organize, Reflect and Engage. Kitas gan idealogiškai panašus metodas - [zettelkasten](https://zettelkasten.de/posts/), kurį susumuoti būtų galima į: Collect, Process, Cross-Reference and Use. Tai ir tapo mano šūkiu ir būtent taip išsivystė šis Wiki stiliaus PKB projektas. Toks eklektiškas asmeninės informacijos, profesinių interesų, pastebėjimų, pamąstymų, kelionių įspūdžių, bookmarksų, straipsnių, pomėgių ir reflekcijų rinkinys. Natūrali mano tinklaraščio progresija - visgi daugiametis jo slogan'as ir buvo: _Asmeninės nuomonės, įžvalgų bei patirties tinklaraštis. Technologijos, istorijos, faktai ir gyvenimas_.
 
 ## Priežastys
 
-Viena pagrindinių priežasčių kodėl noriu turėti asmeninę wiki - nes manau, kad vien atminties neužtenka. Viskas anksčiau ar vėliau nulekia į nebūtį, tampa nereikšminga ir neišsaugota. Lyg ne pats būtum visą tai skaitęs, patyręs, gyvenęs, o tik matęs pro greitai lekiančio automobilio langą. Ir rašymas yra viena geriausių priemonių visą tai užkonservuoti. O taipogi tikriausiai girdėjote faktą, jog šiuolaikinis žmogus per dieną bombarduojamas didesniu kiekiu informacijos, nei senovėje žmonės sužinodavo per visą savo gyvenimą ar kad informacijos bendras informacijos kiekis dvigubėja kas 12 mėn. Tad nenuostabu, kad ieškau būdų offloadinti šią informaciją - noriu turėti išorinę informacijos saugyklą, padaryti ją lengvai pasiekiamą, organizuotą ir lengvai ieškomą, kad reikiamą temą ir straipsnį galėčiau ištraukti labai greitai, nesvarbu kokiame kontekste. Ir jei jau skyriau sąlyginai nemažai laiko domėdamasis, kontempliuodamas apie kažką konkretaus, tai galima skirti bent minimaliai ir dar truputis laiko viso to išsaugojimui.
+Viena pagrindinių priežasčių kodėl noriu turėti asmeninę wiki - nes manau, kad vien atminties neužtenka. Viskas anksčiau ar vėliau nulekia į nebūtį, tampa nereikšminga ir neišsaugota. Lyg ne pats būtum visą tai skaitęs, patyręs, gyvenęs, o tik matęs pro greitai lekiančio automobilio langą. Ir rašymas yra viena geriausių priemonių visą tai užkonservuoti. O taipogi tikriausiai girdėjote faktą, jog šiuolaikinis žmogus per dieną bombarduojamas didesniu kiekiu informacijos, nei senovėje žmonės sužinodavo per visą savo gyvenimą ar kad bendras informacijos kiekis dvigubėja kas 12 mėn. Tad nenuostabu, kad ieškau būdų offloadinti jai - noriu turėti išorinę informacijos saugyklą, padaryti ją lengvai pasiekiamą, organizuotą ir lengvai ieškomą, kad reikiamą šaltinį ar mintį galėčiau ištraukti labai greitai, nesvarbu kokiame kontekste. Ir jei jau skyriau sąlyginai nemažai laiko domėdamasis, kontempliuodamas apie kažką konkretaus, tai galima skirti bent minimaliai ir dar truputis laiko viso to konspektavimui.
 
 ## Paskirtis
 
 _**Our goal in life is to collect the dots and connect the dots but we can't do both at the same time. A wiki makes a history of both and tries to make sence of all of this.**_
 
-Taigi tokia wiki turi 3 pagrindines paskirtis:
+Taigi personal knowledge stiliaus wiki turi 3 pagrindines paskirtis:
 
 1. minčių saugojimas, organizavimas ir padarymas jas greitai randamonis
-2. prieinamumas bet kam
+2. prieinamumas
 3. knowledge path kūrimas
 
 -Pirmasis punktas susijęs su tuo, kad saugomos informacijos vertė auga tiesiogiai nuo to, kaip lengvai ji gali būti randama ir perpanaudojama. Taipogi bandant informaciją sudėlioti trumpai, sklandžiai ir sugrupuotai, toks informacijos apdorojimas priverčia apie ją galvoti kiek ilgiau, giliau ir dėlto ji yra geriau įsisavinama. Visada manau, jog koncepcijos, visumos supratimas yra svarbiau, nei specifinės detalės.

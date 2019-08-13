@@ -4,8 +4,11 @@ description: The Internet treats censorship as a malfunction and routes around i
 
 # Internetas
 
-From ex Facebook Software Engineer:  
-The best minds of my generation are thinking about how to make people click ads.
+## Fear of Missing Out and Social Media
+
+FOMO is a great motivator of human behavior, and I think a crucial key to understanding social software, and why it works the way it does. Many people have studied the game mechanics that keep people collecting things \(points, trophies, check-ins, mayorships, kudos\). Others have studied how the neurochemistry that keeps us checking Facebook every five minutes is similar to the neurochemistry fueling addiction. Social media has made us even more aware of the things we are missing out on. You’re home alone, but watching your friends status updates tell of a great party happening somewhere. You are aware of more parties than ever before. And, like gym memberships, adding Bergman movies to your Netflix queue and piling up unread copies of the New Yorker, watching these feeds gives you a sense that you’re participating, not missing out, even when you are.
+
+* [https://caterina.net/2011/03/15/fomo-and-social-media/](https://caterina.net/2011/03/15/fomo-and-social-media/)
 
 ## Google+ 
 
@@ -26,4 +29,8 @@ Galima pridėti ir dar kelias, ne tokias gyvybiškai svarbias, bet kalančias da
 * Tikrų vardų politika
 
 Įdomu, kad socialinio tinklapio sukūrimui žmonių psichologija yra ne mažiau svarbi, nei technologija
+
+## Notes
+
+* From ex Facebook Software Engineer:   The best minds of my generation are thinking about how to make people click ads.
 

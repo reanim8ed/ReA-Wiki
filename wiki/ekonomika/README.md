@@ -27,6 +27,7 @@ Problema yra ne tai, kad įsigalės tokia utopinė sistema, o tai, kad mums reik
 
   Money buys freedom, freedom enables happiness, therefore money buys happiness.
 
+* Žmonės dažnai nepagalvoja, jog skola susidariusi dėl kredito nėra kažkieno kito pinigai. Kuomet skoliniesi, tiesiog perkeli savo ateities pajamas į šiandieną ir už tai moki premiją, tai yra palūkanas.
 * Bet kuriuo duotuoju momentu yra užsiėmimų, kuriais galėtum užsiimti ir kurie beveik nieko nekainuoja, tačiau visgi padaro tave laimingesniu. Gyvenimo perteklius, kuris dar vadinamas turtu, ganėtinai priklauso nuo to, kaip dažnai pasirenki surasti tuos džiaugsmingus momentus.
 * Jeigu problemą galima lengvai išspręsti pinigais, tai ne problema, o tiesiog išlaidos. 
 * Laisvas žmogus - tai žmogus, kuriam nebereikia pardavinėti savo laiko kitiems. Kuo daugiau turi turto, tuo daugiau laiko iš kitų gali nusipirkti ir tuo mažiau tau reikia pardavinėti savojo. Nebereikia nešioti kaklaraiščio, kuris yra tarsi antkaklis ant tavo kaklo. Nebereikia keltis 7-ą, tam jog skubėti į darbą bei sėdėti automobilių kamščiuose. Nebereikia švaistyti visų savo produktyvių valandų dirbant darbą, kuris tavęs neužpildo. Taigi viena ir iš tiesų esminė turto paskirtis - laisvė.
