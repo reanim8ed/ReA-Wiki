@@ -4,6 +4,13 @@ description: 'https://www.facebook.com/techit.lt'
 
 # TechIT straipsniai
 
+## 2019-08
+
+### Google prisijungimai be slaptažodžių
+
+* Kai telefonai pradėjo teikti prisijungimo biometriniais duomenimis galimybes, iškilo tik laiko klausimas, kada visą tai pereis ir į web. Telefonai jau visi su pirštų skaitytuvais, jie po truputį grįžta ir į nešiojamuosius kompiuterius, tad tikėtina, jog paprastų tekstinių slaptažodžių po kelių metų gali ir nebeprireikti.
+* [https://www.neowin.net/news/google-goes-password-less-for-some-web-services-through-android-more-to-come](https://www.neowin.net/news/google-goes-password-less-for-some-web-services-through-android-more-to-come)
+
 ## 2019-07
 
 ### 15 metų, o The Pirate Bay taip vis dar ir nesustabdomas

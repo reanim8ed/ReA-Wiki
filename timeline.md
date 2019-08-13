@@ -11,6 +11,7 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 * MMORPG kaip [socialinė mokykla](wiki/zaidimai/#mmorpg-kaip-socialin-mokykla)
 * Skolindamasis kreditu, skoliniesi [iš savęs paties](wiki/ekonomika/#notes), tiesiog ateityje.
 * [Fear of Missing Out](wiki/technologijos/internetas.md#fear-of-missing-out-and-social-media) and Social Media
+* Google [prisijungimai be slaptažodžių](wiki/technologijos/technologijos.md#google-prisijungimai-be-slaptazodzi)
 
 #### 2019-08-11
 
