@@ -4,6 +4,9 @@ description: The Internet treats censorship as a malfunction and routes around i
 
 # Internetas
 
+From ex Facebook Software Engineer:  
+The best minds of my generation are thinking about how to make people click ads.
+
 ## Google+ 
 
 Vienas iš inžinierių dirbančių prie Google+ [aprašo priežastis](https://onezero.medium.com/why-google-failed-4b9db05b973b), kurios jo nuomone nulėmė kodėl šis socialinis tinklapis nenusisekė.
