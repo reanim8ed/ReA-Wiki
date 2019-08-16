@@ -8,6 +8,10 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 
 #### 2019-08-16
 
+* [Cicada 3301](wiki/technologijos/internetas.md#cicada-3301)
+
+#### 2019-08-15
+
 * Muzikos Virtuvė: [Grebz](wiki/muzikos-virtuve.md#grebz)
 
 #### 2019-08-13

@@ -4,6 +4,16 @@ description: The Internet treats censorship as a malfunction and routes around i
 
 # Internetas
 
+## Cicada 3301
+
+* Manau, kad internetas turi nemažai paslapčių. Tačiau dažniausiai geros paslaptys yra tos, apie kurias taip niekada ir nesužinome.
+* Cicada šiuo atveju yra išties plačiai žinomas galvosūkis, tačiau žinomumas jo išspręsti visgi nepadėjo: paskutinis challenge'as Liber Primus buvo dar 2014-aisiais ir šis manifestas iki šiol nėra pilnai iššifruotas.
+* Jokių naujų užduočių iš Cicados daugiau nebuvo sulaukta ir žmonės spekuliuoja, kad ir nesulauksime tol, kol paskutinė užduotis nebus pilnai įveikta.
+* Problema, kai kažką apsupa paslapties, nežinomumo šydas yra tai, kad įsijungia žmonių fantazijos ir pradedamos kurti pačios įvairiausios teorijos. Taip, žinoma, bet kuri iš jų, pvz kad tai evil hackerių bendruomenė, kultas, marketinginė kampanija ar slaptų valstybinių organizacijų darbas, gali būti iš tiesų tikros, bet iš kitos pusės, neturint visiškai jokių faktų, tai yra vienodai lygios ir tikėtina, kad vienodai neteisingos.
+* Iš esmės labai įdomu stebėti ar tai yra tiesiog vieno žmogaus ar jų grupės sumanymas, ar tai pokštas, žaidimas, pramoga kažkam, kas nori pa'challenge'linti žmones, priversti susiburti žmones komandiniam darbui bei mokymuisi apie kriptografiją ir šifravimus, o galbūt tai iš tiesų kažkokia grupė, kuri taip ieškosi naujų narių. Good old internet mystery, bet tikriausiai tiesos taip niekada ir nesužinosim.
+
+{% embed url="https://youtu.be/I2O7blSSzpI" %}
+
 ## Fear of Missing Out and Social Media
 
 FOMO is a great motivator of human behavior, and I think a crucial key to understanding social software, and why it works the way it does. Many people have studied the game mechanics that keep people collecting things \(points, trophies, check-ins, mayorships, kudos\). Others have studied how the neurochemistry that keeps us checking Facebook every five minutes is similar to the neurochemistry fueling addiction. Social media has made us even more aware of the things we are missing out on. You’re home alone, but watching your friends status updates tell of a great party happening somewhere. You are aware of more parties than ever before. And, like gym memberships, adding Bergman movies to your Netflix queue and piling up unread copies of the New Yorker, watching these feeds gives you a sense that you’re participating, not missing out, even when you are.
