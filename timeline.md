@@ -6,6 +6,10 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 
 ## 2019-08
 
+#### 2019-08-19
+
+* [ReA PC build](wiki/technologijos/rea-pc-build.md)
+
 #### 2019-08-16
 
 * [Cicada 3301](wiki/technologijos/internetas.md#cicada-3301)
