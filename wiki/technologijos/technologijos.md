@@ -6,6 +6,16 @@ description: 'https://www.facebook.com/techit.lt'
 
 ## 2019-08
 
+### Dell kompiuteriai monitorių stovuose
+
+* O štai ir monitoriaus stovas, kuris iš tiesų galėtų būti vertas 1000$ ;\)
+
+  Išties įdomus ir gan protingas sprendimas kompiuterį sukišti į stovą: tokiu būdu galima upgradinti sistemą ir nebūtina mokėti už pilną naują All In One. Net keistoka, jog sugalvota tik dabar.
+
+  Gaila nebent tai, jog naudojamos labai energiškai ekonomiškos detalės, pvz 25 W Intel Whiskey Lake-U procesoriai be Iris Pro. Bet ko gero pirmiausia toks sprendimas orientuotas į korporatyvinius klientus, kuriems tiesiog svarbiau darbo vietos kompaktiškumas, o į paprastus consumerius orientuoti produktai pasirodys vėliau.
+
+* [https://www.anandtech.com/show/14764/dells-optiplex-7070-ultra-a-compute-module-for-aio-pcs](https://www.anandtech.com/show/14764/dells-optiplex-7070-ultra-a-compute-module-for-aio-pcs)
+
 ### Google prisijungimai be slaptažodžių
 
 * Kai telefonai pradėjo teikti prisijungimo biometriniais duomenimis galimybes, iškilo tik laiko klausimas, kada visą tai pereis ir į web. Telefonai jau visi su pirštų skaitytuvais, jie po truputį grįžta ir į nešiojamuosius kompiuterius, tad tikėtina, jog paprastų tekstinių slaptažodžių po kelių metų gali ir nebeprireikti.
