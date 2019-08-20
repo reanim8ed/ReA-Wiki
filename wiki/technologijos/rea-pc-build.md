@@ -68,10 +68,11 @@ Užtat šių metų pabaiga tampa priešingu procesu nuo paskutinio upgrade - iš
 | DisplayPort 1.2 10m | 51 € |
 | G.Skill RipjawsV DDR4 16GB | 96 € |
 | SSD Samsung 860 EVO 1TB | 162 € |
+| SSD Samsung 970 EVO NVMe 500GB | 123 € |
 | MSI GeForce RTX 2070 SUPER VENTUS OC | 561 € |
 | AMD Ryzen 7 3700X | 375 € |
 | ASRock X570 PHANTOM GAMING 4 | 175 € |
-| **TOTAL** | 1370 € |
+| **TOTAL** | 1491€ |
 
 Viskas prasidėjo nuo to, jog mano senajame AOC monitoriuje jau pradėjo atsirasti išdegimo dėmės, o taipogi kadangi darbovietėje dirbu su keliais monitoriais, tai atsirado poreikis ir namie turėti daugiau, nei tik vieną FullHD monitorių. Atsišviežinimui išsirinkau du QHD raiškos Dell'us, tačiau juos įsigijus, viskas nebuvo taip sklandu, kaip tikėjausi. Namie mano darbo vieta įrengta kitame kambario gale, nei stovi PC, kuris pajungtas prie TV ir garso aparatūros, tad monitoriaus kabelis turi būti bent 10 m ilgio. O DisplayPort, reikalingas šiems monitoriams, retai būna ilgesnis nei 3-iejų. Tinkamo ilgio kabelį visgi radau, tačiau juo naudojantis susidūriau su problemomis, kaip pvz. užmigusį ekraną nebepavyksta pažadinti ir padeda tik kompiuterio perkrovimas. Kabelį netrukus pasikeisiu, tačiau nusprendžiau atsinaujinti ir GPU, kuri taipogi galėtų būti nepatikimo veikimo kaltininkė. 
 
