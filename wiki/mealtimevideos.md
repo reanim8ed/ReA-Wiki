@@ -1,5 +1,9 @@
 # MealTimeVideos
 
+### 2019-08-22
+
+* [Ar galima perdozuoti kofeino?](https://youtu.be/ohHCyf-UaX4) Kavą pradėjau reguliariai gerti visai neseniai, tad visai neprošal susipažinti su jos efektais, nes neretai galima prisiklausyti daug mitų, pvz jog kava dehidratuoja. Kavos vartojimas yra tiesiog su pora \* - tai yra papildomų sąlygų. Jeigu kava geriama, kaip priemonė išlikti žvaliam pajutus nuovargį, pvz vairuojant naktį - tai jos efektas laikosi tik kelias valandas, o tada laukia priešingas efektas - caffeine crash, kai atrodo ką tik turėta energija visiškai išsisklaido vos ne akimirksniu ir apima daug didesnis, vos atlaikomas nuovargis. Taipogi nepatartina vartoti daugiau, nei 4 puodelius kavos per dieną. Vartojant daugiau - trečdaliu didėja širdies ligų tikimybė. Ir kava pradedama skaidyti po maždaug 6h ir tyrimai rodo, kad net popietę išgertas puodelis kavos gali sutrumpinti mūsų miegą 1h. Taigi nederėtų kavos gerti bent 6h iki ėjimo miegoti, nes kitu atveju mažėja deep sleep miego ir prastėja miego kokybė. Optimaliausias gėrimas iš tiesų yra vienas ar pora puodelių pirmoje dienos pusėje. Rytinis puodelis "prasičiuhinimui", kitaip tariant.
+
 ### 2019-07-28
 
 * City councilman Joel Burns breaks down as he shares his own [anti-LGBT bullying story ](https://www.youtube.com/watch?v=ax96cghOnY4)before Fort Worth city council

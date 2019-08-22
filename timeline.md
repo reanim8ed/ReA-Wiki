@@ -6,6 +6,10 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 
 ## 2019-08
 
+#### 2019-08-22
+
+* [Rytinis puodelis kavos](wiki/mealtimevideos.md#2019-08-22)
+
 #### 2019-08-20
 
 * TechIT: [Dell kompiuteriai monitorių stovuose](wiki/technologijos/technologijos.md#dell-kompiuteriai-monitori-stovuose)
