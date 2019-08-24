@@ -1,5 +1,6 @@
 # Citatos
 
+* The only thing scarier than a snarling werewolf or a hissing tarantula are the ideas and feelings they represent.
 * Make no mistake between my personality and my attitude. My personality is who I am, my attitude depends on who you are.
 * Going to church doesn’t make you a Christian any more than standing in a garage makes you a car.
 * When you someday find a way of life that you can be truly proud of, you’ll be forced into your own battle whether you like it or not.

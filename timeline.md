@@ -264,7 +264,7 @@ Tinklaraščio migracija:
 
 * [Gitbook alternatyvos](wiki/tools.md#wikis), jei norėtųsi turėsi self-hosted sprendimą.
 * [TechIT ](wiki/technologijos/technologijos.md)naujienų skiltis
-* [Skaitomos ](wiki/knygos.md#siuo-metu-skaitoma)ir [PlanToRead ](wiki/knygos.md#plantoread)knygos
+* [Skaitomos ](wiki/knygos/#siuo-metu-skaitoma)ir [PlanToRead ](wiki/knygos/#plantoread)knygos
 * [Barcelona](wiki/pasaulis/keliones/barcelona-2019.md) \(2019\) kelionės info
 * [Graikija ](wiki/pasaulis/keliones/graikija-2018.md)\(2018\) kelionės info
 * 2015-tų kelionės į [Tailandą ](wiki/pasaulis/keliones/tailandas-2015/)aprašymas
@@ -333,7 +333,7 @@ Tinklaraščio migracija:
 
 #### 2019-04-28
 
-* [Answers to Questions You’ve Never Asked knyga](wiki/knygos.md#bookTitle)
+* [Answers to Questions You’ve Never Asked knyga](wiki/knygos/#bookTitle)
 * Komentaras apie [Kings of summer](wiki/filmai/#kings-of-summer-2013) filmą
 
 #### 2019-04-25
@@ -408,7 +408,7 @@ Tinklaraščio migracija:
 * [Pridėtas pokalbis su Chris Hadfield iš Joe Rogan podcast'o.](wiki/kosmosas.md)
 * [Pridėtas klausomų podcastų sąrašas](wiki/podcastai.md#prenumeratos)
 * [Pridėtas peržiūrėtų filmų sąrašas](wiki/filmai/#perziur-t-film-sarasas-ir-j-vertinimai)
-* Pridėtos [knygų ](wiki/knygos.md)ir [filmų ](wiki/filmai/)skiltys
+* Pridėtos [knygų ](wiki/knygos/)ir [filmų ](wiki/filmai/)skiltys
 * Pridėta naudojamų [įrankių](wiki/tools.md) skiltis
 
 #### 2019-03-24
