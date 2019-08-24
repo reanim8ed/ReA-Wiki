@@ -1,5 +1,18 @@
 # Atsiliepimai apie filmus
 
+### [Jacob's Ladder \(1990\)](https://www.imdb.com/title/tt0099871/)
+
+* Nesumaišyti su 2019-tų versija, kuri turi įspūdingą 2,3 balo įvertinimą IMDB sistemoje :D
+* Vienas iš tų filmų, kurį įtariau esant geru, tačiau žinojau, kad jis bus savotiškas, galbūt sunkokai žiūrimas ir kuris būtent dėlto mano archyve pragulėjo bent keletą metų, kol galiausiai radau išties tinkamą nusiteikimą būtent jam.
+* 90-ųjų psichologinis siaubo filmas, kuriame veiksmas vyksta 1975-ųjų gan tarybiškai atrodančiame New York'e. Šis filmų žanras yra gan nedėkingas režisieriams, nes padaryti jį "right" yra išties sudėtinga. Filmo pradžioje labai nesunku apsigauti palaikant jį nuobodžiu, ne itin puikiai išsilaikiusiu ir vietomis, net ir cheesy filmu. Tačiau taipogi galima argumentuoti ir į atvirkščią pusę - kai kurios scenos, kaip pvz kratomos galvos, pragaro ligoninės ar žmogaus be kojų, galima laikyti išties ikoninėmis ir įkvėpusiomis ne vieną matytą sceną kur kas labiau žinomuose, moderniuose filmuose. 
+* Taipogi Jacob's Ladder tapo gan dideliu žaidimų serijos Silent Hill įkvėpimu ir kai kuriuose žaidimo dalyse net yra tiesiogiai referencinamas.
+* Pradžioje susidaro įspūdis, kad tai filmas apie PTSD ar mental health, tačiau tai klaidingas įspūdis. Iš tiesų tai biblijinių motyvų kupinas filmas \(tai turėtų išduoti vien filmo pavadinimas\), kuris nors ir prasideda įtemptai, tačiau pamažu praranda pagreitį ir užsibaigia dramiškai, o ne su siaubo elementais. O eigoje kelia beviltiškumo, paranojos ir nejaukumo jausmą, jog something isn't right, jog prarandi kontrolę ir dėsningai vis labiau neriama į tokią karštinės metu sapnuojamo sapno miglą, kai prarandamas sąryšis su realybe, nebežinai kuo tikėti ir ribos tarpusavyje ima lietis. Tarsi šizofrenija, perteikiama video formatu. O tai iš tiesų ir yra gero psichologinio siaubo filmo požymis.
+* Vienas iš tų filmų, kurį tikrai galima žiūrėti antrą kartą ir ne dėlto, jog jis būtų sunkiai perprantamas iš pirmo karto, visgi pabaiga nutėškiama per daug atvirai, o dėlto, jog antrąjį kartą pastebi daug daugiau detalių į kurias neatkreipei dėmesio pirmąjį kartą ir filmas įgauna naujų spalvų ir gali papildomai įvertinti.
+* Iš tiesų esminė kritika šiam filmui tai ir būtų - jog jis galėjo užsibaigti viena scena anksčiau. Manau, kad kai pabaiga yra atvira ir leidžia kurti savo interpretacijas ir pasvarstymus ir jei jų metu pavyksta suvesti galus, ko galbūt nepavyko dar žiūrėjimo metu - filmas tavo galvoje tampa geresniu, įvertini jo ambicijas labiau, nei tais variantais, kai didžiąją filmo dalį tave klaidinęs ir neleidęs iki galo suprasti kas vyksta, ima ir pabaigoje atskleidžia visas savo kortas ir nepalikdamas absoliučiai jokios nežinios ir mistiškumo. Tokios pat kritikos pvz susilaukė ir puikiai žinomas 99-ųjų _The Sixth Sense_.
+* Sakyčiau, jog kiek modernesnė, tačiau idealogiškai labai artima šiam filmui galėtų būti 2005-ųjų _The Jacket_ versija_._
+
+> Eckhart saw Hell too. He said: "The only thing that burns in Hell is the part of you that won't let go of life, your memories, your attachments. They burn them all away. But they're not punishing you", he said. "They're freeing your soul. So, if you're frightened of dying and ... you're holding on, you'll see devils tearing your life away. But if you've made your peace, then the devils are really angels, freeing you from the earth."
+
 ### [LOVE DEATH + ROBOTS \(2019\)](https://www.youtube.com/watch?v=wUFwunMKa4E)
 
 * Paskutinis iš tiesų įsimintinas, dėmesį išties patraukęs ir lūkesčius pateisinęs reginys Netflix'e buvo Devilman crybaby. Dabar šį titulą sėkmingai gali perimti šis serialas.
