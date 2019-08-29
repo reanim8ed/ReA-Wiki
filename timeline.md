@@ -10,6 +10,7 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 
 * Programavimas: kaip gauti [Facebook page feed per API](wiki/programavimas/apis.md#facebook-page-feed)
 * Wordpress: [Change Yoast meta tags](wiki/programavimas/wordpress.md#change-yoast-meta-tags)
+* Wordpress: [Add checkbox field to the checkout](wiki/programavimas/wordpress.md#woocommerce-add-checkbox-field-to-the-checkout)
 * MealtimeVideos: inovatyvūs [Hong Kong'o protestai](wiki/mealtimevideos.md#2019-08-29)
 
 #### 2019-08-24
