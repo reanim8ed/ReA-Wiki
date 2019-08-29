@@ -1,5 +1,9 @@
 # MealTimeVideos
 
+### 2019-08-29
+
+* [Hong Kong'o protestai ](https://www.nytimes.com/video/world/asia/100000006649109/laser-pointers-and-traffic-cones-creative-ways-hong-kong-protesters-are-organizing.html)išties išsiskyrė savo inovatyviais apsaugos būdais, organizuotumu ir logistika. Pvz kaip operatyviai išsisklaido minia, praleidžianti greitosios automobilį ar gęsina ašarines šaškes. Taipogi kaip skėčių, lazerių, kamerų uždažymo ar užklijavimo būdais slepiamasi nuo veido atpažinimo sistemų ar lagaminų dalys, naudojamos, kaip skydai. Toks kultūringas ir apgalvotas maištavimas.
+
 ### 2019-08-22
 
 * [Ar galima perdozuoti kofeino?](https://youtu.be/ohHCyf-UaX4) Kavą pradėjau reguliariai gerti visai neseniai, tad visai neprošal susipažinti su jos efektais, nes neretai galima prisiklausyti daug mitų, pvz jog kava dehidratuoja. Kavos vartojimas yra tiesiog su pora \* - tai yra papildomų sąlygų. Jeigu kava geriama, kaip priemonė išlikti žvaliam pajutus nuovargį, pvz vairuojant naktį - tai jos efektas laikosi tik kelias valandas, o tada laukia priešingas efektas - caffeine crash, kai atrodo ką tik turėta energija visiškai išsisklaido vos ne akimirksniu ir apima daug didesnis, vos atlaikomas nuovargis. Taipogi nepatartina vartoti daugiau, nei 4 puodelius kavos per dieną. Vartojant daugiau - trečdaliu didėja širdies ligų tikimybė. Ir kava pradedama skaidyti po maždaug 6h ir tyrimai rodo, kad net popietę išgertas puodelis kavos gali sutrumpinti mūsų miegą 1h. Taigi nederėtų kavos gerti bent 6h iki ėjimo miegoti, nes kitu atveju mažėja deep sleep miego ir prastėja miego kokybė. Optimaliausias gėrimas iš tiesų yra vienas ar pora puodelių pirmoje dienos pusėje. Rytinis puodelis "prasičiuhinimui", kitaip tariant.

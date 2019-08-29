@@ -6,6 +6,12 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 
 ## 2019-08
 
+#### 2019-08-29
+
+* Programavimas: kaip gauti [Facebook page feed per API](wiki/programavimas/apis.md#facebook-page-feed)
+* Wordpress: [Change Yoast meta tags](wiki/programavimas/wordpress.md#change-yoast-meta-tags)
+* MealtimeVideos: inovatyvūs [Hong Kong'o protestai](wiki/mealtimevideos.md#2019-08-29)
+
 #### 2019-08-24
 
 * [Jacob's Ladder](wiki/filmai/atsiliepimai.md#jacobs-ladder-1990)
