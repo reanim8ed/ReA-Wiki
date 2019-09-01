@@ -4,6 +4,12 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 
 # Timeline
 
+## 2019-09
+
+#### 2019-09-01
+
+* MealtimeVideos: [naudotos servetėlės už 80$](wiki/mealtimevideos.md#2019-09-01)
+
 ## 2019-08
 
 #### 2019-08-29

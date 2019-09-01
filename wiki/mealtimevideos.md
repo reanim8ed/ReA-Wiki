@@ -1,5 +1,9 @@
 # MealTimeVideos
 
+### 2019-09-01
+
+* Kaip vienas komikas pardavinėjo [naudotas servetėles už 80$](https://www.youtube.com/watch?v=fTHg-tGvlJ8). Puikiai pademonstruoja, jog imantis smart taktikų ir išmanant marketingą, pardavinėti gali absoliučiai bet ką.
+
 ### 2019-08-29
 
 * [Hong Kong'o protestai ](https://www.nytimes.com/video/world/asia/100000006649109/laser-pointers-and-traffic-cones-creative-ways-hong-kong-protesters-are-organizing.html)išties išsiskyrė savo inovatyviais apsaugos būdais, organizuotumu ir logistika. Pvz kaip operatyviai išsisklaido minia, praleidžianti greitosios automobilį ar gęsina ašarines šaškes. Taipogi kaip skėčių, lazerių, kamerų uždažymo ar užklijavimo būdais slepiamasi nuo veido atpažinimo sistemų ar lagaminų dalys, naudojamos, kaip skydai. Toks kultūringas ir apgalvotas maištavimas.
