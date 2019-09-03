@@ -9,7 +9,7 @@ Taipogi nereikėtų užmiršti ir ekonominio argumento: gyvūnų auginimas sukel
 
 Pagrindiniai du didžiausi žaidėjai šioje srityje šiuo metu yra Beyond Meat ir Impossible Foods. Pastarasis dar tik ruošiasi į akcijų biržą, o štai pirmasis vos per kelis mėnesius nuo IPO praktiškai patrigubėjo. Ir nors debiuto metu kompanija ir generuoja nuostolius \(argi ką dar šiais laikais tai stebina\), tačiau prognozuojama, kad biudžetas pereis į žalią spalvą jau sekantį ketvirtį \[2\]. Tiesa, BYND kaina šiuo metu yra neadekvačiai didelė ir greito jos pateisinimo neverta tikėtis, tačiau jeigu dėti tokią akciją į ilgąją poziciją, manau jog potencialo tikrai turi: Barclays prognazuoja, jog alternatyvios mėsos rinka po dešimtmečio gali siekti 140 mlrd. $. Palyginimui - šiuo metu visa mėsos rinka vertinama maždaug 200 mlrd.
 
-\[1\] [https://www.theverge.com/2019/8/26/20833145/beyond-meat-kfc-fried-chicken-test-plant-based-sample-date](https://www.theverge.com/2019/8/26/20833145/beyond-meat-kfc-fried-chicken-test-plant-based-sample-date)  
+\[1\] [https://www.theverge.com/2019/8/26/20833145/beyond-meat-kfc-fried-chicken-test-plant-based-sample-date](https://www.businessinsider.com/is-beyond-meat-healthy-nutritionists-say-yes-on-occasion-2019-6)  
 \[2\] [http://bit.ly/2Lh7E8a](http://bit.ly/2Lh7E8a)
 
 ### 
