@@ -14,6 +14,7 @@ description: 'Good book is like a puppy: easy to pick up, but hard to put down.'
 
 | Autorius | Knyga |
 | :--- | :--- |
+| R.G. Grant | [Big Ideas Simply Explained: The History Book](https://www.goodreads.com/book/show/27405708-the-history-book) |
 | Steven D. Levitt, Stephen J. Dubner | [Freakonomics](https://www.amazon.com/Freakonomics-Economist-Explores-Hidden-Everything/dp/0060731338) |
 | Chris Voss | [Never Split the Difference: Negotiating As If Your Life Depended On It](https://www.amazon.com/Never-Split-Difference-Negotiating-Depended/dp/0062407805) |
 
