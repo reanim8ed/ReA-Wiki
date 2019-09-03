@@ -4,13 +4,9 @@ description: 'Pateikiami sudominę skaitiniai, istorijos, vertos paskaitymo lais
 
 # Straipsniai / skaitiniai / istorijos
 
-## Notes
+### [Should the Rich Be Allowed to Buy the Best Genes?](https://airmail.news/issues/2019-7-27/should-the-rich-be-allowed-to-buy-the-best-genes)
 
-* Minties eksperimentas: jei panaikinti visą žmonijos progresą ir pradėti nuo absoliutaus 0, kiek laiko prireiktų [vėl sukurti iPhone 6s](https://waitbutwhy.com/table/iphone-thought-experiment)?
-* [Foto reportažas iš Š.Korėjos](https://imgur.com/gallery/cxwZs)
-* Darbuotojas, kuris dirba gerai, padaro savo darbus laiku ir jam nereikia visiems girtis apie tai, [kiek daug jis dirba](https://medium.com/@aidisdalikas/niekam-ne%C4%AFdomu-kiek-daug-tu-dirbi-65ae1036d08f#.3u1ypeom0).
-* Žmogus, kuris nusipirko „auksinį bilietą“ ir skraidė avialinijomis beveik 30 metų, pakol šį bilietą[ iš jo atėmė](http://nypost.com/2012/05/13/freequent-flier-has-wings-clipped-after-american-airlines-takes-away-his-unlimited-pass/), nes avialinijoms jis kainavo daug daugiau, nei bet kas tikėjosi.
-* [Veik, kai gali neveikti nieko](http://kernius.net/kodel-jauni-zmones-neturi-darbo-ir-ka-daryti-kad-tu-ji-visuomet-turetum). Straipsnis, skirtas jauniems žmonėms, apie tai, kaip diplomas jau senokai nebegarantuoja gero darbo ir apie taip, kokiomis savybėmis reikia pasižymėti, kad visgi jį gauti
+Galima gan nesunkiai įžvelgti panašumų tarp to kur buvo IT pasaulis maždaug 1970-aisiais ir tarp to, kur yra šiuo metu genų inžinerija. Ir nors dabar pirmosios kalbos sukasi daugiau apie ydų, kaip genetinių mutacijų ar ligų šalinimą, tačiau riba visgi yra labai slidi. Pvz nutukimo potencialo šalinimas dar genų lygmenyje - tai būtų gydymas ar visgi labiau panašu į genetinį patobulinimą? Akivaizdu, kad šiai sričiai tobulėjant ir išmokus susitvarkyti su pagrindinėmis problemomis, ties tuo tikrai nesustosime. Problema galbūt yra tai, kad išties dar ilgą laiko tarpą tokia galimybė potencialiai save pasitobulinti bus prieinama tik labai mažam, privilegijuotų žmonių tarpui ir net jei jų šalyje galimybės ir būtų apribotos, tačiau yra išties labai sunku reguliuoti, standartizuoti tokius dalykus ir skirtingos šalys įsiveda visiškai skirtingus reguliavimus, tad netruktų atsirasti ir genetinis turizmas.
 
 ### FaceApp
 
@@ -39,4 +35,12 @@ description: 'Pateikiami sudominę skaitiniai, istorijos, vertos paskaitymo lais
 ### [Andy Weir - Digitocracy \#shortstory](https://medium.com/s/futurehuman/digitocracy-a-story-by-andy-weir-a13c0412e50d)
 
 * The Martian autoriaus trumputė istorija apie dirbtinį intelektą, valdantį miestus. Kartais morališkai drastiškais būdais, tačiau visgi pasiekianti teigiamus rezultatus. Ar sutiktumei gyventi tarsi mašinos prižiūrimu gyvunėliu, kuriam realiai yra apribotos teisės, tačiau to kaip ir nepajauti ir visgi gyvenimas nuo to mažai corrupt, našesnis, geresnis ir jautiesi laimingesnis.
+
+## Notes
+
+* Minties eksperimentas: jei panaikinti visą žmonijos progresą ir pradėti nuo absoliutaus 0, kiek laiko prireiktų [vėl sukurti iPhone 6s](https://waitbutwhy.com/table/iphone-thought-experiment)?
+* [Foto reportažas iš Š.Korėjos](https://imgur.com/gallery/cxwZs)
+* Darbuotojas, kuris dirba gerai, padaro savo darbus laiku ir jam nereikia visiems girtis apie tai, [kiek daug jis dirba](https://medium.com/@aidisdalikas/niekam-ne%C4%AFdomu-kiek-daug-tu-dirbi-65ae1036d08f#.3u1ypeom0).
+* Žmogus, kuris nusipirko „auksinį bilietą“ ir skraidė avialinijomis beveik 30 metų, pakol šį bilietą[ iš jo atėmė](http://nypost.com/2012/05/13/freequent-flier-has-wings-clipped-after-american-airlines-takes-away-his-unlimited-pass/), nes avialinijoms jis kainavo daug daugiau, nei bet kas tikėjosi.
+* [Veik, kai gali neveikti nieko](http://kernius.net/kodel-jauni-zmones-neturi-darbo-ir-ka-daryti-kad-tu-ji-visuomet-turetum). Straipsnis, skirtas jauniems žmonėms, apie tai, kaip diplomas jau senokai nebegarantuoja gero darbo ir apie taip, kokiomis savybėmis reikia pasižymėti, kad visgi jį gauti
 
