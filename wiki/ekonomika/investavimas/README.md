@@ -4,7 +4,22 @@ description: 'Never cry for money, because it never cries for you.'
 
 # Investavimas / FIRE
 
-### Patarimas studentui, kaip teisingai būtų galima "padėti" gautus 40000€
+## Finansinė nepriklausomybė
+
+* FIRE -  Financial Independence, Retire Early
+* Finansinė nepriklausomybė reiškia, kad nebeturi mainyti savo vieno svarbiausių resursų \(laiko\) į pinigus. Problema su savo laiko nuomojimu, kad jis uždarbį ugdo tik linijine progresija, kai tuo tarpu tas, kas visų tokių laiką surenka ir perparduoda kitiems, auga eksponentiškai.
+
+Kartais tenka susidurti su žmonėmis, kurie kritikuoja FIRE, reprezentuoja tai kaip kvailą over saving'ą, t.y. kai taupymui aukojama po 70% pajamų ir tenka atsisakyti didžiosios dalies gyvenimo malonumų vien tam, kad kažkada ateityje pasiektum idealizuojamą gyvenimą, kuriame nereikia dirbti ir gyveni iš procentų gaunamų iš savo investicijų. Realistiškai toks gyvenimo būdas nėra nei rekomenduotinas, nei iš tiesų toks manjakinis taupymas padės jį pasiekti. Manau, kad čia labiau išsiskiria šio termino tiesioginis apibūdinimas, su tuo kokias idėjas jis reprezentuoja. Nežinau, galbūt ir būna kokių millennials'ų, kurie iš tiesų turi iliuzijų, kad ale sunkiai ir atkakliai padirbi 15 metų nelabai patinkančiame, tačiau gerai apmokamam darbe ir likusį gyvenimą chillini vien tik iš sukauptų pinigų. Sutikti visgi tokių neteko. Manau, kad toks vaizdavimas yra labiau karikatūrinis ir hipotetinis for the arguments sake, nei kad atitinka realius FIRE judėjimui prijaučiančių žmonių tikslus.
+
+Nors ankstyva pensija kaip ir priklauso tiesioginei FIRE judėjimo definicijai, tačiau po šiuo akronimu telpa daugiau reiškmių, kai pažvelgi į slypinčius principus, kurie apibendrintai susiveda tiesiog į lankstumą. Pagrindinės idėjos yra apie pajamų didinimą bei išlaidų optimizavimą. Ir tai tikrai yra solidūs principai. Žmonės gaudami vis didesnes pajamas labai lengvai linkę įsivažiuoti ir taškytis pinigais ir tuomet nė nebesvarbu kiek uždirbama, nes vis tiek pinigų nebeužtenka, tad pradedama trokšti uždirbti ir dar daugiau. Čia yra tiesiog toks bendras nesugebėjimas elgtis su pinigais, finansinio raštingumo stoka. Ir kertiniai FIRE principai tokiems žmonėms tikrai pagelbėtų. Žinoma, darant viską saiko ribose. Visgi jeigu vidutinę, ne minimalią algą, tačiau jos tau neužtenka, vadinasi išlaidų kažkur turi tikrai per daug ir vietos "pasiprastinti" tikrai atsirastų.
+
+Galbūt aš FIRE suprantu kiek plačiau, abstrakčiau. Pvz.: dauguma mūsų prieš priimdami sprendimus turi atsižvelgti į savo finansus, o kartais būna ir taip, jog išvis kiekvienas priimamas sprendimas būna tiesiogiai priklausomas vien tik nuo pinigų, tad pasirinkimo laisvės išvis nelieka. Kaip sakoma - pinigai laimės neatneša, tačiau jų nebuvimas dažnai sukuria situacijas, kurios mus verčia nelaimingais. Tokiu atveju FIRE reprezentuoja gyvenimą, kai pasyvių pajamų srautas susidaro toks, jog pinigų reikšmingumas sumenksta ir apie juos praktiškai nebegalvojama. Galimybė nebūti kontroliuojamam, ne tik vyresnio amžiaus kostiumuoto dėdės, kuriam priklauso ofisas, kuriame praleidi didelę savo dienos dalį, bet ir to kiek daug uždirbama ar kiek sutaupoma. 
+
+Taipogi dažnai labai skirtingai suprantamas terminas retirement. Vieniem tai asocijuojasi su nieko neveikimu, kai miegama kiek norima ir gyvenama iš santaupų. O kiti retirement supranta, kaip turėjimą daugiau laiko sau, įsipareigojimo privalomai būti kažkur kiekvieną dieną nebūvimą. Taigi FIRE mano supratimu - tai savo gyvenimo procesų ir pinigų srautų optimizavimas. Tai "ankstyvoji pensija" in the sense, jog atitrūkstama nuo savo korporatyvinių darbų ar tradicinių darbo valandų, o ne kad nebedirbama išvis. Tai, kai samdomas darbas nuo 9-18 tampa optional, o ne privalomybė, jog sugebėtum save išsilaikyti, sudurti galus. Tikslas yra nusimesti tą pernelyg dažną galvojimą apie pinigus: "ar jų tikrai užteks", "reikia stengtis neišsileisti per daug" ar "greičiau ta alga". Užtat įgauti laisvę per daug neįpareigojančiai pasibandyti kažkokias veiklas, avantiūras, verslo idėjas, kurios nebūtinai bus sėkmingos, bet kurių išbandyti atiduodant savo didžiąją laiko dalį ofise, tiesiog nesigauna ar yra per daug rizikinga. FIRE reiškia laisvę pasirinkti kiek ir su kuo norima dirbti, nepriklausomai kiek tai uždirba ir ar uždirba išvis. Laisvę daugiau dėmesio skirti savo troškimams ar ambicijoms. 
+
+O kad būtų pasiekiamas toks tikslas, turi būti sukuriamas neblogas aktyvų, investicijų ir pasyvių pajamų krepšelis bei periodiškai peržiūrimos išlaidos. O jį susikūrus ir turint galimybes labiau rinktis ką veikti su savo laiku, nemažai visokių papildomų veiklų tą krepšelį potencialiai gali ir didinti. Nereikia tikėtis, kad vieną kartą jį susirinkus, visos gyvenimo problemos baigsis ir sukti galvos apie tai daugiau nereikės. Jį vistiek reikia plėtotį, prižiūrėti, plėsti. Paimkime kad ir tą patį Mr Money Mustache, kuris internetuose yra ko gero vienas žymesnių fire'istų. Žmogus išėjęs į "retirement", toliau užsiiminėjo tuo, jog pirko gan sudėvėtą nekilnojamą turtą ir jį pats savo rankomis sutvarkęs perparduodavo arba ėmė jį nuomoti. Paskui įsirengė coworking space'ą ir dabar nuomoja patalpas freelanceriams. Tai ir yra FIRE, kai gali neįpareigojančiai, be streso krapštytis kartas nuo karto prie kažkokio namuko metus ar du ir nesukti sau galvos, galvojant iš ko čia dabar už butą, benziną ar maistą susimokėti. 
+
+## Patarimas studentui, kaip teisingai būtų galima "padėti" gautus 40000€
 
 * Šiaip džiugu, kad jau turi pakankamai proto šių pinigų neištaškyti kokiam mandram auto ar pan. Labai sveikintinas ir atsakingas požiūris ;\)
 
@@ -14,14 +29,9 @@ description: 'Never cry for money, because it never cries for you.'
 
   Nors vyresnio amžiaus žmonėms tai neatrodo tokia jau didelė suma, tačiau turint prieigą prie tokių pinigų ankstyvame amžiuje ir mokant su jais tinkamai elgtis, šitie pinigai gali duoti tokį stiprų startą, jog tai iš esmės gali tave visam gyvenimui permesti vienu laipteliu aukščiau socialinėse klasėse.
 
-### Nike akcijų vertė
+## Nike akcijų vertė
 
 * [Nors dabar madingiausia kalbėti apie FAANG, bet išties didžiausia sėkmės istorija iš investicinės pusės galima laikyti Nike. Jei 1980-aisiais per šios kompanijos IPO būtumėte investavę 100$, tai šiuo metu ši investicija siektų net 6 mln dolerių ir tai yra beveik 5 kartus daugiau nei absoliučiai bet kuri kita kompanija.](https://imgur.com/PiUrHvr)
-
-## Finansinė nepriklausomybė
-
-* FIRE -  Financial Independence, Retire Early
-* Finansinė nepriklausomybė reiškia, kad nebeturi mainyti savo vieno svarbiausių resursų \(laiko\) į pinigus. Problema su savo laiko nuomojimu, kad jis uždarbį ugdo tik linijine progresija, kai tuo tarpu tas, kas visų tokių laiką surenka ir perparduoda kitiems, auga eksponentiškai.
 
 ## Links
 

@@ -6,6 +6,10 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 
 ## 2019-09
 
+#### 2019-09-04
+
+* [FIRE](wiki/ekonomika/investavimas/#finansin-nepriklausomyb)
+
 #### 2019-09-03
 
 * Skaitiniai: [Should the Rich Be Allowed to Buy the Best Genes?](wiki/straipsniai-skaitiniai-istorijos/#should-the-rich-be-allowed-to-buy-the-best-genes)
