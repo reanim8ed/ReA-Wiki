@@ -2,6 +2,8 @@
 
 ### Beyond Meat - [BYND](https://finviz.com/quote.ashx?t=BYND&ty=c&ta=1&p=d)
 
+2019-09-05 kaina buvo 164 USD
+
 Praktiškai visuose pagrindiniuose ir didžiausiuose JAV greitojo maisto restoranuose galima matyti eksperimentus su augalinės kilmės mėsos pakaitalais. \[1\]  
 Pirmiausia tai reakcija į rinkos pokyčius - kultūrinės mados keičiasi ir šiuo metu žmonės tikrai pradėjo labiau rūpintis savo sveikata, gyvenimo būdu, vis dažniau pradedama atsisakyti tam tikrų maisto produktų, pasirenkamos sveikesnės alternatyvos. Tad nenuostabu, kad greito maisto tinklai, kurie tikrai ne garsėja sveikatingumu turi pasitempti, nes kitaip rinkos dalis, gali imti trauktis. Tad tokie proteinų turinys pakaitalai, kurie savo išvaizda ir net skoniu stengiasi pakeisti mėsą - gali išties įgauti pagreitį.
 
