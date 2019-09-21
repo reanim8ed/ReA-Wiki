@@ -4,6 +4,19 @@ description: 'https://www.facebook.com/techit.lt'
 
 # TechIT straipsniai
 
+## 2019-09
+
+### Kam buvo reikalingas iOS 13.0?
+
+* Šiais metais Apple atnaujinimų ciklas kelia antakį. Su naujaisiais iPhone viskas kaip ir tvarkoje - kompanija 2 metų upgrade ciklą jau yra palikusi praeityje for quite sometime, tad major update'o tikėtis ir nereikėjo, tad dizainas iš esmės lygiai toks pats jau 3-čius metus. Užtat ženkliai pagerinta kameros kokybė, kurioje Apple vis labiau atsilikdavo ir pagaliau susilygina su Pixel 3 kokybe. O kaip pliusą dar pridėjo ir ilgiau laikančią bateriją \(max iki 5h, kas jau yra išties ženklus skaičius\). Tačiau naujoji iOS versija susilaukė kritikos dėl išties didelio bug'ų kiekio. Didžioji jų dalis turėtų būti ištaisyti jau sekančiame atnaujinime, kuris pasirodys greičiau nei planuota. Ir vat iš čia ir atsiranda antakio kėlimo aspektas: iOS 13.1 bus išleista vos po 5 dienų nuo iOS 13.0 pasirodymo. Natūraliai kyla klausimas: why? iOS 13 viešai testuojama, t.y. jos beta versiją parsisiųsti galima jau nuo praėjusio mėnesio pabaigos, t.y. kai iOS13.0 dar net nebuvo išleista, tad tai rodo, jog atnaujinimas tikrai nėra paskutinės minutės pataisymas. Kam gi tuomet reikėjo iš viso leisti vartotojams atsinaujinti į šitą tarpinį bugovą softą, kuris tarnaus vos kelias dienas?
+* Teorija, kuri šiuo metu atrodo logiškiausia - įsigijus naują Apple Watch modelį jame rasite watchOS 6 ir ši versija yra pririšta prie iOS 13. Tad norėdama išvengti situacijos, kai laikrodį įsigijęs klientas negalėtų juo naudotis dar kelias dienas, kompanija priėmė sprendimą atnaujinti visus, net jei ir buvo žinoma, jog softas dar nėra išdirbtas iki galo ir turi ne itin malonių, tačiau ne kardinalių problemų. Nes tai yra geriau, nei potenciali didelė kontroversija ir daug neigiamos spaudos.
+* [https://www.theverge.com/2019/9/20/20874884/ios-13-0-bugs-watchos-google-amazon-climate-protests](https://www.theverge.com/2019/9/20/20874884/ios-13-0-bugs-watchos-google-amazon-climate-protests)
+
+### Google Play Pass
+
+* Anksčiau šiais metais buvo anonsuotas Apple Arcade, kuris startuoja jau kitą savaitę. O Google savąjį Play Pass ko gero paleidinės kartu su Pixel 4 telefonais, kuriuos perkant tikėtina, jog skirs 3-6 mėn nemokamos prenumeratos. Google variantas skirsis tuom, kad į 5$ prenumeratos kainą įeis ne tik žaidimai, tačiau ir premium muzikos apps'ai, fitness trackeriai ir kita.
+* [https://www.androidpolice.com/2019/07/31/google-play-pass-testing/](https://www.androidpolice.com/2019/07/31/google-play-pass-testing/)
+
 ## 2019-08
 
 ### Dell kompiuteriai monitorių stovuose

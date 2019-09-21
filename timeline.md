@@ -6,6 +6,14 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 
 ## 2019-09
 
+#### 2019-09-21
+
+* TechIT: [kam buvo reikalingas iOS 13.0?](wiki/technologijos/technologijos.md#kam-buvo-reikalingas-ios-13-0)
+
+#### 2019-09-13
+
+* TechIT: [Google Play Pass](wiki/technologijos/technologijos.md#google-play-pass)
+
 #### 2019-09-04
 
 * [FIRE](wiki/ekonomika/investavimas/#finansin-nepriklausomyb)
