@@ -11,7 +11,7 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 * TechIT: [Apple Watch konkurencija](wiki/technologijos/technologijos.md#apple-watch-konkurencija)
 * Random internetai: [Dviračių kapinynas](wiki/straipsniai-skaitiniai-istorijos/random-internetai.md#dviraci-kapinynas)
 * Kokteiliai: [Campari](wiki/kokteiliai.md#italiskas-campari)
-* Showerthoughts: [subscription apps'as](wiki/showerthoughts.md#2019-09-22) [subscription'ams](wiki/showerthoughts.md#2019-09-22)
+* Showerthoughts:[ subscription apps'as subscription'ams](wiki/showerthoughts.md#2019-09-22)
 * Showerthoughts: [stalo žaidimų nuoma](wiki/showerthoughts.md#2019-09-22)
 
 #### 2019-09-21
