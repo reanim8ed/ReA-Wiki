@@ -10,6 +10,9 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 
 * TechIT: [Apple Watch konkurencija](wiki/technologijos/technologijos.md#apple-watch-konkurencija)
 * Random internetai: [Dviračių kapinynas](wiki/straipsniai-skaitiniai-istorijos/random-internetai.md#dviraci-kapinynas)
+* Kokteiliai: [Campari](wiki/kokteiliai.md#italiskas-campari)
+* Showerthoughts: [subscription apps'as](wiki/showerthoughts.md#2019-09-22) [subscription'ams](wiki/showerthoughts.md#2019-09-22)
+* Showerthoughts: [stalo žaidimų nuoma](wiki/showerthoughts.md#2019-09-22)
 
 #### 2019-09-21
 
@@ -152,7 +155,7 @@ Tinklaraščio migracija:
 * [Kraunamės daiktus studentavimui](wiki/blogas/kraunames-daiktus-studentavimui.md)
 * [Michael Jackson](wiki/asmenybes/pop-kultura/michael-jackson.md)
 * [Laiko valiuta](wiki/blogas/laiko-valiuta.md)
-* [ShowerThoughts](wiki/idejos.md#2019-07-27)
+* [ShowerThoughts](wiki/showerthoughts.md#2019-07-27)
 * [Peter Pan generation](wiki/straipsniai-skaitiniai-istorijos/straipsniu-archyvas/peter-pan-generation.md)
 * [Sapnas su Olga](wiki/blogas/sapnas-su-olga.md)
 * [Mens ReA](wiki/blogas/mens-rea.md)
@@ -163,8 +166,8 @@ Tinklaraščio migracija:
 
 #### 2019-07-26
 
-* [Tėvų vertybės](wiki/idejos.md#2019-07-26)
-* Autonominio automobilio optimalus [reklaminis maršrutas](wiki/idejos.md#2019-07-26)
+* [Tėvų vertybės](wiki/showerthoughts.md#2019-07-26)
+* Autonominio automobilio optimalus [reklaminis maršrutas](wiki/showerthoughts.md#2019-07-26)
 * [10x programeriai vs 1x programerius](wiki/programavimas/#notes)
 * [AI skiltis](wiki/technologijos/ai.md)
 
@@ -173,7 +176,7 @@ Tinklaraščio migracija:
 * Nirvanos daina [Polly ](https://www.youtube.com/watch?v=NJ97KdTQFww)yra viena tamsesnių grupės dainų
 * exurb1a   patarimai apie [rašymą](https://www.youtube.com/watch?v=MANyX7woDPA)
 * [Apie skaitymo įpročius](wiki/straipsniai-skaitiniai-istorijos/skaitymo-prociai.md)
-* [Geras teisininkas](wiki/idejos.md#2019-07-25) yra tas, kuris su tokiu pačiu užsidegimu galėtų kovoti bet kurioje pusėje.
+* [Geras teisininkas](wiki/showerthoughts.md#2019-07-25) yra tas, kuris su tokiu pačiu užsidegimu galėtų kovoti bet kurioje pusėje.
 * Citata apie [minčių generavimą](wiki/citatos.md#minci-generavimas-rytais) rytais
 * Citata apie [keliones](wiki/citatos.md#traveling)
 * 15 metų, o [The Pirate Bay](wiki/technologijos/technologijos.md#15-met-o-the-pirate-bay-taip-vis-dar-ir-nesustabdomas) vis dar aktualus
@@ -184,11 +187,11 @@ Tinklaraščio migracija:
 * [Apie FaceApp](wiki/straipsniai-skaitiniai-istorijos/#faceapp)
 * Pridėta [PHP ](wiki/programavimas/php.md)skiltis
 * [Sovietų super lėktuvas](wiki/istorija/#soviet-super-l-ktuvas)
-* Daugumai nepatinka dainuoti "[Su gimimo diena](wiki/idejos.md#2019-07-24)"
+* Daugumai nepatinka dainuoti "[Su gimimo diena](wiki/showerthoughts.md#2019-07-24)"
 
 #### 2019-07-23
 
-* Kino teatruose turėtų būti [ausinių palaikymas](wiki/idejos.md#2019-07-23)
+* Kino teatruose turėtų būti [ausinių palaikymas](wiki/showerthoughts.md#2019-07-23)
 
 #### 2019-07-21
 
@@ -199,7 +202,7 @@ Tinklaraščio migracija:
 
 * [Vinilinės plokštelės ](wiki/technologijos/#vinilin-s-plokstel-s)ir HiFi garso aparatūra
 * Kodėl dviratis nebuvo [išrastas anksčiau](wiki/istorija/#pirmoji-zmogaus-j-ga-varoma-transporto-priemon)?
-* [Ghostbusters AR](wiki/idejos.md#2019-07-21)
+* [Ghostbusters AR](wiki/showerthoughts.md#2019-07-21)
 * [Perfection is finally attained](wiki/citatos.md) not when there is no longer anything to add, but when there is no longer anything to take away.
 * [Apollo 11 50-metis](wiki/kosmosas.md#apollo-11-misijos-50-metis)
 
@@ -313,7 +316,7 @@ Tinklaraščio migracija:
 #### 2019-05-25
 
 * Game Of Thrones [finalas](wiki/filmai/#game-of-thrones-pabaiga)
-* Mintis apie galimybę [share'inti ir annotate'inti ](wiki/idejos.md#2019-05-25)podcast'ų appsuose
+* Mintis apie galimybę [share'inti ir annotate'inti ](wiki/showerthoughts.md#2019-05-25)podcast'ų appsuose
 * Youtube[ viral video](wiki/teorijos-efektai.md#youtube-viral) efektas
 * Didelių [miestų apatiškumo](wiki/teorijos-efektai.md#dideli-miest-apatiskumas) efektas
 * [Avengers: Endgame](wiki/filmai/#avengers-endgame-2019) filmas
@@ -324,13 +327,13 @@ Tinklaraščio migracija:
 #### 2019-05-19
 
 * Istorija apie paprastutį HTML'inį one-pagerį, už kurį gauta [21 000 dolerių](wiki/straipsniai-skaitiniai-istorijos/#i-charged-usd-18-000-for-a-static-html-page).
-* Idėja apie tai, kaip skirtųsi visuomenė, jei vyrai [galėtų būti nėšti](wiki/idejos.md#2019-05-18)
+* Idėja apie tai, kaip skirtųsi visuomenė, jei vyrai [galėtų būti nėšti](wiki/showerthoughts.md#2019-05-18)
 * Pietų korėjos filmas [The Witch](wiki/filmai/#the-witch-part-1-the-subversion)
 * [Vebleno efektas](wiki/ekonomika/) - prekės pardavimai kyla, dėlto, jog kyla jos kaina
 
 #### 2019-05-17
 
-* Idėja apie QR kodus ant[ elektroninių įrenginių](wiki/idejos.md#2019-05-17)
+* Idėja apie QR kodus ant[ elektroninių įrenginių](wiki/showerthoughts.md#2019-05-17)
 
 #### 2019-05-13
 
@@ -350,7 +353,7 @@ Tinklaraščio migracija:
 
 #### 2019-05-04
 
-* Idėja apie tai, kad Pornhub komanda turėtų pakankamai [know-how](wiki/idejos.md#2019-05-04), kad sukurti Youtube konkurentą
+* Idėja apie tai, kad Pornhub komanda turėtų pakankamai [know-how](wiki/showerthoughts.md#2019-05-04), kad sukurti Youtube konkurentą
 * Technologijose pridėta [Interneto ](wiki/technologijos/internetas.md)tema ir aprašytos vienos iš [Google+](wiki/technologijos/internetas.md#google) nesekmės priežastys.
 * Pridėta Andy Weir trumpa istorija "[Digitocracy](wiki/straipsniai-skaitiniai-istorijos/#bookTitle)".
 
@@ -373,20 +376,20 @@ Tinklaraščio migracija:
 
 #### 2019-04-25
 
-* Idėja apie [finansinės nepriklausomybės ](wiki/idejos.md#2019-04-25)privalumus
+* Idėja apie [finansinės nepriklausomybės ](wiki/showerthoughts.md#2019-04-25)privalumus
 
 #### 2019-04-23
 
 * Pastebėjimai iš [Tesla Autonomy Day](wiki/technologijos/technologijos.md#2019-04-23-tesla-autonomy-day)
-* Idėja apie [universalų loginimo servisą](wiki/idejos.md#2019-04-23), kuris greičiausiai užsidarytų
+* Idėja apie [universalų loginimo servisą](wiki/showerthoughts.md#2019-04-23), kuris greičiausiai užsidarytų
 
 #### 2019-04-22
 
-* Idėja apie [kelionių appsą](wiki/idejos.md#2019-04-22) su predictions
+* Idėja apie [kelionių appsą](wiki/showerthoughts.md#2019-04-22) su predictions
 
 #### 2019-04-15
 
-* Pridėtos pastarųjų kelių [dienų mintys](wiki/idejos.md#2019-04-15) - apie aktoriaus info filmo pauzės ekrane, kinų sienos populiarumą bei ryškų skirtumą tarp vyrų ir moterų kvapų supratimą.
+* Pridėtos pastarųjų kelių [dienų mintys](wiki/showerthoughts.md#2019-04-15) - apie aktoriaus info filmo pauzės ekrane, kinų sienos populiarumą bei ryškų skirtumą tarp vyrų ir moterų kvapų supratimą.
 * Pridėtas skandinaviškas terminas [hygge ](wiki/terminai.md).
 * Prie to paties - aprašytas [Ikea efektas](wiki/teorijos-efektai.md#ikea-efektas).
 * Pridėti Barcelonos [superblock'ų ](wiki/pasaulis/valstybes/)užmojai
@@ -394,11 +397,11 @@ Tinklaraščio migracija:
 
 #### 2019-04-10
 
-* Idėja apie reklamą Street View'o[ užtušuotose stenduose](wiki/idejos.md#2019-04-10)
+* Idėja apie reklamą Street View'o[ užtušuotose stenduose](wiki/showerthoughts.md#2019-04-10)
 
 #### 2019-04-08
 
-* Idėja apie [TV pultelius](wiki/idejos.md#2019-04-08) su ausinių lizdais
+* Idėja apie [TV pultelius](wiki/showerthoughts.md#2019-04-08) su ausinių lizdais
 
 #### 2019-04-07
 
@@ -410,16 +413,16 @@ Tinklaraščio migracija:
 
 #### 2019-04-03
 
-* Pridėta idėja apie Netflix'o prenumeratas, [skatinamas reklamų](wiki/idejos.md#2019-04-03).
+* Pridėta idėja apie Netflix'o prenumeratas, [skatinamas reklamų](wiki/showerthoughts.md#2019-04-03).
 
 #### 2019-04-02
 
-* Pridėta idėja apie nuo apsilankymų kiekio mažėjančios kainos [sporto klubus](wiki/idejos.md#2019-04-02).
+* Pridėta idėja apie nuo apsilankymų kiekio mažėjančios kainos [sporto klubus](wiki/showerthoughts.md#2019-04-02).
 
 #### 2019-04-01
 
 * Pridėtas straipsnis apie programuotojo persikraustymą gyventi į [Berlyną](wiki/pasaulis/valstybes/vokietija.md).
-* Pridėta idėja apie [restoranų prenumeratas](wiki/idejos.md#2019-04-01).
+* Pridėta idėja apie [restoranų prenumeratas](wiki/showerthoughts.md#2019-04-01).
 
 ## 2019-03
 
@@ -427,7 +430,7 @@ Tinklaraščio migracija:
 
 * Pridėtas klausytas podcast'as su [Alex Honnald](wiki/podcastai.md#2019-03)
 * Pridėta Japonijos skiltis ir aprašyta apie tai, kad lašiša Japonijoje atsirado [dėka Norvegijos](wiki/pasaulis/valstybes/japonija.md).
-* Pridėta idėja apie pažinčių [portalų dinamikos pasikeitimą](wiki/idejos.md#2019-03-31), pridėjus apribojimą parašyti tik vienam naujam žmogui per parą.
+* Pridėta idėja apie pažinčių [portalų dinamikos pasikeitimą](wiki/showerthoughts.md#2019-03-31), pridėjus apribojimą parašyti tik vienam naujam žmogui per parą.
 
 #### 2019-03-27
 

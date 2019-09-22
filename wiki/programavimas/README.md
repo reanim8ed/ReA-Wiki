@@ -3,6 +3,7 @@
 ## Notes
 
 * Software engineering is what happens to programming when you add time and other programmers.
+* Engineering is figuring out how to do what you want with what you’ve actually got
 * C programmer’s motto: “Build upon the work of others”
 * [10x programeriai](http://10x.engineer/) vs [1x programerius](https://1x.engineer/)
 
