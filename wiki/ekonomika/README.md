@@ -20,6 +20,7 @@ Problema yra ne tai, kad įsigalės tokia utopinė sistema, o tai, kad mums reik
 
 ## Notes 
 
+* Filosofija: cry once buy once. T.y. geriau vieną kartą nepataupyti ir nusipirkti išties gerą, kokybišką daiktą, kuris puikiai tarnaus ilgesnį laiko tarpą, nei pirkinėti pigius pirkinius ir juos nuolat keitalioti ir kurie tikėtina, nei vienas neveiks išties gerai.
 * People say money doesn’t buy happiness, but it does. It’s associated with increased happiness. People are happier with more money at every single point in the continuum to $500,000 a year. The saying should be that money doesn’t guarantee happiness.
 
   I think it’s better to say that money can solve some problems that can lead to unhappiness, rather than it actually buys happiness. There is plenty of research out there which shows things we actually buy really don’t give us any long term departure from our baseline ‘satisfaction’ level.  
