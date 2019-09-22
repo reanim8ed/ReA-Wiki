@@ -6,6 +6,10 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 
 ## 2019-09
 
+#### 2019-09-22
+
+* TechIT: [Apple Watch konkurencija](wiki/technologijos/technologijos.md#apple-watch-konkurencija)
+
 #### 2019-09-21
 
 * TechIT: [kam buvo reikalingas iOS 13.0?](wiki/technologijos/technologijos.md#kam-buvo-reikalingas-ios-13-0)
