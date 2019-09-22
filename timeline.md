@@ -13,6 +13,7 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 * Kokteiliai: [Campari](wiki/kokteiliai.md#italiskas-campari)
 * Showerthoughts:[ subscription apps'as subscription'ams](wiki/showerthoughts.md#2019-09-22)
 * Showerthoughts: [stalo žaidimų nuoma](wiki/showerthoughts.md#2019-09-22)
+* Showerthoughts: [Netflix nemalonių scenų skippinimas](wiki/showerthoughts.md#2019-09-22)
 
 #### 2019-09-21
 
