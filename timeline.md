@@ -9,6 +9,7 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 #### 2019-09-22
 
 * TechIT: [Apple Watch konkurencija](wiki/technologijos/technologijos.md#apple-watch-konkurencija)
+* Random internetai: [Dviračių kapinynas](wiki/straipsniai-skaitiniai-istorijos/random-internetai.md#dviraci-kapinynas)
 
 #### 2019-09-21
 
