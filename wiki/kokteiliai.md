@@ -1,6 +1,8 @@
 # Kokteiliai
 
-## Itališkas Campari 
+## Campari
+
+Campari tai kartaus skonio itališkas aperityvas, gaminamas iš žolelių ekstrakto. Iš esmės tai labai giminingas Aperol'iui gėrimas, kuris pasižymi, kiek stipresniu smūgiavimu. Jei stiprus alkoholio skonis kokteiliuose nepatinka, tai aperol'is būtų ko gero geresnis pasirinkimas.
 
 ### Campari Spritz 
 
@@ -9,8 +11,4 @@ Sudėtis: 2 dalys Campari, 1 dalis sodos vandens, 3 dalys Prosecco putojančio v
 ### Negroni 
 
 Sudėtis: ⅓ Campari, ⅓ Cinzano Rosso, ⅓ džino, riekelė apelsino, ledas.
-
-### Campari Orange 
-
-Sudėtis: ¼ Campari, ¾ apelsinų sulčių, apelsino skiltelė, ledas.
 
