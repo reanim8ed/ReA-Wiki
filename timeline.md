@@ -6,6 +6,10 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 
 ## 2019-09
 
+#### 2019-09-25
+
+* Random internetai: [Islandijos pašto tarnyba](wiki/straipsniai-skaitiniai-istorijos/random-internetai.md#islandijos-pasto-tarnyba)
+
 #### 2019-09-22
 
 * TechIT: [Apple Watch konkurencija](wiki/technologijos/technologijos.md#apple-watch-konkurencija)

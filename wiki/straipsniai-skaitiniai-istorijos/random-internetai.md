@@ -1,5 +1,10 @@
 # Random internetai
 
+### Islandijos pašto tarnyba
+
+* Turistai apsilankę Islandijoje pabandė nusiųsti laišką, tačiau nežinodami konkretaus vietos adreso, tiesiog nupiešė nedidelė žemėlapį ant voko. Ir suveikė! Laiškas pasiekė savo adresatą ;\)
+* [https://mymodernmet.com/iceland-envelope-hand-drawn-map/](https://mymodernmet.com/iceland-envelope-hand-drawn-map/) 
+
 ### Dviračių kapinynas
 
 * Kinijos masteliai yra tiesiog kitokie. Pavyzdžiui, kai bankrutuoja eilinis dviračių share'ingas, tai rezultate gauname 70 000 dviračių kapinyną:
