@@ -54,6 +54,11 @@ Podcast'ų klausymui yra išties nemažai gerų programų, tačiau pagrindinis m
 
 ## Perklausos
 
+### 2019 - 09
+
+* [John Carmack](https://www.youtube.com/watch?v=udlMSe5-zP8) programuotojų, inžinierių ir developerių tarpuose pristatinėti nereikia, jis jau ir taip yra legenda. Tikrai planuoju paskaityti [Masters of Doom](https://www.amazon.com/Masters-Doom-Created-Transformed-Culture/dp/0812972155), o iki to laiko - interviu pas Joe Rogan'ą, kuriame kalbama apie AI, VR, raketas ir turbo boosted ferrarius.
+* _He's the kind of guy who gets passionate about something and he gives it his all and enjoys sharing his knowledge._ 
+
 ### 2019 - 07
 
 [Internet History podcast'as](kompanijos/apple.md) apie pirmojo iPhone sukūrimą
