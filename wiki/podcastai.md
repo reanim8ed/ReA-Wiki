@@ -12,7 +12,6 @@ Podcast'ų klausymui yra išties nemažai gerų programų, tačiau pagrindinis m
 * [All About Android](https://pca.st/aaa)
 * [Android Central Podcast](https://pca.st/androidcentral)
 * [Android Police Podcast](https://pca.st/androidpolice)
-* [Ask Mr. Wonderful](https://pca.st/6Hhp)
 * [Conan O’Brien Needs A Friend](https://pca.st/n6Uc)
 * [Cortex](https://pca.st/cortex)
 * [The Cracked Podcast](https://pca.st/crackedpod)
