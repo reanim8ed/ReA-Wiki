@@ -4,6 +4,14 @@ description: 'https://www.facebook.com/techit.lt'
 
 # TechIT straipsniai
 
+## 2019-10
+
+### Microsoft Duo ir Neo
+
+* Microsoft renginyje pristatyti tablet'o ir telefono dydžio device'ai su dviem ekranais: Surface Neo ir Surface Duo. Atrodo išties intriguojančiai. Iki kol ištobulės sulankstomi ekranai, toks sprendimas, manau, yra kur kas praktiškesnis. Taip už akių galėjo užkliūti vienas kitas hiccup'as ar UI kai kada veikia ne taip responsive, kaip norėtųsi, tačiau device'as dar toli gražu ir nėra užbaigtas. Iš geležies pusės, bent jau iš pirmo žvilgsnio atrodo viskas išties solidžiai, tačiau softo dalis ko gero dar turi būti gerokai nušlifuota. Visgi šie sulankstomi įrenginiai prekyboje pasirodys geriausiu atveju tik kitų metų rudenį.
+* Tačiau man įdomiausias aspektas, kad šią dviejų ekranų viziją MS jau gvildena ilgiau kaip dešimtmetį. Anksčiau projektas turėjo kodinį pavadinimą Microsoft Courier ir gandai apie jį pradėjo sklisti dar 2008-2009m. Tačiau tąkart dienos šviesos galutinis produktas taip ir nebeišvydo ir 2010-aisiais projektas buvo nutrauktas. Ko gero su tuometinėmis galimybės nesigavo produkto padaryti arba išties patrauklaus arba už padorią sumą. Tinkamas device'as turi būti tinkamu metu. Pamoka, kurią MS ko gero jau galėjo išmokti su savo pirmaisiais tablet'ais, kuriuos kompanija pristatė 7-iais metai anksčiau, nei pasirodė pirmasis iPad. Tuomet ta idėja buvo tiesiog per anksti.
+* [https://www.theverge.com/2019/10/2/20889000/microsoft-surface-neo-windows-10x-hands-on-features-price-photos-release-date](https://www.theverge.com/2019/10/2/20889000/microsoft-surface-neo-windows-10x-hands-on-features-price-photos-release-date)
+
 ## 2019-09
 
 ### Apple watch konkurencija

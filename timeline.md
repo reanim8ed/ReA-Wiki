@@ -4,6 +4,12 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 
 # Timeline
 
+## 2019-10
+
+#### 2019-10-03
+
+* TechIT: [Microsoft Duo ir Neo](wiki/technologijos/technologijos.md#microsoft-duo-ir-neo)
+
 ## 2019-09
 
 #### 2019-09-30
