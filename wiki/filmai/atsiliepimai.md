@@ -1,5 +1,19 @@
 # Atsiliepimai apie filmus
 
+### [The Sunset Limited \(2011\)](https://www.imdb.com/title/tt1510938/?ref_=ttqt_qt_tt)
+
+* Filmas, kuriame du veikėjai įsivelia į filosofinius debatus ir dvasinę kovą apie pozityvumą vs pesimistinę desperaciją/cinizmą, apie tikėjimą vs ateizmą, apie individualizmą ir skirtingus požiūrius į gyvenimą ir gyvenimo pagrįstumą.
+* Samuel L. Jackson'as nors yra pakankamai respectinamas aktorius, tačiau dažnai nėra pakankamai įvertinamas. Pirmiausia ko gero dėlto, kad jis šioje industrijoje aktyviai dirba jau daugiau nei 30 metų ir yra išties itin produktyvus - kiekvienais metais pasirodo bent po keletą filmų. Kas šiaip, žinoma, nebūtų blogai, tiesiog su tokiu dideliu repertuaru visada atsiranda ir ne itin stiprių vaidmenų, kuriuose aktoriui išreikšti savo sugebėjimus nelabai yra galimybių. Kalbu apie vaidmenis Jurassic Park, Star Wars ar Marvel filmuose. Tačiau užtenka pažiūrėti Pulp Fiction, Django Unchained ar Black Snake Moan ir supranti, kad tai yra velniškai geras aktorius, kuris net ir savo tipinį seno pikto juodaodžio vaidmenį gali suvaidinti su išties daug subtilumų ir niuansų. The Sunset Limited drąsiai galima įrašyti prie jo stipriųjų vaidmenų.
+* Vos pradėjus žiūrėti filmą, pagalvojau, kad jis akivaizdžiai tiktų teatro scenai, scenarijau pakeitimų nė nereikėtų. Ir buvau visiškai teisus: filmo scenarijus iš tiesų ir yra parašyta, kaip [pjesė ](https://antilogicalism.files.wordpress.com/2017/09/the-sunset-limited.pdf)ir skirta atlikimui scenoje.
+* Kai kas gal filmą galėtų pakritikuoti jog veikėjai yra perspausti - visiškai balta arba visiškai juoda, tačiau manau, kad toks over the top atvaizdavimas ir buvo pasirinktas tam, kad reprezentuoti dvi visiškai priešingas filosofijas ir jog eigoje įžvelgtume abiejų jų trūkumus.
+* Kadangi diskusija filme vyksta gan greitai ir yra išties nuostabių frazių, kurioms reikia laiko sugrumuliuoti, filmą reikia žiūrėti išties atidžiai, o ir ko gero bent kelis kartus arba tiesiog neskubant perskaityti pačią pjesę.
+
+> When you read the history of the world you are reading a saga of bloodshed and greed and folly the import of which is impossible to ignore. And yet we imagine that the future will somehow be different.
+
+> Black: I ain't a doubter, but I am a questioner.  
+> White: What's the difference?  
+> Black: A questioner wants the truth. A doubter wants to be told there ain't no such thing.
+
 ### [Jacob's Ladder \(1990\)](https://www.imdb.com/title/tt0099871/)
 
 * Nesumaišyti su 2019-tų versija, kuri turi įspūdingą 2,3 balo įvertinimą IMDB sistemoje :D
