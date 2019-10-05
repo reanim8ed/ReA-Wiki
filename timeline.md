@@ -9,6 +9,7 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 #### 2019-10-05
 
 * Filmai: [The Sunset Limited](wiki/filmai/atsiliepimai.md#the-sunset-limited-2011)
+* TechIT: [Google Street View spragos](wiki/technologijos/technologijos.md#google-street-view-spragos-europoje)
 
 #### 2019-10-03
 

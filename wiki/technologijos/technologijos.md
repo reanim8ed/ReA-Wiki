@@ -6,6 +6,12 @@ description: 'https://www.facebook.com/techit.lt'
 
 ## 2019-10
 
+### Google Street View spragos Europoje
+
+* Google Street Views nerasite Baltarusijoje, Moldovoje ir Bosnijoje.
+*  Tačiau akivaizdžiausia spraga žemėlapyje - Vokietija. 
+* [https://bigthink.com/strange-maps/germany-street-view](https://bigthink.com/strange-maps/germany-street-view?rebelltitem=1#rebelltitem1)
+
 ### Microsoft Duo ir Neo
 
 * Microsoft renginyje pristatyti tablet'o ir telefono dydžio device'ai su dviem ekranais: Surface Neo ir Surface Duo. Atrodo išties intriguojančiai. Iki kol ištobulės sulankstomi ekranai, toks sprendimas, manau, yra kur kas praktiškesnis. Taip, prezentacijoje akis galėjo pastebėti vieną kitą hiccup'ą ar jog UI kai kada veikia ne taip responsive, kaip norėtųsi, tačiau device'as dar toli gražu ir nėra užbaigtas. Iš geležies pusės viskas atrodo išties solidžiai, tačiau softas ko gero dar turi būti gerokai nušlifuotas. Na bet visgi šie sulankstomi įrenginiai prekyboje pasirodys geriausiu atveju tik kitų metų rudenį.
