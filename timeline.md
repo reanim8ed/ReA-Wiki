@@ -10,6 +10,7 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 
 * Filmai: [The Sunset Limited](wiki/filmai/atsiliepimai.md#the-sunset-limited-2011)
 * TechIT: [Google Street View spragos](wiki/technologijos/technologijos.md#google-street-view-spragos-europoje)
+* Random internetai:[ Įspūdingos Rusijos metro stotys](wiki/straipsniai-skaitiniai-istorijos/random-internetai.md#spudingos-rusijos-metro-stotys)
 
 #### 2019-10-03
 

@@ -1,5 +1,11 @@
 # Random internetai
 
+### Įspūdingos Rusijos metro stotys
+
+* Sovietų Sąjungos aukštumose savo nuosavą automobilį turėjo tik 30 žmonių iš 1000, tad praktiškai visas judėjimas miestuose buvo viešuoju transportu. 
+* Demonstruoti santvarkos didybei buvo įrengiamos išties įspūdingos, didelės ir talpios metro stotys. Ir nepaisant išties didelių srautų jos kupinos milžiniškų kolonų, arkų, liustrų, marmuro, bronzos ir aukso. Labiau primena muziejų ar posh hotelius, o ne viešojo transporto sustojimus. Dažnu atveju tai vienos įspūdingesnių miesto dalių.
+* [https://www.wired.com/story/soviet-subways/](https://www.wired.com/story/soviet-subways/)
+
 ### Islandijos pašto tarnyba
 
 * Turistai apsilankę Islandijoje pabandė nusiųsti laišką, tačiau nežinodami konkretaus vietos adreso, tiesiog nupiešė nedidelė žemėlapį ant voko. Ir suveikė! Laiškas pasiekė savo adresatą ;\)
