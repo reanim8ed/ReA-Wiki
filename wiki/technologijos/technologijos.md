@@ -6,6 +6,22 @@ description: 'https://www.facebook.com/techit.lt'
 
 ## 2019-10
 
+### Oficialiai paskelbtas PS5 release'as
+
+Be jokių fanfarų, be jokių milžiniškų renginių - tiesiog imta ir announcinta internete. Informacijos dar nėra super daug, tačiau ką jau žinome apie oficialiai patvirtintą PS5:
+
+* oficialus pavadinimas, kaip ir priklauso išlieka Playstation 5. Jokių ten Super, Gamestation, U ar panašių nesąmonių;
+* išleidimo data - už 13-14mėn, t.y. prieš ateinančių metų žiemos šventes. Galima spėti, jog greičiausiai lapkritį;
+* ray tracing palaikymas geležies lygmenyje;
+* žinoma SSD diskas ir 4K Blu-ray diskų palaikymas iki 100GB;  naudojamas CPU bus AMD Ryzen architektūros;
+* naujieji joystick'ai su adaptyviniais trigger mygtukais, kurių pasipriešinimas ir vibracija gali būti kontroliuojami žaidimų kūrėjų, o taipogi joystick'ai turės didesnę bateriją ir USB C;
+* kiek seniau nuleakinti devkit'ai iš tiesų yra tiesa, tačiau tai toli gražu nereiškia, jog galutinė konsolės versija taip ir atrodys;
+* modulinė žaidimų saugojimo sistema, t.y. pvz žaidėjas gali parsisiųsti tik multiplayer žaidimo režimą, nesisiunčiant viso pilno žaidimo;
+* atnaujintas UI;
+* PS4 žaidimų palaikymas;
+
+Laukiam sekančių žinių ir pirmųjų žaidimų anonsų.
+
 ### Google Street View spragos Europoje
 
 * Google Street Views nerasite Baltarusijoje, Moldovoje ir Bosnijoje.

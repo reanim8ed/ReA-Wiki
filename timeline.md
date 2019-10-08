@@ -6,6 +6,10 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 
 ## 2019-10
 
+#### 2019-10-08
+
+* TechIT: [Oficialiai paskelbtas PS5 release'as](wiki/technologijos/technologijos.md#oficialiai-paskelbtas-ps5-releaseas)
+
 #### 2019-10-05
 
 * Filmai: [The Sunset Limited](wiki/filmai/atsiliepimai.md#the-sunset-limited-2011)
