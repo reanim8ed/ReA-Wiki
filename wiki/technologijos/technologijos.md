@@ -6,6 +6,10 @@ description: 'https://www.facebook.com/techit.lt'
 
 ## 2019-10
 
+### 2019-ųjų Apple = 2000-ųjų Linux?
+
+* Kai kuriais aspektais 2019-ųjų experience'as naudojant Apple laptopus labai primena tokias pat problemas 2000-ųjų Linux'uose: pradedant nuo išorinių monitorių palaikymo ir įrangos suderinamumo problemų, baigiant fanboy'ų komentarais.https://nibblestew.blogspot.com/2019/10/apple-of-2019-is-linux-of-2000.html
+
 ### Oficialiai paskelbtas PS5 release'as
 
 Be jokių fanfarų, be jokių milžiniškų renginių - tiesiog imta ir announcinta internete. Informacijos dar nėra super daug, tačiau ką jau žinome apie oficialiai patvirtintą PS5:
