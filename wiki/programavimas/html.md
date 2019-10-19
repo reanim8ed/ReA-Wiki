@@ -1,6 +1,6 @@
 # HTML technikos
 
-HTML programavimas ;D Juokas juokais, bet iš tiesų, net ir HTML'as turi visokių niuansų, kuriuos derėtų žinoti. Pasinaudojus įvairiomis technikomis galima gan ženkliai optimizuoti puslapio krovimo greitį. Tad ir pakalbėkime apie visokius HTML triukus.
+HTML programavimas ;D Juokas juokais, bet iš tiesų, net ir HTML'as turi visokių niuansų, kuriuos derėtų žinoti. Pasinaudojus įvairiomis technikomis galima gan ženkliai optimizuoti puslapio krovimo greitį. Tad ir pakalbėkime apie visokius triukus ir taktikas.
 
 ### Javascript
 
