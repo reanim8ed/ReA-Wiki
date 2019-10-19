@@ -156,6 +156,7 @@
   * [Rusija](wiki/politika/rusija.md)
 * [Programavimas](wiki/programavimas/README.md)
   * [API's](wiki/programavimas/apis.md)
+  * [HTML technikos](wiki/programavimas/html.md)
   * [PHP](wiki/programavimas/php.md)
   * [Wordpress](wiki/programavimas/wordpress.md)
   * [Įrankiai](wiki/programavimas/tools.md)

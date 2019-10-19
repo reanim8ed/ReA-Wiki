@@ -6,6 +6,10 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 
 ## 2019-10
 
+#### 2019-10-19
+
+* Programavimas: [HTML technikos](wiki/programavimas/html.md)
+
 #### 2019-10-15
 
 * TechIT: [2019-ųjų Apple = 2000-ųjų Linux?](wiki/technologijos/technologijos.md#2019-j-apple-2000-j-linux)
