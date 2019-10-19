@@ -114,3 +114,17 @@ Naršyklės, kurios loading parametro dar nepalaiko - kraus paveikslėlį, kaip 
 
  `if ('loading' in HTMLImageElement.prototype) {` patikrina ar naršyklė palaiko loading parametrą ir jei taip - pakeičia visų paveikslėlių su šiuo parametru `data-src` į tiesiog `src` , kitu atveju dinamiškai užkraunama lazysizes biblioteka. Alternatyva galėtų būti, kai tiesiog į tinklapį įtraukiama lazysizes biblioteka ir papildomas jos [plugin'as](https://github.com/aFarkas/lazysizes/tree/gh-pages/plugins/native-loading), kuris šį darbą atlieka automatiškai ir tokiu atveju aukščiau esamo kodo naudoti nebereikia.
 
+#### Placeholders
+
+Programuojant puslapį dažnu atveju prireikia paveikslėlių, kol tuo tarpu tikrų, planuojamų naudoti tinklapyje paveikslėlių ar nuotraukų vis dar neturime, tad reikalingi laikini, t.y. placeholder paveikslėliai. Įprastai tam naudoju vieną iš šių 2 metodų:
+
+* jei noriu iškomunikuoti kokio dydžio paveikslėlis turėtų toje vietoje būti naudojamas, naudoju placehold.it.  Pvz: [https://placehold.it/350x250?text=350x250](https://via.placeholder.com/350x250?text=350x250)
+* jei norima naudoti tiesiog realius, gražius random paveikslėlius, pvz reprezentuoti slideriui, tai naudoju unsplash. Pvz: [https://source.unsplash.com/random/350x250](https://source.unsplash.com/random/350x250) galima nusirodyti, kad paveikslėlis updatintusi ne kiekvieną kartą pasikreipus, o pvz tik 1 kartą į dieną ar savaitę, taipogi galima atfiltruoti konkrečią temą, pvz: [https://source.unsplash.com/weekly?water](https://source.unsplash.com/weekly?water)
+
+Mažiau profesionalūs, bet užtat daug labiau fun placeholderiai:
+
+* [Fill Murray](http://www.fillmurray.com/%20)
+* [PlaceCage](https://www.placecage.com/)
+* [placekitten](http://placekitten.com/)
+* [placedog](https://placedog.net/)
+
