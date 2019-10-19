@@ -4,9 +4,11 @@ HTML programavimas ;D Juokas juokais, bet iš tiesų, net ir HTML'as turi visoki
 
 ### Javascript
 
-HTML5 įnešė naujovių ir &lt;script&gt; elementui. Pirmiausia, nebėra privalomybės nurodyti `type="text/javascript"` . Pvz naudojantis W3 validatoriumi, jis ant scriptų, kurie turės šitą atributą, rodys warning žinutę. Jei visus scriptus įtraukinėjame patys, tai galima jų įtraukimo sintaksę supaprastinti, tačiau jeigu naudojami third-party moduliai, scriptai ar library, tai tikėtina, jog jie automatiškai įtraukinės scriptus senąja sintakse.
+Nuo HTM5 specifikacijos išleidimo nebėra privalomybės &lt;script&gt; elementui nurodinėti`type="text/javascript"` . Pvz naudojantis W3 validatoriumi, jis ant scriptų, kurie turės šitą atributą, rodys warning žinutę. Jei visus scriptus įtraukinėjame patys, tai galima jų įtraukimo sintaksę supaprastinti, tačiau jeigu naudojami third-party moduliai, scriptai ar library, tai tikėtina, jog jie automatiškai įtraukinės scriptus senąja sintakse.
 
-Taipogi atsirado 2 papildomi atributai `async` ir `defer`. Įprastai jei script'as yra įterptas puslapio viršuje, tai `window.onload` event'as nebūna trigerinamas tol, kol neužbaigiamos šio resurso loadinimas. Dauguma modernių svetainių, kurios kurtos su pagrindiniais frontent frameworkais, remiasi į šį event'ą. Tad dalis UI gali būti nerenderinama, tol kol neužbaigti render-blocking requestai. Būtent dėl šio priežasties Google Lighthouse ar PageSpeed Insights rodys atitinkamą klaidą. Šiai problemai spręsti galima naudoti vieną iš šių dviejų atributų.
+#### Async ir defer
+
+Įprastai jei script'as yra įterptas puslapio viršuje, tai `window.onload` event'as nebūna trigerinamas tol, kol neužbaigiamos šio resurso loadinimas. Dauguma modernių svetainių, kurios kurtos su pagrindiniais frontent frameworkais, remiasi į šį event'ą. Tad dalis UI gali būti nerenderinama, tol kol neužbaigti render-blocking requestai. Būtent dėl šio priežasties Google Lighthouse ar PageSpeed Insights rodys atitinkamą klaidą. Šiai problemai spręsti galima naudoti vieną iš šių dviejų atributų.
 
 Pirmasis, `async` naudojamas asinchroniniam script'o atsisiuntimui. T.y. tol, kol jis bus kraunamas, jis nestabdys likusio tinklapio krovimo ir vos tik scriptas bus parsiųstas - jis iškarto įvykdomas. Paprastas panaudojimo pavyzdys - Google Analytics kodas.
 
