@@ -4,7 +4,7 @@ HTML programavimas ;D Juokas juokais, bet iš tiesų, net ir HTML'as turi visoki
 
 ### Video
 
-Norint puslapyje įdėti automatiškai grojantį video, kas dažnu atveju daroma, vietoj seniau naudotinų .gif'ų, galima naudoti HTML5 specifikacijoje aprašytą &lt;video&gt; elementą su papildomais parametrais, kaip `autoplay muted loop` . Kad video būtų automatiškai grojamas ir ant mobiliųjų Apple įrenginių, video elementui būtina uždėti ir papildomą `playsinline` parametrą:
+Norint puslapyje įdėti automatiškai grojantį video, kas dažnu atveju daroma, vietoj seniau naudotinų .gif'ų, galima naudoti HTML5 specifikacijoje aprašytą &lt;video&gt; elementą su papildomais atributais, kaip `autoplay muted loop` . Kad video būtų automatiškai grojamas ir ant mobiliųjų Apple įrenginių, video elementui būtina uždėti ir papildomą `playsinline` atributą:
 
 ```markup
 <video autoplay muted loop playsinline>
@@ -13,7 +13,7 @@ Norint puslapyje įdėti automatiškai grojantį video, kas dažnu atveju daroma
 </video>
 ```
 
-Jeigu video neturi groti automatiškai ir turėtų būti rodomas tik po naudotojo inicijavimo - derėtų ant video elemento nurodyti `preload="none"` parametrą, kuris nurodo, jog nereikia jo iš anksto siųsti. Taipogi tokiu atveju video galima paslėpti po paveikslėliu su parametru `poster`. Tik paspaudus ant jo bus pradedamas krauti ir rodyti video:
+Jeigu video neturi groti automatiškai ir turėtų būti rodomas tik po naudotojo inicijavimo - derėtų ant video elemento nurodyti `preload="none"` atributą, kuris nurodo, jog nereikia jo iš anksto siųsti. Taipogi tokiu atveju video galima paslėpti po paveikslėliu su parametru `poster`. Tik paspaudus ant jo bus pradedamas krauti ir rodyti video:
 
 ```markup
 <video controls preload="none" poster="one-does-not-simply-placeholder.jpg">
@@ -59,7 +59,7 @@ Be kompresijos taipogi galima naudoti modernesnius paveikslėlių formatus, pvz 
 
 Naršyklės, kurios palaiko source nurodytą formatą į img src įstatys pirmą tinkamą formatą, o jei nepalaikomas nei vienas - bus kraunamas tiesiog standartinis &lt;img&gt;. Lygiai tas pats principas galioja video elemente, kur vietoj .mp4 derėtų naudoti .webm.
 
-Šis &lt;picture&gt; elementas taipogi gali naudoti responsive img su prieš tai aprašytais `srcset` ar `sizes` parametrais.
+Šis &lt;picture&gt; elementas taipogi gali naudoti responsive img su prieš tai aprašytais `srcset` ar `sizes` atributais.
 
 Taipogi su &lt;picture&gt; elementu galima atlikti ir [art direction](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images#Art_direction) - principas, kai mažesniuose ekranuose norime rodyti ne tik mažesnę to paties paveikslėlio versiją, tačiau jis turi būti ir visiškai kitokio aspect ratio. Pvz desktop'e naudojama plati horizontali nuotrauka, kurioje pagrindinis objektas centre, tačiau rodant mobiliuose įrenginiuose ją apkerpame, jog pagrindinis fokusas būtų į centrinį objektą: 
 
@@ -81,13 +81,15 @@ Krauti paveikslėlius iš karto, kol vartotojas jų dar net nemato, t.y. kol jis
 
 Biblioteka labai universali, veikia ir su responsive img, video ar iframe elementais.
 
-Tačiau panašu, kad sulauksime ir native lazy load funkcionalumo. Paruoštos specifikacijos dar nėra, bet Chrome jau nuo 76 versijos turi [native palaikymą](https://web.dev/native-lazy-loading). Naudojimo principas tampa dar paprastesniu: užtenka ant paveikslėlio elemento, kuris yra už matomumo ribos, uždėti papildomą `loading="lazy"` parametrą:
+Tačiau panašu, kad sulauksime ir native lazy load funkcionalumo. Paruoštos specifikacijos dar nėra, bet Chrome jau nuo 76 versijos turi [native palaikymą](https://web.dev/native-lazy-loading). Naudojimo principas tampa dar paprastesniu: užtenka ant paveikslėlio elemento, kuris yra už matomumo ribos, uždėti papildomą `loading="lazy"` atributą:
 
 ```markup
 <img src="image.png" loading="lazy" alt="…" width="200" height="200">
 ```
 
-Naršyklės, kurios loading parametro dar nepalaiko - kraus paveikslėlį, kaip įprasta. Galima šiuos du metodus apjungti ir tokiu atveju lazy loadinti paveikslėlius nepriklausomai nuo naršyklės:
+Naršyklės, kurios loading atributo dar nepalaiko - kraus paveikslėlį, kaip įprasta. 
+
+Galima šiuos du metodus apjungti ir tokiu atveju lazy loadinti paveikslėlius nepriklausomai nuo naršyklės:
 
 ```markup
 <!-- Let's load this in-viewport image normally -->
@@ -112,7 +114,7 @@ Naršyklės, kurios loading parametro dar nepalaiko - kraus paveikslėlį, kaip 
 </script>
 ```
 
- `if ('loading' in HTMLImageElement.prototype) {` patikrina ar naršyklė palaiko loading parametrą ir jei taip - pakeičia visų paveikslėlių su šiuo parametru `data-src` į tiesiog `src` , kitu atveju dinamiškai užkraunama lazysizes biblioteka. Alternatyva galėtų būti, kai tiesiog į tinklapį įtraukiama lazysizes biblioteka ir papildomas jos [plugin'as](https://github.com/aFarkas/lazysizes/tree/gh-pages/plugins/native-loading), kuris šį darbą atlieka automatiškai ir tokiu atveju aukščiau esamo kodo naudoti nebereikia.
+ `if ('loading' in HTMLImageElement.prototype) {` patikrina ar naršyklė palaiko loading atributą ir jei taip - pakeičia visų paveikslėlių su šiuo parametru `data-src` į tiesiog `src` , kitu atveju dinamiškai užkraunama lazysizes biblioteka. Alternatyva galėtų būti, kai tiesiog į tinklapį įtraukiama lazysizes biblioteka ir papildomas jos [plugin'as](https://github.com/aFarkas/lazysizes/tree/gh-pages/plugins/native-loading), kuris šį darbą atlieka automatiškai ir tokiu atveju aukščiau esamo kodo naudoti nebereikia.
 
 #### Placeholders
 
