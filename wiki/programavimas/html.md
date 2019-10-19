@@ -1,6 +1,28 @@
 # HTML technikos
 
-HTML programavimas ;D Juokas juokais, bet iš tiesų, net ir HTML'as turi visokių papildomų niuansų, kuriuos reikėtų žinoti. Pasinaudojus įvairiomis technikomis galima gan ženkliai optimizuoti puslapio krovimo greitį. Tad ir pakalbėkime apie tokius triukus:
+HTML programavimas ;D Juokas juokais, bet iš tiesų, net ir HTML'as turi visokių niuansų, kuriuos derėtų žinoti. Pasinaudojus įvairiomis technikomis galima gan ženkliai optimizuoti puslapio krovimo greitį. Tad ir pakalbėkime apie visokius HTML triukus.
+
+### Javascript
+
+HTML5 įnešė naujovių ir &lt;script&gt; elementui. Pirmiausia, nebėra privalomybės nurodyti `type="text/javascript"` . Pvz naudojantis W3 validatoriumi, jis ant scriptų, kurie turės šitą atributą, rodys warning žinutę. Jei visus scriptus įtraukinėjame patys, tai galima jų įtraukimo sintaksę supaprastinti, tačiau jeigu naudojami third-party moduliai, scriptai ar library, tai tikėtina, jog jie automatiškai įtraukinės scriptus senąja sintakse.
+
+Taipogi atsirado 2 papildomi atributai `async` ir `defer`. Įprastai jei script'as yra įterptas puslapio viršuje, tai `window.onload` event'as nebūna trigerinamas tol, kol neužbaigiamos šio resurso loadinimas. Dauguma modernių svetainių, kurios kurtos su pagrindiniais frontent frameworkais, remiasi į šį event'ą. Tad dalis UI gali būti nerenderinama, tol kol neužbaigti render-blocking requestai. Būtent dėl šio priežasties Google Lighthouse ar PageSpeed Insights rodys atitinkamą klaidą. Šiai problemai spręsti galima naudoti vieną iš šių dviejų atributų.
+
+Pirmasis, `async` naudojamas asinchroniniam script'o atsisiuntimui. T.y. tol, kol jis bus kraunamas, jis nestabdys likusio tinklapio krovimo ir vos tik scriptas bus parsiųstas - jis iškarto įvykdomas. Paprastas panaudojimo pavyzdys - Google Analytics kodas.
+
+Tuo tarpu `defer` taipogi siunčiamas asinchroniškai, tačiau scripto vykdymas atidėtas iki tol, kol dokumentas baigiamas parsinti. Tad jis daugiausiai reikalingas, kai scriptas yra priklausomas nuo kitų scriptų, pvz kokio jQuery'io.
+
+Tai geroji praktika būtų naudoti `async` visur, kur įmanoma, o kai jis netinka, tada revertintis į `defer`.
+
+### SEO
+
+Linkai turi `rel` atributą, kuris nurodo nuorodos sąryšį su dabartiniu puslapiu. Išviso yra net 14 skirtingų `rel` reikšmių, tačiau dauguma iš jų nėra itin svarbios. Tačiau noriu atkreipti dėmesį į kelias gan svarbesnes:
+
+* `nofollow` - ši reikšmė ko gero yra ir taip neblogai žinoma, jei bent kiek užsiimama SEO optimizacijomis. Iš esmės nurodo, jog nuoroda nėra susijusi su mūsų dabartiniu puslapiu, nėra jo dalis ir SEO įtaka nėra perduodama. Puikiai tinka, kai dedamos nuorodos į partnerių, rėmėjų puslapius, tinklapio kūrėjų nuorodai.
+* `noreferrer` - neperduoda nukreipimo informacijos. T.y. statistikoje nesimatys, jog tinklapio lankytojas atėjo iš jūsų puslapio.
+* `noopener` - kai naudojamasi `target=_blank` atributu, naujai atidarytas langas `window.opener` pagalba gali visvien pasiekti jį atidariusio [puslapio langą](https://mathiasbynens.github.io/rel-noopener/). Tai yra pavojinga, nes jei nukreipiate į third-party puslapį ir jį buvo įsilaužta, tai naudotojui, kuris paspaudžia ant šios nuorodos įmanoma potencialiai redirectinti jūsų tinklapio tab'ą į visai kitą žalingą URL. `noopener` uždaro duris tokio pobūdžio atakai.  
+
+## Elementai
 
 ### Video
 
@@ -129,4 +151,44 @@ Mažiau profesionalūs, bet užtat daug labiau fun placeholderiai:
 * [PlaceCage](https://www.placecage.com/)
 * [placekitten](http://placekitten.com/)
 * [placedog](https://placedog.net/)
+
+### Datalist
+
+&lt;datalist&gt; yra mažiau praktikoje naudojamas elementas, kuris tarsi sujungia input ir select elementus į vieną. T.y. gauname vieną lauką, kuriame galima tiek ir įrašyti savo reikšmę, tiek ir pasirinkti ją iš dropdown'o:
+
+```markup
+<label>Your favorite band?
+<input list="heavy-bands"
+name="band-choice"></label>
+
+<datalist id="heavy-bands">
+  <option value="Metallica" />
+  <option value="Iron Maiden" />
+  <option value="Slayer" />
+  <option value="Motörhead" />
+  <option value="Megadeth" />
+  <option value="Black Sabbath" />
+</datalist>
+```
+
+### Audio
+
+HTML5 taipogi turi native audio player'į. Tam, kad tinklapyje įterpti garso įrašą, nebūtina naudoti third-party script'us, kurie suteiktų audio player funkcionalumą:
+
+```markup
+<audio controls loop preload="none"
+  src="deep-house-track.mp3">
+</audio>
+```
+
+### Details
+
+HTML5.1 specifikacija turi ir native išskleidžiamo accordion'o funkcionalumą:
+
+```markup
+<details>
+  <summary>Explaining all of the things</summary>
+  <p>Some explanation goes here...</p>
+</details>
+```
 
