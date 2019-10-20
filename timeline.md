@@ -6,6 +6,10 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 
 ## 2019-10
 
+#### 2019-10-20
+
+* Žaidimai: [Retro gameboy'jus šiems laikams](wiki/zaidimai/#analogue-pocket-modernus-si-laik-gameboyjus)
+
 #### 2019-10-19
 
 * Programavimas: [HTML technikos](wiki/programavimas/html.md)
