@@ -6,6 +6,12 @@ description: 'https://www.facebook.com/techit.lt'
 
 ## 2019-10
 
+### Pixel 4
+
+* Po iPhone pristatymo sekantis laukiamiausias telefonas turėjo būti Pixel 4. Nesunku suprasti kodėl: šie firminiai Google telefonai - tai idealiausios ir švariausios formos Android experience. O taipogi spartūs atnaujinimai ir lyderiaujanti kamera mobiliuose telefonuose. Tad fanų prisirinkti netruko.
+* Šį kartą paslapties išlaikyti nesigavo ir tai tapo vienu labiausiai leakinamu telefonu. Tačiau summa summarum, pažvelgim ką visgi gavome: - 2800mAh talpos bateriją - nėra nei ausinių lizdo nei perėjimo kompekte. Perkant telefoną ausinės į komplektą išvis nepridedamos - telefonas nesugeba filmuoti 4K60Hz - nėra UFS 3.0 - nors yra papildoma kamera, tačiau ji ne ultra wide - jokių reikšmingų kameros kokybės patobulinimų taipogi nėra, foto ne itin skiriasi nuo praėjusios kartos Pixel'ių - nebėra pirštų skaitytuvo - didelis viršutinis rėmelis - 90Hz ekranas pasirodo irgi ne visai tikras 90Hz - nebeliko unlimited nuotraukų talpinimo į Google Photos - kaina didesnė net už iPhone
+* Oh boy, koks nuviliantis šiais metais Pixel'is gavosi. Vienintelis atpirkimas galėtų būti nebent kelerių mėn bėgyje išleidžiamas 4a, kurio kaina būtų bent kokiais 300 dolerių mažesnė.
+
 ### 2019-ųjų Apple = 2000-ųjų Linux?
 
 * Kai kuriais aspektais 2019-ųjų experience'as naudojant Apple laptopus labai primena tokias pat problemas 2000-ųjų Linux'uose: pradedant nuo išorinių monitorių palaikymo ir įrangos suderinamumo problemų, baigiant fanboy'ų komentarais.https://nibblestew.blogspot.com/2019/10/apple-of-2019-is-linux-of-2000.html

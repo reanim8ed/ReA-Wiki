@@ -1,5 +1,9 @@
 # Showerthoughts
 
+## 2019-10-23
+
+* Balnas yra tarsi žmogaus ir žirgo adapteris
+
 ## 2019-09-22
 
 * Kiekvienas startup'as šiais laikais siekia tapti subscription'u. Taip, tai yra geras verslo modelis, nes generuoja stabilias ir lengvai prognazuojamas pajamas. Tačiau to pasekmė - subscription'ų dabar yra tiek daug, kad visus sekti darosi tiesiog sudėtinga. Tad idea: subscription app'sas, kuris padėtų sekti visus kitus subscription'us.

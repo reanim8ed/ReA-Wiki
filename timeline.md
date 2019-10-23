@@ -6,6 +6,11 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 
 ## 2019-10
 
+#### 2019-10-23
+
+* TechIT: [Pixel 4](wiki/technologijos/technologijos.md#pixel-4)
+* Showerthougts: [balnas](wiki/showerthoughts.md#2019-10-23)
+
 #### 2019-10-20
 
 * Žaidimai: [Retro gameboy'jus šiems laikams](wiki/zaidimai/#analogue-pocket-modernus-si-laik-gameboyjus)
