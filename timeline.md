@@ -6,6 +6,10 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 
 ## 2019-10
 
+#### 2019-10-26
+
+* [Atmintis](wiki/atmintis.md)
+
 #### 2019-10-23
 
 * TechIT: [Pixel 4](wiki/technologijos/technologijos.md#pixel-4)

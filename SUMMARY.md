@@ -14,6 +14,7 @@
     * [Jackie Chan](wiki/asmenybes/pop-kultura/jackie-chan.md)
     * [Kevin Hart](wiki/asmenybes/pop-kultura/kevin-hart.md)
     * [Michael Jackson](wiki/asmenybes/pop-kultura/michael-jackson.md)
+* [Atmintis](wiki/atmintis.md)
 * [Blog'as](wiki/blogas/README.md)
   * [130 vyriškų dalykų](wiki/blogas/130-vyrisku-dalyku.md)
   * [2007 vasara](wiki/blogas/2007-vasara.md)
