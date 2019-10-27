@@ -22,6 +22,8 @@ Manau, kad nesu [polimatas](https://www.wikiwand.com/en/Polymath), tačiau tikra
 
 Tačiau visgi neužtenka viską tiesiog kaupti ar tai būtų citatos, straipsniai, video įrašai, bookmarksai ir kita. Tai tik sukuria informacijos kaupimo iliuziją ir jeigu su šia nauja info nėra dirbama, nėra apie ją galvojama, reflektuojama ir ji nėra kitaip panaudojama - iš to kaupimo yra išties mažai naudos. Tiesiog nukopijuoji ją ir pamiršti. Perdedi iš vieno stalčiuko į kitą ir jokios realios naudos tai nesukuria.
 
+> _Knowledge is acquired when we succeed in fitting a new experience into the system of concepts based upon our old experiences._
+
 David'o Allen'o išgrynintas [Getting Things Done](https://gettingthingsdone.com/what-is-gtd/) \(GTD\) metodas susiveda į 5 pagrindinius žingsnius: Capture, Clarify, Organize, Reflect and Engage. Kitas gan idealogiškai panašus metodas - [zettelkasten](https://zettelkasten.de/posts/), kurį susumuoti būtų galima į: Collect, Process, Cross-Reference and Use. Tai ir tapo mano šūkiu ir būtent taip išsivystė šis Wiki stiliaus PKB projektas. Toks eklektiškas asmeninės informacijos, profesinių interesų, pastebėjimų, pamąstymų, kelionių įspūdžių, bookmarksų, straipsnių, pomėgių ir reflekcijų rinkinys. Natūrali mano tinklaraščio progresija - visgi daugiametis jo slogan'as ir buvo: _Asmeninės nuomonės, įžvalgų bei patirties tinklaraštis. Technologijos, istorijos, faktai ir gyvenimas_.
 
 ## Priežastys
