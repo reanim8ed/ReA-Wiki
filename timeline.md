@@ -6,6 +6,10 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 
 ## 2019-10
 
+#### 2019-10-27
+
+* Karjera: [Don't Call Yourself A Programmer, And Other Career Advice](wiki/programavimas/karjera.md#dont-call-yourself-a-programmer-and-other-career-advice)
+
 #### 2019-10-26
 
 * [Atmintis](wiki/atmintis.md)

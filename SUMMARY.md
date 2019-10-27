@@ -158,6 +158,7 @@
 * [Programavimas](wiki/programavimas/README.md)
   * [API's](wiki/programavimas/apis.md)
   * [HTML technikos](wiki/programavimas/html.md)
+  * [Karjera](wiki/programavimas/karjera.md)
   * [PHP](wiki/programavimas/php.md)
   * [Wordpress](wiki/programavimas/wordpress.md)
   * [Įrankiai](wiki/programavimas/tools.md)
