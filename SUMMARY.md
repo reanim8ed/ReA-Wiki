@@ -217,7 +217,7 @@
     * [SSD diskai](wiki/technologijos/it-talk/ssd-diskai.md)
     * [Windows 7 galimybės – video apžvalga](wiki/technologijos/it-talk/windows-7-galimybes-video-apzvalga.md)
   * [ReA PC build](wiki/technologijos/rea-pc-build.md)
-  * [TechIT straipsniai](wiki/technologijos/technologijos.md)
+  * [TechIT straipsniai](wiki/technologijos/tech-it.md)
 * [Teorijos / efektai / fenomenai](wiki/teorijos-efektai.md)
 * [Terminai](wiki/terminai.md)
 * [Tools](wiki/tools.md)
