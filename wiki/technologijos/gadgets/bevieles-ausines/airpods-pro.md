@@ -1,6 +1,6 @@
 # Airpods Pro
 
-Kadangi originaliasias Airpods ausines aš įsivertinau [tikrai teigiamai](./), tai neturėtų stebinti ir tai, jog į Airpods Pro aš taipogi žiūriu išties palankiai ir net planuoju upgrade'ą į jas. Bet apie viską iš eilės.
+Kadangi originaliąsias Airpods ausines aš įvertinau [tikrai teigiamai](./), tai neturėtų stebinti ir tai, jog į Airpods Pro aš taipogi žiūriu išties palankiai. Bet apie viską iš eilės.
 
 Kaip ir rašiau praėjusiame straipsnyje, kai 2016-ųjų pabaigoje buvo pristatytos pirmosios kartos Apple bevielės ausinės, kito išties sulyginamo produkto rinkoje kaip ir nebuvo. Ne, nekalbu apie jokią iPhone lygio "revoliuciją" - neblogų bevielių ausinių rinkoje tikrai netrūko ir iki tol. Tačiau tuo metu rinktis buvo galima arba iš kiek kitokio formos faktoriaus ausinių \(neckband'ai ar ausis apgaubiantys headband'ai\), arba iš išties gerokai brangesnių sprendimų iš rimtų audio gamintojų \(Klipsch, Audio-Technica, Sennheiser, B&O\), arba iš panašių produktų, pasižyminčių ženkliai prastesne baterija ir gerokai didesniu case'u \(Samsung'o Galaxy Buds\). Taigi, Airpods būdamos tokios mažytės, turinčios visai adekvačią bevielių ausinių kainą, pasižyminčios puikia baterija ir skambėdamos OK, išties greitai atrado savo nišą. Pridėkime Apple "mados faktorių" ir produktas tapo taip gerai parduodamu, jog net mūsų sostinės gatvėse nebegali prasieiti neprasilenkęs su Airpods'ų savininku.
 
