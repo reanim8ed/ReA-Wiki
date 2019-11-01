@@ -4,6 +4,12 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 
 # Timeline
 
+## 2019-11
+
+#### 2019-11-01
+
+* Technologijos: [Airpods Pro](wiki/technologijos/gadgets/bevieles-ausines/airpods-pro.md)
+
 ## 2019-10
 
 #### 2019-10-27
@@ -184,7 +190,7 @@ Tinklaraščio migracija:
 
 Tinklaraščio migracija: 
 
-* [Bevielės ausinės](wiki/technologijos/gadgets/bevieles-ausines.md)
+* [Bevielės ausinės](wiki/technologijos/gadgets/bevieles-ausines/)
 * [Pirmasis raketos „Falcon Heavy“ skrydis](wiki/kosmosas.md#pirmasis-raketos-falcon-heavy-skrydis-2018-01-31)
 * [Secret Hitler](wiki/zaidimai/stalo-zaidimai/secret-hitler.md)
 * [Cards Against Humanity](wiki/zaidimai/stalo-zaidimai/cards-against-humanity.md)
