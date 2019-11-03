@@ -6,6 +6,13 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 
 ## 2019-11
 
+#### 2019-11-03
+
+* Karčios tiesos apie darbą [korporatyvuose](wiki/darbas-karjera-produktyvumas.md#harsh-truths-about-corporate-life)
+* Straipsnių archyvas: [The Brain On 23](wiki/straipsniai-skaitiniai-istorijos/straipsniu-archyvas/the-brain-on-23.md)
+* [Random internetai](wiki/random-internetai.md)
+* [MealTimeVideos](wiki/mealtimevideos.md#2019-11-03)
+
 #### 2019-11-01
 
 * Technologijos: [Airpods Pro](wiki/technologijos/gadgets/bevieles-ausines/airpods-pro.md)
@@ -45,7 +52,7 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 
 * Filmai: [The Sunset Limited](wiki/filmai/atsiliepimai.md#the-sunset-limited-2011)
 * TechIT: [Google Street View spragos](wiki/technologijos/tech-it.md#google-street-view-spragos-europoje)
-* Random internetai:[ Įspūdingos Rusijos metro stotys](wiki/straipsniai-skaitiniai-istorijos/random-internetai.md#spudingos-rusijos-metro-stotys)
+* Random internetai:[ Įspūdingos Rusijos metro stotys](wiki/random-internetai.md#spudingos-rusijos-metro-stotys)
 
 #### 2019-10-03
 
@@ -59,12 +66,12 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 
 #### 2019-09-25
 
-* Random internetai: [Islandijos pašto tarnyba](wiki/straipsniai-skaitiniai-istorijos/random-internetai.md#islandijos-pasto-tarnyba)
+* Random internetai: [Islandijos pašto tarnyba](wiki/random-internetai.md#islandijos-pasto-tarnyba)
 
 #### 2019-09-22
 
 * TechIT: [Apple Watch konkurencija](wiki/technologijos/tech-it.md#apple-watch-konkurencija)
-* Random internetai: [Dviračių kapinynas](wiki/straipsniai-skaitiniai-istorijos/random-internetai.md#dviraci-kapinynas)
+* Random internetai: [Dviračių kapinynas](wiki/random-internetai.md#dviraci-kapinynas)
 * Kokteiliai: [Campari](wiki/kokteiliai.md#italiskas-campari)
 * Showerthoughts:[ subscription apps'as subscription'ams](wiki/showerthoughts.md#2019-09-22)
 * Showerthoughts: [stalo žaidimų nuoma](wiki/showerthoughts.md#2019-09-22)

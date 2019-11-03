@@ -1,5 +1,14 @@
 # MealTimeVideos
 
+### 2019-11-03
+
+* Video esė, apie tai, kas padaro Pixar kuriamas istorijas tokias [relatable](https://www.youtube.com/watch?v=xTM-AdrIpaE).
+* Nuo 76-tųjų iki 2003-čiųjų turėjome viršgarsinius keleivinius Concorde lėktuvus, kurie Atlandą sugebėdavo perskristi vos per 3,5h. Tačiau dabar naudojamės Boing'ais, kurie tą patį atstumą įveikia dvigubai lėčiau. [What happened?](https://www.youtube.com/watch?v=a_wuykzfFzE)
+* 60s trukmės [minčių eksperimentai](https://www.youtube.com/watch?v=5zVaFjSxAZs)
+* Yra išties labai puikių žinomų žinomų žmonių kalbų, skirtų universiteto studentų baigimo progai. Pvz.  Steve Jobs'o "You can’t connect the dots looking forward". Taipogi esu žiūrėjęs ir patiko šmaikščios Elen ir Conan'o kalbos. O šį kartą - [Matt Damon](https://www.youtube.com/watch?v=vj-cK_KfjsI).
+* Japonijos [istorija](https://www.youtube.com/watch?v=Mh5LY4Mz15o)
+* Mėgstame gan lengvai švaistytis fraze "depresija" kai yra tiesiog liūdna, nėra nuotaikos. Video, kuris paaiškina ką iš tiesų reiškia [gyventi depresijoje](https://www.youtube.com/watch?v=EJ_S5Rjt_iI).
+
 ### 2019-09-01
 
 * Kaip vienas komikas pardavinėjo [naudotas servetėles už 80$](https://www.youtube.com/watch?v=fTHg-tGvlJ8). Puikiai pademonstruoja, jog imantis smart taktikų ir išmanant marketingą, pardavinėti gali absoliučiai bet ką.

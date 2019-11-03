@@ -1,5 +1,12 @@
 # Showerthoughts
 
+## 2019-11-03
+
+* Pasak makaronų dėžutės aš esu 4 asmenų šeima  .
+* Šunys nežino, kad jų savininkai gali daryti klaidas. Tad,kai keldamasis naktį netyčia jį paspiri, jis galvoja, kad kėleisi tam, kad specialiai jį paspirtum.
+* Žmonės, kurie nepakankamai miega - miršta greičiau. Tačiau tie, kurie miega pakankamai, pramiega tą extra laiką.
+* I got a king sized bed. I don’t know any kings, but if one came over, I guess he’d be comfortable.
+
 ## 2019-10-23
 
 * Balnas yra tarsi žmogaus ir žirgo adapteris
@@ -16,17 +23,15 @@
 * What if all the Ancient Greek sculptures are actually victims of Medusa?
 * Whenever I yell at my dog to stop barking, he probably thinks „Awesome now we’re both barking“.
 * Teach a Parrot to say Parrot and you basically have a Pokémon.
-* If Steve Jobs was reincarnated into a Chinese family he would be old enough to be making iPhones now.
 * If inmates fall in love, do they finish each other’s sentences?
 * Vienintelis skirtumas tarp orų prognozės „daugiausia saulėta“ ir „truputis debesuota“ yra orų pranešėjo požiūris į gyvenimą.
 * Kai žmogus didžiuodamasis išrėžia, kad jis nežiūri tv, tai signalizuoja apie žmogų, kuris 8h ar daugiau per dieną praleidžia internete.
 * Jeigu turi sūnų ir jis užaugęs tampa kunigu ar vis vien turi jį vadinti šventuoju tėvu?
 * Pesimistu būti gerai dėlto, kad visuomet būni arba teisus arba maloniai nustebintas.
-* Šunys nežino, kad jų savininkai gali daryti klaidas. Tad, kai keldamasis naktį netyčia jį paspiri, jis galvoja, kad tu vidurį nakties kėleisi specialiai būtent tam, kad jį paspirtum.
 * Jeigu dirbi darbo biržoje ir tave atleidžia, tai reiškia, kad tau ir toliau teks vaikščioti į savo darbovietę, pakol tau suras kitą darbą.
 * Jeigu mokaisi kulinarijos mokykloje, tai pasiteisinimas jog šuo suėdė tavo namų darbus yra pakankamai legit.
-* Filmų informacijos saitai, kaip IMDB, turėtų turėti atskirą žymą, nurodančią ar filmas turi baigiamąją sceną po creditų ar ne.
-* Kaip pagerinti rezultatus sporto salėse? Tiesiog užtektų ant treniruoklių padaryti taškų skaičiavimą ir high score lenteles.
+* Filmų informacijos saitai, kaip IMDB, galėtų turėti atskirą žymą, nurodančią ar filmas turi baigiamąją sceną po creditų ar ne.
+* Kaip pagerinti rezultatus sporto salėse? Tiesiog užtektų ant treniruoklių padaryti taškų skaičiavimą ir high score lenteles.   Taipogi gyvenimui papildomo įdomumo pridėtų, jei savo regėjimo lauke turėtume experience bar ir galėtume kelti atskirų kasdienių task’ų lvl. Sportuoji sau ir staiga pasigirsta fanfaros: Congratulations! You’ve reached your 100 hour mark of running. Tikrai padėtų motyvacijai ir savipasitenkinimui. Bet jei gyvenimas būtų, kaip MMO, tai būtų smarkiai kritikuojamas, dėl didelių balanso problemų, bei kiek daug durno grindinimo jame reikia atlikinėti.
 * Gyvenimo aktualijos: pirma mes laikome egzaminus, o tik po to pradedame iš tiesų mokytis.
 * NASA gauna duomenis iš daugiau nei 4 milijardų km, kai tuo tarpu man užtenka nueiti į tualetą, kad dingtų wifi signalas.
 * Jei gyvenimas būtų kaip MMO, tai būtų smarkiai kritikuojamas, dėl didelių balanso problemų, bei kiek daug bukinančio grindinimo jame reikia atlikinėti.

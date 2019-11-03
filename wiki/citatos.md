@@ -1,5 +1,6 @@
 # Citatos
 
+* Vargu ar gamtos pasaulyje rasi bejėgiškesnę būtybę nei moteris su neišdžiuvusiu nagų laku.
 * Česnakas ir druska atskleidžia ir kartono skonį.
 * The only thing scarier than a snarling werewolf or a hissing tarantula are the ideas and feelings they represent.
 * Make no mistake between my personality and my attitude. My personality is who I am, my attitude depends on who you are.
