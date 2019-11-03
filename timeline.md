@@ -10,6 +10,8 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 
 * Karčios tiesos apie darbą [korporatyvuose](wiki/darbas-karjera-produktyvumas.md#harsh-truths-about-corporate-life)
 * [Pinigai perka laimę](wiki/ekonomika/#pinigai-perka-laime)
+* Blog'as: [Tesėjo laivas](wiki/blogas/tesejo-laivas.md)
+* Blog'as: [Hekslis](wiki/blogas/hekslis.md)
 * Straipsnių archyvas: [The Brain On 23](wiki/straipsniai-skaitiniai-istorijos/straipsniu-archyvas/the-brain-on-23.md)
 * [Random internetai](wiki/random-internetai.md)
 * [MealTimeVideos](wiki/mealtimevideos.md#2019-11-03)
