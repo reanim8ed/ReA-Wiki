@@ -9,6 +9,7 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 #### 2019-11-03
 
 * Karčios tiesos apie darbą [korporatyvuose](wiki/darbas-karjera-produktyvumas.md#harsh-truths-about-corporate-life)
+* [Pinigai perka laimę](wiki/ekonomika/#pinigai-perka-laime)
 * Straipsnių archyvas: [The Brain On 23](wiki/straipsniai-skaitiniai-istorijos/straipsniu-archyvas/the-brain-on-23.md)
 * [Random internetai](wiki/random-internetai.md)
 * [MealTimeVideos](wiki/mealtimevideos.md#2019-11-03)

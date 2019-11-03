@@ -149,7 +149,6 @@
   * [Valstybės](wiki/pasaulis/valstybes/README.md)
     * [Japonija](wiki/pasaulis/valstybes/japonija.md)
     * [Kinija](wiki/pasaulis/valstybes/kinija.md)
-    * [Rusija](wiki/pasaulis/valstybes/rusija.md)
     * [UK](wiki/pasaulis/valstybes/uk.md)
     * [Vokietija](wiki/pasaulis/valstybes/vokietija.md)
 * [Mokymasis](wiki/mokymasis.md)

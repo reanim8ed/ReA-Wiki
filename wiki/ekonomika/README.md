@@ -6,6 +6,15 @@ description: >-
 
 # Ekonomika / finansai
 
+## Pinigai perka laimę
+
+People say money doesn’t buy happiness, but it does. It’s associated with increased happiness. People are happier with more money at every single point in the continuum, from $10,000 a year to $500,000 a year. Money absolutely buys happiness. The saying should be that money doesn’t guarantee happiness.
+
+I think it’s better to say that money can solve some problems that can lead to unhappiness, rather than it actually buys happiness. There is plenty of research out there which shows things we actually buy really don’t give us any long term departure from our baseline ‘satisfaction’ level.  
+Someone having money and being able to use it to buy a nice car probably won’t make them happy \(other than for a few weeks, then it’s just a car\), but someone having money so they no longer have to deal with a car that breaks down every other week and they have to figure out how to pay to fix it this time, well that will definitely give them some longer term happiness because they’ve eliminated a repeatedly stressful situation.
+
+Money buys freedom, freedom enables happiness, therefore money buys happiness.
+
 ## Automatizavimas
 
 {% embed url="https://www.youtube.com/watch?v=7Pq-S557XQU" %}
