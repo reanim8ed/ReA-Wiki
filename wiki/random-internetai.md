@@ -2,6 +2,7 @@
 
 * Yra nemažai pavyzdžių, kai dabar laikomos klasikinės knygos ar kino filmai nebuvo taip jau gerai vertinami jų išleidimo metu. Pvz už legendinį Kubrick’o siaubo filmą „The Shining“ režisierius buvo nominuotas prasčiausio metų režisieriaus [titului](http://www.wikiwand.com/en/The_Shining_%28film%29#/Initial_reception).
 * To paties namo tokio pačio išplanavimo butai ir skirtingi žmonių gyvenimai: [https://mymodernmet.com/bogdan-girbovan-apartment-series/](https://mymodernmet.com/bogdan-girbovan-apartment-series/)
+* Žmogus, kuris nusipirko „auksinį bilietą“ ir skraidė avialinijomis beveik 30 metų, pakol šį bilietą[ iš jo atėmė](http://nypost.com/2012/05/13/freequent-flier-has-wings-clipped-after-american-airlines-takes-away-his-unlimited-pass/), nes avialinijoms jis kainavo daug daugiau, nei bet kas tikėjosi.
 
 ### Tic Tac reguliacinių taisyklių apžaidimas
 

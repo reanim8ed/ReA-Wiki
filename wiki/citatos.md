@@ -1,6 +1,6 @@
 # Citatos
 
-* Vargu ar gamtos pasaulyje rasi bejėgiškesnę būtybę nei moteris su neišdžiuvusiu nagų laku.
+* The last few days, I’ve been learning not to trust people and I’m glad I’ve failed. Sometimes we depend on other people as a mirror to define us and tell us who we are
 * Česnakas ir druska atskleidžia ir kartono skonį.
 * The only thing scarier than a snarling werewolf or a hissing tarantula are the ideas and feelings they represent.
 * Make no mistake between my personality and my attitude. My personality is who I am, my attitude depends on who you are.

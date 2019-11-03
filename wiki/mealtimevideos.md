@@ -8,6 +8,11 @@
 * Yra išties labai puikių žinomų žinomų žmonių kalbų, skirtų universiteto studentų baigimo progai. Pvz.  Steve Jobs'o "You can’t connect the dots looking forward". Taipogi esu žiūrėjęs ir patiko šmaikščios Elen ir Conan'o kalbos. O šį kartą - [Matt Damon](https://www.youtube.com/watch?v=vj-cK_KfjsI).
 * Japonijos [istorija](https://www.youtube.com/watch?v=Mh5LY4Mz15o)
 * Mėgstame gan lengvai švaistytis fraze "depresija" kai yra tiesiog liūdna, nėra nuotaikos. Video, kuris paaiškina ką iš tiesų reiškia [gyventi depresijoje](https://www.youtube.com/watch?v=EJ_S5Rjt_iI).
+* PC technologijų kanalas Bitwit turėjo labai įdomią iniciatyvą: GTA V online žaidime vežiojo kitus žmones su taxi ir tuo tarpu tiesiog pasikalbėdavo su nepažįstamaisiais. Kartais gaudavosi išties itin [įdomūs ir atviri pokalbiai](https://www.youtube.com/watch?v=Pyfn0QmmG7A).
+* Vieno įdomiausių kino režisierių [dėmesys detalėms](https://www.youtube.com/watch?v=-woNlmVcdjc&feature=youtu.be).
+* Kai draugai idiotai, bet [patys geriausi](https://www.youtube.com/watch?time_continue=355&v=5viXaIJ7S5U).
+* Manau, kad tai geriausias [komandinis šokis](https://www.youtube.com/watch?v=sy4Ogh4TEuI), kurį esu kada matęs.
+* Įprasta retorika - CG filmuose sucks ir geriau naudoti praktinius efektus. Tačiau tai nevisai tiesa, nes CG kino ir serialų pramonėje naudojamas išties labai plačiai ir geras CG filmuose būna ko ne [nepastebimas](https://www.youtube.com/watch?v=bL6hp8BKB24&feature=share).
 
 ### 2019-09-01
 
