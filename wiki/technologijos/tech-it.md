@@ -8,9 +8,9 @@ description: 'https://www.facebook.com/techit.lt'
 
 ### Macbook Pro 16"
 
-* Rekomenduoti įsigyti MacBook'ų tikrai nebegalėjau. Už didelę kainą galėjote įsigyti laptopą, kupimą problemų: pradedant nuo stringančių, nebeveikiančių klaviatūros mygtukų, baigiant perkaistančiu procesoriumi ar "bleadinančiu" ekrano apšvietimu. Rinkoje netrūko kitų, kokybiškų ir mažiau problematiškų pasirinkimų ir Macbook'ai toli gražu nebebuvo geidžiamiausi.
-* Ir štai pagaliau po visų gandų paleistas naujas, šį kartą 16" variantas, kuris pakeis iki šiol buvusį 15" modelį. Nors iš pirmos pažiūros fiziškai pakeitimų neatrodo daug, tačiau tai išties ženklus update'as:  -"upgrade"as atgal į senojo stiliaus klaviatūrą  -grąžintas fizinis esc mygtukas  -talpesnė, in fact didžiausia leistina baterija  -gerokai efektyvesnė aušinimo sistema  -spec bump  -didesnis ekranas su mažesniais rėmeliais  -atnaujinti ir taip gan puikūs buvę garsiakalbiai  -no price bump - kaina lieka, kaip bazinio 15" modelio
-* Po kelerių metų pertraukos pagaliau Apple susitvarkė ir vėl turi išties solidų Mac'ą. Žinoma, jie niekad pigūs nebuvo, tačiau jei tai vertinate - šį kartą savo pinigų gailėtis tikrai neturėtumėt pradėti.
+* Rekomenduoti įsigyti MacBook'ų tikrai nebegalėjau. Paskutinius kelis metus tai buvo tiesiog didelės kainos, tačiau problemų kupini laptopai: pradedant nuo stringančių, nebeveikiančių klaviatūros mygtukų, baigiant perkaistančiu procesoriumi ar "bleadinančiu" ekrano apšvietimu. Rinkoje netrūko kitų, mažiau problematiškų pasirinkimų ir Macbook'ai toli gražu nebebuvo "one of the best choices".
+* Ir štai pagaliau po visų gandų paleistas naujas, šį kartą 16" variantas, kuris pakeis iki šiol buvusį 15" modelį. Nors iš pirmos pažiūros fiziškai pakeitimų neatrodo daug, tačiau tai išties ženklus update'as:  -"upgrade"as atgal į senojo stiliaus klaviatūrą  -grąžintas fizinis esc mygtukas  -talpesnė, in fact didžiausia leistina baterija  -gerokai efektyvesnė aušinimo sistema  -spec bump -didesnis ekranas su mažesniais rėmeliais  -atnaujinti ir taip gan puikūs buvę garsiakalbiai  -no price bump - kaina lieka, kaip bazinio 15" modelio
+* Teko palaukti, bet pagaliau Apple gavo savo "reality check" ir susitvarkė ir vėl turi išties solidų Mac'ą. Žinoma, jie niekad pigūs nebuvo, tačiau jei juos vertinate - šį kartą savo pinigų gailėtis tikrai neturėtumėte pradėti.
 * [https://www.youtube.com/watch?v=FEkYd1qF5Ko](https://www.youtube.com/watch?v=FEkYd1qF5Ko)
 
 ## 2019-10
