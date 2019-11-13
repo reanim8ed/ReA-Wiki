@@ -8,9 +8,9 @@ description: 'https://www.facebook.com/techit.lt'
 
 ### Macbook Pro 16"
 
-* Rekomenduoti įsigyti MacBook'ų tikrai nebegalėjau. Už didelę kainą galėjote įsigyti laptopą, kupimą problemų: pradedant nuo stringančių, nebeveikiančių klaviatūros mygtukų, baigiant perkaistančiu procesoriu ar "bleadinančiu" ekrano apšvietimu.
-* Ir štai pagaliau po visų gandų paleistas 16" variantas. Nors iš pirmos pažiūros fiziškai pakeitimų neatrodo daug, tačiau tai išties ženklus update'as: -"upgrade"as atgal į senojo stiliaus klaviatūrą -grąžintas fizinis esc mygtukas -talpesnė, in fact didžiausia leistina baterija -gerokai efektyvesnė aušinimo sistema -spec bump -didesnis ekranas su mažesniais rėmeliais -atnaujinti ir taip gan puikūs buvę garsiakalbiai -no price bump - kaina lieka, kaip bazinio 15" modelio
-* Po kelerių metų pertraukos pagaliau Apple susitvarkė ir vėl turi išties solidų Mac'ą.
+* Rekomenduoti įsigyti MacBook'ų tikrai nebegalėjau. Už didelę kainą galėjote įsigyti laptopą, kupimą problemų: pradedant nuo stringančių, nebeveikiančių klaviatūros mygtukų, baigiant perkaistančiu procesoriumi ar "bleadinančiu" ekrano apšvietimu. Rinkoje netrūko kitų, kokybiškų ir mažiau problematiškų pasirinkimų ir Macbook'ai toli gražu nebebuvo geidžiamiausi.
+* Ir štai pagaliau po visų gandų paleistas naujas, šį kartą 16" variantas, kuris pakeis iki šiol buvusį 15" modelį. Nors iš pirmos pažiūros fiziškai pakeitimų neatrodo daug, tačiau tai išties ženklus update'as: -"upgrade"as atgal į senojo stiliaus klaviatūrą -grąžintas fizinis esc mygtukas -talpesnė, in fact didžiausia leistina baterija -gerokai efektyvesnė aušinimo sistema -spec bump -didesnis ekranas su mažesniais rėmeliais -atnaujinti ir taip gan puikūs buvę garsiakalbiai -no price bump - kaina lieka, kaip bazinio 15" modelio
+* Po kelerių metų pertraukos pagaliau Apple susitvarkė ir vėl turi išties solidų Mac'ą. Žinoma, jie niekad pigūs nebuvo, tačiau jei tai vertinate - šį kartą savo pinigų gailėtis tikrai neturėtumėt pradėti.
 * [https://www.youtube.com/watch?v=FEkYd1qF5Ko](https://www.youtube.com/watch?v=FEkYd1qF5Ko)
 
 ## 2019-10
