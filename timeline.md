@@ -6,6 +6,10 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 
 ## 2019-11
 
+#### 2019-11-13
+
+* TechIT: [Macbook Pro 16"](wiki/technologijos/tech-it.md#macbook-pro-16)
+
 #### 2019-11-03
 
 * Karčios tiesos apie darbą [korporatyvuose](wiki/darbas-karjera-produktyvumas.md#harsh-truths-about-corporate-life)

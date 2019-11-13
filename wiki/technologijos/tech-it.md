@@ -4,6 +4,15 @@ description: 'https://www.facebook.com/techit.lt'
 
 # TechIT straipsniai
 
+## 2019-11
+
+### Macbook Pro 16"
+
+* Rekomenduoti įsigyti MacBook'ų tikrai nebegalėjau. Už didelę kainą galėjote įsigyti laptopą, kupimą problemų: pradedant nuo stringančių, nebeveikiančių klaviatūros mygtukų, baigiant perkaistančiu procesoriu ar "bleadinančiu" ekrano apšvietimu.
+* Ir štai pagaliau po visų gandų paleistas 16" variantas. Nors iš pirmos pažiūros fiziškai pakeitimų neatrodo daug, tačiau tai išties ženklus update'as: -"upgrade"as atgal į senojo stiliaus klaviatūrą -grąžintas fizinis esc mygtukas -talpesnė, in fact didžiausia leistina baterija -gerokai efektyvesnė aušinimo sistema -spec bump -didesnis ekranas su mažesniais rėmeliais -atnaujinti ir taip gan puikūs buvę garsiakalbiai -no price bump - kaina lieka, kaip bazinio 15" modelio
+* Po kelerių metų pertraukos pagaliau Apple susitvarkė ir vėl turi išties solidų Mac'ą.
+* [https://www.youtube.com/watch?v=FEkYd1qF5Ko](https://www.youtube.com/watch?v=FEkYd1qF5Ko)
+
 ## 2019-10
 
 ### Pixel 4
