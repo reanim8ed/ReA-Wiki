@@ -1,5 +1,11 @@
 # MealTimeVideos
 
+### 2019-12-09
+
+* Barcelonos Sagrada Familia yra ne tik vienas įspūdingiausių architektūros pavyzdžių, bet taipogi ir ko gero ilgiausiai vis dar ongoing statybos projektas pasaulyje. 
+* Bažnyčios įprastai nėra man itin didelio įspūdžio paliekantys objektai, tačiau turiu pripažinti, kad Sagrados vidus išties atrodo įspūdingai. Pradedant nuo milžiniškų medžių kamienus primenančių kolonų ar neįtikėtinai aukštų lubų, baigiant visų vaivorykštės spalvų žaismu, kuris užpildo bažnyčios vidų. Tai be abejonės tapo įsimintiniausia bažnyčia, kurioje esu buvęs, net ir neskaitant išties didelio žmonių srauto.
+* Šis [Real Engineering video](https://youtu.be/kkNGdzo_3EA) paaiškina kodėl šio projekto statybos trunka jau 137-erius metus.
+
 ### 2019-11-03
 
 * Video esė, apie tai, kas padaro Pixar kuriamas istorijas tokias [relatable](https://www.youtube.com/watch?v=xTM-AdrIpaE).

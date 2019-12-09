@@ -4,6 +4,12 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 
 # Timeline
 
+## 2019-12
+
+#### 2019-12-09
+
+* Ko gero vienas ilgiausiai vis dar tebe vykstančių statybos projektų pasaulyje - [Sagrada Familia](wiki/mealtimevideos.md#2019-12-09)
+
 ## 2019-11
 
 #### 2019-11-13
