@@ -6,6 +6,10 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 
 ## 2019-12
 
+#### 2019-12-13
+
+* TechIT: [35 000$ Mac'as](wiki/technologijos/tech-it.md#35-000usd-macas)
+
 #### 2019-12-09
 
 * Ko gero vienas ilgiausiai vis dar tebe vykstančių statybos projektų pasaulyje - [Sagrada Familia](wiki/mealtimevideos.md#2019-12-09)
