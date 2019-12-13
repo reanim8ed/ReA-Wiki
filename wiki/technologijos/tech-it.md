@@ -6,6 +6,13 @@ description: 'https://www.facebook.com/techit.lt'
 
 ## 2019-12
 
+### Decentralizuotas soc. tinklas
+
+* Kiekviena nauja social platforma, kuri sugalvoja kokį naują formatą, eventually būna nukopijuojama didžiųjų ar tiesiog nuperkama. Tad realios konkurencijos tiesiog nėra ir joks kitas tinklas niekaip netaps "Facebook killer'iu". Pastaruosius kelis metus kartoju idėją, jog vienintelis tikrai masyvus shif'tas galimas nebent tik su decentralizuota sistema. "The new internet, guys".
+* Dabartinės social media pagrindinis fokusas jau senokai yra ne turinio talpinimas, o rekomendacijų algoritmai. Tačiau jie uždari ir dėlto viena konkreti kompanija įgauna galią spręsti ką konkrečiai jūs pamatysite, kam ir kiek dėmesio ar laiko skirsite. Kadangi įsitraukimas ir vartotojo išlaikymas tokio pobūdžio platformoje tampa pagrindiniais rodikliais, tai skatina vis daugiau fokusuotis į kontroversišką turinį ir diskusijas, nes jos išties efektyviai veikia ir įtraukia vartotojus.
+* Ir štai Twitterio CEO atskleidė planus sukurti decentralizuotą standartą, skirtą social media platformoms. Pradinė šio, blockain'u pastaruoju metu itin susidomėjusio CEO, mintis tikrai nėra bloga. Jis pripažįsta, kad tokio standarto sukūrimas pareikalaus išties nemažai darbo ir gali prireikti ne vienerių metų. Tačiau nereikia pamiršti, kad tai žmogus, kurio sukurta platforma pradžioje buvusi išties atvira ir pritraukusi daugybę developerių, didžiąją dalį to atvirumo nurėžė it kirviu. Tad dėl jo intencijų galima ir sudvejoti.
+* [https://twitter.com/jack/status/1204766078468911106](https://twitter.com/jack/status/1204766078468911106) 
+
 ### 35 000$ Mac'as
 
 * Media pradėjo štampuoti straipsnius jog naujasis Apple kompiuteris kainuoja net 53 000$. Taip, techniškai tokios sensacingos antraštės yra teisios - max konfigūracijos kaina išties gali siekti Tesla Model 3 long-range varianto kainą. 

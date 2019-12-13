@@ -9,6 +9,7 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 #### 2019-12-13
 
 * TechIT: [35 000$ Mac'as](wiki/technologijos/tech-it.md#35-000usd-macas)
+* TechIT: [Decentralizuotas soc.tinklas](wiki/technologijos/tech-it.md#decentralizuotas-soc-tinklas)
 
 #### 2019-12-09
 
