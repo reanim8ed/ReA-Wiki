@@ -10,6 +10,7 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 
 * TechIT: [35 000$ Mac'as](wiki/technologijos/tech-it.md#35-000usd-macas)
 * TechIT: [Decentralizuotas soc.tinklas](wiki/technologijos/tech-it.md#decentralizuotas-soc-tinklas)
+* Programavimas: [Symfony](wiki/programavimas/php/symfony.md)
 
 #### 2019-12-09
 
@@ -266,7 +267,7 @@ Tinklaraščio migracija:
 
 * [HOTorNOT ](wiki/mealtimevideos.md#2019-07-24)socialinis tinklas
 * [Apie FaceApp](wiki/straipsniai-skaitiniai-istorijos/#faceapp)
-* Pridėta [PHP ](wiki/programavimas/php.md)skiltis
+* Pridėta [PHP ](wiki/programavimas/php/)skiltis
 * [Sovietų super lėktuvas](wiki/istorija/#soviet-super-l-ktuvas)
 * Daugumai nepatinka dainuoti "[Su gimimo diena](wiki/showerthoughts.md#2019-07-24)"
 
