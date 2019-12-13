@@ -11,6 +11,7 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 * TechIT: [35 000$ Mac'as](wiki/technologijos/tech-it.md#35-000usd-macas)
 * TechIT: [Decentralizuotas soc.tinklas](wiki/technologijos/tech-it.md#decentralizuotas-soc-tinklas)
 * Programavimas: [Symfony](wiki/programavimas/php/symfony.md)
+* MealTimeVideos: [video žaidimų kalba](wiki/mealtimevideos.md#2109-12-13)
 
 #### 2019-12-09
 
