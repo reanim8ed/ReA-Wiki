@@ -14,6 +14,7 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 * MealTimeVideos: [video žaidimų kalba](wiki/mealtimevideos.md#2109-12-13)
 * Straipsnių archyvas: [Kodėl jauni žmonės neturi darbo ir ką daryti, kad tu jį visuomet turėtum?](wiki/straipsniai-skaitiniai-istorijos/straipsniu-archyvas/kod-l-jauni-zmon-s-neturi-darbo-ir-ka-daryti-kad-tu-j-visuomet-tur-tum.md)
 * Straipsnių archyvas: [Privalai pradėti investuoti. Dabar](wiki/straipsniai-skaitiniai-istorijos/straipsniu-archyvas/privalai-pradeti-investuoti-dabar.md)
+* Straipsnių archyvas: [Niekam neįdomu, kiek daug tu dirbi](wiki/straipsniai-skaitiniai-istorijos/straipsniu-archyvas/niekam-neidomu-kiek-daug-tu-dirbi.md)
 
 #### 2019-12-09
 

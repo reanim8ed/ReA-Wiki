@@ -177,6 +177,7 @@
   * [Straipsnių archyvas](wiki/straipsniai-skaitiniai-istorijos/straipsniu-archyvas/README.md)
     * [Ilga blevyzga apie visas gyvenimo vasaras](wiki/straipsniai-skaitiniai-istorijos/straipsniu-archyvas/ilga-blevyzga-apie-visas-gyvenimo-vasaras.md)
     * [Kodėl jauni žmonės neturi darbo ir ką daryti, kad tu jį visuomet turėtum](wiki/straipsniai-skaitiniai-istorijos/straipsniu-archyvas/kod-l-jauni-zmon-s-neturi-darbo-ir-ka-daryti-kad-tu-j-visuomet-tur-tum.md)
+    * [Niekam neįdomu, kiek daug tu dirbi](wiki/straipsniai-skaitiniai-istorijos/straipsniu-archyvas/niekam-neidomu-kiek-daug-tu-dirbi.md)
     * [Pasikutenkim jausmus, 90-ųjų vaikai](wiki/straipsniai-skaitiniai-istorijos/straipsniu-archyvas/pasikutenkim-jausmus-90-ju-vaikai.md)
     * [Peter Pan generation](wiki/straipsniai-skaitiniai-istorijos/straipsniu-archyvas/peter-pan-generation.md)
     * [Privalai pradėti investuoti. Dabar](wiki/straipsniai-skaitiniai-istorijos/straipsniu-archyvas/privalai-pradeti-investuoti-dabar.md)
