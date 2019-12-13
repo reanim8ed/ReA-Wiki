@@ -12,6 +12,8 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 * TechIT: [Decentralizuotas soc.tinklas](wiki/technologijos/tech-it.md#decentralizuotas-soc-tinklas)
 * Programavimas: [Symfony](wiki/programavimas/php/symfony.md)
 * MealTimeVideos: [video žaidimų kalba](wiki/mealtimevideos.md#2109-12-13)
+* Straipsnių archyvas: [Kodėl jauni žmonės neturi darbo ir ką daryti, kad tu jį visuomet turėtum?](wiki/straipsniai-skaitiniai-istorijos/straipsniu-archyvas/kod-l-jauni-zmon-s-neturi-darbo-ir-ka-daryti-kad-tu-j-visuomet-tur-tum.md)
+* Straipsnių archyvas: [Privalai pradėti investuoti. Dabar](wiki/straipsniai-skaitiniai-istorijos/straipsniu-archyvas/privalai-pradeti-investuoti-dabar.md)
 
 #### 2019-12-09
 
