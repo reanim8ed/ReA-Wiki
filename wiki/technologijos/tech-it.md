@@ -19,8 +19,6 @@ description: 'https://www.facebook.com/techit.lt'
 * Na bet calm your tits bent truputį: jei esate toks savo srities profesionalas, kuriam išties reikia kompiuteryje turėti 1.5TB ECC ram'ų už 25000$, 4TB SSD ar net dvi Radeon Pro Vega II Duo vaizdo plokštes, viso turinčias 64GB atminties, tai tikriausiai tokia kaina už kompiuterį jūsų gąsdinti tikrai neturėtų. Tokios max komplektacijos pagrindinis fokusas iš tiesų yra didžiosios media production kompanijos, kurioms tokios išlaidos už įrangą, bendrame jų veiklos kontekste, net nėra didelės.
 * [https://appleinsider.com/articles/19/12/10/a-maxed-out-mac-pro-will-cost-you-53000----without-display](https://appleinsider.com/articles/19/12/10/a-maxed-out-mac-pro-will-cost-you-53000----without-display)
 
-
-
 ## 2019-11
 
 ### Macbook Pro 16"
