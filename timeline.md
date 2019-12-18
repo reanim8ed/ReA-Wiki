@@ -6,6 +6,10 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 
 ## 2019-12
 
+#### 2019-12-19
+
+* Filmai: [Weathering With You](wiki/filmai/atsiliepimai.md#tenki-no-ko-weathering-with-you-2019)
+
 #### 2019-12-13
 
 * TechIT: [35 000$ Mac'as](wiki/technologijos/tech-it.md#35-000usd-macas)
