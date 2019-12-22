@@ -6,6 +6,10 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 
 ## 2019-12
 
+#### 2019-12-22
+
+* Muzikos Virtuvė: [New ukrainian hip hop wave](wiki/muzikos-virtuve.md#new-ukrainian-hip-hop-wave)
+
 #### 2019-12-19
 
 * Filmai: [Weathering With You](wiki/filmai/atsiliepimai.md#tenki-no-ko-weathering-with-you-2019)
