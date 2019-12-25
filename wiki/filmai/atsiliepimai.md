@@ -1,19 +1,5 @@
 # Atsiliepimai apie filmus
 
-### [Tenki no Ko / Weathering with You \(2019\)](https://myanimelist.net/anime/38826/Tenki_no_Ko)
-
-* Po to, kai 2010-ais pamačiau 5 Centimeters per Second, tai ne tik tapo mano mėgstamiausiu anime filmu, tačiau ir atkreipė dėmesį į Makoto Shinkai. Režisierius, kuris fokusuojasi į melancholiškas atstumo apribotas romantines istorijas, bei kuris daug dėmesio skiria itin detaliems ir fotorealistiškiems aplinkos ir miestų peizažams. Jo darbai yra tokie eye-candy, kad žiūrint filmą galima sustabdyti ko ne bet kurioje vietoje ir greičiausiai pataikysite ant kadro, kurį drąsiai būtų galima pasidaryti wallpaperiu ar atvirute. [5 background wallpapers per second](https://www.google.com/search?q=makoto+shinkai+wallpapers&sxsrf=ACYBGNQb7jgsWdRWQJdev9naKsA-JfX-Mw:1576706582306&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiRjoPemcDmAhVBpYsKHTBYCjsQ_AUoAXoECCAQAw&biw=2048&bih=1019). Kiti darbai, kaip She and Her Cat, Voices of the distant star, Garden of the Words ar tas pats Your Name tik dar labiau tai solidifavo ir ko gero nesuklysiu pavadindamas jį savo labiausiai mėgstamu šiuolaikiniu kurėju anime instrustrijoje.
-* Ir štai, naujasis jo filmas Weathering with You. Manau, kad jis pasmerktas nukentėti nuo kultinės paskutiniojo filmo sėkmės. Kartelė ir lūkesčiai išaugo iki tokio lygio, jog juos pilnai pateisinti ko gero nelabai buvo įmanoma. Taip jau nutinka, kai sukuri 10/10 savo storytelling'u siekiantį darbą, kuris moka puikiai balansuoti tarp to kas atrodo tikra ir siurrealu ir visos detalės eigoje tarpusavyje susipina ir galiausiai susiveda į puikią ir fokusuotą istoriją.
-* Kaip ir reikia tikėtis, šio filmo animacijos stilius nuostabus ir yra aukščiausios kokybės. Makoto mėgsta savo filmuose lietaus scenas ir kadangi šio filmo siužetas sukasi būtent apie tai, jo išties netrūksta. Manau, kad lietaus scenos šiame filme lenkia net ir Garden of the Words.
-* Man patiko, kad filme nebuvo vengta branding'o ir buvo smagu akimis gaudyti, pastebėti atpažįstamus kasdienius logotipus. Taipogi komedijiniai intarpai nors ir paprasti, bet buvo išties aiškūs, šmaikštūs ir jų nebuvo per daug.
-* Neįprasta matyti ir nuotykines scenas, nes įprastai šio režisieriaus darbai būna ganėtinai lėti ir veiksmas įgauna pagreičio nebent tik nuo atleidžiamos įtampos po draminės atomazgos. Manau, kad tai susiję su tuo, kad autoriaus vardas tapo žinomu ir filmai, keliauja į kino teatrus. Dėmesio pritraukimui tuomet veiksmas yra gan būtinas.
-* Tačiau visgi silpnesnė filmo dalis šį kartą tampa siužetas. Formulė labai panaši: romantinė istorija
-
-  supinta su mitais ir supernatural elementais, kuri komplikuojasi dėl aplinkybių. Galbūt atsiranda kartojimosi, bet tikroji problema išties yra ta, jog pritrūko nuoseklumo ir fokuso. 
-
-* Pvz žiūrint į pagrindinius veikėjus: ne iki galo paaiškinta motyvacija, pritrūko veikėjų ir jų praeities išvystymo, taipogi merginos drama atsiranda tarsi iš niekur, o dėlto sumenksta šios istorijos dalies reikšmingumas. Netrūksta ir gan nemažų siužeto detalių, kurios taip ir nėra išplėtojamos ir galiausiai pasirodė praktiškai nereikšmingos. Pojūtis toks, jog istorija ar veikėjai taip pilnai ir netapo realizuoti. Galbūt dėlto, jog jiems pritrūksta tikslo, krypties ir realios rezoliucijos.
-* Overall filmas tikrai neblogas ir sakyčiau, kad pastarieji Shinkai darbai sukasi aplink idėją, jog negali kovoti prieš natūralius veiksnius, gamtą, gali tik adaptuotis prie jos. Ir pastarojo dešimtmečio Japonijos patirtos stichinės nelaimės tikriausiai labai gerai tai iliustruoja.
-
 ### [The Sunset Limited \(2011\)](https://www.imdb.com/title/tt1510938/?ref_=ttqt_qt_tt)
 
 * Filmas, kuriame du veikėjai įsivelia į filosofinius debatus ir dvasinę kovą apie pozityvumą vs pesimistinę desperaciją/cinizmą, apie tikėjimą vs ateizmą, apie individualizmą ir skirtingus požiūrius į gyvenimą ir gyvenimo pagrįstumą.

@@ -30,3 +30,25 @@ Plagijavimas yra tada, kai tiesiog pasisavinamas kito žmogaus darbas. O jei pam
 
 _We live in the minds we don't understand but one doesn't have to understand the machine to determine the optimal conditions for use. It just takes a bit of experimentation and self observation._
 
+## Inovacijos
+
+Jeff Bezos once said:
+
+> Invention requires a long-term willingness to be misunderstood. You do something that you genuinely believe in, that you have conviction about, but for a long period of time, well-meaning people may criticize that effort … if you really have conviction that they’re not right, you need to have that long-term willingness to be misunderstood. It’s a key part of invention.
+
+Big breakthroughs typically follow a seven-step path:
+
+* First, no one’s heard of you. 
+* Then they’ve heard of you but think you’re nuts. 
+* Then they understand your product, but think it has no opportunity. 
+* Then they view your product as a toy. 
+* Then they see it as an amazing toy. 
+* Then they start using it. 
+* Then they couldn’t imagine life without it. 
+
+This process can take decades. It rarely takes less than several years.
+
+It takes a brilliance to change the world. It takes something else entirely to wait patiently for people to notice.
+
+It takes 30 years for a new idea to seep into the culture. Technology does not drive change. It is our collective response to the options and opportunities presented by technology that drives change.
+
