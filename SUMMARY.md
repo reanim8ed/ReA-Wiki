@@ -124,6 +124,7 @@
 * [Istorija](wiki/istorija/README.md)
   * [44 pragaro dienos](wiki/istorija/44-pragaro-dienos.md)
   * [Baychimo – laivas vaiduoklis, nenorėjęs nuskęsti](wiki/istorija/baychimo-laivas-vaiduoklis-nenorejes-nuskesti.md)
+  * [Dešimtmečio prognozės](wiki/istorija/desimtmecio-prognozes.md)
   * [Visų laikų ieškomiausias bankų plėšikas](wiki/istorija/visu-laiku-ieskomiausias-banku-plesikas.md)
   * [Visų laikų pavojingiausias – Ivanas](wiki/istorija/visu-laiku-pavojingiausias-ivanas.md)
   * [Žudynės mokyklų koridoriuose](wiki/istorija/zudynes-mokyklu-koridoriuose.md)
