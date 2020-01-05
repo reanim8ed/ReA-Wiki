@@ -25,6 +25,7 @@ Viena dažniausiai pasikartojančių nuomonių buvo tai, jog Microsoft nueis vel
 * Judėjimą mieste smarkiai transformuos elektrinės personalinės transporto priemonės, tapusios multi-milijardiniu verslu
 * Dalijimosi ekonomikos bumas \(Uber, AirBnB\)
 * Masinio vyriausybinio žmonių šnipinėjimo atskleidimas
+* Media industriją nuo piratavimo išgelbės subscription modelis
 * Streaming servisų sėkmė ir jų finansuojamų projektų kokybės šuolis iki prestižiškiausių kino apdovanojimų pelnymo
 * Sulėtėjęs žmonių gyvenimus keičiančių technologijų atsiradimas \(manau, kad 90&gt;00 ir 00&gt;10 technologijos mūsų gyvenimus pakeitė labiau, nei paskutinis dešimtmetis\)
 * Facebook, Google ir Youtube išliks dominuojančios platformos
