@@ -15,7 +15,7 @@ Hacker News man tapo viena iš interneto constantų. Daug servisų įgauna pagre
 
 Taigi, lygiai prieš 10 metų šioje sistemoje buvo sukurta [tema](https://news.ycombinator.com/item?id=1025681), kurioje žmonės pateikinėjo savo dešimtmečio prognozes. Buvo išties labai įdomu pamatyti tokią laiko kapsulę ir žvilgtelti, kokius pokyčius žmonės tuomet įsivaizdavo.
 
-### 2010-1020
+### 2010-2020
 
 Viena dažniausiai pasikartojančių tech specialistų nuomonių buvo tai, jog Microsoft nueis velniop ir praradusi savo rinkos pozicijas, susitrauks ir taps IBM stiliaus konsultacijų bendrove, kurios šlovės dienos jau tik tolimoje praeityje. Lygiai taip pat dauguma dalykų apie ką galvojo žmonės tądien, tapo visiškai neesminiais ir šauta visiškai pro šalį.  Praktiškai niekas nė negalėjo numatyti tokių mūsų kasdienybe tapusių aspektų, kaip kad:
 
