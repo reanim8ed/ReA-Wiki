@@ -17,8 +17,9 @@ Taigi, lygiai prieš 10 metų šioje sistemoje buvo sukurta [tema](https://news.
 
 ### 2010-2020
 
-Viena dažniausiai pasikartojančių tech specialistų nuomonių buvo tai, jog Microsoft nueis velniop ir praradusi savo rinkos pozicijas, susitrauks ir taps IBM stiliaus konsultacijų bendrove, kurios šlovės dienos jau tik tolimoje praeityje. Lygiai taip pat dauguma dalykų apie ką galvojo žmonės tądien, tapo visiškai neesminiais ir šauta visiškai pro šalį.  Praktiškai niekas nė negalėjo numatyti tokių mūsų kasdienybe tapusių aspektų, kaip kad:
+Viena dažniausiai pasikartojančių tech specialistų nuomonių buvo tai, jog Microsoft nueis velniop ir praradusi savo rinkos pozicijas, susitrauks ir taps IBM stiliaus konsultacijų bendrove, kurios šlovės dienos jau tik tolimoje praeityje. Lygiai taip pat dauguma ir kitų spėlionių tapo visiškai pro šalį, o praktiškai niekas nė negalėjo numatyti tokių mūsų kasdienybe tapusių aspektų, kaip kad:
 
+* Microsoft laikysis geriau, nei bet kada
 * Bitcoin'as taps absoliučiai sėkmingiausia dešimtmečio investicine priemone
 * JAV prezidentas diktuos užsienio politiką per Twitter žinutes
 * Judėjimą mieste smarkiai transformuos elektrinės personalinės transporto priemonės, tapusios multi-milijardiniu verslu
