@@ -4,10 +4,6 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 
 # Timeline
 
-## 2020-01
-
-* Istorija: [Dešimtmečio prognozės](wiki/istorija/desimtmecio-prognozes.md)
-
 ## 2019-12
 
 #### 2019-12-24
