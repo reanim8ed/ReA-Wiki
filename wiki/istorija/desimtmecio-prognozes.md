@@ -9,7 +9,7 @@ description: >-
 
 Daugumai patinka paspelioti kas bus ateityje. Žinoma, dauguma tokių spelionių būna visiškai pro šalį. Niekas negali nuspėti netikėtų politinių polinkių, stichinių nelaimių, madų ir socialinių normų. Tikimasi pastovaus technologinio progreso, pamirštant jog susiduriama su fiziniais ar teisiniais apribojimais. Dažnu atveju pasikeičia fokusas ir tai, kas šiai dienai atrodo itin svarbu, ateityje pasisuka į visiškai kitą kryptį. Pvz. žmonės stebėję space race galėjo būti pilnai įsitikinę, jog 2020-ieji pasitinkami bus ir mėnulyje esančioje bazėje. Būtent dėlto 68-ųjų Kosmoso Odisėjos veiksmas ir vyksta 2001-aisiais metais.
 
-Tačiau turint prognozes, kaip viskas klostysis ateityje, su laiku mūsų lūkesčiai keičiasi ir užsimirštame ko gi tikėjomės anksčiau.
+Tačiau nors ir turime tam tikras prognozes, su laiku mūsų lūkesčiai keičiasi ir užsimirštame ko gi tikėjomės anksčiau. Dėlto tas mintis yra naudinga išsisaugoti.
 
 Hacker News man tapo viena iš interneto constantų. Daug servisų įgauna pagreitį, tampa hyper populiarūs ir vėliau staiga jų populiarumas nuslūgsta. Tuo tarpu HN turėjo savo stabilią bendruomenę, su pakankamai civilizuotomis ir plačiomis diskusijomis prieš 10 metų, taip lygiai tuo pačiu pasižymi ir dabar. Viena iš tų retesnių vietų internete, kur galima ramiai pasiskaitinėti išties įdomias diskusijas tarp technologijų specialistų. Žinoma, net ir ten dažnokai prašaunama pro šalį - vienas iš geriausių pavyzdžių, kai buvo pristatytas Dropbox ir bendra nuomonė buvo gan kritiška, didžioji dauguma neįžvelgė tokio serviso perspektyvų ir teigė, kad tokį patį rezultatą jau senai buvo galima pasiekti su jau turimais įrankiais.
 
