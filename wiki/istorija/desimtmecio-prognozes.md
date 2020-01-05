@@ -27,7 +27,7 @@ Viena dažniausiai pasikartojančių nuomonių buvo tai, jog Microsoft nueis vel
 * Masinio vyriausybinio žmonių šnipinėjimo atskleidimas
 * Media industriją nuo piratavimo išgelbės subscription modelis
 * Streaming servisų sėkmė ir jų finansuojamų projektų kokybės šuolis iki prestižiškiausių kino apdovanojimų pelnymo
-* Sulėtėjęs žmonių gyvenimus keičiančių technologijų atsiradimas \(90-00 - milžiniškas PC adoption ir skaitmenizavimas, 00-10 - smartphone'ai ir social tinklai, 10-20 - tiesiog turimų technologijų iteracijos\)
+* Sulėtėjęs žmonių gyvenimus keičiančių technologijų atsiradimas \(90-&gt;00 - milžiniškas PC adoption ir visų gyvenimo sričių skaitmenizavimas, 00-&gt;10 - smartphone'ai ir social tinklai, 10-&gt;20 - tiesiog turimų technologijų iteracijos\)
 * Facebook, Google ir Youtube išliks dominuojančios platformos
 * iOS ir Android taip ir liks dvi dominuojančios mobiliosios OS.
 
