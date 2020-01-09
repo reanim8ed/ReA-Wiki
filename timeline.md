@@ -6,6 +6,12 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 
 ## 2020-01
 
+#### 2019-10-09
+
+* TechIT: [Peak Samsung TV](wiki/technologijos/tech-it.md#peak-samsung-tv)
+
+#### 2019-01-05
+
 * Istorija: [Dešimtmečio prognozės](wiki/istorija/desimtmecio-prognozes.md)
 
 ## 2019-12
