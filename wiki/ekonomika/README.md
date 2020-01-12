@@ -6,6 +6,22 @@ description: >-
 
 # Ekonomika / finansai
 
+## Atsakas į Baltic Mustache: išlaidų apgalvojimas
+
+Kuo toliau, tuo pinigus išleisti yra vis paprasčiau. Liečiamos kortelės, apple pay. Perbrauki ir toliau eini,. ⁠ Įdomu, ar pagalvojate prieš pirkdami? O gal net pagaunate save po keletos minučių, kad nežinote kiek sumokėjote? ⁠ ⁠ Net mažos išlaidos, laikui bėgant, gali tapti rimtomis sumomis. Bet ką jau kalbėti apie stambesnius pirkinius virš 50€ ar 100€. Per keletą metų įsitikinau, kad skaičiavimas ir pagalvojimas padeda tiksliau įvertinti savo poreikius bei pirkinius. Ir kas be ko, neišleisti dar vieno šimto. Tiesą pasakius, mano rutinoje nebėra neplanuotų pirkinių, nes kai tik kažko užsinoriu, leidžiu sau keletą dienų apie tai pagalvoti. Dažniausiai po keletų dienų sakau ačiū sau, kad pagalvojau ir nenusipirkau dar vieno mažai reikalingo daikto. ⁠
+
+**A:**  
+Tai iš esmės yra japoniško taupymo metodo, vadinamo kakeibo principai. Pirmiausia tai visas pinigų judėjimas pildomas ranka į žurnalą. O taipogi prieš padarant bet kokį nebūtiną pirkinį turi būti atsakomi klausimai, kaip pvz: ar iš tiesų naudosiu šį daiktą, ar galiu šią akimirką jį sau leisti ar visgi yra labiau prioritetinių pirkinių, kaip apie jį sužinojau, apie jį galvojau jau ilgą laiką ar tiesiog apėmė impulsas nusipirkti pamačius parduotuvėje, taipogi kaip šiuo metu jaučiuosi ir kaip jausiuosi jį nusipirkęs. Šitos sistemos efektyvumas yra, nes forsina galvoti išanksto apie pirkinius ir jų pirkimo motyvaciją, padeda išgryninti privalomus pirkinius nuo norų ir to pasekoje išleidi kur kas mažiau.
+
+**Q:**  
+O geras, apie Kakeibo metodą nežinojau. Rašiau remdamasis tiesiog savo praktika. Dėkui. Gal yra kažkokia knyga apie tai?
+
+**A:**  
+Manau, kad jeigu išsivystai kažkokius esminius principus, tai jei jie yra išties fundamentalūs, tai tikriausiai jau buvo išgryninti ir plačiai aprašyti kitų protingų žmonių. Tiesiog tereikia paieškoti to literatūroje. Taip ir šitu atveju - kakeibo jau egzistuoja maždaug 115 metų ;\) Tos bazinės gerosios praktikos jos laikui bėgant nekinta. Vat būtent dėlto 'How to win friends and influence people' buvo aktuali knyga prieš 80 metų ir savo aktualumo visiškai nepraradusi dar ir dabar.  
+Na bet manau, kad kai pats savarankiškai prieini tų pačių išvadų, tuomet įpročiai būna priimami daug giliau ir daug lengviau išlieka, nei tiesiog būtum perskaitęs random knygoje. Tokios knygos naudingos tada, kai jau turi panašią bazę asmeninių principų, o tada gali praplėsti savo požiūrį pasiskaičius daugiau apie tai.  
+Knygų apie kakeibo tikrai yra ir galima rasti amazonėj.  
+O čia galima bent jau susipažinti su pačiu principu: [https://www.cnbc.com/2020/01/08/how-this-japanese-method-of-saving-money-changed-my-lifeand-made-me-richer.html](https://www.cnbc.com/2020/01/08/how-this-japanese-method-of-saving-money-changed-my-lifeand-made-me-richer.html) 
+
 ## Pinigai perka laimę
 
 People say money doesn’t buy happiness, but it does. It’s associated with increased happiness. People are happier with more money at every single point in the continuum, from $10,000 a year to $500,000 a year. Money absolutely buys happiness. The saying should be that money doesn’t guarantee happiness.

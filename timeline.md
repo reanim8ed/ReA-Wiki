@@ -6,6 +6,10 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 
 ## 2020-01
 
+#### 2019-01-11
+
+* Finansai: Atsakas į Baltic Mustache - [išlaidų apgalvojimas](wiki/ekonomika/#atsakas-baltic-mustache-islaid-apgalvojimas)
+
 #### 2019-01-10
 
 * Karjera: Atsakas į klausimą "[Ar norint turėti programuotojo karjerą užtenka kolegijos?](wiki/programavimas/karjera.md#atsakas-klausima-ar-norint-tureti-programuotojo-karjera-uztenka-kolegijos)"
