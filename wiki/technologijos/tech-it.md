@@ -4,13 +4,6 @@ description: 'https://www.facebook.com/techit.lt'
 
 # TechIT straipsniai
 
-## 2020-01
-
-### Peak Samsung TV
-
-* CES 2020 parodoje Samsung pademonstravo savo "peak TV". Su 8K ir 120Hz jau nebenustebinsi, tad Samsung'as pagamino 292 colių sieną. Ją taip ir pavadinino - The Wall. Šį milžinišką ekraną sudaro 8x8 MicroLED technologiją naudojantys moduliai, kurių kiekvieno kaina siekia 16k, o bendros energijos sąnaudos 10kWh. 
-* [https://i.redd.it/i7ug8vbi7r941.jpg](https://i.redd.it/i7ug8vbi7r941.jpg)
-
 ## 2019-12
 
 ### Decentralizuotas soc. tinklas

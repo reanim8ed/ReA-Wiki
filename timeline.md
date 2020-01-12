@@ -6,7 +6,11 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 
 ## 2020-01
 
-#### 2019-10-09
+#### 2019-01-10
+
+* Karjera: Atsakas į klausimą "[Ar norint turėti programuotojo karjerą užtenka kolegijos?](wiki/programavimas/karjera.md#atsakas-klausima-ar-norint-tureti-programuotojo-karjera-uztenka-kolegijos)"
+
+#### 2019-01-09
 
 * TechIT: [Peak Samsung TV](wiki/technologijos/tech-it.md#peak-samsung-tv)
 
