@@ -4,12 +4,6 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 
 # Timeline
 
-## 2020-02
-
-#### 2020-02-02
-
-* TechIT: [Apple finansiniai rezultatai](wiki/technologijos/tech-it.md#apple-finansiniai-rezultatai)
-
 ## 2020-01
 
 #### 2019-01-11
