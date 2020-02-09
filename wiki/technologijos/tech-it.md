@@ -6,6 +6,19 @@ description: 'https://www.facebook.com/techit.lt'
 
 ## 2020-02
 
+### Didžiausias darbo iš namų eksperimentas Kinijoje
+
+* Įdomu, kaip viruso epidemija Kinijoje kelia bangas skirtinguose IT segmentuose. 
+* Pirmiausia - tai yra didžiausias kada nors vykęs darbo iš namų eksperimentas. Net tos organizacijos, kurioms įprastai tai nėra priimtina, kaip logistikos, draudimo, teisės, vyriausybės, finansinės institucijos ar net pvz mokyklos - dabar yra priverstos imtis darbo iš namų ir virtualios komunikacijos.
+* To pasekoje didžiausių Kinijos IT kompanijų, kaip kad Alibaba, Tencent, ar Baidu video chat'ų ir koloboracijos apps'ai staiga pasiekė didžiausias kada nors turėtas apkrovas, tad nenuostabu, jog serveriai tiesiog crashina. 
+* Tuo tarpu co-working erdvės susiduria su išties sunkiu laikotarpiu, kai pajamos itin smarkiai stojo, o kada lankomumas atsigaus - dar visiška nežinia. Tad šio laikotarpio pabaigos nemaža dalis jų gali ir nebesulaukti.
+* [https://www.bloomberg.com/news/articles/2020-02-02/coronavirus-forces-world-s-largest-work-from-home-experiment](https://www.bloomberg.com/news/articles/2020-02-02/coronavirus-forces-world-s-largest-work-from-home-experiment)
+
+### Google Maps hack'as
+
+* "99 second hand smartphones are transported in a handcart to generate virtual traffic jam in Google Maps. Through this activity, it is possible to turn a green street red which has an impact in the physical world by navigating cars on another route to avoid being stuck in traffic."
+* [http://www.simonweckert.com/googlemapshacks.html](http://www.simonweckert.com/googlemapshacks.html)
+
 ### Apple finansiniai rezultatai
 
 * Kai Apple investuotojams pateikia savo veiklos rezultatus, praktiškai visada tai būna "rekordinis ketvirtis". Tačiau to nepaisant ir panagrinėjus pateikiamą informaciją, galima pasidaryti visai įdomių įžvalgų:
