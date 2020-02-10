@@ -53,6 +53,12 @@ Podcast'ų klausymui yra išties nemažai gerų programų, tačiau pagrindinis m
 
 ## Perklausos
 
+### 2020-02
+
+* [Garrett Reisman](https://www.youtube.com/watch?v=3RG5pXTpLBI) - buvęs NASA astronautas, astronautikos inžinerijos profesorius ir SpaceX konsultantas pasakoja apie savo patirtis 2 savaites gyvenant vandenyno dugne, apie tai, jog Battlestar Galactica serialą jis žiūrėjo būdamas tarptautinėje kosmoso stotyje ir apie tai, kaip buvo nusivylęs, kai pirmą kartą pamatė žemę iš kosmoso.
+
+{% embed url="https://youtu.be/wMyRjES1lII" %}
+
 ### 2019 - 09
 
 * [John Carmack](https://www.youtube.com/watch?v=udlMSe5-zP8) programuotojų, inžinierių ir developerių tarpuose pristatinėti nereikia, jis jau ir taip yra legenda. Tikrai planuoju paskaityti [Masters of Doom](https://www.amazon.com/Masters-Doom-Created-Transformed-Culture/dp/0812972155), o iki to laiko - interviu pas Joe Rogan'ą, kuriame kalbama apie AI, VR, raketas ir turbo boosted ferrarius.

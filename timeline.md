@@ -4,6 +4,25 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 
 # Timeline
 
+## 2020-02
+
+#### 2020-02-10
+
+* Podcastai: ex NASA astronautas [Garrett Reisman](wiki/podcastai.md#2020-02)
+
+#### 2020-02-09
+
+* TechIT: [Didžiausias remote work eksperimentas Kinijoje](wiki/technologijos/tech-it.md#didziausias-darbo-is-nam-eksperimentas-kinijoje)
+* Straipsniai: [The diamond invention](wiki/straipsniai-skaitiniai-istorijos/#the-diamond-invention)
+
+#### 2020-02-03
+
+* TechIT: [Google Maps hack'as](wiki/technologijos/tech-it.md#google-maps-hackas)
+
+#### 2020-02-02
+
+* TechIT: [Apple finansiniai rezultatai](wiki/technologijos/tech-it.md#apple-finansiniai-rezultatai)
+
 ## 2020-01
 
 #### 2019-01-11
