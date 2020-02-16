@@ -6,11 +6,11 @@
 
 Lygiai taip Mac'ai turi savo killer programą, dėl kurios galima pavydėti - [Alfred](https://www.alfredapp.com/). Jau kurį laiką ieškau Win alternatyvos ir dauguma nebepalaikomos arba funkcionalumas daugiausiai susiveda tik į program launcher'į, o tam iš esmės užtenka win mygtuku iškviečiamo Windows start'o ir atskiros programos tam nereikia. Toli gražu iki pagal savo poreikius nesunkiai pritaikomo Alfred'o universalumo, kuris su workflow funkcionalumu, shell integracija ir hotkeys tampa itin universalus ir galingas. 
 
-Šiuo metu naudoju Cerebro, kurio kai kurie funkcionalumai, kaip Translate, valiutų konvertavimas ar maps'ai yra palūžę, tačiau vis dar naudingas dėl instant Google, Wiki, StackOverflow search'o, integracijos su Giphy, Youtube, PhpStorm, bei clipboard istorijos \(nors native win clipboard istorija pasiekiama su win+v\).
+Šiuo metu naudoju Cerebro, kurio kai kurie funkcionalumai, kaip Translate, valiutų konvertavimas ar maps'ai yra palūžę, tačiau vis dar naudingas dėl instant Google, Wiki, StackOverflow search'o, integracijos su Giphy, Youtube, PhpStorm, bei clipboard istorijos. Tačiau galbūt grįšiu atgal prie Wox, kuris nors oficialiai nebepalaikomas, turi [fork'ą](https://github.com/jjw24/Wox/releases), prie kurio aktyviai dirbama.
 
 * [Wox](http://www.wox.one/)
-* [Keypirinha](https://keypirinha.com/)
 * [Cerebro](https://cerebroapp.com/)
+* [Keypirinha](https://keypirinha.com/)
 * [Launchy](http://www.launchy.net/)
 
 ## Wikis
