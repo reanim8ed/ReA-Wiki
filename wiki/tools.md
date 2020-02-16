@@ -2,8 +2,11 @@
 
 ## Alfred alternatives
 
-Android telefonai turi Tasker'į - itin galingą automatizavimo įrankį, kuris telefone iš esmės sugeba daryti viską ir nors nėra itin intuityvus, bet savo galimybėmis tai atperka. Ir jis neturi realaus atitikmens iOS pasaulyje \(Shortcuts yra žingsnis tinkama linkme, tačiau Tasker'iui tikrai neprilygsta\).   
-Lygiai taip Mac'ai turi savo killer programą, dėl kurios galima pavydėti - Alfred. Jau kurį laiką ieškau Win alternatyvos ir dauguma jų arba jau nebepalaikomos arba jų funkcionalumas daugiausiai susiveda tik į program launcher'į, o tam iš esmės užtenka win mygtuku iškviečiamo Windows start'o ir atskiros programos tam nereikia. Toli gražu iki pagal savo poreikius nesunkiai pritaikomo Alfred'o universalumo. Šiuo metu naudoju Cerebro, kurio kai kurie funkcionalumai, kaip Translate, valiutų konvertavimas ar maps'ai yra palūžę, tačiau vis dar naudotinas dėl instant Google, Wiki, StackOverflow search'o, inregracijos su Giphy ir clipboard.
+-Android telefonai turi Tasker'į - itin galingą automatizavimo įrankį, kuris telefone iš esmės sugeba daryti viską ką tik moka pats telefonas. Nors nėra itin intuityvus, bet galimybės visą tai tiesiog atperka. Ir jis neturi realaus atitikmens iOS pasaulyje \(iOS turi shortcuts ir tai žingsnis tinkama linkme, tačiau Tasker'iui neprilygsta\). 
+
+Lygiai taip Mac'ai turi savo killer programą, dėl kurios galima pavydėti - [Alfred](https://www.alfredapp.com/). Jau kurį laiką ieškau Win alternatyvos ir dauguma nebepalaikomos arba funkcionalumas daugiausiai susiveda tik į program launcher'į, o tam iš esmės užtenka win mygtuku iškviečiamo Windows start'o ir atskiros programos tam nereikia. Toli gražu iki pagal savo poreikius nesunkiai pritaikomo Alfred'o universalumo, kuris su workflow funkcionalumu, shell integracija ir hotkeys tampa itin universalus ir galingas. 
+
+Šiuo metu naudoju Cerebro, kurio kai kurie funkcionalumai, kaip Translate, valiutų konvertavimas ar maps'ai yra palūžę, tačiau vis dar naudingas dėl instant Google, Wiki, StackOverflow search'o, integracijos su Giphy, Youtube, PhpStorm, bei clipboard istorijos \(nors native win clipboard istorija pasiekiama su win+v\).
 
 * [Wox](http://www.wox.one/)
 * [Keypirinha](https://keypirinha.com/)
