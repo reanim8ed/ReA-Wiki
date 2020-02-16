@@ -1,8 +1,12 @@
----
-description: 'Pateikiami sudominę skaitiniai, istorijos, vertos paskaitymo laisvalaikiu'
----
-
 # Straipsniai
+
+### Staying Motivated by Sending Status Updates to Nobody
+
+* Kai kurios komandos Google viduje naudoja vidinį įrankį pavadinimu Snippets. Konceptas gan paprastas - tai tiesiog tekstinis laukas, kuriame užpildomi savaitės pasiekimai. Sekančios savaitės pradžioje manageris ir kiti komandos nariai gauna email suvestinę.
+* Principas atrodytų labai paprastas, tačiau jis pasiekia porą gan įdomių tikslų: pirmiausia meet'u metu nebereikia gaišti laiko status update'ams ir galima fokusuotis į kur kas mažiau nuobodžias temas, kaip kad techninės problemos ir jų sprendimo būdai. O taipogi tai padeda objektyviai įvertinti kas iš tiesų buvo pasiektą per savaitę. Kartais, kai praleidi visą savaitę medžiojant vieną bug'ą, atrodo kad visa savaitė tiesiog sudegė ir nieko taip ir nenuveikei, nors iš tiesų vis vien pasiektas koks nors progresas - pvz giliau susipažinta su sistemos veikimu ir atrasti edge case'ai ar pataisyti keli naujai atrasti bug'ai, patikslinta dokumentacija ar patobulinti automatiniai testai.
+* Nors tokia praktika, jog ji priliptų ir nebūtų numetama reikalauja fokuso ir disciplinos, tačiau nedarant tokių retrospektyvų dažniausiai dalį savaitės pasiekimų tiesiog užmiršti ir labiau prisimeni tai, ko nebespėjai padaryti per savaitę.
+* Toks procesas naudingas net jei tokie snippet'ai yra rašomi tik pačiam sau ir net nėra skaitomi.
+* [https://mtlynch.io/status-updates-to-nobody/](https://mtlynch.io/status-updates-to-nobody/)
 
 ### Old CSS, new CSS
 

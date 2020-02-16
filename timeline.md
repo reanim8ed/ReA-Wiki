@@ -9,6 +9,7 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 #### 2020-02-16
 
 * Straipsniai: [Old CSS, new CSS](wiki/straipsniai-skaitiniai-istorijos/#old-css-new-css)
+* Straipsniai: [Status Updates to Nobody](wiki/straipsniai-skaitiniai-istorijos/#staying-motivated-by-sending-status-updates-to-nobody)
 * Programavimas: [Docker](wiki/programavimas/docker.md)
 * Tools: [Alfred alternatyvos](wiki/tools.md#alfred-alternatives)
 
