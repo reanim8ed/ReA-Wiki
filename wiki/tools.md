@@ -1,5 +1,15 @@
 # Tools
 
+## Alfred alternatives
+
+Android telefonai turi Tasker'į - itin galingą automatizavimo įrankį, kuris telefone iš esmės sugeba daryti viską ir nors nėra itin intuityvus, bet savo galimybėmis tai atperka. Ir jis neturi realaus atitikmens iOS pasaulyje \(Shortcuts yra žingsnis tinkama linkme, tačiau Tasker'iui tikrai neprilygsta\).   
+Lygiai taip Mac'ai turi savo killer programą, dėl kurios galima pavydėti - Alfred. Jau kurį laiką ieškau Win alternatyvos ir dauguma jų arba jau nebepalaikomos arba jų funkcionalumas daugiausiai susiveda tik į program launcher'į, o tam iš esmės užtenka win mygtuku iškviečiamo Windows start'o ir atskiros programos tam nereikia. Toli gražu iki pagal savo poreikius nesunkiai pritaikomo Alfred'o universalumo. Šiuo metu naudoju Cerebro, kurio kai kurie funkcionalumai, kaip Translate, valiutų konvertavimas ar maps'ai yra palūžę, tačiau vis dar naudotinas dėl instant Google, Wiki, StackOverflow search'o, inregracijos su Giphy ir clipboard.
+
+* [Wox](http://www.wox.one/)
+* [Keypirinha](https://keypirinha.com/)
+* [Cerebro](https://cerebroapp.com/)
+* [Launchy](http://www.launchy.net/)
+
 ## Wikis
 
 Ieškau self-hosted alternatyvų Gitbook'ui. Noriu, kad softas būtinai turėtų hierarchinę struktūrą su markdown palaikymu ir galėčiau pushinti į git'ą. Kelios rastos alternatyvos:

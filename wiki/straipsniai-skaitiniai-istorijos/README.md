@@ -8,7 +8,7 @@ description: 'Pateikiami sudominę skaitiniai, istorijos, vertos paskaitymo lais
 
 * Web development'o arba jei konkrečiau - būtent CSS vystymosi istorija. 
 * Esu jau pakankamai senas, jog prisiminčiau, jog mokykloje dar teko pasižaisti su MS Frontpage'u ir puslapių struktūros dėliojimu lentelėmis. Taipogi esu susidūręs ir lipdoma paveikslėlių mozaika, vien tam, jog mygtuką padaryti su apvaliais kampais. Na ir galiausiai man vis dar atrodo lyg jQuery boom'as buvo dar ne taip ir senai. Tačiau įdomu pasiskaitinėti nuodugniau ir apie tai, kas buvo dar ir prieš tai.
-* Apie tai kaip buvo kuriami puslapiai iki kol pasirodė pirma CSS versija, apie tai kaip IE6 nugalėjęs Netscape'ą pasileido į visišką štilių ir web'as užsišaldė 5-erių metų laikotarpiui iki kol atsirado naujas rimtas konkurentas. Ir apie tai, kaip kai kurių dar anuometinių problemų sukurtos pasekmės vis dar gyvuoja ir iki šių laikų.
+* Apie tai kaip buvo kuriami puslapiai iki kol pasirodė pirma CSS versija, apie tai kaip IE6 nugalėjęs Netscape'ą pasileido į visišką štilių ir web'as užsišaldė 5-erių metų laikotarpiui iki kol atsirado naujas rimtas konkurentas. Ir apie tai, kaip kai kurių dar anuometinių problemų sukurtos pasekmės, kaip pvz browser prefix'ai vis dar gyvuoja ir iki šių laikų.
 * Straipsnis puikus tuom, kad pateikia kontekstą, t.y. parodo kokios konkrečiai problemos buvo bandomos spręsti. Visus tuometinius pain points ir hack'us bandant juos apeiti.
 * [https://eev.ee/blog/2020/02/01/old-css-new-css/](https://eev.ee/blog/2020/02/01/old-css-new-css/)
 

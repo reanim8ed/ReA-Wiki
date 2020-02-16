@@ -10,6 +10,7 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 
 * Straipsniai: [Old CSS, new CSS](wiki/straipsniai-skaitiniai-istorijos/#old-css-new-css)
 * Programavimas: [Docker](wiki/programavimas/docker.md)
+* Tools: [Alfred alternatyvos](wiki/tools.md#alfred-alternatives)
 
 #### 2020-02-10
 
