@@ -4,41 +4,36 @@ description: My knowledge as reusable as possible
 
 # Įvadas
 
-Tai mano minčių konspektas, asmeninė wiki, kurioje kaupiu ir dalinuosi praktiškai viskuom apie ką sužinau.
+Re'A Wiki - tai mano minčių, žinių ir rašinių konspektas. Asmeninė wiki, kurioje kaupiu, grupuoju ir dalinuosi informacija ir pamąstymais.
 
-**WHAT?**  
-Paprastas atsakymas -  to make sense of everything. Labai dažnai mintys ir nuomonės būna per daug chaotiškos ir abstrakčios ir jos nesusiformuluoja iš pirmo bandymo. Tai daugybės iteracijų, revizijų ir apmąstymų rezultatas. Ir būtent bandymas jas užrašyti yra tas procesas, kuris jas labai neblogai padeda išgryninti, suprasti jų kontekstą ar atrasti sąsajas su kitomis mintimis. Kitaip tariant - asmeninė wiki leidžia man pačiam procesinti is suprasti informaciją.
+**Why?**  
+Viskas dėl vienos paprastos priežasties -  to make sense of everything. Labai dažnai mintys būna per daug chaotiškos ir abstrakčios. Požiūris ir nuomonės dažniausiai nesusiformuoja iš pirmo bandymo. Tai daugybės iteracijų, revizijų ir apmąstymų rezultatas. Ir būtent bandymas jas užrašyti yra procesas, kuris sistemizavimo, grupavimo ir procesinimo būdu padeda jas išgryninti, suprasti jų kontekstą ar atrasti naujas sąsajas su kitomis mintimis.
 
 _Notes aren’t a record of my thinking process. They are my thinking process. – Richard Feynman_
 
-Plačiau aprašytos priežastys - [motyvacijos skiltyje](motyvacija.md).
+Plačiau apie tai - [motyvacijos skiltyje](motyvacija.md).
 
 ## Struktūra
 
-Kairėje rasite Wiki sekciją, kurioje pagal kategorijas suskirstytos visos temos, kurios mane domina ar bent jau kažkada domino praeityje. 
+Aš nuolat koreguoju bei pildau šį sąrašą naujomis temomis bei naudoju šią Wiki kaip asmeninį žinių šaltinį ir saugyklą. Stengiuosi atrasti būdus, kaip informaciją struktūrizuoti efektyviau, jog ji būtų logiškai išdeliota ir kuo lengviau ir greičiau atrandama.
 
-Kiekvienas skirsnis yra atskira tema, kuri viduje gali būti suskirstyta į kitas, smulkesnes potemes.
-
-Aš nuolat koreguoju bei pildau sąrašą naujomis temomis bei naudoju šią Wiki kaip asmeninį žinių šaltinį ir saugyklą. Stengiuosi rašyti ir struktūrizuoti informaciją taip, kad šis sąrašas būtų logiškas ir galbūt naudingas ir ne tik man.
-
-Temos struktūra dažniausiai tokia:
+Konkrečios temos formatas dažniausiai pateikiamas tokiu formatu:
 
 1. Pavadinimas
-2. Susijusi citata
-3. Aprašymas - mintys/pamąstymai apie temą
-4. Notes - bookmark stiliaus nuorodos iš interneto su įdomiausiomis ištraukomis ar mano nuomone. 
-5. Links - nuorodos į daugiau resursų panašia tematika.
+2. Citata
+3. Aprašymas - mano mintys/pamąstymai apie temą
+4. Skiltys - puslapio tema gali būti išdalinta į skirtingas skiltis ir potemes
+5. Notes - bookmark stiliaus nuorodos su įdomiausiomis ištraukomis ar mano nuomone. 
+6. Links - nuorodos į daugiau resursų panašia tematika.
 
 ## Navigacija
 
-Šiuo resursu galima naudotis šiais būdais:
-
-* Šoninė temų juosta kairėje, su išskleidžiamomis sub-kategorijomis. Galima nusikasti į labai specifinę temą ir peržiūrėti su tuo susijusius notes'us.
-* Dešinė šoninė juosta - navigacija duotame puslapyje. Padeda greitai peršokti į skirtingas puslapio skiltis.
-* Timeline - laiko juosta, kurioje atvaizduojama, kokios korekcijos buvo atliktos bei kokios naujos temos pridėtos.
-* Paieška - vedamas raktažodis arba hashtag.
+* Šoninė temų juosta kairėje. Kiekviena tema gali turėti savo vidines išskleidžiamas sub-kategorijas.
+* Meniu punktas "Timeline" - laiko juosta, kurioje pateikiamas naujai pridėto turinio archyvas.
+* Dešinė šoninė juosta - navigacija konkrečioje temoje. Padeda greitai peršokti į skirtingas to paties puslapio skiltis.
+* Paieška - headerio dešinėje
 
 ## ❤Atgalinis ryšys
 
-Jeigu manote, kad kažkuri informacija yra kategoriškai neteisinga, [parašykite ](https://github.com/reanim8ed/ReA-Wiki/issues/new)kas ne taip.
+Projektas talpinamas Github platformoje, tad radus netikslumų ar norint palikti atsiliepimą - tiesiog parašykite apie tai [ten.](https://github.com/reanim8ed/ReA-Wiki/issues/new)
 
