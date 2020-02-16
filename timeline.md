@@ -9,6 +9,7 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 #### 2020-02-16
 
 * Straipsniai: [Old CSS, new CSS](wiki/straipsniai-skaitiniai-istorijos/#old-css-new-css)
+* Programavimas: [Docker](wiki/programavimas/docker.md)
 
 #### 2020-02-10
 

@@ -162,6 +162,7 @@
   * [Rusija](wiki/politika/rusija.md)
 * [Programavimas](wiki/programavimas/README.md)
   * [API's](wiki/programavimas/apis.md)
+  * [Docker](wiki/programavimas/docker.md)
   * [HTML technikos](wiki/programavimas/html.md)
   * [Karjera](wiki/programavimas/karjera.md)
   * [PHP](wiki/programavimas/php/README.md)
