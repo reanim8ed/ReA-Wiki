@@ -6,6 +6,10 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 
 ## 2020-02
 
+#### 2020-02-16
+
+* Straipsniai: [Old CSS, new CSS](wiki/straipsniai-skaitiniai-istorijos/#old-css-new-css)
+
 #### 2020-02-10
 
 * Podcastai: ex NASA astronautas [Garrett Reisman](wiki/podcastai.md#2020-02)

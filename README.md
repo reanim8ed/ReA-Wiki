@@ -7,9 +7,11 @@ description: My knowledge as reusable as possible
 Tai mano minčių konspektas, asmeninė wiki, kurioje kaupiu ir dalinuosi praktiškai viskuom apie ką sužinau.
 
 **WHAT?**  
-Paprastas atsakymas -  to make sense of everything. Labai dažnai mintys ir nuomonės būna per daug chaotiškos ir abstrakčios ir jos nesusiformuluoja iš pirmo bandymo. Tai daugybės iteracijų, revizijų ir apmąstymų rezultatas. Ir būtent bandymas jas užrašyti yra tas procesas, kuris jas labai neblogai padeda išgryninti, suformuluoti, suprasti kontekstą ar atrasti sąsajas. Kitaip tariant - asmeninė wiki leidžia man pačiam procesinti is suprasti informaciją.
+Paprastas atsakymas -  to make sense of everything. Labai dažnai mintys ir nuomonės būna per daug chaotiškos ir abstrakčios ir jos nesusiformuluoja iš pirmo bandymo. Tai daugybės iteracijų, revizijų ir apmąstymų rezultatas. Ir būtent bandymas jas užrašyti yra tas procesas, kuris jas labai neblogai padeda išgryninti, suprasti jų kontekstą ar atrasti sąsajas su kitomis mintimis. Kitaip tariant - asmeninė wiki leidžia man pačiam procesinti is suprasti informaciją.
 
-Daugiau priežasčių - [motyvacijos skiltyje](motyvacija.md).
+_Notes aren’t a record of my thinking process. They are my thinking process. – Richard Feynman_
+
+Plačiau aprašytos priežastys - [motyvacijos skiltyje](motyvacija.md).
 
 ## Struktūra
 
@@ -25,7 +27,7 @@ Temos struktūra dažniausiai tokia:
 2. Susijusi citata
 3. Aprašymas - mintys/pamąstymai apie temą
 4. Notes - bookmark stiliaus nuorodos iš interneto su įdomiausiomis ištraukomis ar mano nuomone. 
-5. Links - nuorodos į daugiau resursų panašia tematika. Jeigu nuoroda tiesiogiai susijusi su vienu iš Notes, susiejimas nurodomas skaičiumi bracket'uose: \[1\]
+5. Links - nuorodos į daugiau resursų panašia tematika.
 
 ## Navigacija
 
@@ -38,5 +40,5 @@ Temos struktūra dažniausiai tokia:
 
 ## ❤Atgalinis ryšys
 
-Jeigu manote, kad kažkuri informacija yra kategoriškai neteisinga, [parašykite ](https://github.com/reanim8ed/ReA-Wiki/issues/new)kas gi ne taip.
+Jeigu manote, kad kažkuri informacija yra kategoriškai neteisinga, [parašykite ](https://github.com/reanim8ed/ReA-Wiki/issues/new)kas ne taip.
 

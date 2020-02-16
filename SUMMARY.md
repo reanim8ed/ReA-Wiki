@@ -173,7 +173,7 @@
 * [Showerthoughts](wiki/showerthoughts.md)
 * [Sience](wiki/sience.md)
 * [Standup / humoras](wiki/standup-humoras.md)
-* [Straipsniai / skaitiniai / istorijos](wiki/straipsniai-skaitiniai-istorijos/README.md)
+* [Straipsniai](wiki/straipsniai-skaitiniai-istorijos/README.md)
   * [Skaitymo įpročiai](wiki/straipsniai-skaitiniai-istorijos/skaitymo-prociai.md)
   * [Straipsnių archyvas](wiki/straipsniai-skaitiniai-istorijos/straipsniu-archyvas/README.md)
     * [Ilga blevyzga apie visas gyvenimo vasaras](wiki/straipsniai-skaitiniai-istorijos/straipsniu-archyvas/ilga-blevyzga-apie-visas-gyvenimo-vasaras.md)
