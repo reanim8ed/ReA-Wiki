@@ -8,8 +8,8 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 
 #### 2020-02-16
 
-* Straipsniai: [Old CSS, new CSS](wiki/straipsniai-skaitiniai-istorijos/#old-css-new-css)
-* Straipsniai: [Status Updates to Nobody](wiki/straipsniai-skaitiniai-istorijos/#staying-motivated-by-sending-status-updates-to-nobody)
+* Straipsniai: [Old CSS, new CSS](wiki/straipsniai/#old-css-new-css)
+* Straipsniai: [Status Updates to Nobody](wiki/straipsniai/#staying-motivated-by-sending-status-updates-to-nobody)
 * Programavimas: [Docker](wiki/programavimas/docker.md)
 * Tools: [Alfred alternatyvos](wiki/tools.md#alfred-alternatives)
 
@@ -20,7 +20,7 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 #### 2020-02-09
 
 * TechIT: [Didžiausias remote work eksperimentas Kinijoje](wiki/technologijos/tech-it.md#didziausias-darbo-is-nam-eksperimentas-kinijoje)
-* Straipsniai: [The diamond invention](wiki/straipsniai-skaitiniai-istorijos/#the-diamond-invention)
+* Straipsniai: [The diamond invention](wiki/straipsniai/#the-diamond-invention)
 
 #### 2020-02-03
 
@@ -68,8 +68,8 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 * TechIT: [Decentralizuotas soc.tinklas](wiki/technologijos/tech-it.md#decentralizuotas-soc-tinklas)
 * Programavimas: [Symfony](wiki/programavimas/php/symfony.md)
 * MealTimeVideos: [video žaidimų kalba](wiki/mealtimevideos.md#2109-12-13)
-* Straipsnių archyvas: [Kodėl jauni žmonės neturi darbo ir ką daryti, kad tu jį visuomet turėtum?](wiki/straipsniai-skaitiniai-istorijos/straipsniu-archyvas/kod-l-jauni-zmon-s-neturi-darbo-ir-ka-daryti-kad-tu-j-visuomet-tur-tum.md)
-* Straipsnių archyvas: [Privalai pradėti investuoti. Dabar](wiki/straipsniai-skaitiniai-istorijos/straipsniu-archyvas/privalai-pradeti-investuoti-dabar.md)
+* Straipsnių archyvas: [Kodėl jauni žmonės neturi darbo ir ką daryti, kad tu jį visuomet turėtum?](wiki/straipsniai/straipsniu-archyvas/kod-l-jauni-zmon-s-neturi-darbo-ir-ka-daryti-kad-tu-j-visuomet-tur-tum.md)
+* Straipsnių archyvas: [Privalai pradėti investuoti. Dabar](wiki/straipsniai/straipsniu-archyvas/privalai-pradeti-investuoti-dabar.md)
 
 #### 2019-12-09
 
@@ -87,7 +87,7 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 * [Pinigai perka laimę](wiki/ekonomika/#pinigai-perka-laime)
 * Blog'as: [Tesėjo laivas](wiki/blogas/tesejo-laivas.md)
 * Blog'as: [Hekslis](wiki/blogas/hekslis.md)
-* Straipsnių archyvas: [The Brain On 23](wiki/straipsniai-skaitiniai-istorijos/straipsniu-archyvas/the-brain-on-23.md)
+* Straipsnių archyvas: [The Brain On 23](wiki/straipsniai/straipsniu-archyvas/the-brain-on-23.md)
 * [Random internetai](wiki/random-internetai.md)
 * [MealTimeVideos](wiki/mealtimevideos.md#2019-11-03)
 
@@ -169,7 +169,7 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 
 #### 2019-09-03
 
-* Skaitiniai: [Should the Rich Be Allowed to Buy the Best Genes?](wiki/straipsniai-skaitiniai-istorijos/#should-the-rich-be-allowed-to-buy-the-best-genes)
+* Skaitiniai: [Should the Rich Be Allowed to Buy the Best Genes?](wiki/straipsniai/#should-the-rich-be-allowed-to-buy-the-best-genes)
 * Akcijos: [Beyond Meat \(BYND\)](wiki/ekonomika/investavimas/akcijos.md#beyond-meat-bynd)
 
 #### 2019-09-01
@@ -218,7 +218,7 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 
 #### 2019-08-11
 
-* Straipsnių archyvas: alkoholikairnieksai apie [visas gyvenimo vasaras](wiki/straipsniai-skaitiniai-istorijos/straipsniu-archyvas/ilga-blevyzga-apie-visas-gyvenimo-vasaras.md)
+* Straipsnių archyvas: alkoholikairnieksai apie [visas gyvenimo vasaras](wiki/straipsniai/straipsniu-archyvas/ilga-blevyzga-apie-visas-gyvenimo-vasaras.md)
 
 #### 2019-08-10
 
@@ -297,7 +297,7 @@ Tinklaraščio migracija:
 * [Michael Jackson](wiki/asmenybes/pop-kultura/michael-jackson.md)
 * [Laiko valiuta](wiki/blogas/laiko-valiuta.md)
 * [ShowerThoughts](wiki/showerthoughts.md#2019-07-27)
-* [Peter Pan generation](wiki/straipsniai-skaitiniai-istorijos/straipsniu-archyvas/peter-pan-generation.md)
+* [Peter Pan generation](wiki/straipsniai/straipsniu-archyvas/peter-pan-generation.md)
 * [Sapnas su Olga](wiki/blogas/sapnas-su-olga.md)
 * [Mens ReA](wiki/blogas/mens-rea.md)
 * [Gyvenimas kartu su mergina](wiki/blogas/gyvenimas-kartu-su-mergina.md)
@@ -316,7 +316,7 @@ Tinklaraščio migracija:
 
 * Nirvanos daina [Polly ](https://www.youtube.com/watch?v=NJ97KdTQFww)yra viena tamsesnių grupės dainų
 * exurb1a   patarimai apie [rašymą](https://www.youtube.com/watch?v=MANyX7woDPA)
-* [Apie skaitymo įpročius](wiki/straipsniai-skaitiniai-istorijos/skaitymo-prociai.md)
+* [Apie skaitymo įpročius](wiki/straipsniai/skaitymo-prociai.md)
 * [Geras teisininkas](wiki/showerthoughts.md#2019-07-25) yra tas, kuris su tokiu pačiu užsidegimu galėtų kovoti bet kurioje pusėje.
 * Citata apie [minčių generavimą](wiki/citatos.md#minci-generavimas-rytais) rytais
 * Citata apie [keliones](wiki/citatos.md#traveling)
@@ -325,7 +325,7 @@ Tinklaraščio migracija:
 #### 2019-07-24
 
 * [HOTorNOT ](wiki/mealtimevideos.md#2019-07-24)socialinis tinklas
-* [Apie FaceApp](wiki/straipsniai-skaitiniai-istorijos/#faceapp)
+* [Apie FaceApp](wiki/straipsniai/#faceapp)
 * Pridėta [PHP ](wiki/programavimas/php/)skiltis
 * [Sovietų super lėktuvas](wiki/istorija/#soviet-super-l-ktuvas)
 * Daugumai nepatinka dainuoti "[Su gimimo diena](wiki/showerthoughts.md#2019-07-24)"
@@ -362,8 +362,8 @@ Tinklaraščio migracija:
 
 #### 2019-07-13
 
-* Nauja skiltis [Straipsnių archyvas](wiki/straipsniai-skaitiniai-istorijos/straipsniu-archyvas/)
-* [Mahilos straipsnis apie 90-ųjų vaikus](wiki/straipsniai-skaitiniai-istorijos/straipsniu-archyvas/pasikutenkim-jausmus-90-ju-vaikai.md)
+* Nauja skiltis [Straipsnių archyvas](wiki/straipsniai/straipsniu-archyvas/)
+* [Mahilos straipsnis apie 90-ųjų vaikus](wiki/straipsniai/straipsniu-archyvas/pasikutenkim-jausmus-90-ju-vaikai.md)
 
 #### 2019-07-11
 
@@ -381,8 +381,8 @@ Tinklaraščio migracija:
 
 * [500$ AMD Ryzen 9 3900X yra praktiškai toks pat greitas, kaip 2k$ Intel Core i9-9980XE](wiki/technologijos/tech-it.md#500usd-amd-ryzen-9-3900x-yra-praktiskai-toks-pat-greitas-kaip-2kusd-intel-core-i-9-9980xe)
 * [Tamsioji reCAPTCHA pusė](wiki/technologijos/tech-it.md#tamsioji-recaptcha-pus)
-* [Senoliai nusikaltėliai](wiki/straipsniai-skaitiniai-istorijos/#senoliai-nusikalt-liai)
-* [Xbox hakerių grupuotė](wiki/straipsniai-skaitiniai-istorijos/#xbox-hakeri-grupuot)
+* [Senoliai nusikaltėliai](wiki/straipsniai/#senoliai-nusikalt-liai)
+* [Xbox hakerių grupuotė](wiki/straipsniai/#xbox-hakeri-grupuot)
 * [Kompensacijos už vėluojantį skrydį išmušimo instrukcija](wiki/pasaulis/keliones/kompensacijos-uz-veluojanti-skrydi-ismusimo-instrukcija.md)
 
 #### 2019-06-27
@@ -391,7 +391,7 @@ Tinklaraščio migracija:
 
 #### 2019-06-16
 
-* [Computational photography](wiki/straipsniai-skaitiniai-istorijos/#computational-photography). Fotografija jau dabar didele dalimi yra tiesiog kodas, o šios srities ateitis visiškai priklausys algoritmams.
+* [Computational photography](wiki/straipsniai/#computational-photography). Fotografija jau dabar didele dalimi yra tiesiog kodas, o šios srities ateitis visiškai priklausys algoritmams.
 * [LOVE DEATH + ROBOTS](wiki/filmai/#love-death-robots-2019)
 
 #### 2019-06-14
@@ -467,7 +467,7 @@ Tinklaraščio migracija:
 
 #### 2019-05-19
 
-* Istorija apie paprastutį HTML'inį one-pagerį, už kurį gauta [21 000 dolerių](wiki/straipsniai-skaitiniai-istorijos/#i-charged-usd-18-000-for-a-static-html-page).
+* Istorija apie paprastutį HTML'inį one-pagerį, už kurį gauta [21 000 dolerių](wiki/straipsniai/#i-charged-usd-18-000-for-a-static-html-page).
 * Idėja apie tai, kaip skirtųsi visuomenė, jei vyrai [galėtų būti nėšti](wiki/showerthoughts.md#2019-05-18)
 * Pietų korėjos filmas [The Witch](wiki/filmai/#the-witch-part-1-the-subversion)
 * [Vebleno efektas](wiki/ekonomika/) - prekės pardavimai kyla, dėlto, jog kyla jos kaina
@@ -496,7 +496,7 @@ Tinklaraščio migracija:
 
 * Idėja apie tai, kad Pornhub komanda turėtų pakankamai [know-how](wiki/showerthoughts.md#2019-05-04), kad sukurti Youtube konkurentą
 * Technologijose pridėta [Interneto ](wiki/technologijos/internetas.md)tema ir aprašytos vienos iš [Google+](wiki/technologijos/internetas.md#google) nesekmės priežastys.
-* Pridėta Andy Weir trumpa istorija "[Digitocracy](wiki/straipsniai-skaitiniai-istorijos/#bookTitle)".
+* Pridėta Andy Weir trumpa istorija "[Digitocracy](wiki/straipsniai/#bookTitle)".
 
 #### 2019-05-02
 
