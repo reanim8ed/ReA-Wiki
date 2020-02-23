@@ -6,6 +6,10 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 
 ## 2020-02
 
+#### 2020-02-23
+
+* TechIT: [Yesterday's flagship is the new flagship killer](wiki/technologijos/tech-it.md#yesterdays-flagship-is-the-new-flagship-killer)
+
 #### 2020-02-16
 
 * Straipsniai: [Old CSS, new CSS](wiki/straipsniai/#old-css-new-css)

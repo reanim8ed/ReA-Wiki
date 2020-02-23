@@ -6,6 +6,11 @@ description: 'https://www.facebook.com/techit.lt'
 
 ## 2020-02
 
+### Yesterday's flagship is the new flagship killer
+
+* Puiki Dave2D mintis, jog taip sparčiai nuvertėjant telefonų kainoms, kai 1-2 metų senumo flagman telefonus, kurie vis dar yra visiškai puikūs, galima nusipirkti už pusę ar vos trečdalį jų originaliosios kainos, būtent jie ir yra naujieji flagship killeriai.
+* [https://www.youtube.com/watch?v=tFsLpLOEUIk](https://www.youtube.com/watch?v=tFsLpLOEUIk)
+
 ### Didžiausias darbo iš namų eksperimentas Kinijoje
 
 * Įdomu, kaip viruso epidemija Kinijoje kelia bangas skirtinguose IT segmentuose. 
