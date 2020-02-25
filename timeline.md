@@ -9,6 +9,7 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 #### 2020-02-25
 
 * Programavimas: [Ansible](wiki/programavimas/ansible.md)
+* Programavimas: [Linux commands](wiki/programavimas/linux-commands.md)
 
 #### 2020-02-23
 

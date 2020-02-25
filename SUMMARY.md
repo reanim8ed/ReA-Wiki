@@ -166,6 +166,7 @@
   * [Docker](wiki/programavimas/docker.md)
   * [HTML technikos](wiki/programavimas/html.md)
   * [Karjera](wiki/programavimas/karjera.md)
+  * [Linux commands](wiki/programavimas/linux-commands.md)
   * [PHP](wiki/programavimas/php/README.md)
     * [Symfony](wiki/programavimas/php/symfony.md)
   * [Wordpress](wiki/programavimas/wordpress.md)
