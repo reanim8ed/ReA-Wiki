@@ -161,6 +161,7 @@
 * [Politika](wiki/politika/README.md)
   * [Rusija](wiki/politika/rusija.md)
 * [Programavimas](wiki/programavimas/README.md)
+  * [Ansible](wiki/programavimas/ansible.md)
   * [API's](wiki/programavimas/apis.md)
   * [Docker](wiki/programavimas/docker.md)
   * [HTML technikos](wiki/programavimas/html.md)

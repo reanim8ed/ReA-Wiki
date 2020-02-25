@@ -6,6 +6,10 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 
 ## 2020-02
 
+#### 2020-02-25
+
+* Programavimas: [Ansible](wiki/programavimas/ansible.md)
+
 #### 2020-02-23
 
 * TechIT: [Yesterday's flagship is the new flagship killer](wiki/technologijos/tech-it.md#yesterdays-flagship-is-the-new-flagship-killer)
