@@ -10,9 +10,9 @@ Nenoriu naudotis servisais, kurie siūlo tik lokalų kodo saugojimą ar bando ki
 Mac'ai tuo tarpu turi gan puikius [Snippet Lab](https://www.renfei.org/snippets-lab/), [Quiver](http://happenapps.com/#quiver) ar [SnipperApp](https://snipper.app/). Tad ieškau būtent tokių ir Win alternatyvų. 
 
 * [Gisto](https://www.gistoapp.com/) - veikia, tačiau ne itin patinka interface'as
-* [Lepton](https://hackjutsu.com/Lepton/) - pradėjau naudoti ir mano reikmėm veikia pakankamai puikiai, tačiau yra keli erzinantys apribojimai, pvz sidebar'e esančių sekcijų negalima stumdyti/praplėsti, taipogi nėra galimybės atlikti paieškos current lange.
 * [Boostnote](https://boostnote.io/) - atrodo puikiai, taipogi yra web versija, plačios customize galimybės ir planuojami net ir mobile apps'ai. Tačiau šiuo metu neturi tiesioginės integracijos su Gist ir galima kodą laikyti lokaliai arba jų cloud'e, kas yra deal breaker. Tačiau yra bent šioks toks workaround'as - pasirinkus saugojimą lokaliai, galima nusirodyti Dropbox folderį ir sinchronizuotis tarp skirtingų kompiuterių tokiu būdu.
 * [SnipAway](https://snipaway.futureglobe.de/) - plačios customize galimybės, tačiau tiesioginės integracijos su Gist neturi. Galima taipogi saugotis per kitus third party cloud'us.
+* [Lepton](https://hackjutsu.com/Lepton/) - pradėjau naudoti ir mano reikmėm veikia pakankamai gerai, tačiau yra keli erzinantys apribojimai, pvz sidebar'e esančių sekcijų negalima praplėsti, tad tag'uose tenka naudotis scroll'u, taipogi nėra galimybės atlikti paieškos esamame lange.
 
 ## Alfred alternatives
 
