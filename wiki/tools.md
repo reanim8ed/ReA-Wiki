@@ -1,8 +1,22 @@
 # Tools
 
+## Code snippet manager
+
+Naudingi išsisaugoti kodo fragmentai turi gulėti cloud'e, jog būtų galima juos pasiekti dirbant iš bet kurio kompiuterio. Šiai paskirčiai puikiai tinka pastebin principu veikiantis [Github Gist](https://gist.github.com/).   
+Pradžioje saugojimą atlikdavau tiesiogiai, o šį servisą galima integruoti tiesiai į IDE ar teksto redaktorių ir kodo pavyzdžius pasiimti net neišeinant iš jų. Tačiau archyvui pradėjus augti greitai pajutau, kad visas šis flow nepatogus, labai apribotos organizuotumo galimybės, kas prailgina paiešką. Kokia nauda tuomet saugotis kodą, jei prireikus ko gero išgooglinti būtų galima jį ir greičiau. Tad atsirado kliento poreikis.
+
+Nenoriu naudotis servisais, kurie siūlo tik lokalų kodo saugojimą ar bando kišti savo cloudinius sprendimus ir juo labiau tais, kurie turi subscription modelį \([Cacher](https://www.cacher.io/), [Snippet Manager](https://snippetmanager.io/), [Snipit](https://snipit.io/)\).
+
+Mac'ai tuo tarpu turi gan puikius [Snippet Lab](https://www.renfei.org/snippets-lab/), [Quiver](http://happenapps.com/#quiver) ar [SnipperApp](https://snipper.app/). Tad ieškau būtent tokių ir Win alternatyvų. 
+
+* [Gisto](https://www.gistoapp.com/) - veikia, tačiau ne itin patinka interface'as
+* [Lepton](https://hackjutsu.com/Lepton/) - pradėjau naudoti ir mano reikmėm veikia pakankamai puikiai, tačiau yra keli erzinantys apribojimai, pvz sidebar'e esančių sekcijų negalima stumdyti/praplėsti, taipogi nėra galimybės atlikti paieškos current lange.
+* [Boostnote](https://boostnote.io/) - atrodo puikiai, taipogi yra web versija, plačios customize galimybės ir planuojami net ir mobile apps'ai. Tačiau šiuo metu neturi tiesioginės integracijos su Gist ir galima kodą laikyti lokaliai arba jų cloud'e, kas yra deal breaker. Tačiau yra bent šioks toks workaround'as - pasirinkus saugojimą lokaliai, galima nusirodyti Dropbox folderį ir sinchronizuotis tarps skirtingų kompiuterių tokiu būdu.
+* [SnipAway](https://snipaway.futureglobe.de/) - plačios customize galimybės, tačiau tiesioginės integracijos su Gist neturi. Galima taipogi saugotis per kitus third party cloud'us.
+
 ## Alfred alternatives
 
--Android telefonai turi Tasker'į - itin galingą automatizavimo įrankį, kuris telefone iš esmės sugeba daryti viską ką tik moka pats telefonas. Nors nėra itin intuityvus, bet galimybės visą tai tiesiog atperka. Ir jis neturi realaus atitikmens iOS pasaulyje \(iOS turi shortcuts ir tai žingsnis tinkama linkme, tačiau Tasker'iui neprilygsta\). 
+Android telefonai turi Tasker'į - itin galingą automatizavimo įrankį, kuris telefone iš esmės sugeba daryti viską ką tik moka pats telefonas. Nors nėra itin intuityvus, bet galimybės visą tai tiesiog atperka. Ir jis neturi realaus atitikmens iOS pasaulyje \(iOS turi shortcuts ir tai žingsnis tinkama linkme, tačiau Tasker'iui neprilygsta\). 
 
 Lygiai taip Mac'ai turi savo killer programą, dėl kurios galima pavydėti - [Alfred](https://www.alfredapp.com/). Jau kurį laiką ieškau Win alternatyvos ir dauguma nebepalaikomos arba funkcionalumas daugiausiai susiveda tik į program launcher'į, o tam iš esmės užtenka win mygtuku iškviečiamo Windows start'o ir atskiros programos tam nereikia. Toli gražu iki pagal savo poreikius nesunkiai pritaikomo Alfred'o universalumo, kuris su workflow funkcionalumu, shell integracija ir hotkeys tampa itin universalus ir galingas. 
 

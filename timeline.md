@@ -4,6 +4,12 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 
 # Timeline
 
+## 2020-03
+
+#### 2020-03-01
+
+* Tools: [Code snippet manager](wiki/tools.md#code-snippet-manager)
+
 ## 2020-02
 
 #### 2020-02-25
