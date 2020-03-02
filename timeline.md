@@ -6,6 +6,10 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 
 ## 2020-03
 
+#### 2020-03-02
+
+* Tools: [Bookmarking tools](wiki/tools.md#bookmarking-tools)
+
 #### 2020-03-01
 
 * Tools: [Code snippet manager](wiki/tools.md#code-snippet-manager)
