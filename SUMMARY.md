@@ -144,6 +144,7 @@
   * [Protarpinis badavimas](wiki/mityba/protarpinis-badavimas.md)
 * [Muzikos Virtuvė](wiki/muzikos-virtuve.md)
 * [Pasaulis](wiki/pasaulis/README.md)
+  * [COVID-19](wiki/pasaulis/covid-19.md)
   * [Kelionės](wiki/pasaulis/keliones/README.md)
     * [Tel Aviv \(2019\)](wiki/pasaulis/keliones/tel-aviv-2019.md)
     * [Barcelona \(2019\)](wiki/pasaulis/keliones/barcelona-2019.md)

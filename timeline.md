@@ -6,6 +6,10 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 
 ## 2020-03
 
+#### 2020-03-21
+
+* Pasaulis: [COVID-19](wiki/pasaulis/covid-19.md)
+
 #### 2020-03-07
 
 * Atnaujintas [Podcastų ](wiki/podcastai.md)sąrašas
