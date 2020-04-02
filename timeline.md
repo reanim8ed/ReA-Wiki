@@ -4,6 +4,12 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 
 # Timeline
 
+## 2020-04
+
+#### 2020-04-02
+
+* TechIT: [Sickness Monitoring is the Opening Video Surveillance Has Been Waiting For](wiki/technologijos/tech-it.md#sickness-monitoring-is-the-opening-video-surveillance-has-been-waiting-for)
+
 ## 2020-03
 
 #### 2020-03-21

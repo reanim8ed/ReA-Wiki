@@ -4,6 +4,16 @@ description: 'https://www.facebook.com/techit.lt'
 
 # TechIT straipsniai
 
+## 2020-04
+
+### Sickness Monitoring is the Opening Video Surveillance Has Been Waiting For
+
+* 9/11 įvykiai yra ne tik tragedija, tačiau atvėrė nemažai naujų įstatymiškų durų, kurios skelbdamos War on terror turėjo įtakos žmonių privatumui ir laisvėms. Pradedant nuo griežtesnės patikros oro uostuose ar naujomis pareigūnų teisėmis įsiveržti į namus ir suimti apklausai, be jokių orderių, jei tik prikabinami įtarimai terorizmu, baigiant tuo pačiu NSA ir jos vykdomu visuotiniu sekimu. 
+
+  COVID'as be savo finansinių padarinių turės lygiai tokį patį efektą - video sekimas, dangstant jį vardan žmonių saugumo, dabar bus daug lengviau priimamas ir legalizuojamas. Kinijos lygio sekimas buvo ir taip akivaizdi kryptis, link kur keliauja ir vakarų valstybės. Iki šiol tai buvo tik laiko klausimas. Po dabartinių įvykių - visa tai tik peršoks į naują bėgį ir įgaus daug didesnį pagreitį. Snowden'as apie tai jau įspėjo ir ko gero per artimiausius keletą metų, kamerų viešose vietose imsime matyti vis daugiau ir daugiau.
+
+* [https://danielmiessler.com/blog/sickness-monitoring-is-the-open-door-that-video-surveillance-has-been-waiting-for/](https://danielmiessler.com/blog/sickness-monitoring-is-the-open-door-that-video-surveillance-has-been-waiting-for/)
+
 ## 2020-02
 
 ### Yesterday's flagship is the new flagship killer
