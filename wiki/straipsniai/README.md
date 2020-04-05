@@ -1,5 +1,41 @@
 # Straipsniai
 
+### News in the age of abundance
+
+* Both cereal and the daily news began as well-intentioned efforts to improve American lives. But just as cereal turned into sugar for the body, news turned into sugar for the mind.
+* Newspapers have folded under the weight of rising competition and falling advertising revenues. To save their businesses, they’ve pivoted from the expensive work of reporting and relied more on cheap tricks like turning tweets and press releases into articles.
+* Writers who want to attract an audience for their ideas have an incentive to stretch or distort facts to give them a compelling narrative arc. In doing so, some journalists omit important details, conflate fact with opinion, and change the meaning of the story.
+* Professionals are outfoxed at every turn by citizen journalists on Youtube, Periscope, and Twitter who are simply savvier, less constrained, more authentic, and less wooden.
+* Words don’t just explain the world. They change how we feel about it.
+* Out of all the money spent on advertising in America, roughly 40% of it goes to television. Even in the age of the Internet, television has kept its grip over American life by changing its product in response to the explosion of the image.
+* In media theory, the “Overton Window” is defined as the range of acceptable opinions in a society. It’s an invisible cognitive prison. Anything inside the window is fair game, but stretch beyond its borders in polite company and you’ll turn heads or be ostracized from conventional social groups.
+* The smart way to keep people passive and obedient is to strictly limit the spectrum of acceptable opinion but allow very lively debate within that spectrum….
+* When media moves from text to images, societies start to worship glamour over truth, emotion over rationality, and youth over wisdom.
+* By encouraging image-based communication, television changed how we think. It paved the way for a dictatorship of the eye over the mind, which creates an emotionally turbulent world which prized looks over logic and passion over reason. It deluded people into thinking the world could be summarized in small nuggets of pre-packaged information. In response, people outsourced their thinking to multinational media companies who “keep them informed.”
+* In the trade-off between entertainment and education, entertainment will always have the final word.
+* Through billboards and banner ads, companies engineer problems so their products can solve them. For example, bad breath wasn’t a problem people discussed until advertising campaigns in the early 20th century invented the problem and swooped in to solve it with products such as toothpaste and mouthwash.
+* Advertisers are applied psychologists. Instead of selling products, they tell people that by buying their products, they will become better versions of themselves. Advertisers know it’s better for their products to be misunderstood than ignored, so they capture consumer attention by focusing on the emotional benefits of purchasing a product instead of using facts, figures, and statistics that most people will ignore.
+* Online publications compete to get stories first, newspapers compete to 'confirm' it, and then pundits compete for airtime to opine on it. The smaller sites legitimize the newsworthiness of the story for the sites with bigger audiences. Consecutively and concurrently, this pattern inherently distorts and exaggerates whatever they cover.
+* Bloggers increasingly write with the authority of a news publication but envy the credibility of journalists. Meanwhile, journalists increasingly write with the speed of the blogosphere but envy the independence of bloggers.
+* In my experience, people who say everybody should pay for news spend most of their time with people who also pay for news, so they overestimate people’s appetite for paywalled information.
+* Subscription publications will reinforce their readers’ perspectives because most people only pay for information they agree with. Thus, an increase in subscription-supported media won’t just fragment information sources. It will fragment society.
+* Obsessive news consumption leads to a negativity bias that distorts our worldviews because creation happens slowly, but destruction happens fast and seizes our attention. Therefore, the kind of rare events that jump to the front pages of the newspaper tend to be negative, while stories about steadily declining poverty rates or improvements in global health rarely make national headlines.
+* It's not the media's role to present the world as it really is. They \(media\) will always have to compete to engage our attention with exciting stories and dramatic narratives. It is upon us consumers to realize that news is not very useful for understanding the world.
+* The current philosophy is built upon the fundamental lie that news is worthy of consuming every day. Daily news is profitable because it’s an unnecessary habit. Just like cereal, once people make a habit of eating it during their morning routine, they tend to maintain the habit.
+* When we direct our attention to the daily shouts of breaking news, we overwhelm ourselves with irrelevant data and uncommon events. We give rare events too much publicity, which distorts our model of the world. In turn, we mistake chance for certainty and the infrequent for the inevitable. Instead of enriching ourselves with the wisdom of history, we drive ourselves insane with the madness of the moment.
+* The best lack all conviction, while the worst are full of passionate intensity.
+* One of the biggest benefits of writing online is realizing how often I'm wrong about the world. Whenever I publish an essay, I’m surprised by how many people respond with well-reasoned rebuttals I’ve never considered. As the responses have increased, I’ve been humbled by my inability to predict the future
+* No human will ever be able to understand the world. It’s too complex, and we can’t see culture because we’re overwhelmed by its invisible influences. At best, we can build local expertise and useful — but ultimately inaccurate — models of the world. Past a certain point, additional information deludes us because it makes us think we understand the world more than we actually do.
+* HEALTHY NEWS CONSUMPTION IS POSSIBLE 
+  * I. TRACK WHAT YOU CONSUME
+    * The benefits of the Internet are only as strong as your ability to direct your attention. It’s a gift to people with self-control, but a curse to those without it. And while it hurts the average news consumer, savvy ones have never been smarter or more informed.
+    * Fathers and mothers have lost the idea that the highest aspiration they might have for their children is for them to be wise — as priests, prophets or philosophers are wise. Specialized competence and success are all that they can imagine.
+  * II. FOCUS ON NEWS THAT’S CLOSE TO HOME
+    * People are expected to have an opinion on every story, but even the experts don’t have enough time in the day to familiarize themselves with every aspect of every story. Without the time to research what we read, we confuse what’s true with what feels right.
+    * So skip the news cycle, but double-down on measured consumption. Ignore society’s recommendations for what to consume and refresh your learning habits like you’re shaking an etch-a-sketch. Remember, what you should consume looks nothing like what you were taught to consume, so rebel against the mainstream spotlight, find some trusted curators, chart your own path instead.
+* On the Internet, your rate of learning is limited not by access to information, but by the discipline to ignore distractions.
+* [https://www.perell.com/blog/news-in-the-age-of-abundance](https://www.perell.com/blog/news-in-the-age-of-abundance)
+
 ### Staying Motivated by Sending Status Updates to Nobody
 
 * Kai kurios komandos Google viduje naudoja vidinį įrankį pavadinimu Snippets. Konceptas gan paprastas - tai tiesiog tekstinis laukas, kuriame užpildomi savaitės pasiekimai. Sekančios savaitės pradžioje manageris ir kiti komandos nariai gauna email suvestinę.

@@ -6,6 +6,10 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 
 ## 2020-04
 
+#### 2020-04-05
+
+* Straipsniai: [News in the age of abundance](wiki/straipsniai/#news-in-the-age-of-abundance)
+
 #### 2020-04-02
 
 * TechIT: [Sickness Monitoring is the Opening Video Surveillance Has Been Waiting For](wiki/technologijos/tech-it.md#sickness-monitoring-is-the-opening-video-surveillance-has-been-waiting-for)
