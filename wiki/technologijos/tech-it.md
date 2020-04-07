@@ -6,6 +6,11 @@ description: 'https://www.facebook.com/techit.lt'
 
 ## 2020-04
 
+### Google žino kaip mum sekasi laikytis karantino
+
+* Pagal Google duomenis lankymasis retail įstaigose ir viešajame transporte mūsų šalyje krito apie 70%, tačiau parkai ir darbovietės lankomi tik 30% rečiau, nei įprasta
+* [https://www.gstatic.com/covid19/mobility/2020-03-29\_LT\_Mobility\_Report\_en.pdf](https://www.gstatic.com/covid19/mobility/2020-03-29_LT_Mobility_Report_en.pdf)
+
 ### Sickness Monitoring is the Opening Video Surveillance Has Been Waiting For
 
 * 9/11 įvykiai yra ne tik tragedija, tačiau atvėrė nemažai naujų įstatymiškų durų, kurios skelbdamos War on terror turėjo įtakos žmonių privatumui ir laisvėms. Pradedant nuo griežtesnės patikros oro uostuose ar naujomis pareigūnų teisėmis įsiveržti į namus ir suimti apklausai, be jokių orderių, jei tik prikabinami įtarimai terorizmu, baigiant tuo pačiu NSA ir jos vykdomu visuotiniu sekimu. 

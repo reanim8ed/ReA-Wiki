@@ -6,6 +6,10 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 
 ## 2020-04
 
+#### 2020-04-07
+
+* TechIT: [Google žino kaip mum sekasi laikytis karantino](wiki/technologijos/tech-it.md#google-zino-kaip-mum-sekasi-laikytis-karantino)
+
 #### 2020-04-05
 
 * Straipsniai: [News in the age of abundance](wiki/straipsniai/#news-in-the-age-of-abundance)
