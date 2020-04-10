@@ -6,6 +6,10 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 
 ## 2020-04
 
+#### 2020-04-10
+
+* Straipsniai: [К — Команда](wiki/straipsniai/#k-komanda)
+
 #### 2020-04-07
 
 * TechIT: [Google žino kaip mum sekasi laikytis karantino](wiki/technologijos/tech-it.md#google-zino-kaip-mum-sekasi-laikytis-karantino)

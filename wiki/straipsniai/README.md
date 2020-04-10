@@ -1,5 +1,11 @@
 # Straipsniai
 
+### К — Команда
+
+* Straipsnis apie IT komandas. Pradedant nuo stadijas, kurias praeina visos kompanijos, baigiant mūsų puikiai žinomais programerių lygiais ir kiek mažiau žinomomis klasėmis.
+* Pagal straipsnį galiu daryti išvadas, kad šiuo metu dirbu sėkmingoje kompanijoje, kuri juda restruktūrizacijos linkme, esu low middle lygio programuotojas ir pasižymių Хуятор'iaus ir eksperimentariaus savybėmis.
+* [https://vas3k.ru/blog/team/](https://vas3k.ru/blog/team/)
+
 ### News in the age of abundance
 
 * Both cereal and the daily news began as well-intentioned efforts to improve American lives. But just as cereal turned into sugar for the body, news turned into sugar for the mind.
