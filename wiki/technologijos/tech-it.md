@@ -6,6 +6,16 @@ description: 'https://www.facebook.com/techit.lt'
 
 ## 2020-04
 
+### iPhone SE \(2020\)
+
+* Iki šiol telefonų gamintojai gan aklai sekdavo paskui Apple. Pradedant nuo "antakio" ekrano viršuje ar ausinių lizdo atsisakymo, baigiant brangesniais nei 1k+ telefonais. O štai šiuo gan sudėtingu laikotarpiu Apple gan staiga padarė ėjimą į priešingą, tai yra pigesnių telefonų pusę: pristatytas naujasis SE modelis, apie kurį gandai internetuose sukosi pastaruosius bent pusantrų metų.
+* Telefonas turi tokį patį, jau 5 metų senumo dizainą, pradėtą naudoti dar nuo iPhone 6. Nė nežinau, kodėl kai kurie tikėjosi, jog telefonas išlaikys tokį patį mažiuką dizainą, koks buvo senąjame modelyje. Originalusis SE buvo daromas vadovaujantis tokiais pačiais principais - mažinant kaštus pernaudojamas tas pats senas korpusas, kurio jau "prištampuota" pakankamai ir kurio pagaminimo savikaina jau yra išties maža. Lygiai taip pat atlikta ir šiuo atveju, tik pernaudotas iPhone 8.
+* Taigi naujasis SE praktiškai yra tas pats kas iPhone 8s, tik su tuo pačiu sparčiausiu rinkoje mobiliuoju procesoriumi, kaip ir topiniame šių metų modelyje, o tuo tarpu kamera pernaudota iš praėjusių metų iPhone Xr. Esminis šio modelio momenta: visa tai sutalpinta į vos 400$.
+* Ko gero šiai dienai tai iš karto šauna į "best value" telefonų kategorijos viršūnę, nes nei vienas kitas kiniškas gamintojas negali pasiūlyti tokio spartaus telefono, su išties kokybiška kamera ir nuolatiniais OS atnaujinimais vos už tokią kainą.
+* Įdomu bus stebėti ar kiti gamintojai visgi paseks iš paskos net ir šiuo atveju.
+* Gyvename laikais, kai OnePlus telefonai tapo brangesni, nei iPhone'ai.
+* [https://www.apple.com/newsroom/2020/04/iphone-se-a-powerful-new-smartphone-in-a-popular-design/](https://www.apple.com/newsroom/2020/04/iphone-se-a-powerful-new-smartphone-in-a-popular-design/)
+
 ### Google žino kaip mum sekasi laikytis karantino
 
 * Pagal Google duomenis lankymasis retail įstaigose ir viešajame transporte mūsų šalyje krito apie 70%, tačiau parkai ir darbovietės lankomi tik 30% rečiau, nei įprasta

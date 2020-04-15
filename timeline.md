@@ -6,6 +6,10 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 
 ## 2020-04
 
+#### 2020-04-15
+
+* TechIT: [iPhone SE \(2020\)](wiki/technologijos/tech-it.md#iphone-se-2020)
+
 #### 2020-04-10
 
 * Straipsniai: [К — Команда](wiki/straipsniai/#k-komanda)
