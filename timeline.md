@@ -6,6 +6,10 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 
 ## 2020-04
 
+#### 2020-04-23
+
+* TechIT: [Apple Macbook'ų procesoriai](wiki/technologijos/tech-it.md#apple-macbook-procesoriai)
+
 #### 2020-04-18
 
 * Programavimas: [ką gali Prestashop, ko negali Woo](wiki/programavimas/wordpress.md#komentaras-ka-gali-prestashop-ko-negali-woo)
