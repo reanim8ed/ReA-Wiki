@@ -9,6 +9,7 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 #### 2020-04-25
 
 * Podcastai: [Stephen Dubner](wiki/podcastai.md#stephen-dubner-co-author-of-the-freakonomics-book-series-and-host-of-freakonomics-radio-and-podcast)
+* [Vadyba](wiki/vadyba.md)
 
 #### 2020-04-23
 

@@ -235,6 +235,7 @@
 * [Teorijos / efektai / fenomenai](wiki/teorijos-efektai.md)
 * [Terminai](wiki/terminai.md)
 * [Tools](wiki/tools.md)
+* [Vadyba](wiki/vadyba.md)
 * [Žaidimai](wiki/zaidimai/README.md)
   * [Bioshock](wiki/zaidimai/bioshock.md)
   * [Little Alchemy](wiki/zaidimai/little-alchemy.md)
