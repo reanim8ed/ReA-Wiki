@@ -1,5 +1,5 @@
 ---
-description: My knowledge as reusable as possible
+description: Approximate knowledge of many things
 ---
 
 # Įvadas

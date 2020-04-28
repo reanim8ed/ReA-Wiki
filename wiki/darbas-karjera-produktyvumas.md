@@ -1,5 +1,14 @@
 # Darbas / karjera / produktyvumas
 
+* Early in your career, say "yes" to every opportunity. Later on, once you have some success, use the framework: if it's not a “HELL YEAH!” it's a “no.”
+* Apply specific knowledge, with leverage, and eventually you will get what you deserve. You basically get rewarded by society for giving it what it wants.
+* Prioritize learning over profitability.
+* Don't try to remember stuff. Brain is bad at remembering but it's rather good at processing.
+
+### Standup meetings
+
+* I eventually came to like standup meetings, but with one caveat: no management \(including project management\) is allowed to attend. Otherwise it becomes a status meeting rather than a "How can we get past our current blockers" meeting. Management glazes over all the technical talk -- the very thing that we need to speak about if we are to need a meeting at all. What a standup is good for is casually checking with your teammates that the approach you are taking is reasonable and to discuss other strategies. It's useful for asking for help, swapping pairs \(or getting one in the first place\). If you find yourself doing the "This is what I did yesterday. This is what I'm going to do today" dance, then you are not getting much value. It should be blindingly obvious what you did yesterday, because code was written, reviewed and hopefully merged. Possibly you may want to say, "Hey, can you review my code?" It should be blindingly obvious what you are going to do today, because you grabbed a card/task from the backlog. The only thing you need to talk about is, "I'm confused. How do I do this?" and the like.
+
 ### Harsh Truths About Corporate Life
 
 * The more efficient you are at your work, the more you will be burdened with it.
