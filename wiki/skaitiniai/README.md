@@ -1,5 +1,13 @@
 # Skaitiniai
 
+### Samsung Galaxy S20 vs. iPhone 11 Pro: A deeper division lurks beneath the spec sheets
+
+* We've lately been of the mind that comparing Android and iOS phones primarily on a specs, benchmarks, or hardware basis is folly. Most informed buyers - choose between Android and iOS on the basis of software, services, and extremely divergent philosophies about openness, customization, and privacy.
+* It can be astonishing to see the amount of passion or even vitriol in Android vs. iOS discussions across social media and the Web—and by extension, Galaxy S vs. iPhone discussions, since those are the most popular devices to run those operating systems in most markets right now. Yes, **this is partly because of highly charged marketing messaging by players in both platforms, tribalist tendencies in people, and the need to justify one's own choices, especially if those choices were costly**.
+* But at the heart of things, this division is actually because the two platforms represent different world views on many questions about the relationships human beings should or shouldn't have with tech companies, app developers, and devices. When you look at it through that lens, it makes perfect sense that the arguments can be so emotionally charged.
+* That doesn't mean it's acceptable to be mean or toxic about these differences. It's important to have productive discussions about the issues at hand. But debates comparing the new Galaxy phone to the latest iPhone ultimately aren't really about the megapixels, and we all know it.
+* [https://arstechnica.com/gadgets/2020/02/samsung-galaxy-s20-vs-iphone-11-pro-a-deeper-division-lurks-beneath-the-specs-sheets/](https://arstechnica.com/gadgets/2020/02/samsung-galaxy-s20-vs-iphone-11-pro-a-deeper-division-lurks-beneath-the-specs-sheets/)
+
 ### What Happened with LEGO
 
 * As I showed before, LEGO has had $100+ sets for a while. However, only recently have they produced sets even more pricy than that. When we were kids, the $100 set was the pinnacle of LEGO. It was the set we all aspired to own. It was the set we all went straight to at the store. Of course we rarely ended up with that set, but that was our dream.
@@ -132,11 +140,11 @@ _The diamond invention is far more than a monopoly for fixing diamond prices; it
 * The Martian autoriaus trumputė istorija apie dirbtinį intelektą, valdantį miestus. Kartais morališkai drastiškais būdais, tačiau visgi pasiekianti teigiamus rezultatus. Ar sutiktumei gyventi tarsi mašinos prižiūrimu gyvunėliu, kuriam realiai yra apribotos teisės, tačiau to kaip ir nepajauti ir visgi gyvenimas nuo to mažai corrupt, našesnis, geresnis ir jautiesi laimingesnis.
 * [https://idiallo.com/blog/18000-dollars-static-web-page](https://idiallo.com/blog/18000-dollars-static-web-page)
 
-## Notes
+### The photos North Korea didn’t want you to see
 
-* Minties eksperimentas: jei panaikinti visą žmonijos progresą ir pradėti nuo absoliutaus 0, kiek laiko prireiktų [vėl sukurti iPhone 6s](https://waitbutwhy.com/table/iphone-thought-experiment)?
-* [Foto reportažas iš Š.Korėjos](https://imgur.com/gallery/cxwZs)
-* Darbuotojas, kuris dirba gerai, padaro savo darbus laiku ir jam nereikia visiems girtis apie tai, [kiek daug jis dirba](https://medium.com/@aidisdalikas/niekam-ne%C4%AFdomu-kiek-daug-tu-dirbi-65ae1036d08f#.3u1ypeom0).
-* Žmogus, kuris nusipirko „auksinį bilietą“ ir skraidė avialinijomis beveik 30 metų, pakol šį bilietą[ iš jo atėmė](http://nypost.com/2012/05/13/freequent-flier-has-wings-clipped-after-american-airlines-takes-away-his-unlimited-pass/), nes avialinijoms jis kainavo daug daugiau, nei bet kas tikėjosi.
-* [Veik, kai gali neveikti nieko](http://kernius.net/kodel-jauni-zmones-neturi-darbo-ir-ka-daryti-kad-tu-ji-visuomet-turetum). Straipsnis, skirtas jauniems žmonėms, apie tai, kaip diplomas jau senokai nebegarantuoja gero darbo ir apie taip, kokiomis savybėmis reikia pasižymėti, kad visgi jį gauti
+* [https://imgur.com/gallery/cxwZs](https://imgur.com/gallery/cxwZs)
+
+### ‘Free’quent flier has wings clipped after American Airlines takes away his unlimited pass
+
+* [https://nypost.com/2012/05/13/freequent-flier-has-wings-clipped-after-american-airlines-takes-away-his-unlimited-pass/](https://nypost.com/2012/05/13/freequent-flier-has-wings-clipped-after-american-airlines-takes-away-his-unlimited-pass/)
 

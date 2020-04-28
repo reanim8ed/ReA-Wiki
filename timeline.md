@@ -14,6 +14,8 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 * TechIT: [Apple Healthcare](wiki/technologijos/tech-it.md#apple-healthcare)
 * Darbas/karjera/produktyvumas: [Trick yourself into productivity the same way you trick yourself into procrastination](wiki/darbas-karjera-produktyvumas.md#trick-yourself-into-productivity-the-same-way-you-trick-yourself-into-procrastination)
 * Skaitiniai: [The Apple Watch, Five Years In](wiki/skaitiniai/#the-apple-watch-five-years-in)
+* Skaitiniai: [What Happened with LEGO](wiki/skaitiniai/#what-happened-with-lego)
+* Skaitiniai: [A deeper division lurks beneath the spec sheets](wiki/skaitiniai/#samsung-galaxy-s20-vs-iphone-11-pro-a-deeper-division-lurks-beneath-the-spec-sheets)
 
 #### 2020-04-23
 
