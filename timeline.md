@@ -6,6 +6,10 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 
 ## 2020-04
 
+#### 2020-04-25
+
+* Podcastai: [Stephen Dubner](wiki/podcastai.md#stephen-dubner-co-author-of-the-freakonomics-book-series-and-host-of-freakonomics-radio-and-podcast)
+
 #### 2020-04-23
 
 * TechIT: [Apple Macbook'ų procesoriai](wiki/technologijos/tech-it.md#apple-macbook-procesoriai)

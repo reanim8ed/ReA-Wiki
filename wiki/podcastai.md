@@ -58,6 +58,20 @@ Podcast'ų klausymui yra išties nemažai gerų programų, tačiau pagrindinis m
 
 ## Perklausos
 
+### 2020-04
+
+#### Stephen Dubner \(co-author of the Freakonomics book series and host of Freakonomics Radio and podcast\)
+
+* MMA - it’s high-level problem solving with dire physical consequences
+* We’ve been interested in people beating the shit out of each other since the beginning of time.
+* Getting fired, dumped, or losing a game is important because the feelings of failure make the feelings of success sweeter. 
+* Feelings of failure are really critical for your motivation. If you’re afraid of failing, but you go out and fail anyway, you learn that fear won’t kill you. You can view failure positively or negatively, the choice is yours.
+* We’re so often married to our ideas like our ideas are a part of us and we’re losing if our ideas that we’ve been discussing are incorrect.
+* You have to be willing to have unpopular opinions to make new discoveries. The world doesn’t progress very much unless there’s a guy like Steve Jobs or a Copernicus…poking people in the eye with a stick…you know very often they’re discredited or hated for their whole lives.
+* Most nuclear plants were built in the 1970s and new ones haven’t been built because people are scared of meltdowns–However, science has improved dramatically. One analogy: compare the safety of a car built in the ‘70s with a Tesla. Things have gotten much better. The same is true of nuclear plants.
+
+{% embed url="https://www.youtube.com/watch?v=DETj3ncN19g" %}
+
 ### 2020-02
 
 * [Garrett Reisman](https://www.youtube.com/watch?v=3RG5pXTpLBI) - buvęs NASA astronautas, astronautikos inžinerijos profesorius ir SpaceX konsultantas pasakoja apie savo patirtis 2 savaites gyvenant vandenyno dugne, apie tai, jog Battlestar Galactica serialą jis žiūrėjo būdamas tarptautinėje kosmoso stotyje ir apie tai, kaip buvo nusivylęs, kai pirmą kartą pamatė žemę iš kosmoso.
