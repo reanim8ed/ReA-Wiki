@@ -1,3 +1,7 @@
+---
+description: 'The desired triple 8 rule — 8-hours sleep, 8-hours work, and 8-hours leisure.'
+---
+
 # Darbas / karjera / produktyvumas
 
 * Your true calling lies at the intersection of what you’re good at, what you love to do, what you people will pay you for, and what society needs \(James Altucher\).
@@ -9,6 +13,16 @@
 ### Standup meetings
 
 * I eventually came to like standup meetings, but with one caveat: no management \(including project management\) is allowed to attend. Otherwise it becomes a status meeting rather than a "How can we get past our current blockers" meeting. Management glazes over all the technical talk -- the very thing that we need to speak about if we are to need a meeting at all. What a standup is good for is casually checking with your teammates that the approach you are taking is reasonable and to discuss other strategies. It's useful for asking for help, swapping pairs \(or getting one in the first place\). If you find yourself doing the "This is what I did yesterday. This is what I'm going to do today" dance, then you are not getting much value. It should be blindingly obvious what you did yesterday, because code was written, reviewed and hopefully merged. Possibly you may want to say, "Hey, can you review my code?" It should be blindingly obvious what you are going to do today, because you grabbed a card/task from the backlog. The only thing you need to talk about is, "I'm confused. How do I do this?" and the like.
+
+### Trick yourself into productivity the same way you trick yourself into procrastination
+
+* The last two weeks I made it a goal to run 5km every morning. A few times, particularly today, I felt lazy and run down, but I got out of bed anyway and told myself that I'll at least walk. The next thing I know I'm running and feeling amazing and on to set one of my better times.
+
+  The point: When you tell yourself "just one more game" or "just one more post", or "just one more video" and end up doing 3-5 hours more, do that with your other tasks too! "just one line of code", "just one tutorial", "just one rep", "just one line of reading/writing".
+
+* We all have this amazing mental tool that we've been honing for years, the tool of self deception. Time to use it for good and not evil.
+* This is the concept of the minimum viable action. Basically, we often procrastinate because we build up fears and friction related to our perception of the difficulty of an activity. All we have to do is commit to the smallest possible action ie\) instead of writing a bunch of pages, start by committing to writing a single line, hell even a few words on a sheet every day. As we do this it becomes easier, and we naturally want to write more, run more, eat less .. What ever that is.
+* A lot of habit forming research says to start with 2-3 minute goals while working on forming the habit. Similar concept, I’d say! I found it very effective while cultivating a daily meditation practice.
 
 ### Harsh Truths About Corporate Life
 

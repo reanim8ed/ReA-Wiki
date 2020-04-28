@@ -12,6 +12,7 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 * Asmenybės: [Elon Musk](wiki/asmenybes/pop-kultura/elon-musk.md)
 * Darbas: [Standup meetings](wiki/darbas-karjera-produktyvumas.md#standup-meetings)
 * TechIT: [Apple Healthcare](wiki/technologijos/tech-it.md#apple-healthcare)
+* Darbas/karjera/produktyvumas: [Trick yourself into productivity the same way you trick yourself into procrastination](wiki/darbas-karjera-produktyvumas.md#trick-yourself-into-productivity-the-same-way-you-trick-yourself-into-procrastination)
 
 #### 2020-04-23
 

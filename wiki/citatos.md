@@ -1,5 +1,8 @@
 # Citatos
 
+* When analytic thought, the knife, is applied to experience, something is always killed in the process.
+* The majority is always wrong. The minority is rarely right.” — Henrik Ibsen
+* It has always appalled me that really bright scientists almost all work in the most competitive fields, the ones in which they are making the least difference. In other words, if they were hit by a truck, the same discovery would be made by somebody else about 10 minutes later.” — Aubrey de Grey
 * Writers are desperate people and when they stop being desperate they stop being writers. -  Charles Bukowski
 * If you don't build your dream, someone will hire you to help build theirs. - Tony Gaskins
 * The last few days, I’ve been learning not to trust people and I’m glad I’ve failed. Sometimes we depend on other people as a mirror to define us and tell us who we are
