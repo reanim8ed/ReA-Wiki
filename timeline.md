@@ -11,6 +11,7 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 * Podcastai: [Stephen Dubner](wiki/podcastai.md#stephen-dubner-co-author-of-the-freakonomics-book-series-and-host-of-freakonomics-radio-and-podcast)
 * Asmenybės: [Elon Musk](wiki/asmenybes/pop-kultura/elon-musk.md)
 * Darbas: [Standup meetings](wiki/darbas-karjera-produktyvumas.md#standup-meetings)
+* TechIT: [Apple Healthcare](wiki/technologijos/tech-it.md#apple-healthcare)
 
 #### 2020-04-23
 
