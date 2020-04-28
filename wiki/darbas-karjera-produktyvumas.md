@@ -1,5 +1,6 @@
 # Darbas / karjera / produktyvumas
 
+* Your true calling lies at the intersection of what you’re good at, what you love to do, what you people will pay you for, and what society needs \(James Altucher\).
 * Early in your career, say "yes" to every opportunity. Later on, once you have some success, use the framework: if it's not a “HELL YEAH!” it's a “no.”
 * Apply specific knowledge, with leverage, and eventually you will get what you deserve. You basically get rewarded by society for giving it what it wants.
 * Prioritize learning over profitability.

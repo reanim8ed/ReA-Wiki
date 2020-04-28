@@ -4,6 +4,8 @@ description: 'Never argue against logic with emotion, or against emotion using l
 
 # Komunikacija / santykiai
 
+* How to Apply Meditation to Marriage: Less reactivity is about building up a default pause between the time something happens and your response to it. Pause is power, because it opens an opportunity for you to respond thoughtfully to the situation. Without this pause, we react with the first thought, word, or emotion that comes up — and the result is often unfortunate. Often what your partner is complaining about is not really a problem, not a recurring pattern, but their mood in that moment, which is influenced by a thousand things. If we just let it pass, it is soon finished, but reacting in the moment creates new problems.
+
 ## [10 ways to have a better conversation](https://www.ted.com/talks/celeste_headlee_10_ways_to_have_a_better_conversation)
 
 Dažniausiai, kai susiduriama su tokio pobūdžio list'ais - dauguma punktų yra pažįstami, esame juos skaitę jau ne kartą ar atrodo kaip visiškai obvious ir nieko naujo. Bet reali nauda susikuria būtent tada, kai šie punktai yra išties įsisavinami. O kad tai įvyktų, jie turi būti nuolat primenami. Tiek, kad jie taptų lengvai atsimenami esant situacijoje, kurioje tuos patarimus galima būtų pritaikyti. Ir tuomet dažnai ir sąmoningai juos bandant panaudoti, po kažkiek laiko tai tampa natūralu ir paprasta. Repetition is the mother of learning.
