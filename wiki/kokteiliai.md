@@ -12,3 +12,9 @@ Sudėtis: 2 dalys Campari, 1 dalis sodos vandens, 3 dalys Prosecco putojančio v
 
 Sudėtis: ⅓ Campari, ⅓ Cinzano Rosso, ⅓ džino, riekelė apelsino, ledas.
 
+## Gin
+
+### Gin Tonic
+
+Lime skiltelė, džinas - 20 ml., vanduo, mineralinis arba „schweppes“ - 60 ml.
+
