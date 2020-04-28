@@ -21,10 +21,9 @@ Konkrečios temos formatas dažniausiai pateikiamas tokiu formatu:
 
 1. Pavadinimas
 2. Citata
-3. Aprašymas - mano mintys/pamąstymai apie temą
+3. Content'as - mano mintys/pamąstymai apie temą arba susijusių minčių/citatų rinkinys
 4. Skiltys - puslapio tema gali būti išdalinta į skirtingas skiltis ir potemes
-5. Notes - bookmark stiliaus nuorodos su įdomiausiomis ištraukomis ar mano nuomone. 
-6. Links - nuorodos į daugiau resursų panašia tematika.
+5. Links - nuorodos į daugiau resursų panašia tematika.
 
 ## Navigacija
 

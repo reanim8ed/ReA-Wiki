@@ -20,7 +20,11 @@ Jau ne vienerius metus pasamoniškai to gainiojuosi: pradedant nuo asmeninio tin
 
 Manau, kad nesu [polimatas](https://www.wikiwand.com/en/Polymath), tačiau tikrai turiu panašių polinkių. Turiu gan didelį alkį žinioms ir man labai patinka sužinoti vis kažką naujo, įgauti vis naujų įžvalgų vis skirtingose srityse. Ir taip, visi žinom, kaip yra sakoma _Jack of all trades, master of none_,  kinų alternatyva: _Equipped with knives all over, yet none is sharp_, o estiškas variantas: _Nine trades, the tenth one — hunger_, tačiau turint platų požiūrį, insight'ų iš daug įvairių sričių ir generalizuotas žinias, tai gali suteikti unikalią [kombinaciją](https://medium.com/accelerated-intelligence/modern-polymath-81f882ce52db), kuri taipogi gali būti pranašumu.
 
-Tačiau visgi neužtenka viską tiesiog kaupti ar tai būtų citatos, straipsniai, video įrašai, bookmarksai ir kita. Tai tik sukuria informacijos kaupimo iliuziją ir jeigu su šia nauja info nėra dirbama, nėra apie ją galvojama, reflektuojama ir ji nėra kitaip panaudojama - iš to kaupimo yra išties mažai naudos. Tiesiog nukopijuoji ją ir pamiršti. Perdedi iš vieno stalčiuko į kitą ir jokios realios naudos tai nesukuria.
+_If we read without taking notes, our knowledge increases for a short time only. Once we forget what we knew, having read the text becomes worthless. You can bet that you’ll forget about the text’s information one day. It’s guaranteed. Thus, reading without taking notes is just a waste of time in the long run. It’s as if reading never happened._
+
+Tačiau visgi neužtenka viską tiesiog kaupti ar tai būtų citatos, straipsniai, video įrašai, bookmarksai ir kita. Tai tik sukuria informacijos kaupimo iliuziją ir jeigu su šia nauja info nėra dirbama, reflektuojama ir ji nėra kitaip panaudojama - iš to kaupimo yra išties mažai naudos. Perdėlioji iš vieno stalčiuko į kitą ir jokios realios naudos tai nesukuria.
+
+> _Early in his academic career, Luhmann realized that a note was only as valuable as its context – its network of associations, relationships, and connections to other information._
 
 > _Knowledge is acquired when we succeed in fitting a new experience into the system of concepts based upon our old experiences._
 
