@@ -29,7 +29,7 @@ Problema ta, kad nors kai kurios iš jų garsą atkuria gal ir patenkinamai, ta�
 
 Tad tokios ausinės manęs nesužavėjo. Baterijos laikas problemų nekelia, garso kokybės atžvilgiu galima rasti acceptable variantų, keliaujant mieste audiofilinis garsas nėra prioritetas. Tačiau mano požiūriu, tai yra toks tik pusiau iškeptas kompromisas. Visgi laidas, nors ir trumpesnis, tačiau niekur nedingsta, tad jis vis vien laikant ausines kišenėje susipainioja, jis vis vien išlieka viena pagrindinių vietų, dėl kurios ausinės gali sugesti. Vaikštant žiemą apsivyniojus šalikais ar gulint lovoje, laidas vis vien kliūna ir gali išmesti ausinę iš ausies, o bėgiojant vis vien girdimas laido trankymasis. Mano minėtos BeatsX ausinės \(kurios groja subtiliau, nei būtų galima tikėtis iš Beats ausinių ir nepasižymi tuo firminiu smarkiai perspaustu bosu\) turi išties per ilgą kabelį, o Jaybird kabelio ilgį galima sutrumpinti, suvyniojant jį ant specialių laikiklių, kurie būna pridedami komplekte. Tačiau kyla klausimas kuo šios ausinės pranašesnės už tiesiog paprastas ausines su laidu? Kaip ir dingsta esminiai bevielių ausinių pliusai, tad man netiko ir šis variantas.
 
-![](../../../../.gitbook/assets/https_2f2fblueprint-api-production.s3.amazonaws.com2fuploads2fcard2fimage2f6349122f409dd619-c88e-4a2.jpg)
+![](../../../../.gitbook/assets/https_2f2fblueprint-api-production.s3.amazonaws.com2fuploads2fcard2fimage2f6349122f409dd619-c88e-4a22-ab00-cf056ada5dde.jpg)
 
 ### **Wireless in ears**
 

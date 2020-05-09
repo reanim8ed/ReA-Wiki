@@ -4,6 +4,12 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 
 # Timeline
 
+## 2020-05
+
+#### 2020-05-09
+
+* TechIT: [Naujasis facebook.com dizainas](wiki/technologijos/tech-it.md#naujasis-facebook-com-dizainas)
+
 ## 2020-04
 
 #### 2020-04-25

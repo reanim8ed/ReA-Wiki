@@ -4,6 +4,28 @@ description: 'https://www.facebook.com/techit.lt'
 
 # TechIT straipsniai
 
+## 2020-05
+
+### Naujasis facebook.com dizainas
+
+Naująjį dizainą norintieji galėjo išbandyti jau bent kelis mėnesius, tačiau dabar jis jau įjungiamas daugeliui. Dažniausiai naudotojai viską vertina per patinka/nepatinka prizmę ir dalis jų kaip mat pasirenka antrąjį variantą, nes tiesiog nemėgsta pokyčių. Tokie žmonės įprastai būna gan vokalūs, kelia daug triukšmo ir kritikuoja bet ką, kas yra kitaip, nei jie buvo pripratę. Tokių artimiausiomis dienomis tikrai matysime nemažai.
+
+Kaip priimate šiuos pokyčius - tai ištiesų yra jūsų asmeninio skonio reikalas, tačiau noriu supažindinti jus apie tai iš kitos, tai yra kūrėjų perspektyvos.
+
+Tie kas dirba inžinerinėse specialybėse, žino, jog pokyčiai ne visuomet daromi tik dėl "kosmetinių" priežasčių. Ilguose testiniuose projektuose kompleksija su laiku vis didėja, atsiranda vis daugiau netvarkos, kaupiasi vadinamoji "techninė skola". Tokio dydžio projektai neretai pasiekia stadiją, kai bandant atlikti net mažiausius pakeitimus vienoje vietoje, neišvengiamai sukuriamos problemos kitoje. Tuomet pribrendama visko perdarymui, kai stengiamasi visą tai išspręsti ir optimizuoti taip, jog ateityje pakeitimus atlikti būtų kur kas paprasčiau. Dizaino pokyčiai tuomet būna tik šalutinis to efektas.
+
+Tarp developerių galima išskirti dvi pagrindines minčių stovyklas:
+
+Pirmoji yra nusivylusi dabartine interneto stadija, kai atrodytų jog 10 tūkst. FB inžinierių nesugeba sukurti tiesiog našios foto, video ir teksto dalinimosi svetainės. Prieš 10 metų, kai svetainė sukosi ant tiesiog paprasto PHP, ji veikė puikiai, bet po viso šio dešimtmečio "tobulinimų" pasiektas lygis, kai pereiti iš vieno lango į kitą atima apie 5-8s. Tos regresas laikomas visišku web-dev, kaip profesijos fail'u. Interneto svetainės tapo perdėtai apkrautos ir laikoma jog jos atitolo nuo savo originalios paskirties - būti praplėsto funkcionalumo interaktyviais dokumentais, kurių pagrindinė paskirtis yra tiesiog perduoti ir priimti informaciją.
+
+Kita minčių stovykla nesutinka su šiuo požiūriu ir supranta, jog FB nėra tiesiog interneto svetainė. Šiuolaikinis web developmentas nėra tiesiog reprezentacinių svetainių kūrimas su gražiomis nuotraukomis. Kuriamos išties sudėtingos aplikacijos, turinčios begalės, kartais net labai sudėtingų funkcionalumų. Tad pažvelgus į Facebook iš šios perspektyvos ir įvertinus platformos suteikiamas galimybes ir jų apimtis, tai yra ko gero vienas iš pačių kompleksiškiausių webapps'ų internete. Tai ne tik multimedia postai + žinutės, tačiau ir skelbimų, dating, žaidimų, appsų, forumų, reklamų portalas, su live streaming'o, live chat'o, donation'ų, paprastų ir video skambučių galimybėmis. Nepamirškime ir to, kad Facebook'as visų pirma yra marketinginė platforma, kuri labiausiai optimizuota kuo labiau įtraukti vartotojus bei sekti kiekvieną jų veiksmą, siekiant iš kiekvieno ištraukti kiek įmanoma daugiau duomenų, kuriuos būtų galima monetizuoti. Logikos ir funkcionalumo užtektinai, jog darbo atsiranda visiem šiem 10 tūkst. inžinierių ir akivaizdu, kad visa tai negali būti taip paprasta ir efektyvu, kaip tiesiog teksto siena su keliomis foto.
+
+Taigi kokios visgi turėtų būsi svetainės? Manau faktas, jog nesugebama prieiti prie vieningos nuomonės ir parodo, jog ko gero vieno paprasto aiškaus atsakymo būti čia ir negali.
+
+Užtat galima paskaityti inžinierių patirtis apie tai, kiek, kokių sprendimų ir į kiek niuansų turi būti atsižvelgiama mažinant ir optimizuojant buvusio kodo kompleksiją. Negalima to neįvertinti, tai išties didelis pasiekimas, nors ir su savomis problemomis.
+
+* [https://engineering.fb.com/web/facebook-redesign/](https://engineering.fb.com/web/facebook-redesign/)
+
 ## 2020-04
 
 ### Apple Healthcare
