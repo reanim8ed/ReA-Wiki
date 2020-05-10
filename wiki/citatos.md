@@ -1,3 +1,7 @@
+---
+description: Never attribute to malice that which can be adequately explained by stupidity.
+---
+
 # Citatos
 
 * When analytic thought, the knife, is applied to experience, something is always killed in the process.
