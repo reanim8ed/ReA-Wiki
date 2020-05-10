@@ -11,6 +11,10 @@ description: A mental model is a concept you can use to help try to explain thin
 * [Zebra ](https://www.wikiwand.com/en/Zebra_%28medicine%29)- American medical slang for arriving at an exotic medical diagnosis when a more commonplace explanation is more likely. "When you hear hoofbeats, think of horses not zebras".
 * [Cognitive bias](https://www.wikiwand.com/en/Cognitive_bias) - a systematic pattern of deviation from norm or rationality in judgment. Individuals create their own "subjective reality" from their perception of the input. An individual's construction of reality, not the objective input, may dictate their behavior in the world. Thus, cognitive biases may sometimes lead to perceptual distortion, inaccurate judgment, illogical interpretation, or what is broadly called irrationality.
 
+### Creative Destruction
+
+Motivated by personal incentives, entrepreneurs will push to best one another in a never-ending game of creative one-upmanship, in the process destroying old ideas and replacing them with newer technology. Beware getting left behind.
+
 ### Intentions
 
 * [Hanlon’s Razor](https://www.wikiwand.com/en/Hanlon%27s_razor) — “never attribute to malice that which is adequately explained by carelessness.”
@@ -23,18 +27,14 @@ It’s worth remembering that even if someone is an enemy it is in conflict with
 
 Doing one thing means not being able to do another. We live in a world of trade-offs, and the concept of opportunity cost rules all. Most aptly summarized as “there is no such thing as a free lunch.”
 
-### Creative Destruction
+### Scientific method
 
-Motivated by personal incentives, entrepreneurs will push to best one another in a never-ending game of creative one-upmanship, in the process destroying old ideas and replacing them with newer technology. Beware getting left behind.
+A method is termed scientific if it can be stated in such a way that a certain defined result would cause it to be proved false. Pseudo-knowledge and pseudo-science operate and propagate by being unfalsifiable – as with astrology, we are unable to prove them either correct or incorrect because the conditions under which they would be shown false are never stated.
 
 ### Specialization
 
 * Rather than having a group of workers each producing an entire item from start to finish, Smith explained that it’s usually far more productive to have each of them specialize in one aspect of production. He also cautioned, however, that each worker might not enjoy such a life; this is a trade-off of the specialization model. - tinka programavimui
 * Most humans have the tendency to need to act, even when their actions are not needed. We also tend to offer solutions even when we do not have knowledge to solve the problem.
-
-### Scientific method
-
-A method is termed scientific if it can be stated in such a way that a certain defined result would cause it to be proved false. Pseudo-knowledge and pseudo-science operate and propagate by being unfalsifiable – as with astrology, we are unable to prove them either correct or incorrect because the conditions under which they would be shown false are never stated.
 
 ### Traveling
 
