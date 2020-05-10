@@ -4,8 +4,10 @@
 
 * Software engineering is what happens to programming when you add time and other programmers.
 * Engineering is figuring out how to do what you want with what you’ve actually got
+* You can’t guilt yourself into doing things you want to accomplish. You’ll always resist and make excuses. The only way is to enjoy the act of doing them.
 * C programmer’s motto: “Build upon the work of others”
 * [10x programeriai](http://10x.engineer/) vs [1x programerius](https://1x.engineer/)
+* "Premature optimization is the root of all evil". This applies more broadly than just for code. Abstraction is a form of optimization and shouldn't be done before the space has been properly explored to know what abstractions should be built.
 
 ### The greatest of all weaknesses is the fear of appearing weak. 
 
