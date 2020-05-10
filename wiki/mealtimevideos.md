@@ -1,6 +1,11 @@
 # MealTimeVideos
 
-### 2109-12-13
+### 2020-05-10
+
+* Kaip Black Mirror stiliaus siužetas pavirsta realybe: pasakojimas apie Kinijoje diegiamas ir naudojamas žmonių sekimo sistemas.
+* [https://www.youtube.com/watch?v=CLo3e1Pak-Y](https://www.youtube.com/watch?v=CLo3e1Pak-Y)
+
+### 2019-12-13
 
 * Žaidimų industrijos dizainas statosi ant ankstesnių experience'ų pagrindo. Labai dažnai visiškai net nesusimąstome, jog mechanikos, kurios mums atrodo visiškai intuityvios, tokios yra tik dėlto, kad žaidėme kompiuterinius žaidimus visą savo gyvenimą. Žinome jų istoriją, progresiją ir tos taisyklės yra tiesiog giliai įsirėžusios mumyse. Kiekviena pasiteisinusi ir plačiai industrijoje paplitusi dizaino ar mechanikos logika mums tapo tokia įprasta, jog net pasileidus visiškai nematytą žaidimą, greičiausiai mokėsime jį valdyti, net be jokių papildomų tutorialų. Universal language of games.
 * Tačiau žmonės, kurie neturėjo tokios patirties, gali struglinti net visiškai elementariose vietose. Nes jie neturi konteksto, neturiu patirčių, o žaidimų kūrėjai išties dažnai vadovaujasi prielaidomis, kad jūs turite bent bazines valdymo žinias ir savo dizainą lipdo jau ant to.

@@ -6,6 +6,26 @@
 
 * I eventually came to like standup meetings, but with one caveat: no management \(including project management\) is allowed to attend. Otherwise it becomes a status meeting rather than a "How can we get past our current blockers" meeting. Management glazes over all the technical talk -- the very thing that we need to speak about if we are to need a meeting at all. What a standup is good for is casually checking with your teammates that the approach you are taking is reasonable and to discuss other strategies. It's useful for asking for help, swapping pairs \(or getting one in the first place\). If you find yourself doing the "This is what I did yesterday. This is what I'm going to do today" dance, then you are not getting much value. It should be blindingly obvious what you did yesterday, because code was written, reviewed and hopefully merged. Possibly you may want to say, "Hey, can you review my code?" It should be blindingly obvious what you are going to do today, because you grabbed a card/task from the backlog. The only thing you need to talk about is, "I'm confused. How do I do this?" and the like.
 
+### Maker's schedule, manager's schedule
+
+One reason programmers dislike meetings so much is that they're on a different type of schedule from other people. Meetings cost them more.
+
+There are two types of schedule, which I'll call the manager's schedule and the maker's schedule. The manager's schedule is for bosses. It's embodied in the traditional appointment book, with each day cut into one hour intervals. You can block off several hours for a single task if you need to, but by default you change what you're doing every hour.
+
+When you use time that way, it's merely a practical problem to meet with someone. Find an open slot in your schedule, book them, and you're done.
+
+Most powerful people are on the manager's schedule. It's the schedule of command. But there's another way of using time that's common among people who make things, like programmers and writers. They generally prefer to use time in units of half a day at least. You can't write or program well in units of an hour. That's barely enough time to get started.
+
+When you're operating on the maker's schedule, meetings are a disaster. A single meeting can blow a whole afternoon, by breaking it into two pieces each too small to do anything hard in. Plus you have to remember to go to the meeting. That's no problem for someone on the manager's schedule. There's always something coming on the next hour; the only question is what. But when someone on the maker's schedule has a meeting, they have to think about it.
+
+For someone on the maker's schedule, having a meeting is like throwing an exception. It doesn't merely cause you to switch from one task to another; it changes the mode in which you work.
+
+I find one meeting can sometimes affect a whole day. A meeting commonly blows at least half a day, by breaking up a morning or afternoon. But in addition there's sometimes a cascading effect. If I know the afternoon is going to be broken up, I'm slightly less likely to start something ambitious in the morning. I know this may sound oversensitive, but if you're a maker, think of your own case. Don't your spirits rise at the thought of having an entire day free to work, with no appointments at all? Well, that means your spirits are correspondingly depressed when you don't. And ambitious projects are by definition close to the limits of your capacity. A small decrease in morale is enough to kill them off.
+
+Each type of schedule works fine by itself. Problems arise when they meet. Since most powerful people operate on the manager's schedule, they're in a position to make everyone resonate at their frequency if they want to. But the smarter ones restrain themselves, if they know that some of the people working for them need long chunks of time to work in.
+
+[http://www.paulgraham.com/makersschedule.html](http://www.paulgraham.com/makersschedule.html)
+
 ### Atsakas į klausimą:  **Ar norint tureti programuotojo karjerą užtenka kolegijos?**
 
 **Q:**   
