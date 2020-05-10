@@ -27,6 +27,13 @@ Ekranoplan'as, milžiniškas, išties labai didelę talpą turintis lėktuvas pa
 * Serialas [Chernobyl \(2019\)](../filmai/#chernobyl-2019), kuris susilaukė netikėtai daug populiarumo \(ir ne be reikalo, nes jis išties puikus\), labai suaktyvino domėjimąsi šia istorine tema. Visgi tai išties labai įdomi istorija apie vieną didžiausių žmogaus sukeltų katastrofų istorijoje. Vienas reddit'o vartotojas sukūrė įrašą, kuriame prabėga pro visus pagrindinius šios istorijos punktus, kartu su [istorinėmis nuotraukomis](https://imgur.com/a/TwY6q). O kas liečia TV serialą, kaip bebūtų, 5 valandose visko nesudėsi ir žinoma show turi bent kiek dramatizuoti įvykius, tačiau kūrėjai stengėsi išlaikyti istoriją kuo arčiau teisybės ir jiem tai išties puikiai pavyko. Apie tai kokie sprendimai buvo priimami ką ir kaip parodyti ir kaip tokia istorija perteikiama video formatu - [podcaste ](https://www.youtube.com/watch?v=rUeHPCYtWYQ)pasakoja serialo autorius.
 * Jeigu serialo kūrėjai sugalvotų tęsti savo darbą, tai sekanti istorija, kurią jie galėtų papasakoti, definitely galėtų būti gan menkai pasauliui žinoma [Kyshtym Disaster](https://youtu.be/SQCfOjhguO0), pasakojanti istoriją apie radioaktyvų ežerą, kuris po šiai dienai yra viena labiausiai radioaktyvių vietų pasaulyje.
 
+### Kaip sovietai mainė karo laivus į Pepsi
+
+* Pepsi buvo vienas pirmųjų kapitalistinių produktų, parduodamų SSSR bei turėjo kolos monopoliją net 13 metų.
+* Prekybą sąjungoje apsunkino tai, jog pagal sovietinius įstatymus, buvo draudžiama naudoti valiutą užsienyje, tad tuometiniai rubliai tarptautiniu mastu buvo tiesiog beverčiai. Tad prekybai pasitelkti barteriniai mainai: mainais už kolą, Pepsi gaudavo Stolichnaya degtinės, kurią galėdavo importuoti ir pardavinėti JAV. 
+* Prasidėjus karui Afganistane, Amerika pradėjo taikyti boikotus, tad teko ieškoti alternatyvų ir 89-ųjų pavasarį pasirašyta išties neeilinė sutartis - už gazuotus gėrimus atsiskaityta 17 povandeninių ir 3 karo laivų flotile. Jep, istorija gali būti išties keista ;\)
+* [https://www.atlasobscura.com/articles/soviet-union-pepsi-ships](https://www.atlasobscura.com/articles/soviet-union-pepsi-ships)
+
 ### Pirmasis McDonalds Rusijoje
 
 * 1990-tųjų sausio 31-ąją buvo atidarytas pirmasis [McDonalds restoranas Rusijoje](https://www.boredpanda.com/first-mcdonald-restaurant-opens-soviet-union-moscow-russia-1990/?utm_source=facebook&utm_medium=social&utm_campaign=organic). Buvo tikėtasi, kad atidarymo dieną bus aptarnauti apie 1000 žmonių, tačiau šalyje, kur vidutinė alga tuo metu siekė 150 rublių, kai tuo tarpu Big Mac'as - 3,75,  prieš restorano atidarymą lauke jau lūkuriavo apie 5x daugiau žmonių. Teigiama, kad dienos eigoje pro duris pražygiavo išviso apie 30 000 žmonių!

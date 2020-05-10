@@ -9,6 +9,7 @@ description: Wiki atliktų pakeitimų ir naujų straipsnių archyvas
 #### 2020-05-10
 
 * [Mental modeliai](wiki/mental-modeliai.md)
+* Istorija: [Kaip sovietai mainė karo laivus į Pepsi](wiki/istorija/#kaip-sovietai-main-karo-laivus-pepsi)
 
 #### 2020-05-09
 
