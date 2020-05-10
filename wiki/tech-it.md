@@ -2,7 +2,7 @@
 description: 'https://www.facebook.com/techit.lt'
 ---
 
-# TechIT straipsniai
+# "TechIT" straipsniai
 
 ## 2020-05
 
@@ -291,7 +291,7 @@ Kaip įprasta, praėjus Apple renginiui visada kyla įvairių pastebėjimų. Tai
 
 * Kai AMD prieš porą metų pristatė savo Zen architektūros procesorius, tai sukėlė nemažai bangų tarp procesorių entuziastų. Tas pats kartojasi ir šiemet. AMD jau turėjo price/performance lyderystę, kai kalba buvo apie multi-thread spartą, tačiau pagaliau šį kartą galim pamatyti tokią lyderystę net ir single-thread atžvilgiu, ko iš AMD jau nematėme išties daugybę metų:
 
-![](../../.gitbook/assets/computex_keynote_draft_for_prebrief.26.05.19-page-035b.jpg)
+![](../.gitbook/assets/computex_keynote_draft_for_prebrief.26.05.19-page-035b.jpg)
 
 * Vienas įspūdingiausių chip'ų šį kartą tai Ryzen7 3700X: 8 branduolių, 16 thread'ų, 3.6Ghz procesorius už 330$, sueikvojantis viso labo 65W. Atrodo, kad tai turėtų būti pats efektyviausias kadanors sukurtas desktop procesorius. Ką jau kalbėti apie tai, kad lineup'e yra net ir 6 branduolių procesorius už viso labo 200$.
 * Atrodo išties stipriai, tad beliko sulaukti benchmark'ų ir pažiūrėti realius rezultatus.

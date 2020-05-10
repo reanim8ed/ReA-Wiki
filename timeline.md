@@ -1,5 +1,5 @@
 ---
-description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
+description: Wiki atliktų pakeitimų ir naujų straipsnių archyvas
 ---
 
 # Timeline
@@ -8,7 +8,7 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 
 #### 2020-05-09
 
-* TechIT: [Naujasis facebook.com dizainas](wiki/technologijos/tech-it.md#naujasis-facebook-com-dizainas)
+* TechIT: [Naujasis facebook.com dizainas](wiki/tech-it.md#naujasis-facebook-com-dizainas)
 
 ## 2020-04
 
@@ -17,7 +17,7 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 * Podcastai: [Stephen Dubner](wiki/podcastai.md#stephen-dubner-co-author-of-the-freakonomics-book-series-and-host-of-freakonomics-radio-and-podcast)
 * Asmenybės: [Elon Musk](wiki/asmenybes/pop-kultura/elon-musk.md)
 * Darbas: [Standup meetings](wiki/programavimas/programavimo-karjera.md#standup-meetings)
-* TechIT: [Apple Healthcare](wiki/technologijos/tech-it.md#apple-healthcare)
+* TechIT: [Apple Healthcare](wiki/tech-it.md#apple-healthcare)
 * Darbas/karjera/produktyvumas: [Trick yourself into productivity the same way you trick yourself into procrastination](wiki/darbas-karjera-produktyvumas.md#trick-yourself-into-productivity-the-same-way-you-trick-yourself-into-procrastination)
 * Skaitiniai: [The Apple Watch, Five Years In](wiki/skaitiniai/#the-apple-watch-five-years-in)
 * Skaitiniai: [What Happened with LEGO](wiki/skaitiniai/#what-happened-with-lego)
@@ -25,7 +25,7 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 
 #### 2020-04-23
 
-* TechIT: [Apple Macbook'ų procesoriai](wiki/technologijos/tech-it.md#apple-macbook-procesoriai)
+* TechIT: [Apple Macbook'ų procesoriai](wiki/tech-it.md#apple-macbook-procesoriai)
 
 #### 2020-04-18
 
@@ -33,7 +33,7 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 
 #### 2020-04-15
 
-* TechIT: [iPhone SE \(2020\)](wiki/technologijos/tech-it.md#iphone-se-2020)
+* TechIT: [iPhone SE \(2020\)](wiki/tech-it.md#iphone-se-2020)
 
 #### 2020-04-10
 
@@ -41,7 +41,7 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 
 #### 2020-04-07
 
-* TechIT: [Google žino kaip mum sekasi laikytis karantino](wiki/technologijos/tech-it.md#google-zino-kaip-mum-sekasi-laikytis-karantino)
+* TechIT: [Google žino kaip mum sekasi laikytis karantino](wiki/tech-it.md#google-zino-kaip-mum-sekasi-laikytis-karantino)
 
 #### 2020-04-05
 
@@ -49,7 +49,7 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 
 #### 2020-04-02
 
-* TechIT: [Sickness Monitoring is the Opening Video Surveillance Has Been Waiting For](wiki/technologijos/tech-it.md#sickness-monitoring-is-the-opening-video-surveillance-has-been-waiting-for)
+* TechIT: [Sickness Monitoring is the Opening Video Surveillance Has Been Waiting For](wiki/tech-it.md#sickness-monitoring-is-the-opening-video-surveillance-has-been-waiting-for)
 
 ## 2020-03
 
@@ -78,7 +78,7 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 
 #### 2020-02-23
 
-* TechIT: [Yesterday's flagship is the new flagship killer](wiki/technologijos/tech-it.md#yesterdays-flagship-is-the-new-flagship-killer)
+* TechIT: [Yesterday's flagship is the new flagship killer](wiki/tech-it.md#yesterdays-flagship-is-the-new-flagship-killer)
 
 #### 2020-02-16
 
@@ -93,16 +93,16 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 
 #### 2020-02-09
 
-* TechIT: [Didžiausias remote work eksperimentas Kinijoje](wiki/technologijos/tech-it.md#didziausias-darbo-is-nam-eksperimentas-kinijoje)
+* TechIT: [Didžiausias remote work eksperimentas Kinijoje](wiki/tech-it.md#didziausias-darbo-is-nam-eksperimentas-kinijoje)
 * Straipsniai: [The diamond invention](wiki/skaitiniai/#the-diamond-invention)
 
 #### 2020-02-03
 
-* TechIT: [Google Maps hack'as](wiki/technologijos/tech-it.md#google-maps-hackas)
+* TechIT: [Google Maps hack'as](wiki/tech-it.md#google-maps-hackas)
 
 #### 2020-02-02
 
-* TechIT: [Apple finansiniai rezultatai](wiki/technologijos/tech-it.md#apple-finansiniai-rezultatai)
+* TechIT: [Apple finansiniai rezultatai](wiki/tech-it.md#apple-finansiniai-rezultatai)
 
 ## 2020-01
 
@@ -116,7 +116,7 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 
 #### 2019-01-09
 
-* TechIT: [Peak Samsung TV](wiki/technologijos/tech-it.md#peak-samsung-tv)
+* TechIT: [Peak Samsung TV](wiki/tech-it.md#peak-samsung-tv)
 
 #### 2019-01-05
 
@@ -138,8 +138,8 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 
 #### 2019-12-13
 
-* TechIT: [35 000$ Mac'as](wiki/technologijos/tech-it.md#35-000usd-macas)
-* TechIT: [Decentralizuotas soc.tinklas](wiki/technologijos/tech-it.md#decentralizuotas-soc-tinklas)
+* TechIT: [35 000$ Mac'as](wiki/tech-it.md#35-000usd-macas)
+* TechIT: [Decentralizuotas soc.tinklas](wiki/tech-it.md#decentralizuotas-soc-tinklas)
 * Programavimas: [Symfony](wiki/programavimas/php/symfony.md)
 * MealTimeVideos: [video žaidimų kalba](wiki/mealtimevideos.md#2109-12-13)
 * Straipsnių archyvas: [Kodėl jauni žmonės neturi darbo ir ką daryti, kad tu jį visuomet turėtum?](wiki/skaitiniai/straipsniu-archyvas/kod-l-jauni-zmon-s-neturi-darbo-ir-ka-daryti-kad-tu-j-visuomet-tur-tum.md)
@@ -153,7 +153,7 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 
 #### 2019-11-13
 
-* TechIT: [Macbook Pro 16"](wiki/technologijos/tech-it.md#macbook-pro-16)
+* TechIT: [Macbook Pro 16"](wiki/tech-it.md#macbook-pro-16)
 
 #### 2019-11-03
 
@@ -181,7 +181,7 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 
 #### 2019-10-23
 
-* TechIT: [Pixel 4](wiki/technologijos/tech-it.md#pixel-4)
+* TechIT: [Pixel 4](wiki/tech-it.md#pixel-4)
 * Showerthougts: [balnas](wiki/showerthoughts.md#2019-10-23)
 
 #### 2019-10-20
@@ -194,21 +194,21 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 
 #### 2019-10-15
 
-* TechIT: [2019-ųjų Apple = 2000-ųjų Linux?](wiki/technologijos/tech-it.md#2019-j-apple-2000-j-linux)
+* TechIT: [2019-ųjų Apple = 2000-ųjų Linux?](wiki/tech-it.md#2019-j-apple-2000-j-linux)
 
 #### 2019-10-08
 
-* TechIT: [Oficialiai paskelbtas PS5 release'as](wiki/technologijos/tech-it.md#oficialiai-paskelbtas-ps5-releaseas)
+* TechIT: [Oficialiai paskelbtas PS5 release'as](wiki/tech-it.md#oficialiai-paskelbtas-ps5-releaseas)
 
 #### 2019-10-05
 
 * Filmai: [The Sunset Limited](wiki/filmai/atsiliepimai.md#the-sunset-limited-2011)
-* TechIT: [Google Street View spragos](wiki/technologijos/tech-it.md#google-street-view-spragos-europoje)
+* TechIT: [Google Street View spragos](wiki/tech-it.md#google-street-view-spragos-europoje)
 * Random internetai:[ Įspūdingos Rusijos metro stotys](wiki/random-internetai.md#spudingos-rusijos-metro-stotys)
 
 #### 2019-10-03
 
-* TechIT: [Microsoft Duo ir Neo](wiki/technologijos/tech-it.md#microsoft-duo-ir-neo)
+* TechIT: [Microsoft Duo ir Neo](wiki/tech-it.md#microsoft-duo-ir-neo)
 
 ## 2019-09
 
@@ -222,7 +222,7 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 
 #### 2019-09-22
 
-* TechIT: [Apple Watch konkurencija](wiki/technologijos/tech-it.md#apple-watch-konkurencija)
+* TechIT: [Apple Watch konkurencija](wiki/tech-it.md#apple-watch-konkurencija)
 * Random internetai: [Dviračių kapinynas](wiki/random-internetai.md#dviraci-kapinynas)
 * Kokteiliai: [Campari](wiki/kokteiliai.md#italiskas-campari)
 * Showerthoughts:[ subscription apps'as subscription'ams](wiki/showerthoughts.md#2019-09-22)
@@ -231,11 +231,11 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 
 #### 2019-09-21
 
-* TechIT: [kam buvo reikalingas iOS 13.0?](wiki/technologijos/tech-it.md#kam-buvo-reikalingas-ios-13-0)
+* TechIT: [kam buvo reikalingas iOS 13.0?](wiki/tech-it.md#kam-buvo-reikalingas-ios-13-0)
 
 #### 2019-09-13
 
-* TechIT: [Google Play Pass](wiki/technologijos/tech-it.md#google-play-pass)
+* TechIT: [Google Play Pass](wiki/tech-it.md#google-play-pass)
 
 #### 2019-09-04
 
@@ -269,7 +269,7 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 
 #### 2019-08-20
 
-* TechIT: [Dell kompiuteriai monitorių stovuose](wiki/technologijos/tech-it.md#dell-kompiuteriai-monitori-stovuose)
+* TechIT: [Dell kompiuteriai monitorių stovuose](wiki/tech-it.md#dell-kompiuteriai-monitori-stovuose)
 
 #### 2019-08-19
 
@@ -288,7 +288,7 @@ description: Čia pateikiama pakeitimų ir naujų straipsnių istorija
 * MMORPG kaip [socialinė mokykla](wiki/zaidimai/#mmorpg-kaip-socialin-mokykla)
 * Skolindamasis kreditu, skoliniesi [iš savęs paties](wiki/ekonomika/#notes), tiesiog ateityje.
 * [Fear of Missing Out](wiki/technologijos/internetas.md#fear-of-missing-out-and-social-media) and Social Media
-* Google [prisijungimai be slaptažodžių](wiki/technologijos/tech-it.md#google-prisijungimai-be-slaptazodzi)
+* Google [prisijungimai be slaptažodžių](wiki/tech-it.md#google-prisijungimai-be-slaptazodzi)
 
 #### 2019-08-11
 
@@ -394,7 +394,7 @@ Tinklaraščio migracija:
 * [Geras teisininkas](wiki/showerthoughts.md#2019-07-25) yra tas, kuris su tokiu pačiu užsidegimu galėtų kovoti bet kurioje pusėje.
 * Citata apie [minčių generavimą](wiki/citatos.md#minci-generavimas-rytais) rytais
 * Citata apie [keliones](wiki/citatos.md#traveling)
-* 15 metų, o [The Pirate Bay](wiki/technologijos/tech-it.md#15-met-o-the-pirate-bay-taip-vis-dar-ir-nesustabdomas) vis dar aktualus
+* 15 metų, o [The Pirate Bay](wiki/tech-it.md#15-met-o-the-pirate-bay-taip-vis-dar-ir-nesustabdomas) vis dar aktualus
 
 #### 2019-07-24
 
@@ -424,7 +424,7 @@ Tinklaraščio migracija:
 #### 2019-07-17
 
 * [Neurolink prezentacija](wiki/kompanijos/neurolink.md)
-* Facebook'as liko [praktiškai nenubaustas](wiki/technologijos/tech-it.md#facebook-5-mlrd-baudos-paviesinimas-uzdirbo-1mlrd-vos-per-30-min) dėl Cambride Analytica skandalo
+* Facebook'as liko [praktiškai nenubaustas](wiki/tech-it.md#facebook-5-mlrd-baudos-paviesinimas-uzdirbo-1mlrd-vos-per-30-min) dėl Cambride Analytica skandalo
 
 #### 2019-07-16
 
@@ -453,8 +453,8 @@ Tinklaraščio migracija:
 
 #### 2019-06-30
 
-* [500$ AMD Ryzen 9 3900X yra praktiškai toks pat greitas, kaip 2k$ Intel Core i9-9980XE](wiki/technologijos/tech-it.md#500usd-amd-ryzen-9-3900x-yra-praktiskai-toks-pat-greitas-kaip-2kusd-intel-core-i-9-9980xe)
-* [Tamsioji reCAPTCHA pusė](wiki/technologijos/tech-it.md#tamsioji-recaptcha-pus)
+* [500$ AMD Ryzen 9 3900X yra praktiškai toks pat greitas, kaip 2k$ Intel Core i9-9980XE](wiki/tech-it.md#500usd-amd-ryzen-9-3900x-yra-praktiskai-toks-pat-greitas-kaip-2kusd-intel-core-i-9-9980xe)
+* [Tamsioji reCAPTCHA pusė](wiki/tech-it.md#tamsioji-recaptcha-pus)
 * [Senoliai nusikaltėliai](wiki/skaitiniai/#senoliai-nusikalt-liai)
 * [Xbox hakerių grupuotė](wiki/skaitiniai/#xbox-hakeri-grupuot)
 * [Kompensacijos už vėluojantį skrydį išmušimo instrukcija](wiki/pasaulis/keliones/kompensacijos-uz-veluojanti-skrydi-ismusimo-instrukcija.md)
@@ -483,13 +483,13 @@ Tinklaraščio migracija:
 
 #### 2019-06-11
 
-* Naujasis AMD [flagmanas](wiki/technologijos/tech-it.md#naujasis-amd-consumer-lygio-flagmanas-2019-06-11)
-* "[Teslos killeriams](wiki/technologijos/tech-it.md#audi-etron-ir-jaguar-i-pace-sekasi-ne-per-geriausiai-2019-06-11)" sekasi ne per labiausiai
+* Naujasis AMD [flagmanas](wiki/tech-it.md#naujasis-amd-consumer-lygio-flagmanas-2019-06-11)
+* "[Teslos killeriams](wiki/tech-it.md#audi-etron-ir-jaguar-i-pace-sekasi-ne-per-geriausiai-2019-06-11)" sekasi ne per labiausiai
 
 #### 2019-06-10
 
-* [Anonsuota ](wiki/technologijos/tech-it.md#xbox-project-scarlett-2019-06-10)nauja Xbox konsolė
-* Firefox planuoja [mokamą Firefox](wiki/technologijos/tech-it.md#mozilla-planuoja-mokama-firefox-varianta-2019-06-10) variantą
+* [Anonsuota ](wiki/tech-it.md#xbox-project-scarlett-2019-06-10)nauja Xbox konsolė
+* Firefox planuoja [mokamą Firefox](wiki/tech-it.md#mozilla-planuoja-mokama-firefox-varianta-2019-06-10) variantą
 * [Patarimas studentui](wiki/ekonomika/investavimas/#patarimas-studentui-kaip-teisingai-but-galima-pad-ti-gautus-40000eur), kuris domisi kaip būtų galima saugiai investuoti 40 000€
 
 #### 2019-06-09
@@ -499,24 +499,24 @@ Tinklaraščio migracija:
 
 #### 2019-06-06
 
-* C&C žaidimų [remaster versija](wiki/technologijos/tech-it.md#c-and-c-remaster-2019-06-06)
+* C&C žaidimų [remaster versija](wiki/tech-it.md#c-and-c-remaster-2019-06-06)
 
 #### 2019-06-03
 
-* Apple [WWDC 2019](wiki/technologijos/tech-it.md#wwdc-2019-2019-06-03) renginio pastebėjimai
+* Apple [WWDC 2019](wiki/tech-it.md#wwdc-2019-2019-06-03) renginio pastebėjimai
 
 ## 2019-05
 
 #### 2019-05-30
 
-* Google planuoja [limituoti adblock'us](wiki/technologijos/tech-it.md#chrome-limituos-adblockus-tik-iki-enterprice-useri) Chrome naršyklėje
+* Google planuoja [limituoti adblock'us](wiki/tech-it.md#chrome-limituos-adblockus-tik-iki-enterprice-useri) Chrome naršyklėje
 * [Žmogaus akies limitai](wiki/faktai.md#zmogaus-akies-galimyb-s) arba ar reikalingi greiti ekranai.
 * Gaminio savikaina neatspindi [jo sąnaudų](wiki/ekonomika/#faktai)
 
 #### 2019-05-28
 
 * [Gitbook alternatyvos](wiki/tools.md#wikis), jei norėtųsi turėsi self-hosted sprendimą.
-* [TechIT ](wiki/technologijos/tech-it.md)naujienų skiltis
+* [TechIT ](wiki/tech-it.md)naujienų skiltis
 * [Skaitomos ](wiki/knygos/#siuo-metu-skaitoma)ir [PlanToRead ](wiki/knygos/#plantoread)knygos
 * [Barcelona](wiki/pasaulis/keliones/barcelona-2019.md) \(2019\) kelionės info
 * [Graikija ](wiki/pasaulis/keliones/graikija-2018.md)\(2018\) kelionės info
@@ -595,7 +595,7 @@ Tinklaraščio migracija:
 
 #### 2019-04-23
 
-* Pastebėjimai iš [Tesla Autonomy Day](wiki/technologijos/tech-it.md#2019-04-23-tesla-autonomy-day)
+* Pastebėjimai iš [Tesla Autonomy Day](wiki/tech-it.md#2019-04-23-tesla-autonomy-day)
 * Idėja apie [universalų loginimo servisą](wiki/showerthoughts.md#2019-04-23), kuris greičiausiai užsidarytų
 
 #### 2019-04-22
