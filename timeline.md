@@ -6,6 +6,10 @@ description: Wiki atliktų pakeitimų ir naujų straipsnių archyvas
 
 ## 2020-05
 
+#### 2020-05-10
+
+* [Mental modeliai](wiki/mental-modeliai.md)
+
 #### 2020-05-09
 
 * TechIT: [Naujasis facebook.com dizainas](wiki/tech-it.md#naujasis-facebook-com-dizainas)

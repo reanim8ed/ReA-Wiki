@@ -4,6 +4,11 @@ description: Never attribute to malice that which can be adequately explained by
 
 # Citatos
 
+* Atmintis yra poetė, o ne istorikė
+* If at first you don't succeed, try two more times so that your failure is "statistically significant".
+* A man convinced against his will, Is of the same opinion still.
+* People will forget what you said, people will forget what you did, but people will never forget how you made them feel.
+* No matter how correct you are, you won't get anywhere by making the other person feel stupid.
 * When analytic thought, the knife, is applied to experience, something is always killed in the process.
 * The majority is always wrong. The minority is rarely right.” — Henrik Ibsen
 * It has always appalled me that really bright scientists almost all work in the most competitive fields, the ones in which they are making the least difference. In other words, if they were hit by a truck, the same discovery would be made by somebody else about 10 minutes later.” — Aubrey de Grey
@@ -11,12 +16,10 @@ description: Never attribute to malice that which can be adequately explained by
 * If you don't build your dream, someone will hire you to help build theirs. - Tony Gaskins
 * The last few days, I’ve been learning not to trust people and I’m glad I’ve failed. Sometimes we depend on other people as a mirror to define us and tell us who we are
 * Česnakas ir druska atskleidžia ir kartono skonį.
-* The only thing scarier than a snarling werewolf or a hissing tarantula are the ideas and feelings they represent.
 * Make no mistake between my personality and my attitude. My personality is who I am, my attitude depends on who you are.
 * Going to church doesn’t make you a Christian any more than standing in a garage makes you a car.
 * When you someday find a way of life that you can be truly proud of, you’ll be forced into your own battle whether you like it or not.
 * Never argue with someone stupid, because they’ll just pull you down to their level and beat you with experience
-* Faktas tas, kad visi mes internetą suvokiam savaip. Daug kam jis tebėra žaislas ir žaidžia su juo kiekvienas pagal savos smėlio dėžės taisykles.
 * Įsivaizduokite – jaunas žmogus susižavi repu. Pirmiausia, ką jis daro pradžioje tai rengiasi plačiais drabužiais – rūpinasi savo išvaizda vien tam, kad likęs pasaulis suvoktų, jog jis reperis ir jį taip priimtų. Jis repuoja apie žolę, kurios niekada nerūkė, apie gatves ir t.t. Aš nepašiepiu, tik noriu pasakyti, kad jaunas žmogus nori būti kažkam priskiriamas. Bėgant laikui, jeigu jis išlieka subkultūroje, pradeda atsisakyti jos pradinių įvaizdžio detalių. Jis gali netgi nebenešioti plačių drabužių. Pats juos nešioju iki šiol, nes niekada gyvenime nemėgau kai į mane trinasi drabužiai. Net jeigu nerepuočiau, juos nešiočiau. Pažįstu metalistus, kurie vaikšto su siaurais džinsais, be ilgų plaukų ir su paprastomis striukėmis, nors jie daug metų klauso tik metalą ir labai jį myli. Toks supratimas ateina tuomet, kai suvoki, jog svarbiausia kaip tu mastai ir kaip gyveni. – Svaras, Yomango Interviu
 * Everything is OK in the end. If it's not OK, then it's not the end.
 * Save vertiname pagal ketinimus, kitus – pagal poelgius.
@@ -39,21 +42,13 @@ description: Never attribute to malice that which can be adequately explained by
 * "One of the traps of adolescence is the sort of paranoid resentment that, somehow, you are never going to match up...and that everybody else's life is going to be better, and finer, and fuller. That everyone else attended some secret lesson in which "How to Live" was taught and you had a dental appointment that day, or you were somehow not invited." - Stephen Fry
 * It is possible to make no mistakes and lose. That is not failure; that is life.
 * Pasauliui rūpi tik tai, kuo tu jam naudingas, o ne tai, ko tu iš jo nori
-* Success consists of going from failure to failure without loss of enthusiasm." - Churchill
+* Success consists of going from failure to failure without loss of enthusiasm. - Churchill
 * A man who procrastinates in his choosing will have his choice made for him by circumstance
-* Experience is the name everyone gives to his mistakes.
 * Poor people chase a feeling, wealthy people chase a goal. That's why wealthy people live like they are poor, and poor people live like they are wealthy.
-* Patirtis yra tai ką gauni, kai negauni to ko norėjai
+* Patirtis yra tai ką gauni, kai negauni to ko norėjai / Experience is the name everyone gives to his mistakes.
 * There is only one sin, only one. And that is theft. Every other sin is a variation of theft... When you kill a man, you steal a life. You steal his wife's right to a husband, rob his children of a father. When you tell a lie, you steal someone's right to the truth. When you cheat, you steal the right to fairness.
 * The two things people dislike the most: the way things are, and when they change.
 * Facts dont care about your feelings
-
-### You say
-
-You say you love rain, but you open your umbrella.   
-You say you love the sun, but you find a shadow spot.   
-You say you live the wind, but you close your windows.   
-This is why I am afraid, you say that you love me too.
 
 ### Žmonės nebedirba
 
@@ -82,10 +77,6 @@ Keista, kai trumputė citata sugeba iššaukti auksinę nostalgiją tiems laikam
 
   It wasn't, of course, going to stay this rosy for long. The Atomic Bomb revealed the other side of the coin on all this futurism: death and destruction. Science Fiction, however, thrived. The 50s and 60s were a great time for what's now called "hard" Science Fiction: Asimov's Robot Novels \(1954, 1957\), as well as his Galactic Empire series in the early 1950s; Clarke released the highly influential Childhood's End in 1953; and Heinlein's Starship Troopers \(1959\), Stranger in a Strange Land \(1961\), and The Moon Is a Harsh Mistress \(1966\) all during this period, as well as innumerable quantities of short fiction.
 
-### Traveling
-
-* When we dream about travelling, we do so because we think we'd be happier somewhere else. In fact, usually, the place doesn't matter, as long as it's just not here. When we arrive and actually experience the destination, our old modes of thinking persist. We get bored, distracted, worry about details, and spend very little time taking it in. Only in our memories of our journey does the trip take on an ephemeral form again, where we edit out and forget everything except the most potent few moments.
-
 ### Minčių generavimas rytais
 
 * Лучшие мои идеи рождались в хаосе и я начал это использовать. Каждое утро мне надо минимум полчаса \(и кофе\) чтобы собраться с мыслями и начать жить. Однако, это состояние оказалось идеальным для генерации новых идей. Мысли сами соединяются в случайном порядке потому что основная часть мозга еще не проснулась и не сказала всем собраться и жить правильно.
@@ -94,7 +85,7 @@ Keista, kai trumputė citata sugeba iššaukti auksinę nostalgiją tiems laikam
 
  Ištrauka iš 1976-metų filmo “[Network](http://www.imdb.com/title/tt0074958/)”:
 
- I _don’t have to tell you things are bad. Everybody knows things are bad. It’s a depression. Everybody’s out of work or scared of losing their job. The dollar buys a nickel’s work, banks are going bust, shopkeepers keep a gun under the counter. Punks are running wild in the street and there’s nobody anywhere who seems to know what to do, and there’s no end to it. We know the air is unfit to breathe and our food is unfit to eat, and we sit watching our TV’s while some local newscaster tells us that today we had fifteen homicides and sixty-three violent crimes, as if that’s the way it’s supposed to be. We know things are bad – worse than bad. They’re crazy. It’s like everything everywhere is going crazy, so we don’t go out anymore. We sit in the house, and slowly the world we are living in is getting smaller, and all we say is, ‘Please, at least leave us alone in our living rooms. Let me have my toaster and my TV and my steel-belted radials and I won’t say anything. Just leave us alone.’Well, I’m not gonna leave you alone. I want you to get mad! I don’t want you to protest. I don’t want you to riot – I don’t want you to write to your congressman because I wouldn’t know what to tell you to write. I don’t know what to do about the depression and the inflation and the Russians and the crime in the street. All I know is that first you’ve got to get mad.  
+I _don’t have to tell you things are bad. Everybody knows things are bad. It’s a depression. Everybody’s out of work or scared of losing their job. The dollar buys a nickel’s work, banks are going bust, shopkeepers keep a gun under the counter. Punks are running wild in the street and there’s nobody anywhere who seems to know what to do, and there’s no end to it. We know the air is unfit to breathe and our food is unfit to eat, and we sit watching our TV’s while some local newscaster tells us that today we had fifteen homicides and sixty-three violent crimes, as if that’s the way it’s supposed to be. We know things are bad – worse than bad. They’re crazy. It’s like everything everywhere is going crazy, so we don’t go out anymore. We sit in the house, and slowly the world we are living in is getting smaller, and all we say is, ‘Please, at least leave us alone in our living rooms. Let me have my toaster and my TV and my steel-belted radials and I won’t say anything. Just leave us alone.’Well, I’m not gonna leave you alone. I want you to get mad! I don’t want you to protest. I don’t want you to riot – I don’t want you to write to your congressman because I wouldn’t know what to tell you to write. I don’t know what to do about the depression and the inflation and the Russians and the crime in the street. All I know is that first you’ve got to get mad.  
 \[shouting\] You’ve got to say, ‘I’m a HUMAN BEING, Goddamnit! My life has VALUE!’ So I want you to get up now. I want all of you to get up out of your chairs. I want you to get up right now and go to the window. Open it, and stick your head out, and yell,  
 \[shouting\]  
 ‘I’M AS MAD AS HELL, AND I’M NOT GOING TO TAKE THIS ANYMORE!’  
