@@ -22,7 +22,7 @@ Plačiau apie tai - [motyvacijos skiltyje](motyvacija.md).
 
 ## ❤Atgalinis ryšys
 
-Projektas talpinamas Github platformoje, tad radus netikslumų ar norint palikti atsiliepimą - tiesiog parašykite apie tai [ten.](https://github.com/reanim8ed/ReA-Wiki/issues/new)
+Projektas talpinamas Github platformoje, tad radus netikslumų ar norint kažką patikslinti - tiesiog parašykite apie tai [ten.](https://github.com/reanim8ed/ReA-Wiki/issues/new)
 
-Susisiekti taipogi galite [Twitteryje ](https://twitter.com/reanimuotasis%20)ar [FB](https://www.facebook.com/reanimated.lt).
+Susisiekti asmeniškai galite [Twitter ](https://twitter.com/reanimuotasis%20)ar [FB](https://www.facebook.com/reanimated.lt) platformose.
 
