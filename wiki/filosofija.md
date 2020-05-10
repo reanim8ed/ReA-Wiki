@@ -1,4 +1,4 @@
-# Filosofija / mąstymas
+# Filosofija
 
 ### Tesėjo laivas
 

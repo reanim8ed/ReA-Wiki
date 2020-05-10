@@ -18,7 +18,7 @@ description: Wiki atliktų pakeitimų ir naujų straipsnių archyvas
 * Asmenybės: [Elon Musk](wiki/asmenybes/pop-kultura/elon-musk.md)
 * Darbas: [Standup meetings](wiki/programavimas/programavimo-karjera.md#standup-meetings)
 * TechIT: [Apple Healthcare](wiki/tech-it.md#apple-healthcare)
-* Darbas/karjera/produktyvumas: [Trick yourself into productivity the same way you trick yourself into procrastination](wiki/darbas-karjera-produktyvumas.md#trick-yourself-into-productivity-the-same-way-you-trick-yourself-into-procrastination)
+* Darbas/karjera/produktyvumas: [Trick yourself into productivity the same way you trick yourself into procrastination](wiki/karjera-produktyvumas.md#trick-yourself-into-productivity-the-same-way-you-trick-yourself-into-procrastination)
 * Skaitiniai: [The Apple Watch, Five Years In](wiki/skaitiniai/#the-apple-watch-five-years-in)
 * Skaitiniai: [What Happened with LEGO](wiki/skaitiniai/#what-happened-with-lego)
 * Skaitiniai: [A deeper division lurks beneath the spec sheets](wiki/skaitiniai/#samsung-galaxy-s20-vs-iphone-11-pro-a-deeper-division-lurks-beneath-the-spec-sheets)
@@ -157,7 +157,7 @@ description: Wiki atliktų pakeitimų ir naujų straipsnių archyvas
 
 #### 2019-11-03
 
-* Karčios tiesos apie darbą [korporatyvuose](wiki/darbas-karjera-produktyvumas.md#harsh-truths-about-corporate-life)
+* Karčios tiesos apie darbą [korporatyvuose](wiki/karjera-produktyvumas.md#harsh-truths-about-corporate-life)
 * [Pinigai perka laimę](wiki/ekonomika/#pinigai-perka-laime)
 * Blog'as: [Tesėjo laivas](wiki/blogas/tesejo-laivas.md)
 * Blog'as: [Hekslis](wiki/blogas/hekslis.md)

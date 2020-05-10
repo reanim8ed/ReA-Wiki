@@ -2,7 +2,7 @@
 description: 'The desired triple 8 rule — 8-hours sleep, 8-hours work, and 8-hours leisure.'
 ---
 
-# Darbas / karjera / produktyvumas
+# Karjera / produktyvumas
 
 * Your true calling lies at the intersection of what you’re good at, what you love to do, what you people will pay you for, and what society needs \(James Altucher\).
 * Early in your career, say "yes" to every opportunity. Later on, once you have some success, use the framework: if it's not a “HELL YEAH!” it's a “no.”
