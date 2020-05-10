@@ -8,7 +8,7 @@
 * You can’t guilt yourself into doing things you want to accomplish. You’ll always resist and make excuses. The only way is to enjoy the act of doing them.
 * C programmer’s motto: “Build upon the work of others”
 * [10x programeriai](http://10x.engineer/) vs [1x programerius](https://1x.engineer/)
-* "Premature optimization is the root of all evil". This applies more broadly than just for code. Abstraction is a form of optimization and shouldn't be done before the space has been properly explored to know what abstractions should be built.
+* "Premature optimization is the root of all evil". This can result in a design that is not as clean as it could have been or code that is incorrect, because the code is complicated by the optimization and the programmer is distracted by optimizing. This applies more broadly than just for code. Abstraction is a form of optimization and shouldn't be done before the space has been properly explored to know what abstractions should be built.
 
 ### The greatest of all weaknesses is the fear of appearing weak. 
 

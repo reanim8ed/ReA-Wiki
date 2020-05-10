@@ -15,6 +15,14 @@ description: A mental model is a concept you can use to help try to explain thin
 
 Motivated by personal incentives, entrepreneurs will push to best one another in a never-ending game of creative one-upmanship, in the process destroying old ideas and replacing them with newer technology. Beware getting left behind.
 
+### Distribution
+
+* [Pareto principle](https://www.wikiwand.com/en/Pareto_principle) - for many events, roughly 80% of the effects come from 20% of the causes.
+
+### Economics
+
+* [Diminishing returns](https://www.wikiwand.com/en/Diminishing_returns) - in all productive processes, adding more of one factor of production, while holding all others constant, will at some point yield lower incremental per-unit returns.
+
 ### Intentions
 
 * [Hanlon’s Razor](https://www.wikiwand.com/en/Hanlon%27s_razor) — “never attribute to malice that which is adequately explained by carelessness.”
