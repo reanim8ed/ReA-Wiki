@@ -177,7 +177,6 @@
   * [Vyrų ir moterų neištikimybė](wiki/blogas/vyru-ir-moteru-neistikimybe.md)
   * [Vyrų taisyklės moterims](wiki/blogas/vyru-taisykles-moterims.md)
 * [Showerthoughts](wiki/showerthoughts.md)
-* [Sience](wiki/sience.md)
 * [Skaitiniai](wiki/skaitiniai/README.md)
   * [Skaitymo įpročiai](wiki/skaitiniai/skaitymo-prociai.md)
   * [Straipsnių archyvas](wiki/skaitiniai/straipsniu-archyvas/README.md)
