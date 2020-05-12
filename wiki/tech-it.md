@@ -10,11 +10,11 @@ description: 'https://www.facebook.com/techit.lt'
 
 Tam, jog piratavimas ženkliai sumažėtų - pirmiausia turi būti išties prieinama ir patogi naudoti alternatyva.
 
-Žaidimų ir muzikos industrijai pavyko tai pasiūlyti ir iš esmės tai išsprendė piratavimo problemą. Pvz.: ieškoti dainos, kuri būtų tenkinamos kokybės, vaikštant per virusinio pobūdžio svetaines, jau ryžtasi nedaugelis. Tuo tarpu audio streaminimas pasiūlė paprastesnę ir gerokai patogesnę paslaugą, tad daugelis netruko pakeisti savo įpročius ir pereiti į šias platformas.
+Žaidimų ir muzikos industrijai pavyko tai pasiūlyti ir iš esmės šią problemą išsisprendė. Pvz.: gaišti laiką ieškant dainos, kuri būtų tenkinamos kokybės, vaikštant per galybę virusinio pobūdžio svetainių, ryžtasi jau nedaugelis. Tuo tarpu audio streaminimas pasiūlė paprastesnę ir gerokai patogesnę paslaugą, tad daugelis netruko pakeisti savo įpročius ir pereiti į šias platformas.
 
-Tuo tarpu video streaming'as kenčia nuo servisų gausos ir ekskliuzyviškumo, kuris nukillina patogumą bei išpučia kainą. Norint turėti prieigą prie viso populiariojo turinio, tektų prenumeruoti Netflix, Apple TV+, Hulu, HBO Now, Disney+, Amazon Prime. Ir net ir turint juos visus - vistiek nerasite dalies norimų filmų ar serialų.
+Tuo tarpu video streaming'as kenčia nuo servisų gausos ir ekskliuzyviškumo, būtent kuris ir nukillina patogumą bei išpučia kainą. Norint turėti prieigą prie viso pop turinio, tektų prenumeruoti Netflix, Apple TV+, Hulu, HBO Now, Disney+, Amazon Prime. Ir net ir turint juos visus - vistiek dalies ieškomų filmų ar serialų nerasite.
 
-Tol kol visą tai nebus išspręsta ir media pasaulis nesugebės pasiūlyti visko vienoje vietoje - video piratavimas vis dar bus išties aktuali problema. Pagal dabartines šios industrijos tendencijas, nepanašu, jog kažkas bent planuoja keistis. Savaime ši industrija nesusifixins ir tai padaryti galėtų nebent tik įvestos griežtesnės reguliavimo taisyklės, kurios priverstų leidybines kompanijas atverti savo platinimo teises visiems.
+Tol kol visą tai nebus išspręsta ir media pasaulis nesugebės pasiūlyti visko vienoje vietoje - video piratavimas išliks aktuali problema. Pagal dabartines tendencijas, nepanašu, jog ši industrija bando kažką keisti ir pati ji greičiausiai nesusifixins. Priversti teigiamus pokyčius galėtų nebent tik įvestos griežtesnės reguliavimo taisyklės, kurios įpareigotų leidybines kompanijas atverti savo platinimo teises visiems.
 
 [https://www.reddit.com/r/technology/comments/bd9dl0/there\_are\_officially\_too\_many\_damn\_video/](https://www.reddit.com/r/technology/comments/bd9dl0/there_are_officially_too_many_damn_video/)
 
