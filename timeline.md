@@ -6,6 +6,10 @@ description: Wiki atliktų pakeitimų ir naujų straipsnių archyvas
 
 ## 2020-05
 
+#### 2020-05-12
+
+* TechIT: [Streaming'as ir piratavimas](wiki/tech-it.md#streamingas-ir-piratavimas)
+
 #### 2020-05-10
 
 * [Mental modeliai](wiki/mental-modeliai.md)
