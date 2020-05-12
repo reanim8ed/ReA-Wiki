@@ -4,57 +4,6 @@ description: 'Podcasts are like an electric campfire, people gather around and t
 
 # Podcasts
 
-## Prenumeratos
-
-* [1K Podcastas](https://pca.st/H8r7)
-* [Android Police Podcast](https://pca.st/androidpolice)
-* [Artificial Intelligence](https://pca.st/E3n6)
-* [Conan O’Brien Needs A Friend](https://pca.st/n6Uc)
-* [The Cracked Podcast](https://pca.st/crackedpod)
-* [NYT The Daily](https://pca.st/thedaily)
-* [Darknet Diaries](https://pca.st/darknetdiaries)
-* [Developer Tea](https://pca.st/developertea)
-* [The Dollop](https://pca.st/dollop)
-* [The Economist Radio](https://pca.st/econ)
-* [Freakonomics Radio](https://pca.st/freakonomics)
-* [The Game Informer Show](https://pca.st/mNBro4)
-* [Giant Bombcast](https://pca.st/U6Vk0G)
-* [Hello Internet](https://pca.st/hellointernet)
-* [ID10T with Chris Hardwick](https://pca.st/id10t)
-* [In Our Time](https://pca.st/inourtime)
-* [Internet History Podcast](https://pca.st/miqr)
-* [The Joe Rogan Experience](https://pca.st/joerogan)
-* [The Knowledge Project](https://pca.st/JCWG)
-* [Kodinu.lt podcastas](https://pca.st/JHG4)
-* [Kodo Poetai](https://pca.st/private/bc04ddd0-c83f-0137-1e11-0acc26574db2)
-* [No Such Thing As A Fish](https://pca.st/nosuchthing)
-* [Planet Money](https://pca.st/planetmoney)
-* [Podas Kestas](https://pca.st/eetamvhp)
-* [Pralaužk vieną šaltą](https://pca.st/SZNm)
-* [Radiolab](https://pca.st/radiolab)
-* [Recode Decode, hosted by Kara Swisher](https://pca.st/recode)
-* [Reply All](https://pca.st/replyall)
-* [Shop Talk](https://pca.st/shoptalk)
-* [Still Untitled: The Adam Savage Project](https://pca.st/adamsavage)
-* [Stuff You Should Know](https://pca.st/sysk)
-* [Sultys](https://pca.st/IBUP)
-* [Tech News Weekly](https://pca.st/tnt)
-* [TED Talks Daily](https://pca.st/tedtalks)
-* [Tested](https://pca.st/tioat)
-* [This Week in Tech](https://pca.st/twit)
-* [The Tim Ferriss Show](https://pca.st/timferriss)
-* [The Tiny Meat Gang Podcast](https://pca.st/Yk3N)
-* [The Vergecast](https://pca.st/vergecast)
-* [Vėl Tie Patys](https://pca.st/7wzmnt7r)
-* [WSJ Tech News Briefing](https://pca.st/IiKDD9)
-* [WSJ The Future of everything](https://pca.st/bBf4)
-* [WTF with Marc Maron Podcast](https://pca.st/wtf)
-* [The Yak Shave](https://pca.st/maOV)
-* [«Не занесли»](https://pca.st/TQfa)
-* [Радио-Т](https://pca.st/x6bUPQ)
-
-## Perklausos
-
 ### 2020-05
 
 #### George Hotz @ Artificial Intelligence Podcast
@@ -102,7 +51,7 @@ description: 'Podcasts are like an electric campfire, people gather around and t
 
 ### 2019 - 07
 
-[Internet History podcast'as](kompanijos/apple.md) apie pirmojo iPhone sukūrimą
+[Internet History podcast'as](../kompanijos/apple.md) apie pirmojo iPhone sukūrimą
 
 ### 2019 - 06
 
@@ -136,12 +85,12 @@ Netapsi turtingu vien tik pardavinėdamas savo laiką. Kiekvieną kartą, kai pr
 
 ### 2019 - 04
 
-* [Kevin Hart](asmenybes/pop-kultura/kevin-hart.md)
+* [Kevin Hart](../asmenybes/pop-kultura/kevin-hart.md)
 
 ### 2019 - 03
 
 * [Alex Honnald](https://youtu.be/2OhHkBmbb5Y) - kur kiekvienas interviu džiugina jau vien tuom, kad pašnekovas vis dar čia, vis dar gali atvykti. Alex'as yra žymiausias Free Solo kopėjas, kuris [vienintelis įlipo](https://www.wikiwand.com/en/Free_Solo) į garsiausią JAV kalną be jokios įrangos. 22 metus vyrukas vaikšto tokia slidžia riba, kur viena vienintelė klaida, jam kainuotų gyvybę. Podcast'e pasakoja apie tai, kad kopiant įsitempimas turi būti tarp 3,5-7, nes kitu atveju yra didelė tikimybė padaryti klaidą. Apie tai, kaip kopikai pasiilsina rankas kabėdami žemyn galva ir apie tai, kad turi būti pakankamai įsitempęs, kad neprarastum savo general alertness, tačiau tuo pat metu ir pakankamai atsipalaidavęs, jog jaustumeisi komforto zonoje ir nenuvargintum savęs. Yra puikus filmas apie tai, kaip vystėsi visa ši kopimo kultūra, pavadinimu [Valley Uprising](https://www.imdb.com/title/tt3784160/).
 *  _I don't like holidays because I don't like being told when to have fun_
 
-![](../.gitbook/assets/8be64e4b-cdb9-4ed6-947a-8e9ffebf5466.jpg)
+![](../../.gitbook/assets/8be64e4b-cdb9-4ed6-947a-8e9ffebf5466.jpg)
 
