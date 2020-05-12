@@ -64,7 +64,7 @@
     * [Kinija](wiki/pasaulis/valstybes/kinija.md)
     * [UK](wiki/pasaulis/valstybes/uk.md)
     * [Vokietija](wiki/pasaulis/valstybes/vokietija.md)
-* [Podcastai](wiki/podcastai.md)
+* [Podcasts](wiki/podcasts.md)
 * [Politika](wiki/politika/README.md)
   * [Rusija](wiki/politika/rusija.md)
 * [Programavimas](wiki/programavimas/README.md)

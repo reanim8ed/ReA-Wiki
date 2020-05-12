@@ -9,6 +9,7 @@ description: Wiki atliktų pakeitimų ir naujų straipsnių archyvas
 #### 2020-05-12
 
 * TechIT: [Streaming'as ir piratavimas](wiki/tech-it.md#streamingas-ir-piratavimas)
+* Podcastai: [George Hotz @ Artificial Intelligence](wiki/podcasts.md#george-hotz-artificial-intelligence-podcast)
 
 #### 2020-05-10
 
@@ -23,7 +24,7 @@ description: Wiki atliktų pakeitimų ir naujų straipsnių archyvas
 
 #### 2020-04-25
 
-* Podcastai: [Stephen Dubner](wiki/podcastai.md#stephen-dubner-co-author-of-the-freakonomics-book-series-and-host-of-freakonomics-radio-and-podcast)
+* Podcastai: [Stephen Dubner](wiki/podcasts.md#stephen-dubner-co-author-of-the-freakonomics-book-series-and-host-of-freakonomics-radio-and-podcast)
 * Asmenybės: [Elon Musk](wiki/asmenybes/pop-kultura/elon-musk.md)
 * Darbas: [Standup meetings](wiki/programavimas/programavimo-karjera.md#standup-meetings)
 * TechIT: [Apple Healthcare](wiki/tech-it.md#apple-healthcare)
@@ -68,7 +69,7 @@ description: Wiki atliktų pakeitimų ir naujų straipsnių archyvas
 
 #### 2020-03-07
 
-* Atnaujintas [Podcastų ](wiki/podcastai.md)sąrašas
+* Atnaujintas [Podcastų ](wiki/podcasts.md)sąrašas
 
 #### 2020-03-02
 
@@ -98,7 +99,7 @@ description: Wiki atliktų pakeitimų ir naujų straipsnių archyvas
 
 #### 2020-02-10
 
-* Podcastai: ex NASA astronautas [Garrett Reisman](wiki/podcastai.md#2020-02)
+* Podcastai: ex NASA astronautas [Garrett Reisman](wiki/podcasts.md#2020-02)
 
 #### 2020-02-09
 
@@ -223,7 +224,7 @@ description: Wiki atliktų pakeitimų ir naujų straipsnių archyvas
 
 #### 2019-09-30
 
-* Podcastai: [John Carmack](wiki/podcastai.md#2019-09)
+* Podcastai: [John Carmack](wiki/podcasts.md#2019-09)
 
 #### 2019-09-25
 
@@ -479,7 +480,7 @@ Tinklaraščio migracija:
 
 #### 2019-06-14
 
-* Pokalbis apie gyvenimo būdą, laimę, pinigus, meditaciją su silicon valley žvaigžde [Naval Ravikant](wiki/podcastai.md#2019-06)
+* Pokalbis apie gyvenimo būdą, laimę, pinigus, meditaciją su silicon valley žvaigžde [Naval Ravikant](wiki/podcasts.md#2019-06)
 
 #### 2019-06-13
 
@@ -567,8 +568,8 @@ Tinklaraščio migracija:
 
 * [After Life ](wiki/filmai/#after-life-2019)serialas
 * Jonah Hill filmas [Mid90 ](wiki/filmai/#mid-90-s-2018)
-* Ištrauka iš pokalbio su[ Lex Fridman](wiki/podcastai.md#2019-05) apie tai, jog kai dalis mūsų natūralių instinktų yra šiai dienai nebereikalingi, žmonės dėlto tampa nelaimingi.
-* Ištrauka iš pokalbio su [Jamie Metzl ](wiki/podcastai.md#2019-05)apie tai, kaip Kinija yra susifokusavusi ir sistemingai siekia tikslo iki 2050-ųjų tapti lyderiaujančia technologijų valstybe.
+* Ištrauka iš pokalbio su[ Lex Fridman](wiki/podcasts.md#2019-05) apie tai, jog kai dalis mūsų natūralių instinktų yra šiai dienai nebereikalingi, žmonės dėlto tampa nelaimingi.
+* Ištrauka iš pokalbio su [Jamie Metzl ](wiki/podcasts.md#2019-05)apie tai, kaip Kinija yra susifokusavusi ir sistemingai siekia tikslo iki 2050-ųjų tapti lyderiaujančia technologijų valstybe.
 
 #### 2019-05-06
 
@@ -652,7 +653,7 @@ Tinklaraščio migracija:
 
 #### 2019-03-31
 
-* Pridėtas klausytas podcast'as su [Alex Honnald](wiki/podcastai.md#2019-03)
+* Pridėtas klausytas podcast'as su [Alex Honnald](wiki/podcasts.md#2019-03)
 * Pridėta Japonijos skiltis ir aprašyta apie tai, kad lašiša Japonijoje atsirado [dėka Norvegijos](wiki/pasaulis/valstybes/japonija.md).
 * Pridėta idėja apie pažinčių [portalų dinamikos pasikeitimą](wiki/showerthoughts.md#2019-03-31), pridėjus apribojimą parašyti tik vienam naujam žmogui per parą.
 
@@ -668,7 +669,7 @@ Tinklaraščio migracija:
 #### 2019-03-25
 
 * [Pridėtas pokalbis su Chris Hadfield iš Joe Rogan podcast'o.](wiki/kosmosas.md)
-* [Pridėtas klausomų podcastų sąrašas](wiki/podcastai.md#prenumeratos)
+* [Pridėtas klausomų podcastų sąrašas](wiki/podcasts.md#prenumeratos)
 * [Pridėtas peržiūrėtų filmų sąrašas](wiki/filmai/#perziur-t-film-sarasas-ir-j-vertinimai)
 * Pridėtos [knygų ](wiki/knygos/)ir [filmų ](wiki/filmai/)skiltys
 * Pridėta naudojamų [įrankių](wiki/tools.md) skiltis
