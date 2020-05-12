@@ -4,7 +4,7 @@ description: Approximate knowledge of many things
 
 # Įvadas
 
-Re'A Wiki - tai mano minčių, žinių, pasvarstymų ir rašinių konspektas. Asmeninė wiki, kurioje kaupiu, grupuoju ir dalinuosi informaciją.
+Re'A Wiki - tai mano minčių, žinių, pasvarstymų ir rašinių konspektas. Asmeninė wiki, kurioje kaupiu, grupuoju ir dalinuosi informacija.
 
 **Why?**  
 Viskas dėl vienos paprastos priežasties -  to make sense of everything. Labai dažnai mintys būna per daug chaotiškos ir abstrakčios. Požiūris ir nuomonės dažniausiai nesusiformuoja iš pirmo bandymo. Tai daugybės iteracijų, revizijų ir apmąstymų rezultatas. Būtent bandymas jas užrašyti - tai procesas, kuris sistemizavimo, grupavimo ir procesinimo būdu padeda jas išgryninti, suprasti jų kontekstą ar atrasti naujas sąsajas.
