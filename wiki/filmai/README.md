@@ -1,18 +1,16 @@
 # Filmai / serialai
 
-## Peržiūrėtų filmų sąrašas
+## Watch list
 
 [https://www.imdb.com/user/ur21345472/ratings](https://www.imdb.com/user/ur21345472/ratings) 
 
-Visus peržiūrėtus filmus įsivertinu IMDB svetainėje ir pirmuosius vertinimus galima rasti net iš 2009-ųjų. Tad galima matyti, kad per pastaruosius 10 metų peržiūrėjau viso 910 filmų O.o   
-Nesitikėjau, kad skaičius galėjo būti toks didelis.  
-Reikia atkreipti dėmesį ir tai, kad šiame sąraše nežymiu serialų, tad čia dar ir atskira kalba.
+Visus peržiūrėtus filmus įvertinu IMDB svetainėje. Pirmuosius vertinimus galima rasti dar iš 2009-ųjų. Galima matyti, jog per pastaruosius 10 metų peržiūrėjau viso 910 filmų O.o 
 
-## Peržiūrėtų anime sąrašas
+## Anime list
 
 [https://myanimelist.net/animelist/reanimated](https://myanimelist.net/animelist/reanimated)
 
-## Mėgstamiausi
+## Favorites
 
 * [12 Angry Men](https://www.imdb.com/title/tt0050083/)
 * [Léon](https://www.imdb.com/title/tt0110413/)
@@ -34,12 +32,6 @@ Reikia atkreipti dėmesį ir tai, kad šiame sąraše nežymiu serialų, tad či
 * [The Pursuit of Happyness](https://www.imdb.com/title/tt0454921/)
 
 \*rikiavimas nėra eilės tvarka
-
-## Notes
-
-* Yra nemažai pavyzdžių, kai dabar laikomos klasikinės knygos ar kino filmai nebuvo taip jau gerai vertinami jų išleidimo metu. Pvz už legendinį Kubrick’o siaubo filmą „The Shining“ režisierius buvo nominuotas, prasčiausio metų režisieriaus [titului](http://www.wikiwand.com/en/The_Shining_%28film%29#/Initial_reception).
-* Vieno įspūdingiausių kinematografų [dėmesingumas detalėms](https://www.youtube.com/watch?v=-woNlmVcdjc&feature=youtu.be)
-* Ko gero labiausiai įsirėžusi į pasąmonę [vieta ](https://www.youtube.com/watch?v=jrIc1SlA7O8)iš visų kino filmų, kuriuos kada nors mačiau.
 
 ## Tikrieji kino industrijos aukso metai
 

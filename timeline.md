@@ -25,7 +25,7 @@ description: Wiki atliktų pakeitimų ir naujų straipsnių archyvas
 #### 2020-04-25
 
 * Podcastai: [Stephen Dubner](wiki/podcasts/#stephen-dubner-co-author-of-the-freakonomics-book-series-and-host-of-freakonomics-radio-and-podcast)
-* Asmenybės: [Elon Musk](wiki/asmenybes/pop-kultura/elon-musk.md)
+* Asmenybės: [Elon Musk](wiki/zmones/pop-kultura/elon-musk.md)
 * Darbas: [Standup meetings](wiki/programavimas/programavimo-karjera.md#standup-meetings)
 * TechIT: [Apple Healthcare](wiki/tech-it.md#apple-healthcare)
 * Darbas/karjera/produktyvumas: [Trick yourself into productivity the same way you trick yourself into procrastination](wiki/karjera-produktyvumas.md#trick-yourself-into-productivity-the-same-way-you-trick-yourself-into-procrastination)
@@ -234,7 +234,7 @@ description: Wiki atliktų pakeitimų ir naujų straipsnių archyvas
 
 * TechIT: [Apple Watch konkurencija](wiki/tech-it.md#apple-watch-konkurencija)
 * Random internetai: [Dviračių kapinynas](wiki/random-internetai.md#dviraci-kapinynas)
-* Kokteiliai: [Campari](wiki/kokteiliai.md#italiskas-campari)
+* Kokteiliai: [Campari]()
 * Showerthoughts:[ subscription apps'as subscription'ams](wiki/showerthoughts.md#2019-09-22)
 * Showerthoughts: [stalo žaidimų nuoma](wiki/showerthoughts.md#2019-09-22)
 * Showerthoughts: [Netflix nemalonių scenų skippinimas](wiki/showerthoughts.md#2019-09-22)
@@ -378,7 +378,7 @@ Tinklaraščio migracija:
 * Pakeisti pasaulį taip, jog tai [kažką reikštų](wiki/blogas/pakeisti-pasauli-taip-jog-tai-kazka-reikstu.md)
 * [Mano studijos ir profesinė karjera](wiki/blogas/mano-studijos-ir-profesine-karjera.md)
 * [Kraunamės daiktus studentavimui](wiki/blogas/kraunames-daiktus-studentavimui.md)
-* [Michael Jackson](wiki/asmenybes/pop-kultura/michael-jackson.md)
+* [Michael Jackson](wiki/zmones/pop-kultura/michael-jackson.md)
 * [Laiko valiuta](wiki/blogas/laiko-valiuta.md)
 * [ShowerThoughts](wiki/showerthoughts.md#2019-07-27)
 * [Peter Pan generation](wiki/skaitiniai/straipsniu-archyvas/peter-pan-generation.md)
@@ -590,7 +590,7 @@ Tinklaraščio migracija:
 #### 2019-05-01
 
 * Japonijos naujasis [imperatorius](wiki/pasaulis/valstybes/japonija.md)
-* [Carlin'o](wiki/asmenybes/pop-kultura/george-carlin.md) "I Kinda Like It When a Lotta People Die".
+* [Carlin'o](wiki/zmones/pop-kultura/george-carlin.md) "I Kinda Like It When a Lotta People Die".
 
 ## 2019-04
 
@@ -630,7 +630,7 @@ Tinklaraščio migracija:
 
 #### 2019-04-07
 
-* Podcast'as su [Kevin Hart](wiki/asmenybes/pop-kultura/kevin-hart.md)
+* Podcast'as su [Kevin Hart](wiki/zmones/pop-kultura/kevin-hart.md)
 
 #### 2019-04-04
 

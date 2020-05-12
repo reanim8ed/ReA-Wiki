@@ -7,15 +7,12 @@
 
 ### 2019-12-13
 
-* Žaidimų industrijos dizainas statosi ant ankstesnių experience'ų pagrindo. Labai dažnai visiškai net nesusimąstome, jog mechanikos, kurios mums atrodo visiškai intuityvios, tokios yra tik dėlto, kad žaidėme kompiuterinius žaidimus visą savo gyvenimą. Žinome jų istoriją, progresiją ir tos taisyklės yra tiesiog giliai įsirėžusios mumyse. Kiekviena pasiteisinusi ir plačiai industrijoje paplitusi dizaino ar mechanikos logika mums tapo tokia įprasta, jog net pasileidus visiškai nematytą žaidimą, greičiausiai mokėsime jį valdyti, net be jokių papildomų tutorialų. Universal language of games.
-* Tačiau žmonės, kurie neturėjo tokios patirties, gali struglinti net visiškai elementariose vietose. Nes jie neturi konteksto, neturiu patirčių, o žaidimų kūrėjai išties dažnai vadovaujasi prielaidomis, kad jūs turite bent bazines valdymo žinias ir savo dizainą lipdo jau ant to.
+* Žaidimų industrijos dizainas statosi ant ankstesnių experience'ų pagrindo. Labai dažnai visiškai net nesusimąstome, jog mechanikos, kurios mums atrodo visiškai intuityvios, tokios yra tik dėlto, kad žaidėme kompiuterinius žaidimus visą savo gyvenimą. Žinome jų istoriją, progresiją ir tos taisyklės yra tiesiog giliai įsirėžusios mumyse. Kiekviena pasiteisinusi ir plačiai industrijoje paplitusi dizaino ar mechanikos logika mums tapo tokia įprasta, jog net pasileidus visiškai nematytą žaidimą, greičiausiai mokėsime jį valdyti, net be jokių papildomų tutorialų. Universal language of games. Tačiau žmonės, kurie neturėjo tokios patirties, gali struglinti net visiškai elementariose vietose. Nes jie neturi konteksto, neturiu patirčių, o žaidimų kūrėjai išties dažnai vadovaujasi prielaidomis, kad jūs turite bent bazines valdymo žinias ir savo dizainą lipdo jau ant to.
 * [https://youtu.be/ax7f3JZJHSw](https://youtu.be/ax7f3JZJHSw) 
 
 ### 2019-12-09
 
-* Barcelonos Sagrada Familia yra ne tik vienas įspūdingiausių architektūros pavyzdžių, bet taipogi ir ko gero ilgiausiai vis dar ongoing statybos projektas pasaulyje. 
-* Bažnyčios įprastai nėra man itin didelio įspūdžio paliekantys objektai, tačiau turiu pripažinti, kad Sagrados vidus išties atrodo įspūdingai. Pradedant nuo milžiniškų medžių kamienus primenančių kolonų ar neįtikėtinai aukštų lubų, baigiant visų vaivorykštės spalvų žaismu, kuris užpildo bažnyčios vidų. Tai be abejonės tapo įsimintiniausia bažnyčia, kurioje esu buvęs, net ir neskaitant išties didelio žmonių srauto.
-* Šis [Real Engineering video](https://youtu.be/kkNGdzo_3EA) paaiškina kodėl šio projekto statybos trunka jau 137-erius metus.
+* Barcelonos Sagrada Familia yra ne tik vienas įspūdingiausių architektūros pavyzdžių, bet taipogi ir ko gero ilgiausiai vis dar ongoing statybos projektas pasaulyje.  Bažnyčios įprastai nėra man itin didelio įspūdžio paliekantys objektai, tačiau turiu pripažinti, kad Sagrados vidus išties atrodo įspūdingai. Pradedant nuo milžiniškų medžių kamienus primenančių kolonų ar neįtikėtinai aukštų lubų, baigiant visų vaivorykštės spalvų žaismu, kuris užpildo bažnyčios vidų. Tai be abejonės tapo įsimintiniausia bažnyčia, kurioje esu buvęs, net ir neskaitant išties didelio žmonių srauto. Šis [Real Engineering video](https://youtu.be/kkNGdzo_3EA) paaiškina kodėl šio projekto statybos trunka jau 137-erius metus.
 
 ### 2019-11-03
 

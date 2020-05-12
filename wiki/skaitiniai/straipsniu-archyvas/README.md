@@ -1,7 +1,7 @@
 ---
 description: >-
   Po šia skiltimi perkopijuosiu išties labai patikusius, mane paveikusius
-  skaitinius, vertus išsaugojimo. Žinoma laikantis elementarios pagarbos ir
+  skaitinius, vertus išsaugojimo. Žinoma laikantis elementarios pagarbos -
   nurodant autorių ir pateikiant nuorodą
 ---
 

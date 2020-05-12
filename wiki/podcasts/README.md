@@ -85,7 +85,7 @@ Netapsi turtingu vien tik pardavinėdamas savo laiką. Kiekvieną kartą, kai pr
 
 ### 2019 - 04
 
-* [Kevin Hart](../asmenybes/pop-kultura/kevin-hart.md)
+* [Kevin Hart](../zmones/pop-kultura/kevin-hart.md)
 
 ### 2019 - 03
 

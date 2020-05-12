@@ -1,10 +1,5 @@
 # Kosmonautika
 
-## Notes
-
-* Koks būtų vienas juokingesnių „Top secret“ dokumentų, kuris dabar jau būtų prieinamas viešai? Mano pasirinkimas būtų Apollo 10 komandos pokalbių transcriptas, kuriame užfiksuota, kaip kažkas padarė rimtesnį reikalą, tačiau visas turinys ištrūko ir pradėjo[ skraidyti po patalpas](http://25.media.tumblr.com/tumblr_lii3h0VJ9K1qiq5qco1_500.jpg).
-* Egzistuoja planeta, kurioje lyja [stiklu](http://www.usnews.com/news/newsgram/articles/2013/07/12/astronomers-find-blue-planet-that-rains-glass). Skamba įspūdingai, tačiau net nereikia žvalgytis taip toli – mūsų pačių saulės sistemoje yra planetų, kuriose lyja [deimantais](http://www.pbs.org/wgbh/nova/space/diamonds-in-the-sky.html).
-
 ### Apollo 11 misijos 50-metis
 
 * Liepos 20-tą švenčiamas 50-metis, kai Apollo 11 kartu su Buzz'u ir Neil'u pirmą kartą pasiekė mėnulio paviršių. 

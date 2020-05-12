@@ -38,7 +38,7 @@ Alina Pash reprezentuoja tas dar ne itin pažintas laisves, kurios tapo prieinam
 Jeigu reikėtų išskirti vieną būdingą ukrainietiško rap'o bruožą, tai labiau už visus kitus dominuotų nežiūrėjimas į dalykus rimtai, pašaipa ir absurdiškumas. Tai galėjote matyti Грибы, Grebz kūriniuose, tai labai gerai reprezentuoja ir grupė Mozgi, kuri sukūrė atskirą dainą vien tam, kad pasišaipyti iš Kijevo miesto mero nesugebėjimo ištarti žodį "digitalization".  
 [https://youtu.be/BK00\_yp6tdU](https://youtu.be/BK00_yp6tdU)
 
-### Grebz
+#### Grebz
 
 * Prisimenat fenomeną pavadinimu Грибы? Po to, kai atsirado nesutarimų su idėjiniu grupės lyderiu kolektyvas išsiskirstė, tačiau tuo istorija nesibaigia ir ją tęsia du grupės nariai išlaikydami lygiai tą pačią stilistiką, tik šį kartą persivadinę į "Grebz".
 

@@ -44,7 +44,7 @@ Kelios ne self-hosted alternatyvos:
 * [Tettra](https://tettra.co/)
 * [Notion](https://notion.so)
 
-## Notes
+## Note taking
 
 * [Inkdrop ](https://inkdrop.app/)- nors pozicionuojamas daugiausiai, kaip Markdown editorius, tačiau iš esmės yra pigesnė \($5 vs $8\) Evernote alternatyva. Panašus layout'as su notebook'ai ir tag'ais, sync, web cliperiu ir multiplatformiškumu. Labai gerai išdirbtas, geras MacOS'iškas UI, malonus naudoti, tačiau visai neturi free plano.
 * [Standart Notes](https://standardnotes.org/) yra artimiausia Evernote alternatyva, kurią so far pavyko rasti. Nemokamas, cross-platform'inis, labai panašus failų organizavimas. Jei reikia daugiau laisvės, nei suteikia Google Keep - manau vienas geresnių pasirinkimų.
