@@ -4,7 +4,7 @@ description: Approximate knowledge of many things
 
 # Įvadas
 
-Re'A Wiki - tai mano minčių, žinių, pasvarstymų ir rašinių konspektas. Asmeninė wiki, kurioje kaupiu, grupuoju ir dalinuosi informacija.
+Re'A Wiki - tai minčių, žinių, pasvarstymų ir rašinių konspektas. Asmeninė wiki, kurioje kaupiu, grupuoju ir viešai dalinuosi informacija.
 
 ## **Kodėl?**
 
