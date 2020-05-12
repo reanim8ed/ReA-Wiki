@@ -2,7 +2,7 @@
 description: 'https://www.facebook.com/techit.lt'
 ---
 
-# "TechIT" straipsniai
+# TechIT straipsniai
 
 ## 2020-05
 
