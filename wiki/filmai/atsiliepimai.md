@@ -2,7 +2,7 @@
 
 ### [The Last Dance \(2020\)](https://www.imdb.com/title/tt8420184/)
 
-* Netflix dokumentika apie Chicago Bulls ir Michael Jordan. 
+* Netflix dokumentika apie 90-ųjų Chicago Bulls iškylimą, vedamą Michael Jordan'o. 
 * Puikus žvilgsnis ne tik į vieną žinomiausių pasaulio sportininkų, bet ir profesionalaus krepšinio užkuliusius, dinamiką ir įvairias "povandenines sroves" ir apie tai kokio atsidavimo, disciplinos ir tvirto charakterio reikia norint būti "on top of the game".
 * Nesu didelis krepšinio fanas ir dažniausiai mane pritraukia nebent tik didieji čempionatai, tačiau ši dokumentika visgi sugeba sudominti. Galbūt yra kažkas tokio, stebėti tokią ryškią asmenybę, turinčią tokią stiprią aistrą savo sričiai ir stebėti jo santykį su savo principais, kitais žaidėjais ir aplankiusia šlove.
 * Ko gero stipriausias šios dokumentikos momentas yra 7-os serijos pabaigoje - MJ monologas po klausimo apie jo vadovavimo stilių ir apie tai, jog jis gali niekada nebūti laikomas kaip "nice guy":
