@@ -1,5 +1,16 @@
 # Notes
 
+### The Last Dance \(2020\)
+
+* Netflix dokumentika apie Chicago Bulls ir Michael Jordan. 
+* Puikus žvilgsnis ne tik į vieną žinomiausių pasaulio sportininkų, bet ir profesionalaus krepšinio užkuliusius, dinamiką ir įvairias "povandenines sroves" ir apie tai kokio atsidavimo, disciplinos ir tvirto charakterio reikia norint būti "on top of the game".
+* Nesu didelis krepšinio fanas ir dažniausiai mane pritraukia nebent tik didieji čempionatai, tačiau ši dokumentika visgi sugeba sudominti. Galbūt yra kažkas tokio, stebėti tokią ryškią asmenybę, turinčią tokią stiprią aistrą savo sričiai ir stebėti jo santykį su savo principais, kitais žaidėjais ir aplankiusia šlove.
+* Ko gero stipriausias šios dokumentikos momentas yra 7-os serijos pabaigoje - MJ monologas po klausimo apie jo vadovavimo stilių ir apie tai, jog jis gali niekada nebūti laikomas kaip "nice guy":
+
+_"Winning has a price. And leadership has a price. So I pulled people along when they didn't want to be pulled. I challenged people when they don't want to be challenged. And I earned that right because my teammates came after me. They didn't endure all the things that I endured. Once you join the team, you live at a certain standard that I play the game, and I wasn't gonna take anything less. Now, if that means I have to go out there and get in your ass a little bit, then I did that. You ask all my teammates, the one thing about Michael Jordan was, he never asked me to do something that he didn't f—ing do. When people see this, they're gonna say, 'Well, he wasn't really a nice guy. He may have been a tyrant.' Well, that's you, because you never won anything. I wanted to win, but I wanted them to win and be a part of that as well. I don't have to do this. I'm only doing it because it is who I am. That's how I played the game. That was my mentality. If you don't want to play that, don't play that way. Break."_ 
+
+{% embed url="https://twitter.com/i/status/1260462033155260425" %}
+
 ### [Tenki no Ko / Weathering with You \(2019\)](https://myanimelist.net/anime/38826/Tenki_no_Ko)
 
 * Po to, kai 2010-ais pamačiau 5 Centimeters per Second, tai ne tik tapo mano mėgstamiausiu anime filmu, tačiau ir atkreipė dėmesį į Makoto Shinkai. Režisierius, kuris fokusuojasi į melancholiškas atstumo apribotas romantines istorijas, bei kuris daug dėmesio skiria itin detaliems ir fotorealistiškiems aplinkos ir miestų peizažams. Jo darbai yra tokie eye-candy, kad žiūrint filmą galima sustabdyti ko ne bet kurioje vietoje ir greičiausiai pataikysite ant kadro, kurį drąsiai būtų galima pasidaryti wallpaperiu ar atvirute. [5 background wallpapers per second](https://www.google.com/search?q=makoto+shinkai+wallpapers&sxsrf=ACYBGNQb7jgsWdRWQJdev9naKsA-JfX-Mw:1576706582306&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiRjoPemcDmAhVBpYsKHTBYCjsQ_AUoAXoECCAQAw&biw=2048&bih=1019). Kiti darbai, kaip She and Her Cat, Voices of the distant star, Garden of the Words ar tas pats Your Name tik dar labiau tai solidifavo ir ko gero nesuklysiu pavadindamas jį savo labiausiai mėgstamu šiuolaikiniu kurėju anime instrustrijoje.

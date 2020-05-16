@@ -6,6 +6,10 @@ description: Wiki atliktų pakeitimų ir naujų straipsnių archyvas
 
 ## 2020-05
 
+#### 2020-05-16
+
+* Serialai: [The Last Dance](wiki/filmai/atsiliepimai.md#the-last-dance-2020)
+
 #### 2020-05-12
 
 * TechIT: [Streaming'as ir piratavimas](wiki/tech-it.md#streamingas-ir-piratavimas)
