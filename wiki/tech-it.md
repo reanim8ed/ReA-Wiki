@@ -8,9 +8,7 @@ description: 'https://www.facebook.com/techit.lt'
 
 ### Alfred alternatyva
 
-Dar visai neseniai teko ieškoti alternatyvos, kuri windowsuose galėtų pasiūlyti panašų funkcionalumą, kokį siūlo Alfred, randamas mac'uose. Išbandžius kelis populiariausius sprendimus, kaip Wox, Keypirinha ar Cerebro supratau, kad kiekvienas iš jų turi savo pranašumų/minusų, tačiau nei vienas jų neveikia taip jau gerai. Pati šių programų bazė turi gan ribotą funkcionalumą, tačiau lygiai, kaip ir Alfred atveju - tikroji galia ateina įsidiegiant papildomus įskiepius. Tik problema ta, kad didžioji dalis jų tiesiog nebe palaikomi ir veikia labai nestabiliai.
-
-Galiausiai teko prieiti išvados, jog nei vienas iš jų nepasiūlo išties patenkinamo veikimo ir geriau apsiriboti tik start'e pasiekiamo search'o funkcionalumu, iškviečiant jį tiesiog win mygtuku klaviatūroje.
+Dar visai neseniai teko ieškoti alternatyvos, kuri windowsuose galėtų pasiūlyti panašų funkcionalumą, kokį siūlo Alfred, randamas mac'uose. Išbandžius kelis populiariausius sprendimus, kaip Wox, Keypirinha ar Cerebro supratau, kad kiekvienas iš jų turi savo pranašumų/minusų, tačiau nei vienas jų neveikia taip jau gerai. Pati šių programų bazė turi gan ribotą funkcionalumą, tačiau lygiai, kaip ir Alfred atveju - tikroji galia ateina įsidiegiant papildomus įskiepius. Tik problema ta, kad didžioji dalis jų tiesiog nebe palaikomi ir veikia labai nestabiliai. Galiausiai teko prieiti išvados, jog nei vienas iš jų nepasiūlo išties patenkinamo veikimo ir geriau apsiriboti tik start'e pasiekiamo search'o funkcionalumu, iškviečiant jį tiesiog win mygtuku klaviatūroje.
 
 Tačiau pasirodo Microsoft turi savų planų. Dirbant su to paties Wox kūrėjais diegiamas praktiškai identiškas funkcionalumas - ir tai yra išties awesome žinia. Gan greitai, kai susiburs atskira bendruomenė ir bus prikurta daugybė įskiepių, tai gali patapti išties puikiu ir galingu įrankiu.
 
