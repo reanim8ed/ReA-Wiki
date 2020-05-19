@@ -16,16 +16,18 @@ Mac'ai tuo tarpu turi gan puikius [Snippet Lab](https://www.renfei.org/snippets-
 
 ## Alfred alternatives
 
-Android telefonai turi Tasker'į - itin galingą automatizavimo įrankį, kuris telefone iš esmės sugeba daryti viską ką tik moka pats telefonas. Nors nėra itin intuityvus, bet galimybės visą tai tiesiog atperka. Ir jis neturi realaus atitikmens iOS pasaulyje \(iOS turi shortcuts ir tai žingsnis tinkama linkme, tačiau Tasker'iui neprilygsta\). 
-
-Lygiai taip Mac'ai turi savo killer programą, dėl kurios galima pavydėti - [Alfred](https://www.alfredapp.com/). Jau kurį laiką ieškau Win alternatyvos ir dauguma nebepalaikomos arba funkcionalumas daugiausiai susiveda tik į program launcher'į, o tam iš esmės užtenka win mygtuku iškviečiamo Windows start'o ir atskiros programos tam nereikia. Toli gražu iki pagal savo poreikius nesunkiai pritaikomo Alfred'o universalumo, kuris su workflow funkcionalumu, shell integracija ir hotkeys tampa itin universalus ir galingas. 
-
-Šiuo metu naudoju Cerebro, kurio kai kurie funkcionalumai, kaip Translate, valiutų konvertavimas ar maps'ai yra palūžę, tačiau vis dar naudingas dėl instant Google, Wiki, StackOverflow search'o, integracijos su Giphy, Youtube, PhpStorm, bei clipboard istorijos. Tačiau galbūt grįšiu atgal prie Wox, kuris nors oficialiai nebepalaikomas, turi [fork'ą](https://github.com/jjw24/Wox/releases), prie kurio aktyviai dirbama.
-
 * [Wox](http://www.wox.one/)
 * [Cerebro](https://cerebroapp.com/)
 * [Keypirinha](https://keypirinha.com/)
 * [Launchy](http://www.launchy.net/)
+
+Android telefonai turi Tasker'į - itin galingą automatizavimo įrankį, kuris iš esmės gali automatizuoti bet kurią telefone pasiekiamą funkciją. Nors nėra itin intuityvus, bet suteikiamos galimybės visą tai tiesiog atperka. iOS barikadų pusėje lygiaverčio atitikmens nėra, nes nors Shortcuts pagalba ir galima susikurti išties naudingų funkcijų, tačiau dėl OS sukuriamų apribojimų, geležies valdymo galimybėmis šis įrankis Tasker'iui išties neprilygsta. 
+
+Lygiai taip Mac'ai turi savo killer programą, dėl kurios galima pavydėti - [Alfred](https://www.alfredapp.com/). Jau kurį laiką ieškau adekvačios Win alternatyvos, tačiau dauguma yra užleistos arba funkcionalumas gan ribotas ir susiveda tik į programų paleidimą ar kokį skaičiuotuvą, o tokioms funkcijos iš esmės užtenka win mygtuku iškviečiamo Windows start'o ir ten esančios paieškos ir atskiros programos tam diegti nereikia. Tokiuose įrankiuose yra galimybė bazinį funkcionalumą praplėsti įvairiais įskiepiais, tačiau prie jų nėra aktyviai dirbama ir didelė dalis arba nebeveikia arba veikia labai nestabiliai. Tad tai toli gražu iki lankstaus Alfred'o, kuris su workflow funkcionalumu, shell integracija ir hotkeys tampa itin universalus ir galingas. 
+
+Tarp išbandytų man labiausiai tiko Cerebro, kurio Translate, valiutų konvertavimas ar maps'ai yra sulūžę, tačiau jis vis vien naudingas dėl instant Google, Wiki, StackOverflow search'o, integracijos su Giphy, Youtube, PhpStorm, bei clipboard istorijos.
+
+Tačiau visai nesenai pasirodė daug žadančios naujienos ir iš paties Microsoft. Komanda žmonių gan aktyviai dirba prie [PowerToys ](https://github.com/microsoft/PowerToys)projekto - tai įrankių rinkinys, siūlantis praplėsti standartines Windows galimybes. Pvz įdiegiamas .svg, .md failų preview'as tiesiog exploreryje, Image Resizer integracija, FancyZones - windows layout'ų manageris, leidžiantis ekraną išdalinti  į dedikuotas zonas ir kita. Vienas iš naujų šio rinkinio įrankių - Run. Tai program launcher'is, prie kurio kūrimo pasirodo prisideda to paties Wox kūrėjai. Pradžioje funkcionalumas gan limituotas, tačiau įrankis turės įskiepių palaikymą, tad aplink jį ko gero netruks susikurti entuziastų bendruomenė ir tuomet jau sky is the limit. Susidiegiau ir su nekantrumu laukiu kokia linkme visą tai išjudės.
 
 ## Wikis
 
