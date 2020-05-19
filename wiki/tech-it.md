@@ -6,6 +6,14 @@ description: 'https://www.facebook.com/techit.lt'
 
 ## 2020-05
 
+### Notion goes free for personal use
+
+Kadaise rinkos lyderiu buvusio Evernote agonija išties lėta ir tęsiasi tikrai ilgai, tačiau paskutinius porą metų į note apps'ų top'ų viršūnes smarkiai iššovė Notion. Toks populiarumas neturėtų nustebinti - tai itin sparčiai tobulėjantis įrankis, kuris vienoje vietoje apjungia Notes, Docs, Wiki, duombazių ir Trello stiliaus kanban funkcionalumus, pasiūlo patogius migracijos įrankius, koloboravimo galimybes, versijavimą ir integracijas su kitais populiariais servisais. Išties modernus ir daug galimybių turintis produktyvumo įrankis.
+
+Tačiau vienas didžiausių jo minusų buvo free planas, kuris vartotojus apribodavo tik 1000-iui turinio blokų. Jei servisu pradedama naudotis bent kiek aktyviau, šis limitas pasiekiamas gan sparčiai, o tolimesnis naudojimas buvo galimas tik turint 5$ mėnesinę prenumeratą. Well, tokie apribojimai buvo iki šiol - visas Notion bazinis funkcionalumas patampa nemokamas, jokio apribojimo turinio kiekiui!
+
+[https://www.notion.so/notion/What-s-New-157765353f2c4705bd45474e5ba8b46c\#3a101ebad536441793eeb4f748d0eea1](https://www.notion.so/notion/What-s-New-157765353f2c4705bd45474e5ba8b46c#3a101ebad536441793eeb4f748d0eea1)
+
 ### Alfred alternatyva
 
 Dar visai neseniai teko ieškoti alternatyvos, kuri windowsuose galėtų pasiūlyti panašų funkcionalumą, kokį siūlo Alfred, randamas mac'uose. Išbandžius kelis populiariausius sprendimus, kaip Wox, Keypirinha ar Cerebro supratau, kad kiekvienas iš jų turi savo pranašumų/minusų, tačiau nei vienas jų neveikia taip jau gerai. Pati šių programų bazė turi gan ribotą funkcionalumą, tačiau lygiai, kaip ir Alfred atveju - tikroji galia ateina įsidiegiant papildomus įskiepius. Tik problema ta, kad didžioji dalis jų tiesiog nebe palaikomi ir veikia labai nestabiliai. Galiausiai teko prieiti išvados, jog nei vienas iš jų nepasiūlo išties patenkinamo veikimo ir geriau apsiriboti tik start'e pasiekiamo search'o funkcionalumu, iškviečiant jį tiesiog win mygtuku klaviatūroje.

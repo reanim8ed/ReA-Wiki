@@ -9,6 +9,7 @@ description: Wiki atliktų pakeitimų ir naujų straipsnių archyvas
 #### 2020-05-19
 
 * TechIT: [Alfred alternatyva](wiki/tech-it.md#alfred-alternatyva)
+* TechIT: [Notion goes free for personal use](wiki/tech-it.md#notion-free-for-personal-use)
 
 #### 2020-05-16
 
