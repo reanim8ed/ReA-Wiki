@@ -6,6 +6,12 @@ description: 'https://www.facebook.com/techit.lt'
 
 ## 2020-05
 
+### Spofity podcastai
+
+Spotify tęsia savo siekį susipirkti podcasting'ą ir uždaryti jį po ekskliuzyviniu paywall. Per pastaruosius metus nusipirkti milžiniški The Ringer ir Gimlet Media. O štai dabar bangas sukėlė naujiena, jog nugriebtas ir pats populiariausias individualus kūrėjas - Joe Rogan. Nuo kitų metų pilni podcastai nebebus pasiekiami Youtube platformoje ir bus randami tik per Spotify.
+
+[https://mashable.com/article/joe-rogan-experience-spotify-exclusive/](https://mashable.com/article/joe-rogan-experience-spotify-exclusive/?europe=true)
+
 ### Notion goes free for personal use
 
 Kadaise rinkos lyderiu buvusio Evernote agonija išties lėta ir tęsiasi tikrai ilgai, tačiau paskutinius porą metų į note apps'ų top'ų viršūnes smarkiai iššovė Notion. Toks populiarumas neturėtų nustebinti - tai itin sparčiai tobulėjantis įrankis, kuris vienoje vietoje apjungia Notes, Docs, Wiki, duombazių ir Trello stiliaus kanban funkcionalumus, pasiūlo patogius migracijos įrankius, koloboravimo galimybes, versijavimą ir integracijas su kitais populiariais servisais. Išties modernus ir daug galimybių turintis produktyvumo įrankis.
