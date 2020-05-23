@@ -1,5 +1,5 @@
 ---
-description: 'https://www.buyforlifeproducts.com'
+description: www.buyforlifeproducts.com
 ---
 
 # Buy it for life
