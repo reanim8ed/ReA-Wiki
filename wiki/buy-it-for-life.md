@@ -4,7 +4,7 @@ description: 'https://www.buyforlifeproducts.com'
 
 # Buy it for life
 
-Buy it for life \(BIFL\) kategorijos produktų nereikia priiminėti tiesiogine to žodžio prasme. Apie juos labiau galvoju ne kaip "buy once and keep forever" daiktus, o tiesiog kaip apie išties itin patvarius, kokybiškus ir praktiškus daiktus, kuriais gali pasikliauti, mėgautis ir džiaugtis jais išties ilgą laiko tarpą. Tai tarsi kontrastas įprastiniams ir dažniausiai sutinkamiems vartotojiškosios kultūros produktams, kurie pagaminti greitai ir pigiai ir kuriems sugedus - jie tiesiog išmetami.   
+Buy it for life \(BIFL\) kategorijos produktų nereikia priiminėti tiesiogine to žodžio prasme. Apie juos labiau galvoju ne kaip "buy once and keep forever" daiktus, o tiesiog kaip patvarumu, kokybiškumu ir praktiškumu pasižyminčius daiktus, kuriais gali pasikliauti ir džiaugtis išties ilgą laiko tarpą. Tai tarsi kontrastas įprastiniams ir dažniausiai sutinkamiems vartotojiškosios kultūros produktams, kurie pagaminti greitai ir pigiai ir kuriems sugedus - jie tiesiog išmetami.   
 Žinoma, BIFL kategorijos daiktai dažniausiai pasižymi išties aukštomis kainomis, tačiau laikausi požiūrio, jog geriau pataupyti ir nusipirkti išties gerą daiktą, kuris tave džiugins, nei pirkinėtis tokius iš "šiaip sau" kategorijos ir kaitalioti juos dažnai.
 
 Tokius produktus atrasti išties nėra lengva, tenka pasikapstyti ir paaukoti tam laiko. Tad savo pasirinkimus sudėjau į lentelę:
