@@ -4,10 +4,13 @@ description: 'https://www.buyforlifeproducts.com'
 
 # Buy it for life
 
-Buy it for life \(BIFL\) kategorijos produktų nereikia priiminėti tiesiogine to žodžio prasme. Apie juos labiau galvoju ne kaip "buy once and keep forever" daiktus, o tiesiog kaip patvarumu, kokybiškumu ir praktiškumu pasižyminčius daiktus, kuriais gali pasikliauti ir džiaugtis išties ilgą laiko tarpą. Tai tarsi kontrastas įprastiniams ir dažniausiai sutinkamiems vartotojiškosios kultūros produktams, kurie pagaminti greitai ir pigiai ir kuriems sugedus - jie tiesiog išmetami.   
-Žinoma, BIFL kategorijos daiktai dažniausiai pasižymi išties aukštomis kainomis, tačiau laikausi požiūrio, jog geriau pataupyti ir nusipirkti išties gerą daiktą, kuris tave džiugins, nei pirkinėtis tokius iš "šiaip sau" kategorijos ir kaitalioti juos dažnai.
+Buy it for life \(BIFL\) kategorijos produktų nereikia priiminėti tiesiogine to žodžio prasme. Asmeniškai aš apie juos galvoju ne kaip "buy once and keep forever", o tiesiog patvarumu, kokybiškumu, rankų darbu ar dėmesiu detalėms pasižyminčius daiktus, kuriais gali pasikliauti ir džiaugtis išties ilgą laiko tarpą. Tai tarsi kontrastas įprastiniams ir dažniausiai sutinkamiems vartotojiškosios kultūros produktams, kurie pagaminti greitai ir pigiai ir kuriems sugedus - jie tiesiog išmetami. 
 
-Tokius produktus atrasti išties nėra lengva, tenka pasikapstyti ir paaukoti tam laiko. Tad savo pasirinkimus sudėjau į lentelę:
+BIFL kategorijos daiktai dažniausiai pasižymi išties aukštomis kainomis, tačiau laikausi požiūrio, jog geriau pataupyti ir nusipirkti vieną gerą daiktą, kuris tave išties džiugins, nei pirkinėtis tokius iš "šiaip sau" kategorijos ir kaitalioti juos dažnai.
+
+Žinoma, ne visoms produktų grupėms toks statutas yra aktualus - dalies naudojamų daiktų kokybė mums tiesiog visiškai nerūpi ir be jokių skrupulų juos metame lauk ir perkame naujus, o taipogi kai kuriose produktų srityse BIFL produktai gali kainuoti tiek daug, jog jų pirkimas tiesiog nėra prasmingas ir užtenka nusipirkti geriausią biudžetinį variantą ir šis visiškai išpildys savo paskirtį. Tačiau kokybės verta ieškoti ten, su kuo susiduriame kiekvieną dieną. Ilgalaikiu laikotarpiu tai gali sudaryti išties milžinišką skirtumą. Tai puikiai apibūdina mėgiama citata: _"You are either in your bed or in your shoes, so it pays to invest in both"_.
+
+Pradedant ieškoti tokių produktų - tenka pasikapstyti ir paaukoti gan nemažai laiko, tad štai mano progresas:
 
 | Kategorija | Gaminys | Runner up |
 | :--- | :--- | :--- |
