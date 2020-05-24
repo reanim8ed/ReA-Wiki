@@ -8,7 +8,9 @@ Su laiku mano poreikis jailbreakinimui išties sumažėjo: modifikacijos, kurias
 
 Ikonų stiliaus, animacijų ar dizaino pakeitimai man ne taip berūpi, piratauti žaidimus taipogi, nes iš esmės iPad'ą naudoju tik skaitymui ir Youtube'ui, tad iš principo vienintelė svari priežastis toliau laužyti savo įrenginį liko tik reklamų blokavimas. Taip, AppStore galima rasti daugybę tai sugebančių apps'ų, tačiau tik turint JB galima turėti pilną, t.y. system wide adblock'ą, kai reklamos blokuojamos facebook'e, youtubėj ir kituose appsuose.
 
-Taigi, šiandien buvo išleistas unc0ver jailbreak'as, kuris nulaužia visus iOS 11.0-13.5 įrenginius. Tiek instaliavimo procesas, tiek stabilumas išties išdirbtas puikiai - viskas atliekama išties lengvai, be didesnių pastangų ir iš pirmo karto. Ko gero labiausiai smooth procesas, kurį turėjau nulaužinėjant savo iPad. Tad ta proga pasidalinu keliais esminiais tweaks'ais, kurie man patapo svarbiausi ir gan smarkiai pagerinantys iOS sistemą.
+Taigi, šiandien buvo išleistas unc0ver jailbreak'as, kuris nulaužia visus iOS 11.0-13.5 įrenginius. Tiek instaliavimo procesas, tiek stabilumas išties išdirbtas puikiai - viskas atliekama išties lengvai, be didesnių pastangų ir iš pirmo karto. Tiesiog sekite jų puslapyje pateikstas instrukcijas.
+
+Tad štai keli esminiai tweaks'ai, kurie man patapo patys aktualiausiais ir gan smarkiai pagerinantys iOS sistemą.
 
 | Repo | Tweak | Note |
 | :--- | :--- | :--- |
