@@ -15,6 +15,7 @@ Tad štai keli esminiai tweaks'ai, kurie man patapo patys aktualiausiais ir gan 
 | Repo | Tweak | Note |
 | :--- | :--- | :--- |
 | net.angelxwind.appsyncunified | AppSync Unified | Leidžia instaliuoti nepasirašytus, tai yra ne iš AppStore parsisiųstus appsus \(unsigned IPA\) |
+| rpetri.ch/repo | BrowserChooser | Leidžia nustatyti default browserį, kuriame bus atidaromos visos nuorodos. Kol kas tik ant iPhone. |
 | ib-soft.net/cydia | iCleaner Pro | Padeda atlaisvinti nemažai vietos, išvalant cache, temp ir kitus susikaupusius ir nereikalingus failus sistemoje |
 | poomsmart.github.io/repo | LetMeBlock | DNS įrankis reikalingas Mega UHB veikimui |
 | repo.thireus.com | Mega UHB | System wide adblock'as \(pašalina reklamas ne tik naršyklėse, tačiau ir apps'uose\) |
