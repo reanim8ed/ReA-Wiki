@@ -17,6 +17,8 @@
 * [Filosofija](wiki/filosofija.md)
 * [Filmai / serialai](wiki/filmai/README.md)
   * [Notes](wiki/filmai/atsiliepimai.md)
+* [iOS](wiki/ios/README.md)
+  * [Jailbreak](wiki/ios/jailbreak.md)
 * [Istorija](wiki/istorija/README.md)
   * [44 pragaro dienos](wiki/istorija/44-pragaro-dienos.md)
   * [Baychimo – laivas vaiduoklis, nenorėjęs nuskęsti](wiki/istorija/baychimo-laivas-vaiduoklis-nenorejes-nuskesti.md)

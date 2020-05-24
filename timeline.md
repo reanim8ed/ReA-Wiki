@@ -6,6 +6,10 @@ description: Wiki atliktų pakeitimų ir naujų straipsnių archyvas
 
 ## 2020-05
 
+#### 2020-05-24
+
+* [iOS 13 Jailbreak](wiki/ios/jailbreak.md#ios-13)
+
 #### 2020-05-19
 
 * TechIT: [Alfred alternatyva](wiki/tech-it.md#alfred-alternatyva)
