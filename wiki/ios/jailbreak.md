@@ -21,5 +21,5 @@ Tad štai keli esminiai tweaks'ai, kurie man patapo patys aktualiausiais ir gan 
 | repo.thireus.com | Mega UHB | System wide adblock'as \(pašalina reklamas ne tik naršyklėse, tačiau ir apps'uose\) |
 | jpet26.yourepo.com | Youtube Tools | Youtube reklamų panaikinimas, galimybė klausyti išjungus ekraną, interface'o modifikacijos |
 | github.com/paperback-ios/app/releases | Paperback | Po MangaRock uždarymo, tai ko gero geriausia Manga programėlė |
-| getzbra.com/repo | Zebra | Modernesnė Cydia alternatyva |
+| getzbra.com/repo | Zebra | Modernesnė ir kur kas spartesnė Cydia alternatyva |
 
