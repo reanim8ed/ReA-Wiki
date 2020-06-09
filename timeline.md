@@ -4,6 +4,12 @@ description: Wiki atliktų pakeitimų ir naujų straipsnių archyvas
 
 # Timeline
 
+## 2020-06
+
+#### 2020-06-09
+
+* Mental modeliai: [Availability Cascade](wiki/mental-modeliai.md#human-behaviour)
+
 ## 2020-05
 
 #### 2020-05-24
