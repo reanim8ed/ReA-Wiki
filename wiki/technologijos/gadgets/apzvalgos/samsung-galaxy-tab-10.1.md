@@ -97,7 +97,9 @@ Kodėl rinkausi ne populiarųjį iPad’ą, o konkrečiai šį, Galaxy Tab? Daug
         3G re&#x17E;ime.</td>
     </tr>
   </tbody>
-</table>**Mintys apie Galaxy Tab’ą**
+</table>
+
+**Mintys apie Galaxy Tab’ą**
 
 Taigi, du mėnesiu pagyvenus su šia „galaktikos tablete“, žinoma turiu ir šiokių tokių pastebėjimų. Pirmiausia, tai ištikro galima kiek suprasti Apple poziciją, kai šioji pradėjo padavinėti Samsung’ą  į teismus. Galaxy tab’as bent iš priekinės pusės atrodo lygiai taip pat minimalistiškai ir dailiai, kaip iPad’as. Va čia ir problema. Per daug panašiai į iPad’ą. Technologijose mažiau patyrę žmonės neretai ir maišo šį aparačiuką su pirkiniu iš Apple stovyklos. Ir deja Samsung’ą galima peikti ne tik dėl to. Ok, jei dėl dizaino dar nesiginčijama ir jis išties dailus, tai kam kopijuoti neigiamas savybes iš konkurentų? Samsung’as lygiai taip pat neįdiegė atminties kortelių lizdo, krovimo laidą padarė ne standartiniu, o specialiu Samsung Connector, kuris niekur daugiau netinka, norint pajungti flashiuką, tenką pirkti atskirą priedėlį, o įsikelti filmus ar muziką į planšetą reikia specialios programinės įrangos pagalba, panašiai, kaip iTunes. Šiuos žingsnius tikrai galima vadinti nevykusiais. Jei jau kopijuoji, tai kopijuok kokybiškai ir nedaryk tų pačių klaidų.
 
