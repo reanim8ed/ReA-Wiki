@@ -34,7 +34,7 @@ description: A mental model is a concept you can use to help try to explain thin
 * [Robustness Principle](https://www.wikiwand.com/en/Robustness_principle) - Be conservative in what you do, be liberal in what you accept from others. It’s a design guideline for software and a good rule for life: Hold yourself to a higher standard than you hold others to.
 * [Availability Cascade](https://www.wikiwand.com/en/Availability_cascade) - nusako kai kurių naujų kolektyvinių įsitikinimų susiformavimą: idėja, kuri įprastai paaiškina sudėtingus procesus gan paprasta forma, būtent dėl šio savo paprastumo, akivaizdumo ir "patogumo" įgauna paramos ir pasiekia vis platesnę auditoriją, taip prisitraukiant jos ir dar daugiau. Išaugęs populiarumas taipogi iššaukia grandininę reakciją, kai pritarimo atsiranda vis daugiau vien jau ir dėlto, jog idėja tampa populiari aplinkinių tarpe. Užtenka jog ji skamba įmanomai ir gan tikėtinai ir suveikus socialinio pritapimo poreikiui tai užslopina kritinį mąstymą.
 
-  Šį principą įprastai gan ryškiai galima pastebėti nuomonėse apie potencialias rizikas. Ir vat būtent taip ir susiduriama su visomis tokioms idėjomis apie plokščią žemę, žmonių čipavimą skiepų pagalba ar 5G pavojų. Mes juokiamės, meminam ir kalbam apie tai - bet to pasekmė, jog šios idėjos gyvuoja toliau ir tik dar tvirčiau įsitvirtina.
+  Šį principą įprastai gan ryškiai galima pastebėti nuomonėse apie potencialias rizikas. Tai šiuo metu ir matome visose tose idėjose apie plokščią žemę, žmonių čipavimą skiepų pagalba ar 5G pavojų. Mes juokiamės, meminam ir kalbam apie tai - bet to pasekmė, jog tokios idėjos gyvuoja toliau ir tik dar tvirčiau įsitvirtina.
 
 ### Opportunity Costs
 
