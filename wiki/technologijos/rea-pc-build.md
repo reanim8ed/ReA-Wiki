@@ -89,8 +89,6 @@ Kalbant apie Zen 2 - pagrindinei plokštei galima rinktis tarp senesnių B450 lu
 
 OS particijai specialiai pasiėmiau papildomą NVMe diską, jog panaudoti naujausius SSD technologijų pranašumus. Realiai talpai sistemoje vis dar yra 128GB ir kažkada iš darbo parsineštas 256GB SSD bei tas pats senasis 1TB talpos išorinis HDD diskas :D Vis dar išties keistas sprendimas - bet hey - it's not stupid if it works. Atsižvelgiant kaip kritusios SSD kainos, visai realu būtų pasiimti, kad ir 1TB SSD, tačiau kartas nuo karto turimus media duomenis norėčiau persivežti ir perkelti į kitą kompiuterį, o didelis duomenų kopijavimas - gan varginantis procesas, tad laikytis juos iš karto nešiojamame diske neatrodo toks jau kvailas sprendimas. Na bet žiūrint realistiškai - persivežimas vyksta išties retai, tad ko gero visos talpos perdarymas į SSD - jau ne už kalnų.
 
-RAM'ai. Kadangi dar prieš 8 metus buvo turėti 8GB, tai nesinorėjo jų tiesiog padvigubinti. Šokau tiesiai į 32 GB. 3600MHz - maksimaliam Ryzen išnaudojimui.
-
 Vaizdo plokštę visgi palikau senąją, nes su PC išvis nebežaidžiu ir pagrindinė jos paskirtis - sujungti 3 ekranus, ką ji atlieka vis dar puikiai.
 
 Visgi nepavyko išvengti ir nedidelio neapsižiūrėjimo. Kadangi senasis maitinimo blokas jau buvo taisytas - jis mažiau patikimas. Tad kad naujoji sistema būtų saugesnė - užsisakiau naują maitinimo bloką. Vėlgi iš tos pačios firmos, nes senasis jų gaminys išties man patiko. Tačiau neatkreipiau dėmesio, jog tai nėra modulinė sistema, t.y. - laidai joje nėra atjungiami. Visiškai nesinorėjo bandyti tokį laidų bruzgalyną sugrūsti į korpusą, o kadangi senasis maitinimo blokas visgi buvo aukštesnės klasės, nei šis - nusprendžiau visgi toliau naudoti jį, o šitas tuomet keliauja atsargai arba pardavimui.
