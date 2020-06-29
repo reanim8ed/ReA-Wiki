@@ -6,6 +6,10 @@ description: Wiki atliktų pakeitimų ir naujų straipsnių archyvas
 
 ## 2020-06
 
+#### 2020-06-29
+
+* Mityba: [Ketogeninė dieta](wiki/mityba/ketogenin-dieta.md)
+
 #### 2020-06-23
 
 * Technologijos: [ReA PC 2.0](wiki/technologijos/rea-pc-build.md#rea-pc-2-0-2020-now)

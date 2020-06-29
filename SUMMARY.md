@@ -40,6 +40,7 @@
 * [MealTimeVideos](wiki/mealtimevideos.md)
 * [Mental modeliai](wiki/mental-modeliai.md)
 * [Mityba](wiki/mityba/README.md)
+  * [Ketogeninė dieta](wiki/mityba/ketogenin-dieta.md)
   * [Protarpinis badavimas](wiki/mityba/protarpinis-badavimas.md)
 * [Muzikos Virtuvė straipsniai](wiki/muzikos-virtuve.md)
 * [Mokymasis](wiki/mokymasis.md)
