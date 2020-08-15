@@ -1,5 +1,14 @@
 # Kosmonautika
 
+### Sea Dragon
+
+* For all mankind sezono finalas supažindino mane su šia neįtikėtina raketa, kylančia iš vandens, pavadinimu Sea Dragon, kuri nėra visiška fantazija - tai realus planuotas projektas iš 60-ųjų, kuris deja pasibaigus kosmoso lenktynėms taip niekada ir nebuvo įgyvendintas.
+* Pagrindinė raketos mintis buvo, jog didžiausią kainą sudaro ne kuras ir medžiagos, o didelis raketų kompleksiškumas. Todėl šios raketos planas buvo padaryti viską kuo labiau minimalistiškai, taip sutaupant išlaidas \(big dumb booster principas\).
+* Tai būtų buvusi didžiausia kada nors sukurta raketa, kurios aukštis siektų 150m, būtų turėjusi vieną milžinišką variklį ir sugebanti iškelti net 550t svorį. Palyginimui - Saturn V galėjo kelti tik maždaug penktadalį to.
+* Pakilimo metu tokia raketa ir variklis tiesiog nušluotų visą pakilimo aikštelę su bokštu bokštą, tad vienintelis įmanomas pakilimo būdas - kilti iš vandens. Atrodo kažkas neįtikėtino, bet pasirodo praktiška, įgyvendinama ir pasirodo dar ir pigiau, nei kilti tiesiog nuo žemės.
+* [https://www.wikiwand.com/en/Sea\_Dragon\_\(rocket\)](https://www.wikiwand.com/en/Sea_Dragon_%28rocket%29)
+* [https://www.youtube.com/watch?v=SRMDcC0QvFQ](https://www.youtube.com/watch?v=SRMDcC0QvFQ)
+
 ### Apollo 11 misijos 50-metis
 
 * Liepos 20-tą švenčiamas 50-metis, kai Apollo 11 kartu su Buzz'u ir Neil'u pirmą kartą pasiekė mėnulio paviršių. 
