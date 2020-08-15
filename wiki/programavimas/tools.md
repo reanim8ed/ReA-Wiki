@@ -1,4 +1,4 @@
-# Įrankiai
+# Tools
 
 ## Frontend
 
@@ -8,5 +8,14 @@
 
 ## Backend
 
-* Jetbrains vystomi IDE produktai išties yra puikūs. Pats naudojuosi PhpStorm'u ir man labai patinka jų kainodaros politika: jei pasiėmi prenumeratą bent 12mėn laikotarpiui, tai paskutinė major versija, kuri buvo išleista tos prenumeratos laikotarpiu, jai pasibaigus lieka tavo ir gali ją naudotis neribotai. Manau tokiu principu turėtų veikti visi prenumeratos principu veikiantys įrankiai, kaip pvz Adobe gaminiai. O [čia ](https://www.material-theme.com/)išties kokybiškai padaryta tema PhpStorm'ui.
+### Jetbrains
+
+* Man labai patinka jų kainodaros politika: pasiėmus metinę prenumeratą, paskutinė tuo laikotarpiu išleista major versija lieka tavo, net ir pasibaigus prenumeratai. Manau tokiu principu galėtų veikti didžioji dauguma prenumeratos principu veikiantis softo produktai, kurie nėra susieti su cloud servisais.
+* Mėgstami themes:
+  * [https://plugins.jetbrains.com/plugin/11938-one-dark-theme](https://plugins.jetbrains.com/plugin/11938-one-dark-theme)
+  * [https://www.material-theme.com/](https://www.material-theme.com/)
+
+### LEMP
+
+* [Laragon ](https://laragon.org/download/index.html)- vienas labiausiai patikusių local server sprendimų LEMP stack'ui. Iš pavadinimo atrodytų, jog orientuotas į Laravel, bet ištiesų tai pilnavertė alternatyva WAMP, XAMPP ar mano iki tol naudotam UniServer. Automatinis host file įrašų sukūrimas, itin lengvas naujų stack'o versijų diegimas, integruotas Mail Catcher'is ir ko gero overall veikiantis sparčiausiai iš visų kadanors bandytų.
 

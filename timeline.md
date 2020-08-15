@@ -13,6 +13,7 @@ description: Wiki atliktų pakeitimų ir naujų straipsnių archyvas
 * MealTimeVideos: [Why Your Favorite Musicians Are Broke](wiki/mealtimevideos.md#why-your-favorite-musicians-are-broke)
 * Kosmonautika: [Sea Dragon](wiki/kosmosas.md#sea-dragon)
 * Kosmonautika: [NERVA](wiki/kosmosas.md#nuclear-engine-for-rocket-vehicle-application-nerva)
+* Programavimas: [Laragon](wiki/programavimas/tools.md#lemp)
 
 ## 2020-06
 
@@ -111,11 +112,11 @@ description: Wiki atliktų pakeitimų ir naujų straipsnių archyvas
 
 #### 2020-03-02
 
-* Tools: [Bookmarking tools](wiki/tools.md#bookmarking-tools)
+* Tools: [Bookmarking tools](wiki/software.md#bookmarking-tools)
 
 #### 2020-03-01
 
-* Tools: [Code snippet manager](wiki/tools.md#code-snippet-manager)
+* Tools: [Code snippet manager](wiki/software.md#code-snippet-manager)
 
 ## 2020-02
 
@@ -133,7 +134,7 @@ description: Wiki atliktų pakeitimų ir naujų straipsnių archyvas
 * Straipsniai: [Old CSS, new CSS](wiki/skaitiniai/#old-css-new-css)
 * Straipsniai: [Status Updates to Nobody](wiki/skaitiniai/#staying-motivated-by-sending-status-updates-to-nobody)
 * Programavimas: [Docker](wiki/programavimas/docker.md)
-* Tools: [Alfred alternatyvos](wiki/tools.md#alfred-alternatives)
+* Tools: [Alfred alternatyvos](wiki/software.md#alfred-alternatives)
 
 #### 2020-02-10
 
@@ -563,7 +564,7 @@ Tinklaraščio migracija:
 
 #### 2019-05-28
 
-* [Gitbook alternatyvos](wiki/tools.md#wikis), jei norėtųsi turėsi self-hosted sprendimą.
+* [Gitbook alternatyvos](wiki/software.md#wikis), jei norėtųsi turėsi self-hosted sprendimą.
 * [TechIT ](wiki/tech-it.md)naujienų skiltis
 * [Skaitomos ](wiki/knygos/#siuo-metu-skaitoma)ir [PlanToRead ](wiki/knygos/#plantoread)knygos
 * [Barcelona](wiki/pasaulis/keliones/barcelona-2019.md) \(2019\) kelionės info
@@ -611,7 +612,7 @@ Tinklaraščio migracija:
 
 #### 2019-05-06
 
-* Į [Tools ](wiki/tools.md#notes)skiltį pridėti Standard notes ir Typora.
+* Į [Tools ](wiki/software.md#notes)skiltį pridėti Standard notes ir Typora.
 * Pridėta [Komunikacijos ](wiki/komunikacija.md)tema ir pateiktas [pasiūlymo teikimo pavyzdys](wiki/komunikacija.md#pasiulymo-teikimas).
 
 #### 2019-05-04
@@ -697,7 +698,7 @@ Tinklaraščio migracija:
 
 #### 2019-03-27
 
-* Pridėti Inkdrop ir Caret į [Tools ](wiki/tools.md)temą.
+* Pridėti Inkdrop ir Caret į [Tools ](wiki/software.md)temą.
 * Programavimo temoje pridėta apie Imposter sindromą iš[ React kūrėjo perspektyvos](wiki/programavimas/#notes)
 
 #### 2019-03-26
@@ -710,7 +711,7 @@ Tinklaraščio migracija:
 * [Pridėtas klausomų podcastų sąrašas](wiki/podcasts/#prenumeratos)
 * [Pridėtas peržiūrėtų filmų sąrašas](wiki/filmai/#perziur-t-film-sarasas-ir-j-vertinimai)
 * Pridėtos [knygų ](wiki/knygos/)ir [filmų ](wiki/filmai/)skiltys
-* Pridėta naudojamų [įrankių](wiki/tools.md) skiltis
+* Pridėta naudojamų [įrankių](wiki/software.md) skiltis
 
 #### 2019-03-24
 

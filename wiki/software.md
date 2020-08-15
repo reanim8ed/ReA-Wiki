@@ -1,4 +1,4 @@
-# Tools
+# Software
 
 ## Code snippet manager
 
