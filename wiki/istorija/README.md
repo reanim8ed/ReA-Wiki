@@ -42,3 +42,9 @@ Ekranoplan'as, milžiniškas, išties labai didelę talpą turintis lėktuvas pa
 
 * [Project Azorian - slaptas JAV CIA projektas 74-aisiais iš Ramiojo vandenyno dugno ištraukti nuskendusi sovietų povandeninį laivą.](https://www.wikiwand.com/en/Project_Azorian)
 
+### Požeminis laivas
+
+* Jeigu turime povandeninį laivą, tai atominiai po žeme besirausiantys atitikmenys tikriausiai turėtų būti vadinami "požeminiu laivu". Šiaip tokio pobūdžio transporto priemonės populiarios fantastiniuose kūriniuose, tačiau, kaip Žiulis Vernas savo laiku rašė fantastiką, o Kubrik'as parodė iPad'us, taip ir šitie "kurmiai" turi kažkiek ir realių sąsajų: eksperimentiniai prototipai buvo kuriame JAV, Vokietijoje ir Sovietų Sąjungoje.
+* [https://jalopnik.com/the-soviets-may-have-once-built-a-secret-nuclear-powere-1828395776](https://jalopnik.com/the-soviets-may-have-once-built-a-secret-nuclear-powere-1828395776)
+* [https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D0%B4%D0%B7%D0%B5%D0%BC%D0%BD%D0%B0%D1%8F\_%D0%BB%D0%BE%D0%B4%D0%BA%D0%B0?oldformat=true](https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D0%B4%D0%B7%D0%B5%D0%BC%D0%BD%D0%B0%D1%8F_%D0%BB%D0%BE%D0%B4%D0%BA%D0%B0?oldformat=true)
+

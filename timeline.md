@@ -4,6 +4,12 @@ description: Wiki atliktų pakeitimų ir naujų straipsnių archyvas
 
 # Timeline
 
+## 2020-08
+
+#### 2020-08-15
+
+* Istorija: [Požeminis laivas](wiki/istorija/#pozeminis-laivas)
+
 ## 2020-06
 
 #### 2020-06-29
