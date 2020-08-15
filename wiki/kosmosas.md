@@ -10,6 +10,12 @@
 * [https://www.youtube.com/watch?v=6e5B7EKVg48](https://www.youtube.com/watch?v=6e5B7EKVg48)
 * [https://www.wikiwand.com/en/Sea\_Dragon\_\(rocket\)](https://www.wikiwand.com/en/Sea_Dragon_%28rocket%29)
 
+### Nuclear Engine for Rocket Vehicle Application \(NERVA\)
+
+* Akivaizdu, jog jeigu kadanors norima keliauti į tolimąjį kosmosą, joks dabartinis deginamas raketinis kuras tam netinka, nes jį sunaudojus atvirame kosmose pasigaminti jo daugiau galimybės nebūtų. Tad vienintelis realus praktinis sprendimas - turėti raketoje atominį variklį.
+* Būtent tai ir yra NERVA - du dešimtmečius plėtotas NASA projektas, kuris buvo laikomas išties pasisekusiu ir buvo planuojamas naudoti skrydžiams į nuolatinę mėnulio bazę, bei žmonių kelionėms į Marsą, tačiau kurį 73-iaisiais atšaukė Nixon'as.
+* [https://en.wikipedia.org/wiki/NERVA?oldformat=true](https://en.wikipedia.org/wiki/NERVA?oldformat=true)
+
 ### Apollo 11 misijos 50-metis
 
 * Liepos 20-tą švenčiamas 50-metis, kai Apollo 11 kartu su Buzz'u ir Neil'u pirmą kartą pasiekė mėnulio paviršių. 
