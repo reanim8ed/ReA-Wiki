@@ -48,3 +48,14 @@ Ekranoplan'as, milžiniškas, išties labai didelę talpą turintis lėktuvas pa
 * [https://jalopnik.com/the-soviets-may-have-once-built-a-secret-nuclear-powere-1828395776](https://jalopnik.com/the-soviets-may-have-once-built-a-secret-nuclear-powere-1828395776)
 * [https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D0%B4%D0%B7%D0%B5%D0%BC%D0%BD%D0%B0%D1%8F\_%D0%BB%D0%BE%D0%B4%D0%BA%D0%B0?oldformat=true](https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D0%B4%D0%B7%D0%B5%D0%BC%D0%BD%D0%B0%D1%8F_%D0%BB%D0%BE%D0%B4%D0%BA%D0%B0?oldformat=true)
 
+### Curta skaičiuotuvas
+
+![](../../.gitbook/assets/download.webp)
+
+* Austrų inžinieriaus koncentracijos lageryje sugalvotas išradimas - pirmasis, paskutinis ir vienintelis toks mažas kišeninis mechaninis skaičiuotuvas.
+* Stebina savo kompleksiškumu ir genialiu dizainu, kuris ne tik vis dar puikiai veikia ir šiandien, praėjus 50-60 metų, bet ir atrodo vis dar išties puikiai. 
+* Iki elektroninių skaičiuotuvų pasirodymo Curta buvo laikomas, pačiu geriausiu kada nors sukurtu skaičiuotuvu. Prietaisas buvo gan populiarus tarp automobilių lenktynininkų bei lakūnų.
+* Viso pagaminta tik apie 140 tūkst. vnt, tad nenuostabu, jog dabar tai yra gan paklausi kolekcinė prekė, už kurią ebay prašoma po tūkstantį € ir daugiau. 
+* [https://www.youtube.com/watch?v=P0cGjC62XRQ](https://www.youtube.com/watch?v=P0cGjC62XRQ)
+* [https://en.wikipedia.org/wiki/Curta?oldformat=true](https://en.wikipedia.org/wiki/Curta?oldformat=true)
+
