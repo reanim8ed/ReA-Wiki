@@ -3,11 +3,12 @@
 ### Sea Dragon
 
 * For all mankind sezono finalas supažindino mane su šia neįtikėtina raketa, kylančia iš vandens, pavadinimu Sea Dragon, kuri nėra visiška fantazija - tai realus planuotas projektas iš 60-ųjų, kuris deja pasibaigus kosmoso lenktynėms taip niekada ir nebuvo įgyvendintas.
-* Pagrindinė raketos mintis buvo, jog didžiausią kainą sudaro ne kuras ir medžiagos, o didelis raketų kompleksiškumas. Todėl šios raketos planas buvo padaryti viską kuo labiau minimalistiškai, taip sutaupant išlaidas \(big dumb booster principas\).
-* Tai būtų buvusi didžiausia kada nors sukurta raketa, kurios aukštis siektų 150m, būtų turėjusi vieną milžinišką variklį ir sugebanti iškelti net 550t svorį. Palyginimui - Saturn V galėjo kelti tik maždaug penktadalį to.
-* Pakilimo metu tokia raketa ir variklis tiesiog nušluotų visą pakilimo aikštelę su bokštu bokštą, tad vienintelis įmanomas pakilimo būdas - kilti iš vandens. Atrodo kažkas neįtikėtino, bet pasirodo praktiška, įgyvendinama ir pasirodo dar ir pigiau, nei kilti tiesiog nuo žemės.
-* [https://www.wikiwand.com/en/Sea\_Dragon\_\(rocket\)](https://www.wikiwand.com/en/Sea_Dragon_%28rocket%29)
+* Pagrindinė raketos mintis buvo, jog didžiausią kainą sudaro ne kuras ir medžiagos, o didelis raketų kompleksiškumas. Todėl šios raketos planas buvo padaryti viską kiek įmanoma paprasčiau ir minimalistiškiau ir tokiu būdu smarkiai nuleisti iškeliamos tonos kainą. Toks dizainas dabar vadinamas big dumb booster.
+* Tai būtų buvusi didžiausia kada nors sukurta raketa, vis dar net ir iki šiol, kurios aukštis siektų 150m, būtų turėjusi vieną visiškai massive variklį ir kuri būtų sugebėjusi iškelti net 550t svorį, kas yra maždaug 5x daugiau nei Saturn V.
+* Pakilimo metu tokia raketa ir variklis tiesiog nušluotų visą aikštelę su tuo pačiu pakilimo bokštu, tad vienintelis įmanomas būdas - kilti iš vandens. Atrodo kažkas neįtikėtino, bet pasirodo tai net labai praktiškas ir įgyvendinamas sprendimas, kuris yra net ir pigesnis, nei kilti tiesiog nuo žemės.
 * [https://www.youtube.com/watch?v=SRMDcC0QvFQ](https://www.youtube.com/watch?v=SRMDcC0QvFQ)
+* [https://www.youtube.com/watch?v=6e5B7EKVg48](https://www.youtube.com/watch?v=6e5B7EKVg48)
+* [https://www.wikiwand.com/en/Sea\_Dragon\_\(rocket\)](https://www.wikiwand.com/en/Sea_Dragon_%28rocket%29)
 
 ### Apollo 11 misijos 50-metis
 
