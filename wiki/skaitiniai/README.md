@@ -1,5 +1,12 @@
 # Skaitiniai
 
+### The Truth Is Paywalled But The Lies Are Free
+
+* It costs time and money to access a lot of true and important information, while a lot of bullshit is completely free.
+* You either pay for your content, or your content is SPONSORED, or you are the product being sold.
+* The amount of energy needed to refute bullshit is an order of magnitude bigger than to produce it
+* [https://www.currentaffairs.org/2020/08/the-truth-is-paywalled-but-the-lies-are-free/?fbclid=IwAR35q5Mln1VDSvGsdfI9JIHwFAr042ZuK5S2dfhoFs0501aSDAYJ8NyEdbo](https://www.currentaffairs.org/2020/08/the-truth-is-paywalled-but-the-lies-are-free/?fbclid=IwAR35q5Mln1VDSvGsdfI9JIHwFAr042ZuK5S2dfhoFs0501aSDAYJ8NyEdbo)
+
 ### Samsung Galaxy S20 vs. iPhone 11 Pro: A deeper division lurks beneath the spec sheets
 
 * We've lately been of the mind that comparing Android and iOS phones primarily on a specs, benchmarks, or hardware basis is folly. Most informed buyers - choose between Android and iOS on the basis of software, services, and extremely divergent philosophies about openness, customization, and privacy.

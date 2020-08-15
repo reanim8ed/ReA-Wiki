@@ -1,5 +1,10 @@
 # MealTimeVideos
 
+### Why Your Favorite Musicians Are Broke
+
+* Kai gerai žinomi ir populiarūs muzikantai gali parduoti milijonus įrašų, tačiau patys iš to praktiškai nieko neuždirbti.
+* [https://youtu.be/2Ad1sNtqQ5Y](https://youtu.be/2Ad1sNtqQ5Y)
+
 ### 2020-05-10
 
 * Kaip Black Mirror stiliaus siužetas pavirsta realybe: pasakojimas apie Kinijoje diegiamas ir naudojamas žmonių sekimo sistemas.

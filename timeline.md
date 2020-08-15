@@ -9,6 +9,8 @@ description: Wiki atliktų pakeitimų ir naujų straipsnių archyvas
 #### 2020-08-15
 
 * Istorija: [Požeminis laivas](wiki/istorija/#pozeminis-laivas)
+* Skaitiniai: [The Truth Is Paywalled But The Lies Are Free](wiki/skaitiniai/#the-truth-is-paywalled-but-the-lies-are-free)
+* MealTimeVideos: [Why Your Favorite Musicians Are Broke](wiki/mealtimevideos.md#why-your-favorite-musicians-are-broke)
 
 ## 2020-06
 
