@@ -1,5 +1,11 @@
 # API's
 
+### API endpoint naming rules
+
+{% embed url="https://gist.github.com/reanim8ed/ba11bf3e886fa460d622f2573870536e" %}
+
+
+
 ### Facebook page feed
 
 Po Cambridge Analytica įvykių Facebook sugriežtino duomenų prieigą ir jei anksčiau viešus duomenis galėdavo pasiimti bet kas, tai dabar atsirado papildomų niuansų - norint gauti puslapio duomenis, reikia turėti [Page Public Content Access](https://developers.facebook.com/docs/apps/review/feature/#reference-PAGES_ACCESS) teises, o joms gauti reikia praeiti visą App Review procesą, kuris susideda ne tik iš įmonės duomenų suvedimo, tačiau reikia pateikti aprašymą ir nuorodas, kurios demonstruotų, kaip šios teisės bus naudojamos. Tačiau yra viena išlyga - šių teisių nereikia, jei vartotojas turi _manage\_page_ teises tam puslapiui. Kitaip tariant - jei tai puslapio administratorius. 

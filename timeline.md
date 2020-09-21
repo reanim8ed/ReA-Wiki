@@ -10,6 +10,11 @@ description: Wiki atliktų pakeitimų ir naujų straipsnių archyvas
 
 * Programavimas: [Prestashop Nginx template](wiki/programavimas/php/prestashop.md#prestashop-1-7-6-nginx-template)
 * Programavimas: [Symfony Mercure protocol](wiki/programavimas/php/symfony/mercure.md)
+* Programavimas:[ PHP\_CodeSniffer](wiki/programavimas/php/#php_codesniffer-installation-in-phpstorm) installation in PHPStorm
+* Programavimas: [Deployer setup for Symfony](wiki/programavimas/php/symfony/#deployer-setup)
+* Programavimas: [API endpoint naming rules](wiki/programavimas/apis.md#api-endpoint-naming-rules)
+* Programavimas: [IKEv2 VPN setup](wiki/programavimas/linux/#ikev2-vpn-set-up-in-ubuntu)
+* Programavimas: [Ubuntu install on Virtualbox](wiki/programavimas/linux/#install-ubuntu-on-oracle-virtualbox)
 
 ## 2020-08
 
@@ -135,7 +140,7 @@ description: Wiki atliktų pakeitimų ir naujų straipsnių archyvas
 #### 2020-02-25
 
 * Programavimas: [Ansible](wiki/programavimas/ansible.md)
-* Programavimas: [Linux commands](wiki/programavimas/linux-commands.md)
+* Programavimas: [Linux commands](wiki/programavimas/linux/linux-commands.md)
 
 #### 2020-02-23
 

@@ -17,6 +17,6 @@
 
 ### LEMP
 
-* [Laragon ](https://laragon.org/download/index.html)- vienas labiausiai patikusių local server sprendimų LEMP stack'ui. Iš pavadinimo atrodytų, jog orientuotas į Laravel, bet ištiesų tai pilnavertė alternatyva WAMP, XAMPP ar mano iki tol naudotam UniServer. Automatinis host file įrašų sukūrimas, itin lengvas naujų stack'o versijų diegimas, integruotas Mail Catcher'is ir ko gero overall veikiantis sparčiausiai iš visų kadanors bandytų.
+* [Laragon ](https://laragon.org/download/index.html)- vienas labiausiai patikusių local server sprendimų LEMP stack'ui. Iš pavadinimo atrodytų, jog orientuotas į Laravel, bet ištiesų tai pilnavertė alternatyva WAMP,  XAMPP ar mano iki tol naudotam UniServer. Automatinis host file įrašų sukūrimas, itin lengvas naujų stack'o versijų diegimas, integruotas Mail Catcher'is ir ko gero overall veikiantis sparčiausiai iš visų kadanors bandytų.
 * Kita alternatyva - [Laradock](http://laradock.io/): PHP development environment, skirtas Docker'iui.
 
