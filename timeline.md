@@ -4,7 +4,18 @@ description: Wiki atliktų pakeitimų ir naujų straipsnių archyvas
 
 # Timeline
 
+## 2020-09
+
+#### 2020-09-21
+
+* Programavimas: [Prestashop Nginx template](wiki/programavimas/php/prestashop.md#prestashop-1-7-6-nginx-template)
+* Programavimas: [Symfony Mercure protocol](wiki/programavimas/php/symfony/mercure.md)
+
 ## 2020-08
+
+#### 2020-08-20
+
+* Podcasts: [Jim Keller](wiki/podcasts/#jim-keller-lex-fridman-podcast-70) @ Lex Fridman Podcast \#70
 
 #### 2020-08-15
 
@@ -79,7 +90,7 @@ description: Wiki atliktų pakeitimų ir naujų straipsnių archyvas
 
 #### 2020-04-18
 
-* Programavimas: [ką gali Prestashop, ko negali Woo](wiki/programavimas/wordpress.md#komentaras-ka-gali-prestashop-ko-negali-woo)
+* Programavimas: [ką gali Prestashop, ko negali Woo](wiki/programavimas/php/wordpress.md#komentaras-ka-gali-prestashop-ko-negali-woo)
 
 #### 2020-04-15
 
@@ -190,7 +201,7 @@ description: Wiki atliktų pakeitimų ir naujų straipsnių archyvas
 
 * TechIT: [35 000$ Mac'as](wiki/tech-it.md#35-000usd-macas)
 * TechIT: [Decentralizuotas soc.tinklas](wiki/tech-it.md#decentralizuotas-soc-tinklas)
-* Programavimas: [Symfony](wiki/programavimas/php/symfony.md)
+* Programavimas: [Symfony](wiki/programavimas/php/symfony/)
 * MealTimeVideos: [video žaidimų kalba](wiki/mealtimevideos.md#2109-12-13)
 * Straipsnių archyvas: [Kodėl jauni žmonės neturi darbo ir ką daryti, kad tu jį visuomet turėtum?](wiki/skaitiniai/straipsniu-archyvas/kod-l-jauni-zmon-s-neturi-darbo-ir-ka-daryti-kad-tu-j-visuomet-tur-tum.md)
 * Straipsnių archyvas: [Privalai pradėti investuoti. Dabar](wiki/skaitiniai/straipsniu-archyvas/privalai-pradeti-investuoti-dabar.md)
@@ -305,8 +316,8 @@ description: Wiki atliktų pakeitimų ir naujų straipsnių archyvas
 #### 2019-08-29
 
 * Programavimas: kaip gauti [Facebook page feed per API](wiki/programavimas/apis.md#facebook-page-feed)
-* Wordpress: [Change Yoast meta tags](wiki/programavimas/wordpress.md#change-yoast-meta-tags)
-* Wordpress: [Add checkbox field to the checkout](wiki/programavimas/wordpress.md#woocommerce-add-checkbox-field-to-the-checkout)
+* Wordpress: [Change Yoast meta tags](wiki/programavimas/php/wordpress.md#change-yoast-meta-tags)
+* Wordpress: [Add checkbox field to the checkout](wiki/programavimas/php/wordpress.md#woocommerce-add-checkbox-field-to-the-checkout)
 * MealtimeVideos: inovatyvūs [Hong Kong'o protestai](wiki/mealtimevideos.md#2019-08-29)
 
 #### 2019-08-24

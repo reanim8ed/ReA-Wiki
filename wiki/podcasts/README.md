@@ -4,14 +4,25 @@ description: 'Podcasts are like an electric campfire, people gather around and t
 
 # Podcasts
 
+### 2020-08
+
+#### Jim Keller @ Lex Fridman Podcast \#70
+
+* Jim Keller yra ko gero vienas žymiausių žmonių moderniųjų mikro procesorių sferoje. Juokaujama, jog visa mikroprocesorių rinka yra Keller'is šokinėjantis iš vienos kompanijos į kitą ir bandantis nukonkuruoti savo paties sukurtus produktus. Žinoma tai tik juokelis, naujos architektūros kūrime dalyvauja tūkstančiai žmonių, tačiau užtenka truputėlis paklausyti jo kalbant podcast'e, kaip jis bando supaprastinti iki abstrakcijų išties sudėtingas koncepcijas ir tuomet supranti kiek daug insight'o šis žmogus turi.
+* Mr. Keller approaches the usual microprocessor design loop, where a company develops a new design from scratch and then looks at the most fundamental way of adding performance. Usually, he says, easy 10% performance increments can be found by simply looking at a design and increasing execution units - increase a buffer here, increase a cache over there, put in another add processor on this part of the pipeline. However, he also speaks of how this process in itself is limiting, inasmuch as doing this often will eventually guide processor designs towards a bottleneck and the diminishing returns problem, where any more additions made to the design don't seem to increase performance - mostly just adding complexity, area and power requirements, and generally convoluting a given design. Mr. Keller says that that is the point where teams should see that the design in itself is already limiting - and that that's when you do something from scratch. Fast advances in performance in the world of microprocessors depend on 3-5 year cycles of building a new processing design from scratch. His work in the microprocessor world usually comes in at this point - Mr. Keller has established himself as one of the foremost leaders of microprocessor design teams when looking at a clean-slate design, with his stints at AMD \(collaborating on their K7, K8, and K12 designs alongside the HyperTransport bus\), Apple \(for their A4 and A5 microprocessors, which are now in the iterative phase\), Tesla \(with their HW 3.0 designs for autonomous driving\) and AMD's Zen.
+* I imagine 99% of your thought process is protecting your self-conception, and 98% of that is wrong.
+* A lot of things need to be "rearchitected every decade, or even faster".
+
+{% embed url="https://www.youtube.com/watch?v=Nb2tebYAaOA" %}
+
 ### 2020-05
 
 #### George Hotz @ Artificial Intelligence Podcast
 
 * geohot yra pasipūtęs, temperamentingas ir stačiokiškas trolis, tačiau užtenka išgirsti jį kalbant apie savo stichiją ir iš karto pasimato jo ambicingumas, didelis intelektas bei itin gilus temos perpratimas. Šitu aspektu jis man primena Martin Shkreli. Daug kas linkę susidaryti greitą neigiamą įspūdį, tačiau tokių žmonių skill'ai kalba patys už save. 
 * Man patinka jo nematerialistiškas požiūris ir biurokratijos engimas. Jis yra labai competitive, mėgsta išties didelės kompleksijos problemas ir pagrindinė jo varomoji jėga - laimėti, "parodyti kitiems" išsprendžiant jas pirmesniam. Išties gerbia žmones už jų realius skill'us ir vienas pagrindinių jo troškimų - būti žinomam būtent tokių, išties talentingų žmonių tarpe.
-* Podcast'e patiko kontrastas tarp kalbančiųjų: Hotz'as greitas ir chaotiškas, Lex'as tuo tarpu santūrus, lėtas ir apgalvojantis. Vedėjas išlaikė nepatiklumą ir paspaudė pašnekovą tose vietose, kuriose jų požiūriai išsiskyrė ir dėlto diskusija tapo įdomesnė. Norėčiau, jog tokia dinamika būtų buvusi ir tuomet, kai to paties podcast'o svečias buvo Musk'as, nes tuomet jis daugiausiai kartojo savo jau atkaltas supaprastintas formuluotes. Manau jog Lex'as būtų tas vedėjas, kuris sugebėtų pokalbį pakreipti į daug smulkmeniškesnę techninę pusę ir paspaustų Musk'ą pakalbėti apie daug gilesnius inžinerinius niuansus, ko ir pritrūksta per visus jo interviu.
-* * Elon Musk was looking for someone to build a vision system for Autopilot. We talked about a contract. If I could deliver something that meets Mobileye level performance tomorrow I would get $12 million. I would lose $1 million for each month I couldn’t deliver.
+* Podcast'e patiko kontrastas tarp kalbančiųjų: Hotz'as greitas ir chaotiškas, Lex'as tuo tarpu santūrus, lėtas ir apgalvojantis. Vedėjas išlaikė nepatiklumą ir paspaudė pašnekovą tose vietose, kuriose jų požiūriai išsiskyrė ir dėlto diskusija tapo įdomesnė. Norėčiau, jog tokia dinamika būtų buvusi ir tuomet, kai to paties podcast'o svečias buvo Musk'as, nes tuomet jis daugiausiai kartojo savo jau atkaltas supaprastintas formuluotes. Manau jog Lex'as būtų tas vedėjas, kuris sugebėtų pokalbį pakreipti į daug smulkmeniškesnę techninę pusę ir paspaustų Musk'ą pakalbėti apie daug gilesnius inžinerinius niuansus, ko ir pritrūksta per visus jo interviu. 
+* Elon Musk was looking for someone to build a vision system for Autopilot. We talked about a contract. If I could deliver something that meets Mobileye level performance tomorrow I would get $12 million. I would lose $1 million for each month I couldn’t deliver.
 * In life, I usually get away with saying stupid things. Elon is very sharp. He immediately called me out on it. Most people don’t even notice.
 * Tesla is going to win level 5. Tesla is gathering data on a scale no one else is. They are putting real users behind the wheel. The incremental strategy is the only strategy that works.
 * You only have to mess up once to be caught as a criminal. That's why I'm not a criminal
