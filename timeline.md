@@ -15,6 +15,10 @@ description: Wiki atliktų pakeitimų ir naujų straipsnių archyvas
 * Programavimas: [API endpoint naming rules](wiki/programavimas/apis.md#api-endpoint-naming-rules)
 * Programavimas: [IKEv2 VPN setup](wiki/programavimas/linux/#ikev2-vpn-set-up-in-ubuntu)
 * Programavimas: [Ubuntu install on Virtualbox](wiki/programavimas/linux/#install-ubuntu-on-oracle-virtualbox)
+* Programavimas: [SEO](wiki/programavimas/seo.md)
+* Programavimas: [Nginx redirects](wiki/programavimas/linux/nginx.md#nginx-redirects)
+* Programavimas: [PHP NTLM authentication](wiki/programavimas/php/#php-ntlm-authentication-soap-client)
+* Programavimas: [Converting base64 file](wiki/programavimas/php/symfony/vichupload.md) and moving to path in Symfony
 
 ## 2020-08
 
