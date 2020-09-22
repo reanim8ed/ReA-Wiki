@@ -6,6 +6,11 @@ description: Wiki atliktų pakeitimų ir naujų straipsnių archyvas
 
 ## 2020-09
 
+#### 2020-09-22
+
+* TechIT: [Web by Google](https://landshark.io/2020/08/16/web-by-google.html)
+* Skaitiniai: [bundle & unbundle](wiki/skaitiniai/#there-are-only-two-ways-to-make-money-in-business-one-is-to-bundle-the-other-is-unbundle)
+
 #### 2020-09-21
 
 * Programavimas: [Prestashop Nginx template](wiki/programavimas/php/prestashop.md#prestashop-1-7-6-nginx-template)

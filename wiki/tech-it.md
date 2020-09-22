@@ -4,6 +4,14 @@ description: 'https://www.facebook.com/techit.lt'
 
 # TechIT straipsniai
 
+## 2020-09
+
+### Web by Google
+
+Looking at Mozilla’s finances, it’s reasonable to conclude that Google is keeping them on life support to keep the anti-trust hounds at bay. Mozilla’s deal with Google will account for at least 70% of their revenues going forward. That’s over $400 million to be the default search provider in 4% of browsers. For 1 year. I’ll bet my next paycheck that Google reupped this rather generous agreement to avoid a repeat of Microsoft’s troubles over an Internet Explorer monopoly. My guess is that Google will decide it’s in their interest to pull the plug right around the time this latest wave of anti-trust talk blows over.
+
+[https://landshark.io/2020/08/16/web-by-google.html](https://landshark.io/2020/08/16/web-by-google.html)
+
 ## 2020-05
 
 ### Spofity podcastai

@@ -1,5 +1,13 @@
 # Skaitiniai
 
+### There are “only two ways to make money in business: One is to bundle; the other is unbundle.”
+
+Music was one of the things where there was this very clear set of bundles in which the products were sold. It was incredibly profitable for the big music companies and for a lot of the artists. And that got completely pulled apart. But now, we’re getting new sorts of bundling in there.
+
+It’s an effective growth strategy. Once you try to grow the business, it’s an easier out to stay focused on your core and then add things to it. And you become a big bundle again. Which then creates a new vulnerability that you didn’t have when you were the insurgent.
+
+[https://hbr.org/2014/06/how-to-succeed-in-business-by-bundling-and-unbundling](https://hbr.org/2014/06/how-to-succeed-in-business-by-bundling-and-unbundling)
+
 ### The Truth Is Paywalled But The Lies Are Free
 
 * It costs time and money to access a lot of true and important information, while a lot of bullshit is completely free.
