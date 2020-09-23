@@ -66,6 +66,7 @@
 * [Programavimas](wiki/programavimas/README.md)
   * [Ansible](wiki/programavimas/ansible.md)
   * [API's](wiki/programavimas/apis.md)
+  * [Bitbucket pipelines \(CD\)](wiki/programavimas/bitbucket-pipelines-cd.md)
   * [Docker](wiki/programavimas/docker.md)
   * [HTML technikos](wiki/programavimas/html.md)
   * [Linux](wiki/programavimas/linux/README.md)

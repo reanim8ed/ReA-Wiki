@@ -9,6 +9,7 @@ description: Wiki atliktų pakeitimų ir naujų straipsnių archyvas
 #### 2020-09-03
 
 * TechIT: [Tesla battery day](wiki/tech-it.md#tesla-battery-day)
+* Programavimas: [Bitbucket pipelines](wiki/programavimas/bitbucket-pipelines-cd.md)
 
 #### 2020-09-22
 
