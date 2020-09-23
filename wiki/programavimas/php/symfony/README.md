@@ -4,6 +4,12 @@
 
 {% embed url="https://gist.github.com/fe96032c913c46729c576242668a98d1\#file-sample-md" %}
 
+## Secrets management
+
+{% embed url="https://gist.github.com/reanim8ed/d7de4918be42ff4b9553a1de7bf26a28" %}
+
+
+
 ## Deployer setup
 
 {% embed url="https://gist.github.com/a0ee3234f54f39f2cccff3fa4164590a\#file-sample-php" %}

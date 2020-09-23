@@ -10,6 +10,7 @@ description: Wiki atliktų pakeitimų ir naujų straipsnių archyvas
 
 * TechIT: [Tesla battery day](wiki/tech-it.md#tesla-battery-day)
 * Programavimas: [Bitbucket pipelines](wiki/programavimas/bitbucket-pipelines-cd.md)
+* Programavimas:[ Symfony secrets management](wiki/programavimas/php/symfony/#secrets-management)
 
 #### 2020-09-22
 
