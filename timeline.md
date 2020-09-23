@@ -6,6 +6,10 @@ description: Wiki atliktų pakeitimų ir naujų straipsnių archyvas
 
 ## 2020-09
 
+#### 2020-09-03
+
+* TechIT: [Tesla battery day](wiki/tech-it.md#tesla-battery-day)
+
 #### 2020-09-22
 
 * TechIT: [Web by Google](https://landshark.io/2020/08/16/web-by-google.html)

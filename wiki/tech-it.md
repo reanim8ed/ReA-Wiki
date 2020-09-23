@@ -6,6 +6,14 @@ description: 'https://www.facebook.com/techit.lt'
 
 ## 2020-09
 
+### Tesla battery day
+
+Po vakar įvykusio Tesla Battery Day, akcijų kainos smulktelėjo žemyn ir tą faktą spėjo pasigauti nemažai informacijos šaltinių. Labai įdomu tai stebėti, nes iš tiesų renginys visgi buvo puikus: padaryti svarbūs pristatymai, nurėžta baterijų kaina, pateikta išties daug informacijos, o viskas ką iš to sugebėjo pasiimti instituciniai investuotojai - tai tik faktas, jog dauguma timeline'ų apima 2-3 artimiausius metus, tad akcijos smuko. 
+
+Be naujosios baterijos, kuri mažina kainą ir padidina range'ą, viena įspūdingiausių naujienų tai naujasis Model S Plaid modelis, kuris turės žadėtojo Roadster'io specifikacijas: 800+km range'as, 320km/h max greitis ir 0-100 km/h per &lt;1.9s ir visą tai už 140k. Automobilis prekyboje bus jau kitų metų pabaigoje. 
+
+[https://electrek.co/2020/09/22/tesla-model-s-plaid-unveil-range-speed/](https://electrek.co/2020/09/22/tesla-model-s-plaid-unveil-range-speed/)
+
 ### Web by Google
 
 Looking at Mozilla’s finances, it’s reasonable to conclude that Google is keeping them on life support to keep the anti-trust hounds at bay. Mozilla’s deal with Google will account for at least 70% of their revenues going forward. That’s over $400 million to be the default search provider in 4% of browsers. For 1 year. I’ll bet my next paycheck that Google reupped this rather generous agreement to avoid a repeat of Microsoft’s troubles over an Internet Explorer monopoly. My guess is that Google will decide it’s in their interest to pull the plug right around the time this latest wave of anti-trust talk blows over.
