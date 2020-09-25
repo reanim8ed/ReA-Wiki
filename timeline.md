@@ -9,6 +9,7 @@ description: Wiki atliktų pakeitimų ir naujų straipsnių archyvas
 #### 2020-09-25
 
 * TechIT: [Windows XP leaked](wiki/tech-it.md#windows-xp-leaked)
+* Skaitiniai: [Ask HN: What is it like to be old?](wiki/skaitiniai/#ask-hn-what-is-it-like-to-be-old-what-advice-would-you-give-to-younger-people)
 
 #### 2020-09-23
 

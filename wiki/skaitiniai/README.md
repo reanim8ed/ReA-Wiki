@@ -1,5 +1,29 @@
 # Skaitiniai
 
+### Ask HN: What is it like to be old? What advice would you give to younger people?
+
+What's it like to be old?  
+My boss is younger than I am and is absolutely sure he knows more about my job than I do, even though I've been doing it since before he was born and he never did it at all.  
+People on TV keep trying to sell me stuff like Metamucil, some new kind of cane or similar silly gadget, or a scam investment, none of which I want.  
+My grandkids can't understand why I can't read things they're holding right in front of my face until I've spent twenty minutes finding, then cleaning, my glasses.  
+My wife has heard all of my jokes and all of my excuses. She now criticizes the former and laughs at the latter, instead of the other way around.  
+My friends sound like cranky old sticks-in-the-mud who wish they could turn back the clock to a time that wasn't nearly as wonderful as they claim to remember it was.  
+A trip to the supermarket now tires me out and instead of going out with \(surviving\) friends, I really look forward to taking a nap on the couch. Really.  
+The celebrities I recognize are senile and/or decrepit. The ones who are currently popular are appalling.  
+I don't have enough money to retire but dream of it every day \(See the above comment about my boss\).  
+Life is fantastic, except when it's not. Whichever it is now, pretty soon, it will be the other one.  
+My advice: Pay attention.
+
+---
+
+The key is finding a good balance between working hard and playing hard. Your career won't suffer if you take a week long vacation. Your health will be fine if you sometimes volunteer to do a weekend shift. Do both and you can be successful and happy about how you spent your youth.
+
+---
+
+My advice at mid-50s to younger people is to learn 1. manage your energy for your long term health, 2. enjoy time with the highest quality people you can find \(I mean that in terms of good language, hopeful, constructive/collaborative in nature and working on themselves, empathetic to all those around you\), and lastly say "yes" to almost everything and enjoy to the max. If my life were a candle, every year it is slowly losing some if its brightness/energy through no fault or effort on my own. I had an unusual situation which aged me faster than I ever wished for-- lost my mid-30s wife to a rare cancer 3 years after diagnosis. A part of me died with her and my heart will never heal. Still I wake up hopeful every day. We are all along for a short ride, enjoy the hell out of it. It could/will disappear in an instant.
+
+[https://news.ycombinator.com/item?id=24531718](https://news.ycombinator.com/item?id=24531718)
+
 ### There are “only two ways to make money in business: One is to bundle; the other is unbundle.”
 
 Music was one of the things where there was this very clear set of bundles in which the products were sold. It was incredibly profitable for the big music companies and for a lot of the artists. And that got completely pulled apart. But now, we’re getting new sorts of bundling in there.
