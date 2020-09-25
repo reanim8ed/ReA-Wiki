@@ -6,6 +6,18 @@ description: 'https://www.facebook.com/techit.lt'
 
 ## 2020-09
 
+### Windows XP leaked
+
+19-metė Windows XP neišsikentė ir pabėgo iš namų. 
+
+Esamiems old-school vartotojams, kurių vis dar yra apie 1%, tai itin didelio pavojaus gal ir nesukuria, nes hackeriai vargu ar targetins tokią siaurą vartotojų grupę, tačiau atsižvelgiant į tai, kad naujosios Win versijos nebuvo kuriamos nuo 0, o tiesiog evoliucionavo su laiku - šitas leak'as gali reikšti, kad bus atrastos visiškai naujos saugumo spragos, kurios gali būti išlikusios ir iki šiol. 
+
+Taipogi įmanoma, jog sulauksim naujų custom distribucijų, kurios įgalins naujo hardware palaikymą ir taip šiai kultinei OS bus įkvėpta dar šiek tiek naujos gyvybės.
+
+You can't put this genie back in the bottle.
+
+[https://www.gizmodo.com.au/2020/09/looks-like-the-windows-xp-source-code-just-leaked-on-4chan/](https://www.gizmodo.com.au/2020/09/looks-like-the-windows-xp-source-code-just-leaked-on-4chan/)
+
 ### Tesla battery day
 
 Po vakar įvykusio Tesla Battery Day, akcijų kainos smulktelėjo žemyn ir tą faktą spėjo pasigauti nemažai informacijos šaltinių. Labai įdomu tai stebėti, nes iš tiesų renginys visgi buvo puikus: padaryti svarbūs pristatymai, nurėžta baterijų kaina, pateikta išties daug informacijos, o viskas ką iš to sugebėjo pasiimti instituciniai investuotojai - tai tik faktas, jog dauguma timeline'ų apima 2-3 artimiausius metus, tad akcijos smuko. 

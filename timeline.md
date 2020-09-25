@@ -6,7 +6,11 @@ description: Wiki atliktų pakeitimų ir naujų straipsnių archyvas
 
 ## 2020-09
 
-#### 2020-09-03
+#### 2020-09-25
+
+* TechIT: [Windows XP leaked](wiki/tech-it.md#windows-xp-leaked)
+
+#### 2020-09-23
 
 * TechIT: [Tesla battery day](wiki/tech-it.md#tesla-battery-day)
 * Programavimas: [Bitbucket pipelines](wiki/programavimas/bitbucket-pipelines-cd.md)
