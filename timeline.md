@@ -9,6 +9,7 @@ description: Wiki atliktų pakeitimų ir naujų straipsnių archyvas
 #### 2020-10-18
 
 * Random internetai: [pasaulio kalendorius](wiki/random-internetai.md#pasaulio-kalendorius)
+* Skaitiniai: [Social cooling](wiki/skaitiniai/#social-cooling)
 
 ## 2020-09
 

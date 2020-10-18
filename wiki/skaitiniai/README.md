@@ -1,5 +1,15 @@
 # Skaitiniai
 
+### Social cooling
+
+* Kai kurie žmonės jau yra linkę elgtis atsargiau internete ir skirti daugiau dėmesio privatumo aspektams. Tačiau visgi didžiąjai daugumai visa tai vis dar nerūpi arba jų argumentas susiveda į "koks skirtumas, aš neturiu ką slėpti". Šis saitas itin paprastai pateikia kodėl apie savo privatumą visgi reikia susimąstyti ir kaip atrodo paprasti veiksmai, palaipsniui keičia visuomenę.
+* If you feel you are being watched, you change your behavior.   
+  We are becoming too transparent.
+
+  This is breeding a society where self-censorship and risk-aversion are the new normal.
+
+* [https://www.socialcooling.com/](https://www.socialcooling.com/)
+
 ### Ask HN: What is it like to be old? What advice would you give to younger people?
 
 What's it like to be old?  
