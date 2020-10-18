@@ -4,6 +4,12 @@
 * To paties namo tokio pačio išplanavimo butai ir skirtingi žmonių gyvenimai: [https://mymodernmet.com/bogdan-girbovan-apartment-series/](https://mymodernmet.com/bogdan-girbovan-apartment-series/)
 * Žmogus, kuris nusipirko „auksinį bilietą“ ir skraidė avialinijomis beveik 30 metų, pakol šį bilietą[ iš jo atėmė](http://nypost.com/2012/05/13/freequent-flier-has-wings-clipped-after-american-airlines-takes-away-his-unlimited-pass/), nes avialinijoms jis kainavo daug daugiau, nei bet kas tikėjosi.
 
+### Pasaulio kalendorius
+
+* Yra išties nemažai bandymų patobulinti mūsų naudojamą Grigaliaus kalendorių ir tai nestebina - jis yra per daug komplikuotas ir visiškai neintuityvus. Vienas iš tokių patobulinimų yra "Pasaulio kalendorius", kuris buvo pasiūlytas 1930-aisiais.
+* Pagrindinis šio kalendoriaus principas - vienodi ketvirčiai po 91 dieną, bei 2 papildomos išskirtinės dienos, skirtos poilsiui. Kam viso to reikia - kalendoriaus vientisumas, vienodumas. Atliekant statistinę analizę lyginti ne tik ketvirčius, bet ir skirtingus tų pačių metų laikotarpius tampa daug paprasčiau, nes kalendorius tiesiog nebesikeičia.
+* [https://www.wikiwand.com/en/World\_Calendar](https://www.wikiwand.com/en/World_Calendar)
+
 ### Tic Tac reguliacinių taisyklių apžaidimas
 
 * Gamintojai visada suranda kūrybiškų būdų, kaip galima apeiti reguliacines taisykles. Vienas iš labai gerų pavyzdžių, puikiai žinomi Tic Tac saldainiai, kurie pagaminti daugiausiai vien tik iš cukraus:

@@ -4,6 +4,12 @@ description: Wiki atliktų pakeitimų ir naujų straipsnių archyvas
 
 # Timeline
 
+## 2020-10
+
+#### 2020-10-18
+
+* Random internetai: [pasaulio kalendorius](wiki/random-internetai.md#pasaulio-kalendorius)
+
 ## 2020-09
 
 #### 2020-09-25
