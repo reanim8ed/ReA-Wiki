@@ -2,11 +2,12 @@
 
 ### Social cooling
 
-* Kai kurie žmonės jau yra linkę elgtis atsargiau internete ir skirti daugiau dėmesio privatumo aspektams. Tačiau visgi didžiąjai daugumai visa tai vis dar nerūpi arba jų argumentas susiveda į "koks skirtumas, aš neturiu ką slėpti". Šis saitas itin paprastai pateikia kodėl apie savo privatumą visgi reikia susimąstyti ir kaip atrodo paprasti veiksmai, palaipsniui keičia visuomenę.
-* If you feel you are being watched, you change your behavior.   
-  We are becoming too transparent.
+* Kai kurie žmonės jau yra linkę elgtis atsargiau internete ir skirti daugiau dėmesio privatumo aspektams. Tačiau visgi didžiajai daugumai visa tai ir toliau nerūpi arba jų argumentas susiveda į "koks skirtumas, aš neturiu ką slėpti". Viena iš problemų kodėl taip yra - nes pro-privacy argumentai apima daug visokių skirtingų aspektų ir implikacijų ir jie tampa tiesiog kompeksiški ir sunkiau suvokiami.
+* Manau šis saitas nors ir labai kriminalistikai, tačiau supaprastina viską iki labai paprastos ir aiškios "social cooling' koncepcijos. 
 
-  This is breeding a society where self-censorship and risk-aversion are the new normal.
+> If you feel you are being watched, you change your behavior.   
+> We are becoming too transparent. This is breeding a society where self-censorship and risk-aversion are the new normal.  
+> Privacy is the right to be imperfect
 
 * [https://www.socialcooling.com/](https://www.socialcooling.com/)
 
