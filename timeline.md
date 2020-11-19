@@ -4,6 +4,12 @@ description: Wiki atliktų pakeitimų ir naujų straipsnių archyvas
 
 # Timeline
 
+## 2020-11
+
+#### 2020-11-19
+
+* TechIT: [Apple M1](wiki/tech-it.md#apple-m1)
+
 ## 2020-10
 
 #### 2020-10-18

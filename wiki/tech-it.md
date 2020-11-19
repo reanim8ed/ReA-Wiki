@@ -4,6 +4,26 @@ description: 'https://www.facebook.com/techit.lt'
 
 # TechIT straipsniai
 
+## 2020-11-19
+
+### Apple M1
+
+Hype'o ir expectation'ų tikrai buvo daug. Tačiau to nepaisanti Apple vis vien sugebėjo deliverinti.
+
+Prieš oficialų produktų pristatymą, spekuliavau, jog pirmieji ARM Mac'ai ko gero nebus smarkiai pranašesni - jų pradinė užduotis, bent jau atkartoti dabartinį performance'ą ir tokiu būdu įgauti vartotojų pasitikėjimą, parodant, jog jie yra "good enough" ir nesukuria ryškių kompromisų. O štai susikūrus tvirtą pagrindą, tuomet galima išties sparčiai žingsniuoti tolyn. Taipogi buvo galima numanyti ir tai, jog mobilusis čipas leis gerokai sutaupyti energijos sąnaudas, taip ženkliai prailginant baterijos laiką. Tad iš esmės to ir tikėjausi - kone identiškų Mac'ų su geresnėmis baterijomis.
+
+Ir štai pagaliau milijardiniai RND Apple biudžetai vėl duoda akivaizdžių rezultatų. Tikrai nesitikėjau, kad dar first gen produkte pamatysime tokį ir spartos ir baterijos šuolį.
+
+[Techcrunch ](https://techcrunch.com/2020/11/17/yeah-apples-m1-macbook-pro-is-powerful-but-its-the-battery-life-that-will-blow-you-away/)rašo: "Most impressively, the M1 MacBook Pro used just 17% of the battery to output an 81GB 8k render. The 13” MacBook Pro could not even finish this render on one battery charge."
+
+[Anandtech](https://www.anandtech.com/show/16252/mac-mini-apple-m1-tested/7): "The M1 undisputedly outperforms the core performance of everything Intel has to offer, and battles it with AMD’s new Zen3, winning some, losing some. And in the mobile space in particular, there doesn’t seem to be an equivalent in either ST or MT performance – at least within the same power budgets.
+
+What’s really important for the general public and Apple’s success is the fact that the performance of the M1 doesn’t feel any different than if you were using a very high-end Intel or AMD CPU. Apple achieving this in-house with their own design is a paradigm shift, and in the future will allow them to achieve a certain level of software-hardware vertical integration that just hasn’t been seen before and isn’t achieved yet by anybody else.
+
+The software side of things already look good on day 1 due to Apple’s Rosetta2. Whilst the software doesn’t offer the best the hardware can offer, with time, as developers migrate their applications to native Apple Silicon support, the ecosystem will flourish. And in the meantime, the M1 is fast enough that it can absorb the performance hit from Rosetta2 and still deliver solid performance for all but the most CPU-critical x86 applications.
+
+Overall, Apple hit it out of the park with the M1."
+
 ## 2020-09
 
 ### Windows XP leaked
