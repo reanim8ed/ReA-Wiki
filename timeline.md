@@ -6,6 +6,10 @@ description: Wiki atliktų pakeitimų ir naujų straipsnių archyvas
 
 ## 2020-11
 
+#### 2020-11-23
+
+* Programavimas: [worst strategic mistake by software company](wiki/programavimas/#single-worst-strategic-mistake-that-any-software-company-can-make-decide-to-rewrite-the-code-from-scratch)
+
 #### 2020-11-19
 
 * TechIT: [Apple M1](wiki/tech-it.md#apple-m1)

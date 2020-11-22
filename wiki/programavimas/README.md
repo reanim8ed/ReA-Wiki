@@ -10,6 +10,16 @@
 * [10x programeriai](http://10x.engineer/) vs [1x programerius](https://1x.engineer/)
 * "Premature optimization is the root of all evil". This can result in a design that is not as clean as it could have been or code that is incorrect, because the code is complicated by the optimization and the programmer is distracted by optimizing. This applies more broadly than just for code. Abstraction is a form of optimization and shouldn't be done before the space has been properly explored to know what abstractions should be built.
 
+### Single worst strategic mistake that any software company can make: decide to rewrite the code from scratch
+
+Programmers are, in their hearts, architects, and the first thing they want to do when they get to a site is to bulldoze the place flat and build something grand. We’re not excited by incremental renovation: tinkering, improving, planting flower beds.
+
+There’s a subtle reason that programmers always want to throw away the code and start over. The reason is that they think the old code is a mess. And here is the interesting observation: they are probably wrong. The reason that they think the old code is a mess is because of a cardinal, fundamental law of programming: It’s harder to read code than to write it.
+
+It’s important to remember that when you start from scratch there is absolutely no reason to believe that you are going to do a better job than you did the first time. 
+
+[https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/](https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/)
+
 ### The greatest of all weaknesses is the fear of appearing weak. 
 
 Tai viena iš priežasčių, kaip programavimo srityje dažnai apima _Impostor_ sindromas.   
