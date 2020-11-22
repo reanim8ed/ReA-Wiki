@@ -1,5 +1,7 @@
 # Tools
 
+* [Textastic](https://www.textasticapp.com/) - featured code editor that includes markdown support, built-in web server for previewing your work. You can manage remote file transfers with FTP, SFTP, WebDAV, Dropbox, and Google Drive and there’s a full-featured SSH terminal built right into the app. Textastic supports tabs, you can even have multiple files and SSH terminals open simultaneously.
+
 ## Frontend
 
 * [Paveikslėlių optimizavimas. Pateikti keli CLI įrankiai greitam optimizavimui, pateikti pavyzdžiai, kaip naudoti WebP formatą.](https://freshman.tech/image-optimisation/) Taipogi papildomai [e-knyga](https://images.guide/) apie tai.
