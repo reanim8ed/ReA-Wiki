@@ -10,7 +10,19 @@
 * [10x programeriai](http://10x.engineer/) vs [1x programerius](https://1x.engineer/)
 * "Premature optimization is the root of all evil". This can result in a design that is not as clean as it could have been or code that is incorrect, because the code is complicated by the optimization and the programmer is distracted by optimizing. This applies more broadly than just for code. Abstraction is a form of optimization and shouldn't be done before the space has been properly explored to know what abstractions should be built.
 
-### Single worst strategic mistake that any software company can make: decide to rewrite the code from scratch
+## Why Learning to Code is So Damn Hard
+
+When you first start learning, the set of things you need to understand is narrow. Everyone, regardless of goals or language or background, needs to figure out what a `for` loop is, how to build conditional logic, and other basic structures of programming syntax. There ultimately aren't even that many of these fundamental concepts so the Scope of Knowledge during that phase is very narrow.
+
+As soon as you get away from the basics, you see a rapid broadening of the Scope of Knowledge as you need to begin picking up things that are more difficult like understanding errors and _when_ to use the code you know know _how_ to use. This is different because there is no "correct" answer to a clear question... things get fuzzy.
+
+When you progress into the third phase, the scope of knowledge balloons wider. You now need to understand what tools to use, what languages to learn, underlying CS fundamentals, how to write modular code, object-orientation, good style, and how to ask for help \(to name just a few\). Every trip to Google or Hacker News takes you down another set of rabbit holes and overwhelms you with more things you don't know but feel like you should.
+
+_You don't know what you don't know._
+
+[https://www.thinkful.com/blog/why-learning-to-code-is-so-damn-hard/](https://www.thinkful.com/blog/why-learning-to-code-is-so-damn-hard/)
+
+## Single worst strategic mistake that any software company can make: decide to rewrite the code from scratch
 
 Programmers are, in their hearts, architects, and the first thing they want to do when they get to a site is to bulldoze the place flat and build something grand. We’re not excited by incremental renovation: tinkering, improving, planting flower beds.
 
@@ -20,7 +32,7 @@ It’s important to remember that when you start from scratch there is absolutel
 
 [https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/](https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/)
 
-### The greatest of all weaknesses is the fear of appearing weak. 
+## The greatest of all weaknesses is the fear of appearing weak. 
 
 Tai viena iš priežasčių, kaip programavimo srityje dažnai apima _Impostor_ sindromas.   
 Vienas iš svarbiausių React kūrėjų [straipsnyje rašo](https://overreacted.io/things-i-dont-know-as-of-2018/):
@@ -33,7 +45,7 @@ Vienas iš svarbiausių React kūrėjų [straipsnyje rašo](https://overreacted.
 
 > _I’m aware of my knowledge gaps \(at least, some of them\). I can fill them in later if I become curious or if I need them for a project. This doesn’t devalue my knowledge and experience. There’s plenty of things that I can do well. For example, learning technologies when I need them._
 
-### Law of Software Envelopment
+## Law of Software Envelopment
 
 > Every program attempts to expand until it can read mail. Those programs which cannot so expand are replaced by ones which can.”
 

@@ -9,6 +9,7 @@ description: Wiki atliktų pakeitimų ir naujų straipsnių archyvas
 #### 2020-11-23
 
 * Programavimas: [worst strategic mistake by software company](wiki/programavimas/#single-worst-strategic-mistake-that-any-software-company-can-make-decide-to-rewrite-the-code-from-scratch)
+* Programavimas: [Why Learning to Code is So Damn Hard](wiki/programavimas/#why-learning-to-code-is-so-damn-hard)
 
 #### 2020-11-19
 
