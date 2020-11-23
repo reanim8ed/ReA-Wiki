@@ -4,6 +4,7 @@ description: 'Never argue against logic with emotion, or against emotion using l
 
 # Komunikacija / santykiai
 
+* The larger the group, the worse the conversation.
 * How to Apply Meditation to Marriage: Less reactivity is about building up a default pause between the time something happens and your response to it. Pause is power, because it opens an opportunity for you to respond thoughtfully to the situation. Without this pause, we react with the first thought, word, or emotion that comes up — and the result is often unfortunate. Often what your partner is complaining about is not really a problem, not a recurring pattern, but their mood in that moment, which is influenced by a thousand things. If we just let it pass, it is soon finished, but reacting in the moment creates new problems.
 * I've noticed a weird pattern: In most of the best marriages I see, one person is an early-bird, and the other is a night-owl. They have opposite circadian rhythms. I think this is healthy. The two partners get the benefits of time together and time alone, which helps the marriage.
 
