@@ -11,6 +11,16 @@
 * "Premature optimization is the root of all evil". This can result in a design that is not as clean as it could have been or code that is incorrect, because the code is complicated by the optimization and the programmer is distracted by optimizing. This applies more broadly than just for code. Abstraction is a form of optimization and shouldn't be done before the space has been properly explored to know what abstractions should be built.
 * Integrity compounds infinitely, and capability always decays.
 
+## The steady stream of new issue trackers
+
+I think the reason we see a steady stream of new issue trackers is that teams are trying to fix with software what are people problems.
+
+New issue trackers feel faster for the same reason switching browsers tends to feel faster—you're getting rid of all of the crap you piled up in the old one. Don't migrate your backlog, start with only a couple engineers in a new issue tracker, and suddenly, wow!, this new tool is so much better!
+
+But I don't think it really solves the problem. For most organizations, tracking tickets is a solved \(by many products\) problem. Starting with a new tool has the appearance of making things better, but leads to the same place. The problem is not the tool, it's the structure of the organization.
+
+[https://news.ycombinator.com/item?id=23693029](https://news.ycombinator.com/item?id=23693029)
+
 ## Why Learning to Code is So Damn Hard
 
 When you first start learning, the set of things you need to understand is narrow. Everyone, regardless of goals or language or background, needs to figure out what a `for` loop is, how to build conditional logic, and other basic structures of programming syntax. There ultimately aren't even that many of these fundamental concepts so the Scope of Knowledge during that phase is very narrow.
