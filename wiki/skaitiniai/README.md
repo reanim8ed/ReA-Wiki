@@ -1,5 +1,61 @@
 # Skaitiniai
 
+### Doing Business In Japan
+
+Doing business with Japanese companies frequently resembles It’s A Wonderful Life. “Customer relationships” are not an empty phrase — many business relationships where one is approximately equivalent to a row in the database in the United States are, instead, expected to be relationships between two actual people.
+
+This is occasionally exasperating, as a software person who doesn’t want to have to take someone drinking to sell a single SaaS account, but it is occasionally quite charming. Moving to Japan, particularly small-town Japan, was like visiting an old America that I had heard stories about but had never gotten the opportunity to experience.
+
+For example, when I first came to Japan, I had no computer. I also had no money, because the plane ticket and setting up my household ate all of my savings. In America, this isn’t a barrier to getting a computer, because Dell will do a quick FICO score on you and then happily extend you $2,000 of trade credit.
+
+Dell Japan, on the other hand, set me up with two phone calls with actual human underwriters at two Japanese financial institutions. Both had me fill out rather extensive forms \(100+ questions — seriously\). The first said “In view of your length of tenure at your employer and length of residence at your apartment, we don’t feel that your situation is stable enough to extend you credit.” The second said “Look, umm, officially, I am supposed to just tell you that we decline your business and wish you luck. Unofficially, the bank doesn’t extend foreigners credit, as a matter of policy. You’ll find that is quite common in Japan. I know, it is lamentable, but I figure that you’d be able to save yourself some time if you knew.”
+
+So I gave up for a while, but mentioned to a coworker later that week that I really wanted a computer to be able to Skype home. He said “Come with me” and we left, in the middle of the work day, to visit a bank. It is a smaller regional bank in Gifu. I’ll elide naming it to avoid the following story being personally identifiable, but suffice it to say it is a _very_ conservative institution.
+
+My coworker got a credit card application and asked me to fill it in. I did so, but told him “Look, two Tokyo banks, which are presumably about as cosmopolitan as Japanese financial institutions get, just shot me down. One of them explicitly did so because I’m a foreigner. The chance of this middle-of-nowhere bank accepting a credit application is zero.”
+
+“Don’t worry, I know the manager. Hey, Taro!”
+
+Taro and my coworker had gone to school together.
+
+“Patrick here just started working with us. He wants to buy a computer to call his parents, diligent son that he is, and needs a credit card to do it. Here’s his application. Make sure it doesn’t get lost in the shuffle, OK?”
+
+Some weeks passed, and I assumed that I had been denied. Then there was a knock on my door early one Saturday morning.
+
+It was bank manager Taro and an older gentleman who introduced himself as the Vice President for Risk Management of the bank. He promptly took over the conversation.
+
+“You have to understand that we’re not one of _those_ banks. We’re not some magical pot of money. Every yen we have is a farmer depositing against a bad harvest or a retiree’s pension, carefully husbanded over a lifetime. That is a _sacred trust_. We cannot lose their money. The bank has to be _appropriately careful_ about who we lend that money to. Taro here tells me your trustworthy, so that is good. Even trustworthy young men sometimes make poor decisions. I need to know you won’t, so before I give this credit card, I have three questions for you.”
+
+“Will you ever use this credit card to gamble?”
+
+“No, sir.”
+
+“Good. Will you ever use this credit card to buy alcohol?”
+
+“No, sir.”
+
+“Good. Will you ever give this credit card to a woman who is not your wife?”
+
+“No, sir.”
+
+“Good. Think darn hard before giving it to your wife, too. OK, you pass muster. Sign here.”
+
+That was the first of a dozen stories which you wouldn’t believe actually happened about that bank. Taro correctly intuited when I started dating a young lady, and when we broke up, solely based on on my spending habits. He considered that part and parcel with looking out for my financial interests.
+
+Taro stopped me from doing a wire transfer back to Bank of America to pay my student loans during the Lehman shock because Wachovia had gone into FDIC receivership that morning. I told Taro that I didn’t have an account at Wachovia. Taro said that he was aware of that, but that I used Lloyds’ remittance service to send wires, and Lloyds’ intermediary bank in the US was Wachovia, which might or might not be safe to have money in at the moment. I asked Taro how in God’s name does a banker in Ogaki, Japan happen to know what intermediary banks Lloyds uses in North America _off the top of his head_, and Taro said, and I quote, “There exists a customer of the bank who habitually makes USD wire transfers using Lloyds and, accordingly, it is my business to know this.”
+
+Taro called me on March 12th, the day after the Touhoku earthquake, to say that he was concerned about my balance in the circumstances \(I had cleared out my account to pay a tax assessment minutes before the quake\) and, if I needed it, to come down to the bank and, quote, we’ll take care of you and worry about the numbers some other time, endquote.
+
+Taro eventually retired from his position, and as part of making his rounds, gave me a warm introduction to the new bank manager. He made it a point to invite me out for coffee, so that he’d be able to put a face to Taro’s copious handwritten notes about my character. Some years after that, a new manager transferred in. I popped by with a congratulations-on-the-new-job gift, mildly surprising the staff, but it felt appropriate.
+
+When I moved to Tokyo, I went to the regional bank’s sole Tokyo office, which exists to serve their large megacorp customers. They were quite shocked that I had an account with the bank \(“Mister! Citibank is down the street! If you use our ATMs you’ll get charged extra!”\), and even more shocked when I told them that I run a multinational software company through it. “Wouldn’t you get better services with Citibank or Mitsubishi?” The thought of switching never crossed my mind. Indeed, I can’t imagine anything that would convince me to switch. They don’t make numbers big enough to compensate for how much I trust my bank.
+
+Was I a particularly large account to the bank? Nope. It’s the same passbook savings account a 17 year old gets to deposit their first wages into. For 8+ of my ten years in Japan, my balance there was below $2,000.
+
+The bank is one anecdote, but I could tell you about the hair stylist who drops me a handwritten postcard after _every_ appointment, the restaurant that I went to weekly that tried to cater my wedding _for free_, the glasses shop which invited me to come back for a \(free\) frame re-bending and cup of coffee any time I was in the neighborhood, etc etc.
+
+[https://www.kalzumeus.com/2014/11/07/doing-business-in-japan/](https://www.kalzumeus.com/2014/11/07/doing-business-in-japan/)
+
 ### Social cooling
 
 * Kai kurie žmonės jau yra linkę elgtis atsargiau internete ir skirti daugiau dėmesio privatumo aspektams. Tačiau visgi didžiajai daugumai visa tai ir toliau nerūpi arba jų argumentas susiveda į "koks skirtumas, aš neturiu ką slėpti". Viena iš problemų kodėl taip yra - nes pro-privacy argumentai apima daug visokių skirtingų aspektų ir implikacijų ir jie tampa tiesiog kompeksiški ir sunkiau suvokiami.

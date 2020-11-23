@@ -14,6 +14,7 @@ description: Wiki atliktų pakeitimų ir naujų straipsnių archyvas
 * Programavimas: [Procrastination is driven by our desire to avoid difficult emotions](wiki/programavimas/#procrastination-is-driven-by-our-desire-to-avoid-difficult-emotions)
 * Karjera: [Working from home](wiki/karjera-produktyvumas.md#work-from-home)
 * Karjera: [Salary](wiki/karjera-produktyvumas.md#salary)
+* Skaitiniai: [Doing Business In Japan](wiki/skaitiniai/#doing-business-in-japan)
 
 #### 2020-11-19
 
