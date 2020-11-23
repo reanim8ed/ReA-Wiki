@@ -2,6 +2,7 @@
 
 ## Notes
 
+* _The big paradox of history is that it’s obvious we are thousands of times more powerful than people in the Stone Age, but it’s not clear whether we are at all happier than they were. -_ Yuval Noah Harari
 * [Japonijos istorija](https://www.youtube.com/watch?v=Mh5LY4Mz15o)
 * Pirmasis realus atsiskaitymas Bitcoin’ais įvyko, kai programuotojas atsiskaitė už picą. Tą kart jis paklojo [10 000 bitcoin’ų](http://www.coindesk.com/bitcoin-pizza-day-celebrating-pizza-bought-10000-btc/). Brangiausia pasaulio pica, BY FAR.
 * [Antrojo pasaulinio karo metais](https://www.wikiwand.com/en/German_tank_problem#/Historical_problem) sąjungininkai statistinės tankų serijinių numerių analizės pagalba apskaičiavo Vokietijos mėnesinės tankų gamybos apimtis. Skaičiavimai pavyko netikėtai puikiai – buvo apsirikta tik vienu tanku.

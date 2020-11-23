@@ -4,6 +4,7 @@ description: Never attribute to malice that which can be adequately explained by
 
 # Citatos
 
+* Iš viršukalnės visi takai veda tik į apačią, ir jei nėra kitos viršukalnės, apačia yra ten, kur tu dabar eini. - A. Užkalnis
 * Atmintis yra poetė, o ne istorikė
 * If at first you don't succeed, try two more times so that your failure is "statistically significant".
 * A man convinced against his will, Is of the same opinion still.

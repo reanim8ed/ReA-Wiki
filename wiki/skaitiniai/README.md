@@ -45,6 +45,7 @@ It’s an effective growth strategy. Once you try to grow the business, it’s a
 
 ### The Truth Is Paywalled But The Lies Are Free
 
+* The more reliable an article is, the less accessible it is
 * It costs time and money to access a lot of true and important information, while a lot of bullshit is completely free.
 * You either pay for your content, or your content is SPONSORED, or you are the product being sold.
 * The amount of energy needed to refute bullshit is an order of magnitude bigger than to produce it
