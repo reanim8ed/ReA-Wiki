@@ -7,6 +7,7 @@ description: >-
 # Ekonomika / finansai
 
 * Bankas – tai tokia institucija, kuri duoda skėtį, kai šviečia saulė, ir jį atima, kai lyja lietus
+* Money is the way that we keep score of how much you have benefited society
 * Filosofija: cry once buy once. T.y. geriau vieną kartą nepataupyti ir nusipirkti išties gerą, kokybišką daiktą, kuris puikiai tarnaus ilgesnį laiko tarpą, nei pirkinėti pigius pirkinius ir juos nuolat keitalioti ir kurie tikėtina, nei vienas neveiks išties gerai.
 * People say money doesn’t buy happiness, but it does. It’s associated with increased happiness. People are happier with more money at every single point in the continuum to $500,000 a year. The saying should be that money doesn’t guarantee happiness.
 
