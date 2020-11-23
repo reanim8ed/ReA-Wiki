@@ -44,6 +44,12 @@ It’s important to remember that when you start from scratch there is absolutel
 
 [https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/](https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/)
 
+## Procrastination is driven by our desire to avoid difficult emotions
+
+Words of warning from a not so young \(36\) chronic procrastinator with a rather messed up life: Take it seriously. I'm not talking about reading HN in your 7th work hour when doing stupid Excel sheets. I'm talking about messing up years and years of your life. I believe it's a symptom of some deeper issues and it won't go away from alone. Lack of sleep, stress, work overload, information overload amplify the effects but once it crept into your life outside of work it really can wreak havoc. Simple things start to become complicated and you are in a constant negative feedback loop. The worst is that you procrastinate not only work but rather your own existence because you'll constantly attempt to catch up but just can't.
+
+[https://news.ycombinator.com/item?id=23537317](https://news.ycombinator.com/item?id=23537317)
+
 ## The greatest of all weaknesses is the fear of appearing weak. 
 
 Tai viena iš priežasčių, kaip programavimo srityje dažnai apima _Impostor_ sindromas.   
