@@ -12,6 +12,8 @@ description: Wiki atliktų pakeitimų ir naujų straipsnių archyvas
 * Programavimas: [Why Learning to Code is So Damn Hard](wiki/programavimas/#why-learning-to-code-is-so-damn-hard)
 * Programavimas: [The steady stream of new issue trackers](wiki/programavimas/#the-steady-stream-of-new-issue-trackers)
 * Programavimas: [Procrastination is driven by our desire to avoid difficult emotions](wiki/programavimas/#procrastination-is-driven-by-our-desire-to-avoid-difficult-emotions)
+* Karjera: [Working from home](wiki/karjera-produktyvumas.md#work-from-home)
+* Karjera: [Salary](wiki/karjera-produktyvumas.md#salary)
 
 #### 2020-11-19
 

@@ -10,6 +10,26 @@ description: 'The desired triple 8 rule — 8-hours sleep, 8-hours work, and 8-h
 * Don't try to remember stuff. Brain is bad at remembering but it's rather good at processing.
 * The biggest division in work may be between jobs that involve making new stuff \(science, engineering\) and those that don't \(administration, sales\), and you'll be a lot happier if you end up on the side you're suited for.
 
+### Work from home
+
+I hate the attitude that I am good enough to be employed but clearly not mature enough to be able to work without being monitored.  
+My hope moving forward is that working from home won't be seen as something "special" the few are "rewarded" with for a day or two a month but that it is a choice for each person without prejudice.  
+For those that want/need an office fine let them go in. But for those of us who function better working from home we can do that.  
+It doesn't have to be a binary option for companies moving forward of "our company is only work from home" but instead a mixture.  
+If I had a really nice detached home with a wife & children then working from home permanently would be the dream. I don't. I live in a flat and live by myself. The only physical people I talk to are cashiers or delivery drivers. This permanent WFH is already making me feel separated and even lonelier than normal.
+
+I think the likely outcome is going to simply be more mix of remote and onsite in the future. Any company that makes it through this is going to realize remote works fine. I'm sure there will be some companies that will still insist onsite-only, and they'll lose a bunch of employees who just realized they prefer remote.
+
+### Salary
+
+People are under the illusion they are paid for the work they do. They are not and never have been. They have always been paid what someone is willing to pay them for the work they do.  
+It's subtle but important distinction.  
+Salary is a function of demand and supply like any other price on an open market.  
+This is why its important to not think in terms of work when negotiating a salary. Instead you need to think in terms of cost to find someone to take your place.  
+If that cost is more than your salary, you can ask for more.  
+“Willing” is the wrong word. People are paid based on what the company can get away with paying them, as long as it’s less than the amount that they are “willing” to pay \(then they don’t get hired\).  
+This is obvious when considering the “go get a competing offer and show it to your current employer who will match” strategy.
+
 ### Trick yourself into productivity the same way you trick yourself into procrastination
 
 * The last two weeks I made it a goal to run 5km every morning. A few times, particularly today, I felt lazy and run down, but I got out of bed anyway and told myself that I'll at least walk. The next thing I know I'm running and feeling amazing and on to set one of my better times.
