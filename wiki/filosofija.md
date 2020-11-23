@@ -1,5 +1,9 @@
 # Filosofija
 
+Apie tai kodėl tiek daug lietuvių mėgsta burbėti ant valdžios:
+
+Manau, tiesiog turi būti kažkas kaltas dėl jų lūkesčių neatitinkančių gyvenimų ir tas kažkas negali būti jų pačių pasirinkimai ar dažnu atveju išsilavinimo trūkumas. Vadinasi, turi būti kažkas didesnio – valdžia.
+
 ### Tesėjo laivas
 
 ![](../.gitbook/assets/trireme-559x413%20%281%29.jpg)

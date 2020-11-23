@@ -22,6 +22,7 @@ description: >-
 * Laisvas žmogus - tai žmogus, kuriam nebereikia pardavinėti savo laiko kitiems. Kuo daugiau turi turto, tuo daugiau laiko iš kitų gali nusipirkti ir tuo mažiau tau reikia pardavinėti savojo. Nebereikia nešioti kaklaraiščio, kuris yra tarsi antkaklis ant tavo kaklo. Nebereikia keltis 7-ą, tam jog skubėti į darbą bei sėdėti automobilių kamščiuose. Nebereikia švaistyti visų savo produktyvių valandų dirbant darbą, kuris tavęs neužpildo. Taigi viena ir iš tiesų esminė turto paskirtis - laisvė.
 * Pinigai yra konservuotas laikas
 * Yra trys darbų rūšys: įprastiniai fizinis bei protinis darbas, bet yra ir dar viena - nervinis darbas.
+* The less effort it takes to acquire something, the less value it will have to you.
 
 ## Atsakas į Baltic Mustache: išlaidų apgalvojimas
 
