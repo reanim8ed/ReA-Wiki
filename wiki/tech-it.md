@@ -4,7 +4,15 @@ description: 'https://www.facebook.com/techit.lt'
 
 # TechIT straipsniai
 
-## 2020-11-19
+## 2020-11
+
+### Android subsystem for Windows 10
+
+Viena iš naujųjų M1 Apple procesorius turinčių Mac'ų savybių yra galimybė pasileidinėti iOS app'sus skirtus iPad ir iPhone. Nors naudotis pele patogu tikrai ne su visomis tokiomis programėlėmis, tačiau vis vien šaunu turėti tokią galimybę po ranka ir tai tikrai daug geriau, nei bandyti tai padaryti pasileidinėjant neoficialius emuliatorius iš third party kūrėjų. 
+
+Panašu, jog gan greitai atitinkamą funkcionalumą įgaus ir Windows'ai. Samsung savininkai jau kurį laiką turi galimybę susijungti savo Galaxy telefonus su WinPC naudojant Your Phone programėlę, kuri pradžioje leido tik atsakyti žinutes ar sinchronizuoti failus, tačiau su laiku įgavo galimybę ir atkartoti telefone paleistas programėles. Tačiau dabar toks funkcionalumas ruošiamas daug giliau, jau sistemos lygmeniu ir šį kartą turės palaikymą visiems, o ne tik "išrinktiesiems" telefonams.
+
+[https://www.bleepingcomputer.com/news/microsoft/microsoft-is-working-on-an-android-subsystem-for-windows-10/](https://www.bleepingcomputer.com/news/microsoft/microsoft-is-working-on-an-android-subsystem-for-windows-10/)
 
 ### Apple M1
 

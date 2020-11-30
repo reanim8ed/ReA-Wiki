@@ -6,6 +6,10 @@ description: Wiki atliktų pakeitimų ir naujų straipsnių archyvas
 
 ## 2020-11
 
+#### 2020-11-30
+
+* TechIT: [Android subsystem for Windows 10](wiki/tech-it.md#android-subsystem-for-windows-10)
+
 #### 2020-11-23
 
 * Programavimas: [worst strategic mistake by software company](wiki/programavimas/#single-worst-strategic-mistake-that-any-software-company-can-make-decide-to-rewrite-the-code-from-scratch)
