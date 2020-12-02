@@ -4,6 +4,18 @@ description: 'https://www.facebook.com/techit.lt'
 
 # TechIT straipsniai
 
+## 2020-12
+
+### Note'ų eros pabaiga?
+
+Nuo pat 2011-ųjų metų Note serija visuomet reprezentuodavo geriausia, ką gali pasiūlyti Samsung. Šios linijos telefonai visuomet puikuodavosi pažangiausiais ekranais, didelėmis baterijomis, daug GB atminties ir vienomis iš geriausių kamerų rinkoje. Tai būdavo tarsi reprezentacija visko ką gali geriausio pasiūlyti Android rinka, viename telefone. Ir štai ateinantį sausį, išvysime naujuosius Galaxy S21 ir Galaxy Fold 3, tačiau Note 21 tarp jų tikriausiai jau nebeišvysime.
+
+Žinios apie tai, jog Samsung planuoja atsisveikinti su Note serijos telefonais, šmėžuoja informaciniame sraute jau kurį laiką. Tačiau šaltinių kiekis vis didėja, apie tai šiandien pranešė jau ir Reuters ir darosi vis panašiau, jog spekuliacijos visgi išties teisingos.
+
+Tai nėra labai stebinantis ėjimas - į produktų asortimentą įsiliejus Galaxy Fold serijai, ji atrakino visiškai naują premium segmento lygmenį. Tuo tarpu Galaxy S telefonai metai iš metų artėjo prie Note ne tik ekrano dydžiu, tačiau ir funkcionalumu. Pridėjime tai, jog kovą pristatytas ir S20 Ultra, kuris puikuojasi 120Hz ekranu ir 5G ir Note serijai iš esmės nebelieka kuo nustebinti. Tad jau ateinančiais metais šios dvi linijos veikiausiai susilies ir nuo šiol būtent S Ultra perima ne tik stylus valdiklį, bet ir šį, inovatyviausių mobiliųjų technologijų reprezentacijos vaidmenį.
+
+[https://www.reuters.com/article/uk-samsung-elec-smartphone/samsung-may-discontinue-high-end-galaxy-note-smartphones-sources-idUKKBN28B3TZ](https://www.reuters.com/article/uk-samsung-elec-smartphone/samsung-may-discontinue-high-end-galaxy-note-smartphones-sources-idUKKBN28B3TZ)
+
 ## 2020-11
 
 ### Android subsystem for Windows 10

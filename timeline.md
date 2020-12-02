@@ -4,6 +4,12 @@ description: Wiki atliktų pakeitimų ir naujų straipsnių archyvas
 
 # Timeline
 
+## 2020-12
+
+#### 2020-12-02
+
+* TechIt: [Note'ų eros pabaiga?](wiki/tech-it.md#note-eros-pabaiga)
+
 ## 2020-11
 
 #### 2020-11-30
