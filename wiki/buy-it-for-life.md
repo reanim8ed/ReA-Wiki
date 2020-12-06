@@ -20,9 +20,12 @@ Pradedant ieškoti tokių produktų - tenka pasikapstyti ir paaukoti gan nemaža
 | Food Storage Containers | [OXO Pop](https://www.oxo.com/categories/cleaning-organization/kitchen/pop-containers.html) \(dry\) | [Rubbermaid](https://www.amazon.com/gp/product/B01JCNEIC6/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=mrp01-20&creative=9325&linkCode=as2&creativeASIN=B01JCNEIC6&linkId=366673ffb16df80dc967166e57644e48) \(leakproof\) |
 | Garso stiprintuvas | [Musical Fidelity M5si](https://www.musicalfidelity.com/products/m5series/m5si) |  |
 | Kojinės | [Darn Tough](https://darntough.com/collections/mens-hike-trek/material-merino-wool) | [Smart Wool](https://www.smartwool.com/shop/mens-wool-socks-1) |
+| Multi-tool | [Leatherman Wave+](https://www.leatherman.com/wave-10.html) |  |
 | Patalinė | [Bedroom Mood](https://bedroommood.com/lt/egyptian-cotton-duvet-sets) | [DreamOn](https://www.dreamonhome.lt/collections/comfort-collection) |
 | Patefonas | [Rega Planar 1](https://theaudiophileman.com/planar-1/) |  |
 | Peiliai | [Wüsthof Classic Ikon](https://www.wuesthof.com/en-lt/series/) | [Victorinox](https://www.swissarmy.com/us/en/Products/Cutlery/Paring-Knives/c/CUT_ParingKnives?ScrollPosition=0&maxResults=30) |
 | Puodai \(dutch oven\) | [Le Creuset round](https://www.lecreuset.com/round-dutch-oven) | [Lodge](https://www.amazon.com/Lodge-Enameled-Classic-Enamel-Island/dp/B000N501BK) |
 | Puodai \(regular\) | [WMF Quality One](https://www.wmf.com/en/pots/pan-sets/kochgeschirr-set-4-teilig-quality-one-77414638.html) | [Cuisinart](https://www.cuisinart.com/shopping/cookware/stylish-cookware-sets/mcp-12n) |
+| Termosas | [Zojirushi](https://www.zojirushi.com/app/category/vacuum-insulated-mugs-bottles) |  |
+| Žiebtuvėlis | [Zippo](http://zippo.lt/products/ziebtuveliai) |  |
 
