@@ -13,6 +13,12 @@
 * Would I ever leave this company? Look, I'm all about loyalty. In fact, I feel like part of what I'm being paid for here is my loyalty. But if there were somewhere else that valued loyalty more highly, I'm going wherever they value loyalty the most.
 * Typically, the more expensive the product the longer the sales page needs to be.
 
+## Cookie-to-Header CSRF Token
+
+The Cross-Site Request Forgery \(CSRF\) attack is when an _attacker_ website is able to successfully submit a request to _your_ website using a logged-in user's cookies. This attack is possible because browsers will "helpfully" include cookies with any request to your site, regardless of where that request originated from.
+
+[https://dev.to/nas5w/using-a-cookie-to-header-csrf-token-in-single-page-applications-ngh](https://dev.to/nas5w/using-a-cookie-to-header-csrf-token-in-single-page-applications-ngh)
+
 ## The Iceberg Secret, Revealed
 
 Have you ever noticed that on these custom projects, the single most common cause of overruns, failures, and general miserableness always boils down to, basically, “the \(insert expletive here\) customer didn’t know what they wanted?”
