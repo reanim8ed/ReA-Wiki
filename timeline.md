@@ -6,6 +6,11 @@ description: Wiki atliktų pakeitimų ir naujų straipsnių archyvas
 
 ## 2020-12
 
+#### 2020-12-13
+
+* Programavimas: [Stop Expecting Customers to Know What They Want](wiki/programavimas/#the-iceberg-secret-revealed)
+* Skaitiniai: [Red Hat Goes Full IBM and Says Farewell to CentOS](wiki/skaitiniai/#red-hat-goes-full-ibm-and-says-farewell-to-centos)
+
 #### 2020-12-02
 
 * TechIt: [Note'ų eros pabaiga?](wiki/tech-it.md#note-eros-pabaiga)

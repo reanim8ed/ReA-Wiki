@@ -13,6 +13,21 @@
 * Would I ever leave this company? Look, I'm all about loyalty. In fact, I feel like part of what I'm being paid for here is my loyalty. But if there were somewhere else that valued loyalty more highly, I'm going wherever they value loyalty the most.
 * Typically, the more expensive the product the longer the sales page needs to be.
 
+## The Iceberg Secret, Revealed
+
+Have you ever noticed that on these custom projects, the single most common cause of overruns, failures, and general miserableness always boils down to, basically, “the \(insert expletive here\) customer didn’t know what they wanted?”
+
+Customers Don’t Know What They Want. Stop Expecting Customers to Know What They Want. It’s just never going to happen. Get over it.
+
+Instead, assume that you’re going to have to build something anyway, and the customer is going to have to like it, but they’re going to be a little bit surprised. YOU have to do the research. YOU have to figure out a design that solves the problem that the customer has in a pleasing way.
+
+You know how an iceberg is 90% underwater? Well, most software is like that too. That’s not the secret. The secret is that People Who Aren’t Programmers Do Not Understand This.
+
+* If you show a nonprogrammer a screen which has a user interface that is 90% worse, they will think that the program is 90% worse.
+* If you show a nonprogrammer a screen which has a user interface which is 100% beautiful, they will think the program is almost done.
+
+[https://www.joelonsoftware.com/2002/02/13/the-iceberg-secret-revealed/](https://www.joelonsoftware.com/2002/02/13/the-iceberg-secret-revealed/)
+
 ## The steady stream of new issue trackers
 
 I think the reason we see a steady stream of new issue trackers is that teams are trying to fix with software what are people problems.

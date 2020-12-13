@@ -1,5 +1,13 @@
 # Skaitiniai
 
+### Red Hat Goes Full IBM and Says Farewell to CentOS
+
+The end of support for CentOS 6 was in November 2020. Since RHEL and CentOS are known for long support cycles, a lot of organizations decided to jump from CentOS 6 to 8 instead of re-platforming on 7 since that maximizes the time until another re-platforming effort would need to be scheduled. Or that is what many in the industry thought.
+
+Then, on December 8, 2020, Red Hat announced that it was going to cut the current CentOS 8 support timeframe down considerably in the process of effectively killing the project. While 2021 may not be impacted, with CentOS 6 EOL on November 30, 2020, and CentOS 8 EOL on December 31, 2021, by January 1, 2022 CentOS 7 will be the only one receiving Maintenance Updates. The CentOS name will live on but in a different part of the ecosystem than it has to date.
+
+[https://www.servethehome.com/red-hat-goes-full-ibm-and-says-farewell-to-centos/](https://www.servethehome.com/red-hat-goes-full-ibm-and-says-farewell-to-centos/)
+
 ### Doing Business In Japan
 
 Doing business with Japanese companies frequently resembles It’s A Wonderful Life. “Customer relationships” are not an empty phrase — many business relationships where one is approximately equivalent to a row in the database in the United States are, instead, expected to be relationships between two actual people.
