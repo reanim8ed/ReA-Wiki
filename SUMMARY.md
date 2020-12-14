@@ -71,6 +71,7 @@
   * [HTML technikos](wiki/programavimas/html.md)
   * [Linux](wiki/programavimas/linux/README.md)
     * [Nginx](wiki/programavimas/linux/nginx.md)
+    * [LEMP on CentOS](wiki/programavimas/linux/lemp-on-centos.md)
     * [Linux commands](wiki/programavimas/linux/linux-commands.md)
   * [PHP](wiki/programavimas/php/README.md)
     * [Prestashop](wiki/programavimas/php/prestashop.md)

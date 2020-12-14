@@ -6,6 +6,10 @@ description: Wiki atliktų pakeitimų ir naujų straipsnių archyvas
 
 ## 2020-12
 
+#### 2020-12-14
+
+* Programavimas: [LEMP on CentOS](wiki/programavimas/linux/lemp-on-centos.md)
+
 #### 2020-12-13
 
 * Programavimas: [Stop Expecting Customers to Know What They Want](wiki/programavimas/#the-iceberg-secret-revealed)
