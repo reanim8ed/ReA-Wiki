@@ -1,11 +1,11 @@
 # PS4 games
 
-### Šiuo metu savo kolekcijoje turiu:
+### Šiuo metu turimą PS4 library sudaro:
 
 |  |
 | :--- |
 | Bloodborne |
-| Burly Men At Sea |
+| [Burly Men At Sea](burly-men-at-sea.md) |
 | Call Of Duty: Black Ops III |
 | Detroit: Become Human |
 | Driveclube |

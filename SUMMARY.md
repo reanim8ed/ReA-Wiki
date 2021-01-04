@@ -242,6 +242,7 @@
 * [Teorijos / efektai / fenomenai](wiki/teorijos-efektai.md)
 * [Terminai](wiki/terminai.md)
 * [Žaidimai](wiki/zaidimai/README.md)
+  * [Burly Men At Sea](wiki/zaidimai/burly-men-at-sea.md)
   * [Bioshock](wiki/zaidimai/bioshock.md)
   * [Little Alchemy](wiki/zaidimai/little-alchemy.md)
   * [PS4 games](wiki/zaidimai/ps4-games.md)
