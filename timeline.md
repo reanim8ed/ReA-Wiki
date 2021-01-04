@@ -4,6 +4,12 @@ description: Wiki atliktų pakeitimų ir naujų straipsnių archyvas
 
 # Timeline
 
+## 2021-01
+
+### 2021-01-04
+
+* Knygos: [Andrius kleiva - Kaip veikia Japonija](wiki/knygos.md#andrius-kleiva-kaip-veikia-japonija)
+
 ## 2020-12
 
 #### 2020-12-14
@@ -645,7 +651,7 @@ Tinklaraščio migracija:
 
 * [Gitbook alternatyvos](wiki/software.md#wikis), jei norėtųsi turėsi self-hosted sprendimą.
 * [TechIT ](wiki/tech-it.md)naujienų skiltis
-* [Skaitomos ](wiki/knygos/#siuo-metu-skaitoma)ir [PlanToRead ](wiki/knygos/#plantoread)knygos
+* [Skaitomos ](wiki/knygos.md#siuo-metu-skaitoma)ir [PlanToRead ](wiki/knygos.md#plantoread)knygos
 * [Barcelona](wiki/pasaulis/keliones/barcelona-2019.md) \(2019\) kelionės info
 * [Graikija ](wiki/pasaulis/keliones/graikija-2018.md)\(2018\) kelionės info
 * 2015-tų kelionės į [Tailandą ](wiki/pasaulis/keliones/tailandas-2015/)aprašymas
@@ -714,7 +720,7 @@ Tinklaraščio migracija:
 
 #### 2019-04-28
 
-* [Answers to Questions You’ve Never Asked knyga](wiki/knygos/#bookTitle)
+* [Answers to Questions You’ve Never Asked knyga](wiki/knygos.md#bookTitle)
 * Komentaras apie [Kings of summer](wiki/filmai/#kings-of-summer-2013) filmą
 
 #### 2019-04-25
@@ -789,7 +795,7 @@ Tinklaraščio migracija:
 * [Pridėtas pokalbis su Chris Hadfield iš Joe Rogan podcast'o.](wiki/kosmosas.md)
 * [Pridėtas klausomų podcastų sąrašas](wiki/podcasts/#prenumeratos)
 * [Pridėtas peržiūrėtų filmų sąrašas](wiki/filmai/#perziur-t-film-sarasas-ir-j-vertinimai)
-* Pridėtos [knygų ](wiki/knygos/)ir [filmų ](wiki/filmai/)skiltys
+* Pridėtos [knygų ](wiki/knygos.md)ir [filmų ](wiki/filmai/)skiltys
 * Pridėta naudojamų [įrankių](wiki/software.md) skiltis
 
 #### 2019-03-24
