@@ -10,6 +10,7 @@ description: Wiki atliktų pakeitimų ir naujų straipsnių archyvas
 
 * Knygos: [Andrius kleiva - Kaip veikia Japonija](wiki/knygos.md#andrius-kleiva-kaip-veikia-japonija)
 * Žaidimai:   [Burly Men At Sea  ](wiki/zaidimai/burly-men-at-sea.md)
+* Žaidimai: [Erica](wiki/zaidimai/erica.md)
 
 ## 2020-12
 
