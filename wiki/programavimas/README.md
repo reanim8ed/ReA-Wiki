@@ -13,6 +13,15 @@
 * Would I ever leave this company? Look, I'm all about loyalty. In fact, I feel like part of what I'm being paid for here is my loyalty. But if there were somewhere else that valued loyalty more highly, I'm going wherever they value loyalty the most.
 * Typically, the more expensive the product the longer the sales page needs to be.
 
+## Pomodoro for Software Development
+
+Yra nemažai tyrimų, kurie rodo pertraukėlių naudą dirbant intensyvų protinį darbą. Nors kartais galbūt ir nesijaučiame, jog tos pertaukėlės taip jau reikėtų, tačiau jos padeda smegenims recoverinti, taipogi tokių dažnų pertraukėlių metu labai rekomenduoti atsistoti iš savo vietos, bent kiek pajudėti. Tad tai ne tik sveikiau dėl bendros fizinės sveikatos, tačiau ir bendras produktyvumo lygis ilgesniu laikotarpiu visgi gaunasi aukštesnis. 
+
+Tad atrodytų, jog Pomodoro technika turėtų išties puikiai tikti programavimo srityje, nes kaip bebūtų tai sėdimas ir labai intensyvaus smegenų darbo reikalaujantis užsiėmimas. Tačiau standartinis 25-5 Pomodoro variantas visgi veikia gan prastai, darbo etapai tampa per trumpo, o dėl vadinamojo "Task Recovery Lag" grįžti į darbinį, minčių flow prireikia laiko ir kartais tai gali trukti net iki 15 minučių. Tačiau Pomodoro galima taikyti ir kitokiais intervalais. Populiariausi - 45:15, 52:17, 90:15.  
+Iš asmeninės patirties, manau, kad geriausiai man asmeniškai "sueina" 50:10 - pertraukos nėra pernelyg ilgos, kai tiesiog nebėra kuom užsiimti per tokias ilgas pertraukas. Darbo etapas pakankamai ilgas, kad per jį spėtum išties atlikti nemažą porciją darbo ir po tiek laiko trumpa pertraukėlė tampa ganėtinai natūrali. Na ir galiausiai - sekti tokius ciklus tampa itin paprasta, užtenka vos tik užmesti akį į laikrodį ir iškarto tampa aišku, kiek laiko liko iki pertraukos pradžios ar pabaigos.
+
+[https://www.softwaremeadows.com/posts/the\_50-10\_time\_box\_revising\_pomodoro\_for\_software\_development/](https://www.softwaremeadows.com/posts/the_50-10_time_box_revising_pomodoro_for_software_development/)
+
 ## Cookie-to-Header CSRF Token
 
 The Cross-Site Request Forgery \(CSRF\) attack is when an _attacker_ website is able to successfully submit a request to _your_ website using a logged-in user's cookies. This attack is possible because browsers will "helpfully" include cookies with any request to your site, regardless of where that request originated from.

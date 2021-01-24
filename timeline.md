@@ -10,6 +10,7 @@ description: Wiki atliktų pakeitimų ir naujų straipsnių archyvas
 
 * Politika: [Five trends to guide civilizations towards Totalitarianism](wiki/politika/#five-trends-to-guide-civilizations-towards-totalitarianism)
 * Skaitiniai: [Social Networking 2.0](wiki/skaitiniai/#social-networking-2-0)
+* Programavimas: [Pomodoro for Software Development](wiki/programavimas/#pomodoro-for-software-development)
 
 ### 2021-01-04
 
