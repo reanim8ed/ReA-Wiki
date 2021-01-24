@@ -1,5 +1,7 @@
 # Software
 
+* [LockHunter ](https://www.lockhunter.com/index.htm)- tais atvejais, kai norima ištrinti failą, tačiau jį bala žino kas naudoja ir to padaryti tiesiog neleidžia. Kiek platesnė Unlocker alternatyva, nes sugeba ne tik atrakinti failą jo ištrynimui, tačiau ir parodo procesus, kurie šį failą naudoja.
+
 ## Code snippet manager
 
 Naudingi išsisaugoti kodo fragmentai turi gulėti cloud'e, jog būtų galima juos pasiekti dirbant iš bet kurio kompiuterio. Šiai paskirčiai puikiai tinka pastebin principu veikiantis [Github Gist](https://gist.github.com/).   
