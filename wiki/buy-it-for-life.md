@@ -29,3 +29,5 @@ Pradedant ieškoti tokių produktų - tenka pasikapstyti ir paaukoti gan nemaža
 | Termosas | [Zojirushi](https://www.zojirushi.com/app/category/vacuum-insulated-mugs-bottles) |  |
 | Žiebtuvėlis | [Zippo](http://zippo.lt/products/ziebtuveliai) |  |
 
+* [https://www.buyforlife.com](https://www.buyforlife.com/#/)
+
