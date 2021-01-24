@@ -1,5 +1,19 @@
 # Skaitiniai
 
+### Social Networking 2.0
+
+It is always tricky to look at the analog world if you are trying to understand the digital one. When it comes to designing products, a pattern you see repeatedly is copying what came before, poorly, and only later creating something native to the medium.
+
+Consider text: given that newspapers monetized by placing advertisements next to news stories, the first websites tried to monetize by — you guessed it — placing advertisements next to news stories. This worked, but not particularly well; publishers talked about print dollars and digital dimes, and later mobile pennies. Sure, the Internet drew attention, but it just didn’t monetize well.
+
+What changed was the feed, something uniquely enabled by digital. Whereas a newspaper had to be defined up-front, such that it could be printed and distributed at scale, a feed is tailored to the individual in real-time — and so are the advertisements. Suddenly it was print that was worth pennies, while the Internet generally and mobile especially were worth more than newspapers ever were.
+
+&lt;...&gt;Even that, though, suggests that the company can’t entirely escape its roots: having one identity is a core principle for Facebook, which is great for advertising if nothing else, but at odds with the desire of many to be different parts of themselves to different people in different contexts. Twitter, meanwhile, is unlikely to ever recover from its missed opportunity to dominate the interest graph.
+
+Instead, the role for both products will be as a bridge between attention-focused products on one side, and private interest-defined trusted groups on the other. Their networks still have value, but primarily as a tool for distribution and reach of content that will increasingly be created in one place, and discussed in another.
+
+[https://stratechery.com/2020/social-networking-2-0/](https://stratechery.com/2020/social-networking-2-0/) 
+
 ### Red Hat Goes Full IBM and Says Farewell to CentOS
 
 The end of support for CentOS 6 was in November 2020. Since RHEL and CentOS are known for long support cycles, a lot of organizations decided to jump from CentOS 6 to 8 instead of re-platforming on 7 since that maximizes the time until another re-platforming effort would need to be scheduled. Or that is what many in the industry thought.

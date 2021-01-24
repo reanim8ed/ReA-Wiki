@@ -9,6 +9,7 @@ description: Wiki atliktų pakeitimų ir naujų straipsnių archyvas
 ### 2021-01-25
 
 * Politika: [Five trends to guide civilizations towards Totalitarianism](wiki/politika/#five-trends-to-guide-civilizations-towards-totalitarianism)
+* Skaitiniai: [Social Networking 2.0](wiki/skaitiniai/#social-networking-2-0)
 
 ### 2021-01-04
 
