@@ -2,7 +2,7 @@
 
 * [Textastic](https://www.textasticapp.com/) - featured code editor that includes markdown support, built-in web server for previewing your work. You can manage remote file transfers with FTP, SFTP, WebDAV, Dropbox, and Google Drive and there’s a full-featured SSH terminal built right into the app. Textastic supports tabs, you can even have multiple files and SSH terminals open simultaneously.
 * [Paw ](https://paw.cloud/)- API tool for Mac \(like Postman\)
-* [Dash](https://kapeli.com/dash) -  API Documentation Browser and Code Snippet Manager for Mac
+* [Dash](https://kapeli.com/dash) -  API Documentation Browser and Code Snippet Manager for Mac \(alt for [Zeal](https://zealdocs.org/)\)
 
 ## Frontend
 
