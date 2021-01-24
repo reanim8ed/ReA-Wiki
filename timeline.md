@@ -6,6 +6,10 @@ description: Wiki atliktų pakeitimų ir naujų straipsnių archyvas
 
 ## 2021-01
 
+### 2021-01-25
+
+* Politika: [Five trends to guide civilizations towards Totalitarianism](wiki/politika/#five-trends-to-guide-civilizations-towards-totalitarianism)
+
 ### 2021-01-04
 
 * Knygos: [Andrius kleiva - Kaip veikia Japonija](wiki/knygos.md#andrius-kleiva-kaip-veikia-japonija)
