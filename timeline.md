@@ -4,6 +4,12 @@ description: Wiki atliktų pakeitimų ir naujų straipsnių archyvas
 
 # Timeline
 
+## 2021-02
+
+### 2021-02-07
+
+* Skaitiniai: [The Relentless Jeff Bezos](wiki/skaitiniai/#the-relentless-jeff-bezos)
+
 ## 2021-01
 
 ### 2021-01-25
