@@ -23,6 +23,7 @@ description: >-
 * Pinigai yra konservuotas laikas
 * Yra trys darbų rūšys: įprastiniai fizinis bei protinis darbas, bet yra ir dar viena - nervinis darbas.
 * The less effort it takes to acquire something, the less value it will have to you.
+* Jeigu tu bankui skolingas tūkstantį dolerių, tai tu turi problemą, o jei tu bankui esi skolingas dešimt milijonų, tai problemą turi bankas - Užkalnis
 
 ## Atsakas į Baltic Mustache: išlaidų apgalvojimas
 

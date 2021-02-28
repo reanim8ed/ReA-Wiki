@@ -9,6 +9,8 @@ description: 'The desired triple 8 rule — 8-hours sleep, 8-hours work, and 8-h
 * Apply specific knowledge, with leverage, and eventually you will get what you deserve. You basically get rewarded by society for giving it what it wants.
 * Don't try to remember stuff. Brain is bad at remembering but it's rather good at processing.
 * The biggest division in work may be between jobs that involve making new stuff \(science, engineering\) and those that don't \(administration, sales\), and you'll be a lot happier if you end up on the side you're suited for.
+* In the modern world, you want to earn money through knowledge and leverage, not by selling your time. “Nine to five is just modern slavery…it’s wage slavery”
+* Recently, I was asked if I was going to fire an employee who made a mistake that cost the company $600,000. No, I replied, I just spent $600,000 training him. Why would I want somebody to hire his experience?
 
 ### Work from home
 

@@ -12,6 +12,7 @@
 * Integrity compounds infinitely, and capability always decays.
 * Would I ever leave this company? Look, I'm all about loyalty. In fact, I feel like part of what I'm being paid for here is my loyalty. But if there were somewhere else that valued loyalty more highly, I'm going wherever they value loyalty the most.
 * Typically, the more expensive the product the longer the sales page needs to be.
+* Technical debt is the debt we pay for our \(bad\) decisions, and it’s paid back in time and frustration.
 
 ## Pomodoro for Software Development
 
