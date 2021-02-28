@@ -6,6 +6,10 @@ description: Wiki atliktų pakeitimų ir naujų straipsnių archyvas
 
 ## 2021-02
 
+### 2021-02-28
+
+* Knygos: [The Richest Man in Babylon](wiki/knygos.md#george-s-clason-the-richest-man-in-babylon)
+
 ### 2021-02-07
 
 * Skaitiniai: [The Relentless Jeff Bezos](wiki/skaitiniai/#the-relentless-jeff-bezos)
