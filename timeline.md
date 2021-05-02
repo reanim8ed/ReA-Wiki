@@ -9,6 +9,7 @@ description: Wiki atliktų pakeitimų ir naujų straipsnių archyvas
 ### 2021-05-02
 
 * Programavimas: [REST, SOAP OR GRAPHQL?](wiki/programavimas/apis.md#rest-soap-or-graphql)
+* Programavimas: [YAGNI](wiki/programavimas/#you-arent-gonna-need-it)
 
 ## 2021-02
 
