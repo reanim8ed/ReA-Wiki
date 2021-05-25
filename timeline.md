@@ -6,6 +6,10 @@ description: Wiki atliktų pakeitimų ir naujų straipsnių archyvas
 
 ## 2021-05
 
+### 2021-05-25
+
+* Crypto: [Track Shitcoin Pricing](wiki/crypto.md#track-shitcoin-pricing-with-google-sheets)
+
 ### 2021-05-02
 
 * Programavimas: [REST, SOAP OR GRAPHQL?](wiki/programavimas/apis.md#rest-soap-or-graphql)

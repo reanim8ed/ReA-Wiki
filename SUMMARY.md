@@ -9,6 +9,7 @@
 * [Atmintis](wiki/atmintis.md)
 * [Buy it for life](wiki/buy-it-for-life.md)
 * [Citatos](wiki/citatos.md)
+* [Crypto](wiki/crypto.md)
 * [Ekonomika / finansai](wiki/ekonomika/README.md)
   * [Investavimas / FIRE](wiki/ekonomika/investavimas/README.md)
     * [Akcijos](wiki/ekonomika/investavimas/akcijos.md)
