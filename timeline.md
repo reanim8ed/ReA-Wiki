@@ -9,6 +9,7 @@ description: Wiki atliktų pakeitimų ir naujų straipsnių archyvas
 ### 2021-05-25
 
 * Crypto: [Track Shitcoin Pricing](wiki/crypto.md#track-shitcoin-pricing-with-google-sheets)
+* Crypto: [Gyventojo mokesčiai iš kriptovaliutų uždirbus milijoną eurų 2020 m.](wiki/crypto.md#gyventojo-mokesciai-is-kriptovaliut-uzdirbus-milijona-eur-2020-m)
 
 ### 2021-05-02
 
