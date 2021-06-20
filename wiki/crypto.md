@@ -1,12 +1,12 @@
 # Crypto
 
-### Anonymous wallets
+## Anonymous wallets
 
 * [https://www.bitamp.com](https://www.bitamp.com/) \(Bitcoin only\)
 * [https://rahakott.ch/](https://rahakott.ch/)
 * Samourai \(Android only\)
 
-### Gyventojo mokesčiai iš kriptovaliutų uždirbus milijoną eurų 2020 m.
+## Gyventojo mokesčiai iš kriptovaliutų uždirbus milijoną eurų 2020 m.
 
 2013 m. įsigijote 100 bitkoinų, o 2020 m. pardavėte. Gavote 1 mln. eur pajamų. 2020 m. vykdėte individualią veiklą ir iš prekybos bitkoinais ar kita kriptovaliuta taip pat gavote 1 mln. eurų įplaukų. Kokius mokesčius tokiais atvejais reikėtų mokėti?
 
@@ -30,7 +30,7 @@ Individualios veiklos pajamos, gautos 2020 m., apmokestinamos taikant 15% pajam�
 
 * [http://www.aginvest.eu/lt/gyventojo-mokesciai-kriptovaliutu-uzdirbus-milijona-euru-2020-m](http://www.aginvest.eu/lt/gyventojo-mokesciai-kriptovaliutu-uzdirbus-milijona-euru-2020-m)
 
-### Track Shitcoin Pricing with Google Sheets
+## Track Shitcoin Pricing with Google Sheets
 
 1. Access [https://coinmarketcap.com/api/](https://coinmarketcap.com/api/) to get the API key.
 2. Open a Google Sheets spreadsheet and select the menu item `Tools -> Script editor`.

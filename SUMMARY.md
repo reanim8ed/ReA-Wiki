@@ -42,6 +42,7 @@
 * [Mityba](wiki/mityba/README.md)
   * [Ketogeninė dieta](wiki/mityba/ketogenin-dieta.md)
   * [Protarpinis badavimas](wiki/mityba/protarpinis-badavimas.md)
+* [Muzika](wiki/muzika.md)
 * [Muzikos Virtuvė straipsniai](wiki/muzikos-virtuve.md)
 * [Mokymasis](wiki/mokymasis.md)
 * [Pasaulis](wiki/pasaulis/README.md)
