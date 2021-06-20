@@ -83,6 +83,7 @@
     * [Wordpress](wiki/programavimas/php/wordpress.md)
   * [Programavimo karjera](wiki/programavimas/programavimo-karjera.md)
   * [SEO](wiki/programavimas/seo.md)
+  * [Testing](wiki/programavimas/testing.md)
   * [Tools](wiki/programavimas/tools.md)
 * [Random internetai](wiki/random-internetai.md)
 * [Rašymas](wiki/rasymas.md)
