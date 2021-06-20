@@ -10,7 +10,8 @@ description: Wiki atliktų pakeitimų ir naujų straipsnių archyvas
 
 * Skaitiniai: [Not Everyone Has An Internal Monologue](wiki/skaitiniai/#not-everyone-has-an-internal-monologue)
 * Skaitiniai: [Everything You Know About Fitness is a Lie](wiki/skaitiniai/straipsniu-archyvas/everything-you-know-about-fitness-is-a-lie.md)
-* Santykiai: [Vestuviniai įžadai](wiki/vestuviniai-zadai.md)
+* Santykiai: [Vestuviniai įžadai](wiki/zmones/santykiai/vestuviniai-zadai.md)
+* Žmonės: [Charlie Kaufman](wiki/zmones/pop-kultura/charlie-kaufman.md)
 
 ## 2021-05
 

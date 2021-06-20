@@ -5,6 +5,9 @@ description: Never attribute to malice that which can be adequately explained by
 # Citatos
 
 * Iš viršukalnės visi takai veda tik į apačią, ir jei nėra kitos viršukalnės, apačia yra ten, kur tu dabar eini. - A. Užkalnis
+* You can reduce the annoyance of someone’s stupid belief by increasing your understanding of why they believe it.
+* The worst evils in history have always been committed by those who truly believed they were combating evil. Beware of combating evil.
+* That thing that made you weird as a kid could make you great as an adult — if you don’t lose it.
 * There are decades when nothing happens, and there are weeks where decades happen.
 * As our circle of knowledge expands, so does the circumference of darkness surrounding it.
 * Atmintis yra poetė, o ne istorikė

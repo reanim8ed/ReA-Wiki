@@ -3,6 +3,8 @@
 ## Notes
 
 * A good engineer never assumes the perfect reliability of the components of the system. He or she builds in redundancy to protect the integrity of the total system.
+* That which hinders your task is your task.
+* Software has been riding on immense hardware improvement, so it looks like it’s doing okay.
 * Software engineering is what happens to programming when you add time and other programmers.
 * Engineering is figuring out how to do what you want with what you’ve actually got
 * You can’t guilt yourself into doing things you want to accomplish. You’ll always resist and make excuses. The only way is to enjoy the act of doing them.
