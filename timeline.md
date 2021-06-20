@@ -4,6 +4,12 @@ description: Wiki atliktų pakeitimų ir naujų straipsnių archyvas
 
 # Timeline
 
+## 2021-06
+
+### 2021-06-20
+
+* Skaitiniai: [Not Everyone Has An Internal Monologue](wiki/skaitiniai/#not-everyone-has-an-internal-monologue)
+
 ## 2021-05
 
 ### 2021-05-25

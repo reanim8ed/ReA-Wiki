@@ -1,5 +1,9 @@
 # Skaitiniai
 
+### Not Everyone Has An Internal Monologue
+
+[https://ryanandrewlangdon.wordpress.com/2020/01/28/today-i-learned-that-not-everyone-has-an-internal-monologue-and-it-has-ruined-my-day/](https://ryanandrewlangdon.wordpress.com/2020/01/28/today-i-learned-that-not-everyone-has-an-internal-monologue-and-it-has-ruined-my-day/)
+
 ### The Relentless Jeff Bezos
 
 In the spring of 94 web usage was growing at 2300% a year. You have to keep in mind human beings aren’t good at understanding exponential growth; it’s just not something we see in our everyday life. But things don’t grow this fast outside of Petri dishes. It just doesn’t happen. When I saw this, I said, okay, what’s a business plan that might make sense in the context of that growth. I made a list of 20 different products that you might be able to sell online. I was looking for the first best product, and I chose books for lots of different reasons, but one primary reason. And that is that there are more items in the book space than there are items in any other category by far. There are over 3 million different books worldwide in all languages. The number two product category in that regard is music, and there are about 300,000 active music CDs. And when you have this huge catalog of products, you can build something online that you just can’t build any other way. The largest physical bookstores, the largest superstores, and these are huge stores, often converted from bowling alleys and movie theaters, can only carry about 175,000 titles. There are only a few that large. In our online catalog, we’re able to list over two and a half million different titles and give people access to those titles.
