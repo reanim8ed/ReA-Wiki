@@ -9,6 +9,7 @@ description: Wiki atliktų pakeitimų ir naujų straipsnių archyvas
 ### 2021-06-20
 
 * Skaitiniai: [Not Everyone Has An Internal Monologue](wiki/skaitiniai/#not-everyone-has-an-internal-monologue)
+* Skaitiniai: [Everything You Know About Fitness is a Lie](wiki/skaitiniai/straipsniu-archyvas/everything-you-know-about-fitness-is-a-lie.md)
 
 ## 2021-05
 

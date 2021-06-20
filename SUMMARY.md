@@ -186,6 +186,7 @@
 * [Skaitiniai](wiki/skaitiniai/README.md)
   * [Skaitymo įpročiai](wiki/skaitiniai/skaitymo-prociai.md)
   * [Straipsnių archyvas](wiki/skaitiniai/straipsniu-archyvas/README.md)
+    * [Everything You Know About Fitness is a Lie](wiki/skaitiniai/straipsniu-archyvas/everything-you-know-about-fitness-is-a-lie.md)
     * [Ilga blevyzga apie visas gyvenimo vasaras](wiki/skaitiniai/straipsniu-archyvas/ilga-blevyzga-apie-visas-gyvenimo-vasaras.md)
     * [Kodėl jauni žmonės neturi darbo ir ką daryti, kad tu jį visuomet turėtum](wiki/skaitiniai/straipsniu-archyvas/kod-l-jauni-zmon-s-neturi-darbo-ir-ka-daryti-kad-tu-j-visuomet-tur-tum.md)
     * [Niekam neįdomu, kiek daug tu dirbi](wiki/skaitiniai/straipsniu-archyvas/niekam-neidomu-kiek-daug-tu-dirbi.md)
