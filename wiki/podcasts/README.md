@@ -4,6 +4,14 @@ description: 'Podcasts are like an electric campfire, people gather around and t
 
 # Podcasts
 
+### 2021-06
+
+**Garry Kasparov @ Lex Fridman Podcast**
+
+* The fear of mistakes guarantees mistakes
+
+{% embed url="https://www.youtube.com/watch?v=hbtuHtrViPo" %}
+
 ### 2020-08
 
 #### Jim Keller @ Lex Fridman Podcast \#70
@@ -12,6 +20,7 @@ description: 'Podcasts are like an electric campfire, people gather around and t
 * Mr. Keller approaches the usual microprocessor design loop, where a company develops a new design from scratch and then looks at the most fundamental way of adding performance. Usually, he says, easy 10% performance increments can be found by simply looking at a design and increasing execution units - increase a buffer here, increase a cache over there, put in another add processor on this part of the pipeline. However, he also speaks of how this process in itself is limiting, inasmuch as doing this often will eventually guide processor designs towards a bottleneck and the diminishing returns problem, where any more additions made to the design don't seem to increase performance - mostly just adding complexity, area and power requirements, and generally convoluting a given design. Mr. Keller says that that is the point where teams should see that the design in itself is already limiting - and that that's when you do something from scratch. Fast advances in performance in the world of microprocessors depend on 3-5 year cycles of building a new processing design from scratch. His work in the microprocessor world usually comes in at this point - Mr. Keller has established himself as one of the foremost leaders of microprocessor design teams when looking at a clean-slate design, with his stints at AMD \(collaborating on their K7, K8, and K12 designs alongside the HyperTransport bus\), Apple \(for their A4 and A5 microprocessors, which are now in the iterative phase\), Tesla \(with their HW 3.0 designs for autonomous driving\) and AMD's Zen.
 * I imagine 99% of your thought process is protecting your self-conception, and 98% of that is wrong.
 * A lot of things need to be "rearchitected every decade, or even faster".
+* Good engineering is great craftsmanship. When you start thinking engineering is about invention and when you set up a system that rewards invention, the craftsmanship gets neglected.
 
 {% embed url="https://www.youtube.com/watch?v=Nb2tebYAaOA" %}
 

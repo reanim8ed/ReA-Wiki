@@ -86,6 +86,8 @@
   * [Tools](wiki/programavimas/tools.md)
 * [Random internetai](wiki/random-internetai.md)
 * [Rašymas](wiki/rasymas.md)
+* [Santykiai](wiki/santykiai.md)
+* [Vestuviniai įžadai](wiki/vestuviniai-zadai.md)
 * [Software](wiki/software.md)
 * [Senojo tinklaraščio archyvas](wiki/blogas/README.md)
   * [130 vyriškų dalykų](wiki/blogas/130-vyrisku-dalyku.md)

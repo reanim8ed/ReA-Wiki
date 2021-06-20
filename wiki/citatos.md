@@ -5,6 +5,7 @@ description: Never attribute to malice that which can be adequately explained by
 # Citatos
 
 * Iš viršukalnės visi takai veda tik į apačią, ir jei nėra kitos viršukalnės, apačia yra ten, kur tu dabar eini. - A. Užkalnis
+* There are decades when nothing happens, and there are weeks where decades happen.
 * As our circle of knowledge expands, so does the circumference of darkness surrounding it.
 * Atmintis yra poetė, o ne istorikė
 * If at first you don't succeed, try two more times so that your failure is "statistically significant".
