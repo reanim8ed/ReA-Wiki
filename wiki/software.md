@@ -70,6 +70,7 @@ Taigi išsisaugoti nuorodoms iki šiol naudojau Google Keep ir Pocket kombinacij
 * [Caret](https://caret.io/) - visiškai minimalistinis lokalus Markdown editorius, tačiau kuris turi viską ko reikia tokiam produktui. Savo paskirčiai - puikus, tačiau Notion laimi, nes turi sync.
 * [Notable ](https://github.com/notable/notable)- kokybiškas local Markdown editorius išlaikantis hierarchinę sistemą
 * [Typora](https://typora.io/) - kaip markdown editorius, turi nemažai patogių papildomų funkcijų
+* [Zettlr](https://www.zettlr.com/)
 
 
 
