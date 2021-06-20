@@ -18,6 +18,12 @@
 
   I've found the most incredible thing is just to say "no" to things. Not doing things has this fantastic side effect of not causing more work. When you don't do more things, you don't cause more problems, which doesn't need more work, which doesn't need more staff, which doesn't require more money, which gives you less stress, and gives you happier staff, happier customers, and a happier self.
 
+* The greatest of all weaknesses is the fear of appearing weak.
+* 
+
+
+  Instead of excuses, provide options. Don't say it can't be done; explain what can be done to salvage the situation. it is up to you to provide solutions, not excuses.
+
 ## You Arent Gonna Need It
 
 YouArentGonnaNeedIt \(often abbreviated YAGNI\) is an ExtremeProgramming practice which states: "Always implement things when you **actually** need them, never when you just **foresee** that you need them."
