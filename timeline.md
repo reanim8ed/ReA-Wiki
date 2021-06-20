@@ -12,6 +12,7 @@ description: Wiki atliktų pakeitimų ir naujų straipsnių archyvas
 * Skaitiniai: [Everything You Know About Fitness is a Lie](wiki/skaitiniai/straipsniu-archyvas/everything-you-know-about-fitness-is-a-lie.md)
 * Santykiai: [Vestuviniai įžadai](wiki/zmones/santykiai/vestuviniai-zadai.md)
 * Žmonės: [Charlie Kaufman](wiki/zmones/pop-kultura/charlie-kaufman.md)
+* Karjera: [Don't End The Week With Nothing](wiki/karjera-produktyvumas.md#dont-end-the-week-with-nothing)
 
 ## 2021-05
 

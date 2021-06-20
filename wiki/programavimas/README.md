@@ -15,6 +15,9 @@
 * Would I ever leave this company? Look, I'm all about loyalty. In fact, I feel like part of what I'm being paid for here is my loyalty. But if there were somewhere else that valued loyalty more highly, I'm going wherever they value loyalty the most.
 * Typically, the more expensive the product the longer the sales page needs to be.
 * Technical debt is the debt we pay for our \(bad\) decisions, and it’s paid back in time and frustration.
+* When every developer is urged to build something with "measurable impact", you end up like Google, where people launch something visible, get promoted, and move on, leaving the service to wither away.
+
+  I've found the most incredible thing is just to say "no" to things. Not doing things has this fantastic side effect of not causing more work. When you don't do more things, you don't cause more problems, which doesn't need more work, which doesn't need more staff, which doesn't require more money, which gives you less stress, and gives you happier staff, happier customers, and a happier self.
 
 ## You Arent Gonna Need It
 

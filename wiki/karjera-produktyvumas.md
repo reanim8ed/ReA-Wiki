@@ -12,6 +12,20 @@ description: 'The desired triple 8 rule — 8-hours sleep, 8-hours work, and 8-h
 * In the modern world, you want to earn money through knowledge and leverage, not by selling your time. “Nine to five is just modern slavery…it’s wage slavery”
 * Recently, I was asked if I was going to fire an employee who made a mistake that cost the company $600,000. No, I replied, I just spent $600,000 training him. Why would I want somebody to hire his experience?
 
+### [Don't End The Week With Nothing](https://training.kalzumeus.com/newsletters/archive/do-not-end-the-week-with-nothing)
+
+We mutually agree that, considering any particular employee, it is in that employee's personal interest to stop selling hours of labor and start renting access to his accumulated capital as soon as humanly possible.
+
+Once I came to the conclusion that I'd probably quit, and therefore discounted the till-your-death-do-us-part slow accumulation of firm-specific capital, I realized something which is fundamentally true of a lot of day jobs. Nothing I did at the job mattered, in the long run.
+
+Sure, in the short run, I was writing XML files and Java classes which, knock on wood, successfully let my employers ship an examination management system to their client \(a major university\). I was a really effective Turing machine which accepted emails and tickets as input and delivered \(occasionally\) working code and Excel files as output. But no matter how much I spun, nothing about my situation ever changed. I worked my week, got to the end of it, and had nothing to show. The next week there would be more emails and more tickets, exactly like the week before. The week after that would be more of the same. And absolutely nothing about my life would change. I'd end the week with nothing.
+
+Don't end the week with nothing. Prefer to work on things you can show. Prefer to work where people can see you. Prefer to work on things you can own.
+
+If at all possible, publish what you write. Even if it is published to an audience of no one, you will be able to point people back to it later.
+
+Consumption Is Sometimes Valuable, But Creation Moves You Forward
+
 ### Work from home
 
 I hate the attitude that I am good enough to be employed but clearly not mature enough to be able to work without being monitored.  
