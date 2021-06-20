@@ -11,6 +11,7 @@ description: 'The desired triple 8 rule — 8-hours sleep, 8-hours work, and 8-h
 * The biggest division in work may be between jobs that involve making new stuff \(science, engineering\) and those that don't \(administration, sales\), and you'll be a lot happier if you end up on the side you're suited for.
 * In the modern world, you want to earn money through knowledge and leverage, not by selling your time. “Nine to five is just modern slavery…it’s wage slavery”
 * Recently, I was asked if I was going to fire an employee who made a mistake that cost the company $600,000. No, I replied, I just spent $600,000 training him. Why would I want somebody to hire his experience?
+* Would I ever leave this company? Look, I'm all about loyalty. In fact, I feel like part of what I'm being paid for here is my loyalty. But if there were somewhere else that valued loyalty more highly, I'm going wherever they value loyalty the most. - Dwight Schrute
 
 ### [Don't End The Week With Nothing](https://training.kalzumeus.com/newsletters/archive/do-not-end-the-week-with-nothing)
 
