@@ -7,6 +7,7 @@ description: Wiki atliktų pakeitimų ir naujų straipsnių archyvas
 ## 2021-07
 
 * Filmai / serialai: [The Six Main Arcs in Storytelling](wiki/filmai/#the-six-main-arcs-in-storytelling)
+* Receptai: [James Hoffmann coffee routine](wiki/receptai.md#james-hoffmann-coffee-routine)
 
 ## 2021-06
 
