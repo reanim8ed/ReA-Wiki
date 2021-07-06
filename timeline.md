@@ -4,6 +4,10 @@ description: Wiki atliktų pakeitimų ir naujų straipsnių archyvas
 
 # Timeline
 
+## 2021-07
+
+* Filmai / serialai: [The Six Main Arcs in Storytelling](wiki/filmai/#the-six-main-arcs-in-storytelling)
+
 ## 2021-06
 
 ### 2021-06-20
