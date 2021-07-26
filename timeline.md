@@ -6,6 +6,9 @@ description: Wiki atliktų pakeitimų ir naujų straipsnių archyvas
 
 ## 2021-07
 
+### 2021-07-26
+
+* Pasaulis: [Antivax & flat earth society](wiki/pasaulis/#antivax-and-flat-earth-society)
 * Filmai / serialai: [The Six Main Arcs in Storytelling](wiki/filmai/#the-six-main-arcs-in-storytelling)
 * Receptai: [James Hoffmann coffee routine](wiki/receptai.md#james-hoffmann-coffee-routine)
 
