@@ -6,7 +6,7 @@
 
 _You can reduce the annoyance of someone’s stupid belief by increasing your understanding of why they believe it._
 
-Negaliu pasakyti, kad šios dvi mūsų laikų realijos mane taip jau smarkiai stebina. Įvairios ideologijos veikiančios besiremiančios panašiais principais buvo gajos praėjusiame šimtmetyje o istorija visgi yra linkusi būti cikliška. Atrodytų šiais laikais, kai informacija prieinama ir patikrinama kiekvienam, tai turėtų būti mažiausia problema, tačiau yra visiškai priešingai.
+Negaliu pasakyti, kad šios mūsų laikų realijos mane taip jau smarkiai stebina. Įvairios ideologijos besiremiančios panašiais principais buvo gajos praėjusiame šimtmetyje, o istorija visgi yra linkusi būti cikliška. Su tuo gyvensime nuolatos, neramina tik tai, kai jos įgauna vis daugiau galios ir galiausiai jomis kažkas pasinaudoja. Atrodytų laikais, kai informacija prieinama ir patikrinama kiekvienam, tai turėtų būti mažiausia problema, tačiau yra visiškai priešingai.
 
 Žmonių fantazijos plačios ir žiūrėdami tik iš savo individualios perspektyvos ir matydami tik labai siaurą visko dalį, susikuriamos atitinkamos, viską jiems patiems įtikinamai paaiškinančios išvados. Taip įsivyrauja pačių įvairiausių, kartais ir išties stebėtinų nuomonių. Tokių jų būdavo visuomet, tiesiog dabar hyper connected laikais atrasti ir susiburti į didesnes bendraminčių grupes tapo itin lengva ir dėlto tokios grupės tapo labiau pastebimos ir matomos.
 
