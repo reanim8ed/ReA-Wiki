@@ -10,6 +10,7 @@ description: Wiki atliktų pakeitimų ir naujų straipsnių archyvas
 
 * Web: [Anonymous Email Forwarding](wiki/web.md#anonymous-email-forwarding)
 * Mac: [Set Up for Web Development](wiki/mac/#c030)
+* Me: [Vestuvių įžadai](wiki/me/vestuvi-zadai.md)
 
 ## 2021-07
 
