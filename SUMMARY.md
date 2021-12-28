@@ -39,6 +39,8 @@
   * [Set Up for Web Development](wiki/mac/set-up-for-web-development.md)
   * [iOS](wiki/mac/ios/README.md)
     * [Jailbreak](wiki/mac/ios/jailbreak.md)
+* [Me](wiki/me/README.md)
+  * [Vestuvių įžadai](wiki/me/vestuvi-zadai.md)
 * [MealTimeVideos](wiki/mealtimevideos.md)
 * [Mental modeliai](wiki/mental-modeliai.md)
 * [Mityba](wiki/mityba/README.md)
