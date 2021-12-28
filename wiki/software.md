@@ -4,28 +4,36 @@
 
 ## Code snippet manager
 
-Naudingi išsisaugoti kodo fragmentai turi gulėti cloud'e, jog būtų galima juos pasiekti dirbant iš bet kurio kompiuterio. Šiai paskirčiai puikiai tinka pastebin principu veikiantis [Github Gist](https://gist.github.com/).   
-Pradžioje saugojimą atlikdavau tiesiogiai, o šį servisą galima integruoti tiesiai į IDE ar teksto redaktorių ir kodo pavyzdžius pasiimti net neišeinant iš jų. Tačiau archyvui pradėjus augti greitai pajutau, kad visas šis flow nepatogus, labai apribotos organizuotumo galimybės, kas prailgina paiešką. Kokia nauda tuomet saugotis kodą, jei prireikus ko gero išgooglinti būtų galima jį ir greičiau. Tad atsirado kliento poreikis.
+Naudingi išsisaugoti kodo fragmentai turi gulėti cloude, jog būtų galima juos pasiekti dirbant iš bet kurio kompiuterio. Vienas iš variantų - naudoti snippet managerį, kuris saugotų į markdown failus, tokiu atveju galima juos saugoti į dropbox direktoriją.
 
-Nenoriu naudotis servisais, kurie siūlo tik lokalų kodo saugojimą ar bando kišti savo cloudinius sprendimus ir juo labiau tais, kurie turi subscription modelį \([Cacher](https://www.cacher.io/), [Snippet Manager](https://snippetmanager.io/), [Snipit](https://snipit.io/)\).
+Tačiau daug labiau nice, kai snippet manageris turi  [Github Gist](https://gist.github.com) palaikymą ir gali sinchronizuotis tiesiai į ten.
 
-Mac'ai tuo tarpu turi gan puikius [Snippet Lab](https://www.renfei.org/snippets-lab/), [Quiver](http://happenapps.com/#quiver) ar [SnipperApp](https://snipper.app/). Tad ieškau būtent tokių ir Win alternatyvų. 
+Pradžioje saugojimą atlikdavau tiesiogiai, o šį servisą galima integruoti tiesiai į IDE ar teksto redaktorių ir kodo pavyzdžius pasiimti net neišeinant iš jų. Tačiau archyvui pradėjus augti greitai pajutau, kad visas šis flow nepatogus, labai apribotos organizuotumo galimybės, kas prailgina paiešką. Kokia nauda tuomet saugotis kodą, jei prireikus ko gero išgooglinti būtų galima jį ir greičiau. Tad atsirado client poreikis.
 
-* [Gisto](https://www.gistoapp.com/) - veikia, tačiau ne itin patinka interface'as
-* [Boostnote](https://boostnote.io/) - programos rewrite'as, kuris atrodo visai neblogai. Patinka jog pakankamai aktyviai prie jo dirbama, taipogi yra web versija, plačios customize galimybės ir planuojami net ir mobile apps'ai. Tačiau šiuo metu neturi tiesioginės integracijos su Gist ir galima kodą laikyti lokaliai arba jų cloud'e, kas yra deal breaker. Tačiau yra bent šioks toks workaround'as - pasirinkus saugojimą lokaliai, galima nusirodyti Dropbox folderį ir sinchronizuotis tarp skirtingų kompiuterių tokiu būdu.
-* [SnipAway](https://snipaway.futureglobe.de/) - plačios customize galimybės, turi feature'ą įtraukti internetinius puslapius tiesiogiai į redaktorių, tačiau tiesioginės integracijos su Gist neturi. Galima nebent lygiai taip pat saugotis per kitus third party cloud'us.
-* [Lepton](https://hackjutsu.com/Lepton/) - kol kas tinka labiausiai. Sinchronizuojasi neblogai, organizacija vykdoma tag'ais, bei automatinis skirstymas pagal file extension'us. Note'us darausi daugiausiai su markdown'u ir patinka jog edit ir preview yra atskiri režimai. Yra vos keli šiek tiek erzinantys apribojimai, pvz sidebar'e esančių sekcijų negalima praplėsti, tad nesimato pilno tag list'o, taipogi paieška apribota tik title'uose ir failų pavadinimuose, ieškoti turinio galimybės nėra.
+Nenoriu naudotis servisais, kurie siūlo savo cloudinius sprendimus ir juo labiau tais, kurie turi subscription modelį ([Cacher](https://www.cacher.io), [Snippet Manager](https://snippetmanager.io), [Snipit](https://snipit.io)).
+
+Tad labiausiai priimtini variantai:
+
+Mac: [Snippet Lab](https://www.renfei.org/snippets-lab/), [Quiver](http://happenapps.com/#quiver), [SnipperApp](https://snipper.app), [masscode](https://masscode.io), [codespace](https://codespace.app).
+
+Windows:
+
+* [Boostnote](https://boostnote.io) - programos rewrite'as, kuris atrodo visai neblogai. Patinka jog pakankamai aktyviai prie jo dirbama, taipogi yra web versija, plačios customize galimybės ir planuojami net ir mobile apps'ai. Tačiau šiuo metu neturi tiesioginės integracijos su Gist ir galima kodą laikyti lokaliai arba jų cloud'e, kas yra deal breaker. Tačiau yra bent šioks toks workaround'as - pasirinkus saugojimą lokaliai, galima nusirodyti Dropbox folderį ir sinchronizuotis tarp skirtingų kompiuterių tokiu būdu.
+* [SnipAway](https://snipaway.futureglobe.de) - plačios customize galimybės, turi feature'ą įtraukti internetinius puslapius tiesiogiai į redaktorių, tačiau tiesioginės integracijos su Gist neturi. Galima nebent lygiai taip pat saugotis per kitus third party cloud'us.
+* [Lepton](https://hackjutsu.com/Lepton/) - kol kas tinka labiausiai. Sinchronizuojasi neblogai, organizacija vykdoma tag'ais, bei automatinis skirstymas pagal file extension'us. Note'us darausi daugiausiai su markdown'u ir patinka jog edit ir preview yra atskiri režimai. Yra vos keli šiek tiek erzinantys apribojimai, pvz sidebare esančių sekcijų negalima praplėsti, tad nesimato pilno tag list'o, taipogi paieška apribota tik title'uose ir failų pavadinimuose, ieškoti turinio galimybės nėra. Na ir tai yra electron appsas, tad greitis nedžiugina.
+
+Daugiau: [https://www.slant.co/topics/7247/\~code-snippets-manager](https://www.slant.co/topics/7247/\~code-snippets-manager)
 
 ## Alfred alternatives
 
-* [Wox](http://www.wox.one/)
-* [Cerebro](https://cerebroapp.com/)
-* [Keypirinha](https://keypirinha.com/)
-* [Launchy](http://www.launchy.net/)
+* [Wox](http://www.wox.one)
+* [Cerebro](https://cerebroapp.com)
+* [Keypirinha](https://keypirinha.com)
+* [Launchy](http://www.launchy.net)
 
-Android telefonai turi Tasker'į - itin galingą automatizavimo įrankį, kuris iš esmės gali automatizuoti bet kurią telefone pasiekiamą funkciją. Nors nėra itin intuityvus, bet suteikiamos galimybės visą tai tiesiog atperka. iOS barikadų pusėje lygiaverčio atitikmens nėra, nes nors Shortcuts pagalba ir galima susikurti išties naudingų funkcijų, tačiau dėl OS sukuriamų apribojimų, geležies valdymo galimybėmis šis įrankis Tasker'iui išties neprilygsta. 
+Android telefonai turi Tasker'į - itin galingą automatizavimo įrankį, kuris iš esmės gali automatizuoti bet kurią telefone pasiekiamą funkciją. Nors nėra itin intuityvus, bet suteikiamos galimybės visą tai tiesiog atperka. iOS barikadų pusėje lygiaverčio atitikmens nėra, nes nors Shortcuts pagalba ir galima susikurti išties naudingų funkcijų, tačiau dėl OS sukuriamų apribojimų, geležies valdymo galimybėmis šis įrankis Tasker'iui išties neprilygsta.&#x20;
 
-Lygiai taip Mac'ai turi savo killer programą, dėl kurios galima pavydėti - [Alfred](https://www.alfredapp.com/). Jau kurį laiką ieškau adekvačios Win alternatyvos, tačiau dauguma yra užleistos arba funkcionalumas gan ribotas ir susiveda tik į programų paleidimą ar kokį skaičiuotuvą, o tokioms funkcijos iš esmės užtenka win mygtuku iškviečiamo Windows start'o ir ten esančios paieškos ir atskiros programos tam diegti nereikia. Tokiuose įrankiuose yra galimybė bazinį funkcionalumą praplėsti įvairiais įskiepiais, tačiau prie jų nėra aktyviai dirbama ir didelė dalis arba nebeveikia arba veikia labai nestabiliai. Tad tai toli gražu iki lankstaus Alfred'o, kuris su workflow funkcionalumu, shell integracija ir hotkeys tampa itin universalus ir galingas. 
+Lygiai taip Mac'ai turi savo killer programą, dėl kurios galima pavydėti - [Alfred](https://www.alfredapp.com). Jau kurį laiką ieškau adekvačios Win alternatyvos, tačiau dauguma yra užleistos arba funkcionalumas gan ribotas ir susiveda tik į programų paleidimą ar kokį skaičiuotuvą, o tokioms funkcijos iš esmės užtenka win mygtuku iškviečiamo Windows start'o ir ten esančios paieškos ir atskiros programos tam diegti nereikia. Tokiuose įrankiuose yra galimybė bazinį funkcionalumą praplėsti įvairiais įskiepiais, tačiau prie jų nėra aktyviai dirbama ir didelė dalis arba nebeveikia arba veikia labai nestabiliai. Tad tai toli gražu iki lankstaus Alfred'o, kuris su workflow funkcionalumu, shell integracija ir hotkeys tampa itin universalus ir galingas.&#x20;
 
 Tarp išbandytų man labiausiai tiko Cerebro, kurio Translate, valiutų konvertavimas ar maps'ai yra sulūžę, tačiau jis vis vien naudingas dėl instant Google, Wiki, StackOverflow search'o, integracijos su Giphy, Youtube, PhpStorm, bei clipboard istorijos.
 
@@ -35,24 +43,24 @@ Tačiau visai nesenai pasirodė daug žadančios naujienos ir iš paties Microso
 
 Ieškau self-hosted alternatyvų Gitbook'ui. Noriu, kad softas būtinai turėtų hierarchinę struktūrą su markdown palaikymu ir galėčiau pushinti į git'ą. Kelios rastos alternatyvos:
 
-* [TiddlyWiki ](https://tiddlywiki.com/)- konceptualiai labai įdomus sprendimas, kur kiekvienas notes'as yra tarsi kortelė \(vadinama tiddler'iu\) ir kur kiekvienas atidarytas notes'as ir lieka atidarytas naviguojant tarp jų. Turėtų būti patogu daryti tokiem mindmap'ams. Nepatinka senstelėjęs dizainas \(galima kiek pagerinti situaciją su [Material ](http://demo.santosa.family/)dizainu\) ir tai, kad visas turinys saugosi viename faile.
+* [TiddlyWiki ](https://tiddlywiki.com)- konceptualiai labai įdomus sprendimas, kur kiekvienas notes'as yra tarsi kortelė (vadinama tiddler'iu) ir kur kiekvienas atidarytas notes'as ir lieka atidarytas naviguojant tarp jų. Turėtų būti patogu daryti tokiem mindmap'ams. Nepatinka senstelėjęs dizainas (galima kiek pagerinti situaciją su [Material ](http://demo.santosa.family)dizainu) ir tai, kad visas turinys saugosi viename faile.
 * [Trilium Notes](https://github.com/zadam/trilium) - atrodo išties neblogai, tačiau praktiškai neturi markdown palaikymo bei skirta tik personal naudojimui.
 * [MkDocs ](https://www.mkdocs.org/#mkdocs)su [Material tema](https://squidfunk.github.io/mkdocs-material/) / [MDwiki](http://dynalon.github.io/mdwiki/#!index.md) - iš principo labiausiai artimi Gitbook'ui selfhosted sprendimai
-* [Wiki.js](https://wiki.js.org/) / [docsify](https://docsify.js.org/#/?id=docsify) - šiuolaikiškesnės JS alternatyvos. Veikia maloniai, tačiau kadangi yra runtime-driven tai praktiškai nėra SEO.
-* [Vuepress](https://vuepress.vuejs.org/) - Vue pagrindu veikianti Wiki. Ateityje potencialiai galėčiau pereiti dėl greičio. Tačiau kol kas ne, nes vis dar nėra content meniu, paieška ieško tik pavadinimuose.
+* [Wiki.js](https://wiki.js.org) / [docsify](https://docsify.js.org/#/?id=docsify) - šiuolaikiškesnės JS alternatyvos. Veikia maloniai, tačiau kadangi yra runtime-driven tai praktiškai nėra SEO.
+* [Vuepress](https://vuepress.vuejs.org) - Vue pagrindu veikianti Wiki. Ateityje potencialiai galėčiau pereiti dėl greičio. Tačiau kol kas ne, nes vis dar nėra content meniu, paieška ieško tik pavadinimuose.
 * [BookStack ](https://www.bookstackapp.com)- knygos, skyrių ir puslapių principu organizuotas laravel'inis CMS'as. Turi build-in redaktorių ir file manager'į, tačiau UI kiek per daug atima iš turinio bei content'as jau saugojamas duombazėje
 
 Kelios ne self-hosted alternatyvos:
 
 * [Slite](https://slite.com/features)
-* [Tettra](https://tettra.co/)
+* [Tettra](https://tettra.co)
 * [Notion](https://notion.so)
 
 ## Note taking
 
-* [Inkdrop ](https://inkdrop.app/)- nors pozicionuojamas daugiausiai, kaip Markdown editorius, tačiau iš esmės yra pigesnė \($5 vs $8\) Evernote alternatyva. Panašus layout'as su notebook'ai ir tag'ais, sync, web cliperiu ir multiplatformiškumu. Labai gerai išdirbtas, geras MacOS'iškas UI, malonus naudoti, tačiau visai neturi free plano.
-* [Standart Notes](https://standardnotes.org/) yra artimiausia Evernote alternatyva, kurią so far pavyko rasti. Nemokamas, cross-platform'inis, labai panašus failų organizavimas. Jei reikia daugiau laisvės, nei suteikia Google Keep - manau vienas geresnių pasirinkimų.
-* [Notion ](https://www.notion.so)- multiplatforminė ir sąlyginai nemokama Evernote alternatyva, turinti visai neblogų pranašumų. Pvz.: palaiko DB stiliaus lenteles, Trello stiliaus kanban bei turi markdown support'ą. Viena pagrindinių paskirčių kaip galiu panaudoti - greitas research draft'as, pvz kelionių planavimai. Tačiau startuoja kiek lėtai ir feature overload'as kiek apsunkina naudojimą, nėra itin intuityvus. 
+* [Inkdrop ](https://inkdrop.app)- nors pozicionuojamas daugiausiai, kaip Markdown editorius, tačiau iš esmės yra pigesnė ($5 vs $8) Evernote alternatyva. Panašus layout'as su notebook'ai ir tag'ais, sync, web cliperiu ir multiplatformiškumu. Labai gerai išdirbtas, geras MacOS'iškas UI, malonus naudoti, tačiau visai neturi free plano.
+* [Standart Notes](https://standardnotes.org) yra artimiausia Evernote alternatyva, kurią so far pavyko rasti. Nemokamas, cross-platform'inis, labai panašus failų organizavimas. Jei reikia daugiau laisvės, nei suteikia Google Keep - manau vienas geresnių pasirinkimų.
+* [Notion ](https://www.notion.so)- multiplatforminė ir sąlyginai nemokama Evernote alternatyva, turinti visai neblogų pranašumų. Pvz.: palaiko DB stiliaus lenteles, Trello stiliaus kanban bei turi markdown support'ą. Viena pagrindinių paskirčių kaip galiu panaudoti - greitas research draft'as, pvz kelionių planavimai. Tačiau startuoja kiek lėtai ir feature overload'as kiek apsunkina naudojimą, nėra itin intuityvus.&#x20;
 
 ## Bookmarking tools
 
@@ -61,16 +69,14 @@ Chrome bookmarks'ų galimybės išties labai apribotos ir iš esmės be katalog�
 Taigi išsisaugoti nuorodoms iki šiol naudojau Google Keep ir Pocket kombinaciją. Į Pocket keliauja Plan To Read straipsniai ar naudingos, šiam momentui aktualios nuorodos. Į Keep jos perkeliamos ilgalaikiam saugojimui. Pvz planuojamos skaityti knygos ar naudingi programavimo įrankiai. Tačiau Keep paskirtis tam nelabai tinkama, o ir turint dvi atskiras saugykas, paieška tampa neefektyvi, tad toks organizavimas nelabai tenkina.
 
 * [GGather](https://ggather.com/all) - įkvepia tituliniame pateikti užtikrinimai apie tai, jog produktas specialiai kurtas su minimaliomis išlaidomis, jog nereikėtų desperatiškai ieškoti investuotojų ar visokiais shady metodais bandyti monetizuoti vartotojus. Tokius kūrėjus norisi palaikyti. Minusai: bookmarksas atidaromas ne iškarto, o pirma atidaromas detalus jo langas, o tik tada galima atidaryti jį naujame tab'e. Taipogi naudojantis nemokama versija yra tik 2 list stiliaus atvaizdavimo būdai, kurie nėra itin patogūs. Kol kas vis dar nėra native apps'ų, tad pasiekti galima tik per webinę versiją. Manau reikės prachekinti ateityje, bet šiai dienai nėra itin atitinkantis mano lūkesčių.
-* [Pinboard ](https://pinboard.in/)- nebrangus \(11$ metams, 25 norint turėti turinio cache'avimą ir full text paiešką\), jokių reklamų ir jokio trackinimo. Programuotojų mylimas no bullshit servisas su puikiu funkcionalumu, tačiau old schooliniu dizainu \(kai kuriems tai yra labiau pliusas\). Bookmarksai iš esmės atvaizduojami panašiai, kaip Google paieškos rezultatai. Naudojantis mac'u, galima pasidaryti gan puikų flow su Alfred. Pagrindinis minusas - HackerNews teko skaityti, kad developeris yra tik vienas pats ir jis yra praktiškai apleidęs projektą, skiria jam labai mažai dėmesio, pvz archyvavimo funkcija labai dažnai nulūžta, jis praktiškai neatrašinėja į supporto laiškus.
-* [Raindrop](https://raindrop.io/) - komandos iš Sankt Peterburgo kūrinys. Labai intuityvus ir responsive įrankis, turintis puikų įskiepį, kurį galima nusistatyti naudoti kaip web clipperį arba kaip mini app'są, iš kurios galima greitai ieškoti ir pasiekti bet kurį bookmarks'ą. Nested kategorijos pasiekamos tik mokomoje versijoje, tačiau antrą lygį kataloge galima įgyvendinti naudojantis tiesiog tag'ais, kurie patogiai atvaizduojami atsidarius kategoriją. Taipogi susimokėjus vienam mėnesiui galima pasidaryti visą savo nested kategorijų struktūrą ir nutraukus prenumeratą galima ja naudotis ir toliau. Yra platus ikonų support'as, mobilūs apps'ai, dark mode, 4 atvaizdavimo būdai, automatiniai tag suggestion'ai, įskiepis visiems pagrindiniams browseriams. Mokomoje versijoje prisideda dublikatų paieška, turinio archyvinis cache'avimas, broken link tikrinimas ir pan. Pagrindiniai minusai: raginimas pereiti į mokamą versiją, ne itin aiškios ateities perspektyvos ir privacy klausimai.
+* [Pinboard ](https://pinboard.in)- nebrangus (11$ metams, 25 norint turėti turinio cache'avimą ir full text paiešką), jokių reklamų ir jokio trackinimo. Programuotojų mylimas no bullshit servisas su puikiu funkcionalumu, tačiau old schooliniu dizainu (kai kuriems tai yra labiau pliusas). Bookmarksai iš esmės atvaizduojami panašiai, kaip Google paieškos rezultatai. Naudojantis mac'u, galima pasidaryti gan puikų flow su Alfred. Pagrindinis minusas - HackerNews teko skaityti, kad developeris yra tik vienas pats ir jis yra praktiškai apleidęs projektą, skiria jam labai mažai dėmesio, pvz archyvavimo funkcija labai dažnai nulūžta, jis praktiškai neatrašinėja į supporto laiškus.
+* [Raindrop](https://raindrop.io) - komandos iš Sankt Peterburgo kūrinys. Labai intuityvus ir responsive įrankis, turintis puikų įskiepį, kurį galima nusistatyti naudoti kaip web clipperį arba kaip mini app'są, iš kurios galima greitai ieškoti ir pasiekti bet kurį bookmarks'ą. Nested kategorijos pasiekamos tik mokomoje versijoje, tačiau antrą lygį kataloge galima įgyvendinti naudojantis tiesiog tag'ais, kurie patogiai atvaizduojami atsidarius kategoriją. Taipogi susimokėjus vienam mėnesiui galima pasidaryti visą savo nested kategorijų struktūrą ir nutraukus prenumeratą galima ja naudotis ir toliau. Yra platus ikonų support'as, mobilūs apps'ai, dark mode, 4 atvaizdavimo būdai, automatiniai tag suggestion'ai, įskiepis visiems pagrindiniams browseriams. Mokomoje versijoje prisideda dublikatų paieška, turinio archyvinis cache'avimas, broken link tikrinimas ir pan. Pagrindiniai minusai: raginimas pereiti į mokamą versiją, ne itin aiškios ateities perspektyvos ir privacy klausimai.
 * [Reminiscence ](https://github.com/kanishka-linux/reminiscence) - self hosted sprendimas
 
 ## Markdown
 
-* [Caret](https://caret.io/) - visiškai minimalistinis lokalus Markdown editorius, tačiau kuris turi viską ko reikia tokiam produktui. Savo paskirčiai - puikus, tačiau Notion laimi, nes turi sync.
+* [Caret](https://caret.io) - visiškai minimalistinis lokalus Markdown editorius, tačiau kuris turi viską ko reikia tokiam produktui. Savo paskirčiai - puikus, tačiau Notion laimi, nes turi sync.
 * [Notable ](https://github.com/notable/notable)- kokybiškas local Markdown editorius išlaikantis hierarchinę sistemą
-* [Typora](https://typora.io/) - kaip markdown editorius, turi nemažai patogių papildomų funkcijų
-* [Zettlr](https://www.zettlr.com/)
-
-
+* [Typora](https://typora.io) - kaip markdown editorius, turi nemažai patogių papildomų funkcijų
+* [Zettlr](https://www.zettlr.com)
 
