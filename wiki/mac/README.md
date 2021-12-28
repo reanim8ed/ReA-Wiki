@@ -7,7 +7,8 @@
 ## Programing
 
 * Thoughts on the new M1 MacBook as a Symfony developer: [https://www.ewaldvanderveken.dev/thoughts-on-the-new-m1-macbook-as-a-symfony-developer/](https://www.ewaldvanderveken.dev/thoughts-on-the-new-m1-macbook-as-a-symfony-developer/)
-* Speed Up Docker for Mac: [http://blog.michaelperrin.fr/2017/04/14/docker-for-mac-on-a-symfony-app/](http://blog.michaelperrin.fr/2017/04/14/docker-for-mac-on-a-symfony-app/)&#x20;
+* Speed Up Docker for Mac: [http://blog.michaelperrin.fr/2017/04/14/docker-for-mac-on-a-symfony-app](http://blog.michaelperrin.fr/2017/04/14/docker-for-mac-on-a-symfony-app/)
+* How to install MySQL: [https://flaviocopes.com/mysql-how-to-install/](https://flaviocopes.com/mysql-how-to-install/)
 
 ## Emulation
 
