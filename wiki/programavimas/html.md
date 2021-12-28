@@ -4,7 +4,7 @@ HTML programavimas ;D Juokas juokais, bet iš tiesų, net ir HTML'as turi visoki
 
 ### Javascript
 
-Nuo HTM5 specifikacijos išleidimo nebėra privalomybės &lt;script&gt; elementui nurodinėti`type="text/javascript"` . Pvz naudojantis W3 validatoriumi, jis ant scriptų, kurie turės šitą atributą, rodys warning žinutę. Jei visus scriptus įtraukinėjame patys, tai galima jų įtraukimo sintaksę supaprastinti, tačiau jeigu naudojami third-party moduliai, scriptai ar library, tai tikėtina, jog jie automatiškai įtraukinės scriptus senąja sintakse.
+Nuo HTM5 specifikacijos išleidimo nebėra privalomybės \<script> elementui nurodinėti`type="text/javascript"` . Pvz naudojantis W3 validatoriumi, jis ant scriptų, kurie turės šitą atributą, rodys warning žinutę. Jei visus scriptus įtraukinėjame patys, tai galima jų įtraukimo sintaksę supaprastinti, tačiau jeigu naudojami third-party moduliai, scriptai ar library, tai tikėtina, jog jie automatiškai įtraukinės scriptus senąja sintakse.
 
 #### Async ir defer
 
@@ -22,13 +22,13 @@ Linkai turi `rel` atributą, kuris nurodo nuorodos sąryšį su dabartiniu pusla
 
 * `nofollow` - ši reikšmė ko gero yra ir taip neblogai žinoma, jei bent kiek užsiimama SEO optimizacijomis. Iš esmės nurodo, jog nuoroda nėra susijusi su mūsų dabartiniu puslapiu, nėra jo dalis ir SEO įtaka nėra perduodama. Puikiai tinka, kai dedamos nuorodos į partnerių, rėmėjų puslapius, tinklapio kūrėjų nuorodai.
 * `noreferrer` - neperduoda nukreipimo informacijos. T.y. statistikoje nesimatys, jog tinklapio lankytojas atėjo iš jūsų puslapio.
-* `noopener` - kai naudojamasi `target=_blank` atributu, naujai atidarytas langas `window.opener` pagalba gali visvien pasiekti jį atidariusio [puslapio langą](https://mathiasbynens.github.io/rel-noopener/). Tai yra pavojinga, nes jei nukreipiate į third-party puslapį ir jį buvo įsilaužta, tai naudotojui, kuris paspaudžia ant šios nuorodos įmanoma potencialiai redirectinti jūsų tinklapio tab'ą į visai kitą žalingą URL. `noopener` uždaro duris tokio pobūdžio atakai.  
+* `noopener` - kai naudojamasi `target=_blank` atributu, naujai atidarytas langas `window.opener` pagalba gali visvien pasiekti jį atidariusio [puslapio langą](https://mathiasbynens.github.io/rel-noopener/). Tai yra pavojinga, nes jei nukreipiate į third-party puslapį ir jį buvo įsilaužta, tai naudotojui, kuris paspaudžia ant šios nuorodos įmanoma potencialiai redirectinti jūsų tinklapio tab'ą į visai kitą žalingą URL. `noopener` uždaro duris tokio pobūdžio atakai. &#x20;
 
 ## Elementai
 
 ### Video
 
-Norint puslapyje įdėti automatiškai grojantį video, kas dažnu atveju daroma, vietoj seniau naudotinų .gif'ų, galima naudoti HTML5 specifikacijoje aprašytą &lt;video&gt; elementą su papildomais atributais, kaip `autoplay muted loop` . Kad video būtų automatiškai grojamas ir ant mobiliųjų Apple įrenginių, video elementui būtina uždėti ir papildomą `playsinline` atributą:
+Norint puslapyje įdėti automatiškai grojantį video, kas dažnu atveju daroma, vietoj seniau naudotinų .gif'ų, galima naudoti HTML5 specifikacijoje aprašytą \<video> elementą su papildomais atributais, kaip `autoplay muted loop` . Kad video būtų automatiškai grojamas ir ant mobiliųjų Apple įrenginių, video elementui būtina uždėti ir papildomą `playsinline` atributą:
 
 ```markup
 <video autoplay muted loop playsinline>
@@ -48,7 +48,7 @@ Jeigu video neturi groti automatiškai ir turėtų būti rodomas tik po naudotoj
 
 ### Picture
 
-Paveikslėliai sudaro didelę dalį šiuolaikinio web'o, tad jiems taipogi reikia skirti dėmesio. 
+Paveikslėliai sudaro didelę dalį šiuolaikinio web'o, tad jiems taipogi reikia skirti dėmesio.&#x20;
 
 #### Dydis
 
@@ -66,13 +66,13 @@ Pirmiausia reikėtų stengtis visur naudoti paveikslėlius max tokio dydžio, ko
      src="elva-fairy-800w.jpg" alt="Elva dressed as a fairy">
 ```
 
-Pagal šį pavyzdį standartiškai loadinamas 800px pločio paveikslėlis, nebent žiūrima ant mažesnio pločio telefono ekrano. Galima sakyti, šis būdas apjungia &lt;img&gt; elementrą su min-width, max-width css taisyklėmis, pagal kurias galima užkrauti tinkamo dydžio variantą.
+Pagal šį pavyzdį standartiškai loadinamas 800px pločio paveikslėlis, nebent žiūrima ant mažesnio pločio telefono ekrano. Galima sakyti, šis būdas apjungia \<img> elementrą su min-width, max-width css taisyklėmis, pagal kurias galima užkrauti tinkamo dydžio variantą.
 
 #### Kokybė
 
-Antras optimizavimo metodas po dydžio yra paveikslėlio kokybės optimizavimas. Tai dažniausiai daroma kompresijos pagalba pasinaudojant tokius įrankius, kaip kad "Export to web" img redaktoriuose, [https://squoosh.app](https://squoosh.app), [https://tinypng.com](https://tinypng.com/) ir kitais. Dažnu atveju paveikslėliui galima nustatyti pvz 85% kokybės lygį: matomo tinklapyje paveikslėlio kokybė pasikeičia beveik nepastebimai, tačiau paties paveikslėlio svoris gali sumažėti gan ženkliai, pvz. 30-50%. 
+Antras optimizavimo metodas po dydžio yra paveikslėlio kokybės optimizavimas. Tai dažniausiai daroma kompresijos pagalba pasinaudojant tokius įrankius, kaip kad "Export to web" img redaktoriuose, [https://squoosh.app](https://squoosh.app), [https://tinypng.com](https://tinypng.com) ir kitais. Dažnu atveju paveikslėliui galima nustatyti pvz 85% kokybės lygį: matomo tinklapyje paveikslėlio kokybė pasikeičia beveik nepastebimai, tačiau paties paveikslėlio svoris gali sumažėti gan ženkliai, pvz. 30-50%.&#x20;
 
-Be kompresijos taipogi galima naudoti modernesnius paveikslėlių formatus, pvz .webp. Problema su šiuo formatu yra, kad jo nerodo [Safari ir IE](https://caniuse.com/#search=webp). Apeiti šią problemą galima vietoj &lt;img&gt; elemento naudojant HTML5 &lt;picture&gt; elementą:
+Be kompresijos taipogi galima naudoti modernesnius paveikslėlių formatus, pvz .webp. Problema su šiuo formatu yra, kad jo nerodo [Safari ir IE](https://caniuse.com/#search=webp). Apeiti šią problemą galima vietoj \<img> elemento naudojant HTML5 \<picture> elementą:
 
 ```markup
 <picture>
@@ -81,11 +81,11 @@ Be kompresijos taipogi galima naudoti modernesnius paveikslėlių formatus, pvz 
 </picture>
 ```
 
-Naršyklės, kurios palaiko source nurodytą formatą į img src įstatys pirmą tinkamą formatą, o jei nepalaikomas nei vienas - bus kraunamas tiesiog standartinis &lt;img&gt;. Lygiai tas pats principas galioja video elemente, kur vietoj .mp4 derėtų naudoti .webm.
+Naršyklės, kurios palaiko source nurodytą formatą į img src įstatys pirmą tinkamą formatą, o jei nepalaikomas nei vienas - bus kraunamas tiesiog standartinis \<img>. Lygiai tas pats principas galioja video elemente, kur vietoj .mp4 derėtų naudoti .webm.
 
-Šis &lt;picture&gt; elementas taipogi gali naudoti responsive img su prieš tai aprašytais `srcset` ar `sizes` atributais.
+Šis \<picture> elementas taipogi gali naudoti responsive img su prieš tai aprašytais `srcset` ar `sizes` atributais.
 
-Taipogi su &lt;picture&gt; elementu galima atlikti ir [art direction](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images#Art_direction) - principas, kai mažesniuose ekranuose norime rodyti ne tik mažesnę to paties paveikslėlio versiją, tačiau jis turi būti ir visiškai kitokio aspect ratio. Pvz desktop'e naudojama plati horizontali nuotrauka, kurioje pagrindinis objektas centre, tačiau rodant mobiliuose įrenginiuose ją apkerpame, jog pagrindinis fokusas būtų į centrinį objektą: 
+Taipogi su \<picture> elementu galima atlikti ir [art direction](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia\_and\_embedding/Responsive\_images#Art\_direction) - principas, kai mažesniuose ekranuose norime rodyti ne tik mažesnę to paties paveikslėlio versiją, tačiau jis turi būti ir visiškai kitokio aspect ratio. Pvz desktop'e naudojama plati horizontali nuotrauka, kurioje pagrindinis objektas centre, tačiau rodant mobiliuose įrenginiuose ją apkerpame, jog pagrindinis fokusas būtų į centrinį objektą:&#x20;
 
 ```markup
 <picture>
@@ -111,7 +111,7 @@ Tačiau panašu, kad sulauksime ir native lazy load funkcionalumo. Paruoštos sp
 <img src="image.png" loading="lazy" alt="…" width="200" height="200">
 ```
 
-Naršyklės, kurios loading atributo dar nepalaiko - kraus paveikslėlį, kaip įprasta. 
+Naršyklės, kurios loading atributo dar nepalaiko - kraus paveikslėlį, kaip įprasta.&#x20;
 
 Galima šiuos du metodus apjungti ir tokiu atveju lazy loadinti paveikslėlius nepriklausomai nuo naršyklės:
 
@@ -138,7 +138,7 @@ Galima šiuos du metodus apjungti ir tokiu atveju lazy loadinti paveikslėlius n
 </script>
 ```
 
- `if ('loading' in HTMLImageElement.prototype) {` patikrina ar naršyklė palaiko loading atributą ir jei taip - pakeičia visų paveikslėlių su šiuo parametru `data-src` į tiesiog `src` , kitu atveju dinamiškai užkraunama lazysizes biblioteka. Alternatyva galėtų būti, kai tiesiog į tinklapį įtraukiama lazysizes biblioteka ir papildomas jos [plugin'as](https://github.com/aFarkas/lazysizes/tree/gh-pages/plugins/native-loading), kuris šį darbą atlieka automatiškai ir tokiu atveju aukščiau esamo kodo naudoti nebereikia.
+&#x20;`if ('loading' in HTMLImageElement.prototype) {` patikrina ar naršyklė palaiko loading atributą ir jei taip - pakeičia visų paveikslėlių su šiuo parametru `data-src` į tiesiog `src` , kitu atveju dinamiškai užkraunama lazysizes biblioteka. Alternatyva galėtų būti, kai tiesiog į tinklapį įtraukiama lazysizes biblioteka ir papildomas jos [plugin'as](https://github.com/aFarkas/lazysizes/tree/gh-pages/plugins/native-loading), kuris šį darbą atlieka automatiškai ir tokiu atveju aukščiau esamo kodo naudoti nebereikia.
 
 #### Placeholders
 
@@ -149,14 +149,14 @@ Programuojant puslapį dažnu atveju prireikia paveikslėlių, kol tuo tarpu tik
 
 Mažiau profesionalūs, bet užtat daug labiau fun placeholderiai:
 
-* [Fill Murray](http://www.fillmurray.com/%20)
-* [PlaceCage](https://www.placecage.com/)
-* [placekitten](http://placekitten.com/)
-* [placedog](https://placedog.net/)
+* [Fill Murray](http://www.fillmurray.com)
+* [PlaceCage](https://www.placecage.com)
+* [placekitten](http://placekitten.com)
+* [placedog](https://placedog.net)
 
 ### Datalist
 
-&lt;datalist&gt; yra mažiau praktikoje naudojamas elementas, kuris tarsi sujungia input ir select elementus į vieną. T.y. gauname vieną lauką, kuriame galima tiek ir įrašyti savo reikšmę, tiek ir pasirinkti ją iš dropdown'o:
+\<datalist> yra mažiau praktikoje naudojamas elementas, kuris tarsi sujungia input ir select elementus į vieną. T.y. gauname vieną lauką, kuriame galima tiek ir įrašyti savo reikšmę, tiek ir pasirinkti ją iš dropdown'o:
 
 ```markup
 <label>Your favorite band?
@@ -193,4 +193,3 @@ HTML5.1 specifikacija turi ir native išskleidžiamo accordion'o funkcionalumą:
   <p>Some explanation goes here...</p>
 </details>
 ```
-

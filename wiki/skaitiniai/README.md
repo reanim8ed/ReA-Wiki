@@ -20,11 +20,11 @@ Consider text: given that newspapers monetized by placing advertisements next to
 
 What changed was the feed, something uniquely enabled by digital. Whereas a newspaper had to be defined up-front, such that it could be printed and distributed at scale, a feed is tailored to the individual in real-time — and so are the advertisements. Suddenly it was print that was worth pennies, while the Internet generally and mobile especially were worth more than newspapers ever were.
 
-&lt;...&gt;Even that, though, suggests that the company can’t entirely escape its roots: having one identity is a core principle for Facebook, which is great for advertising if nothing else, but at odds with the desire of many to be different parts of themselves to different people in different contexts. Twitter, meanwhile, is unlikely to ever recover from its missed opportunity to dominate the interest graph.
+<...>Even that, though, suggests that the company can’t entirely escape its roots: having one identity is a core principle for Facebook, which is great for advertising if nothing else, but at odds with the desire of many to be different parts of themselves to different people in different contexts. Twitter, meanwhile, is unlikely to ever recover from its missed opportunity to dominate the interest graph.
 
 Instead, the role for both products will be as a bridge between attention-focused products on one side, and private interest-defined trusted groups on the other. Their networks still have value, but primarily as a tool for distribution and reach of content that will increasingly be created in one place, and discussed in another.
 
-[https://stratechery.com/2020/social-networking-2-0/](https://stratechery.com/2020/social-networking-2-0/) 
+[https://stratechery.com/2020/social-networking-2-0/](https://stratechery.com/2020/social-networking-2-0/)&#x20;
 
 ### Red Hat Goes Full IBM and Says Farewell to CentOS
 
@@ -42,7 +42,7 @@ This is occasionally exasperating, as a software person who doesn’t want to ha
 
 For example, when I first came to Japan, I had no computer. I also had no money, because the plane ticket and setting up my household ate all of my savings. In America, this isn’t a barrier to getting a computer, because Dell will do a quick FICO score on you and then happily extend you $2,000 of trade credit.
 
-Dell Japan, on the other hand, set me up with two phone calls with actual human underwriters at two Japanese financial institutions. Both had me fill out rather extensive forms \(100+ questions — seriously\). The first said “In view of your length of tenure at your employer and length of residence at your apartment, we don’t feel that your situation is stable enough to extend you credit.” The second said “Look, umm, officially, I am supposed to just tell you that we decline your business and wish you luck. Unofficially, the bank doesn’t extend foreigners credit, as a matter of policy. You’ll find that is quite common in Japan. I know, it is lamentable, but I figure that you’d be able to save yourself some time if you knew.”
+Dell Japan, on the other hand, set me up with two phone calls with actual human underwriters at two Japanese financial institutions. Both had me fill out rather extensive forms (100+ questions — seriously). The first said “In view of your length of tenure at your employer and length of residence at your apartment, we don’t feel that your situation is stable enough to extend you credit.” The second said “Look, umm, officially, I am supposed to just tell you that we decline your business and wish you luck. Unofficially, the bank doesn’t extend foreigners credit, as a matter of policy. You’ll find that is quite common in Japan. I know, it is lamentable, but I figure that you’d be able to save yourself some time if you knew.”
 
 So I gave up for a while, but mentioned to a coworker later that week that I really wanted a computer to be able to Skype home. He said “Come with me” and we left, in the middle of the work day, to visit a bank. It is a smaller regional bank in Gifu. I’ll elide naming it to avoid the following story being personally identifiable, but suffice it to say it is a _very_ conservative institution.
 
@@ -78,50 +78,50 @@ That was the first of a dozen stories which you wouldn’t believe actually happ
 
 Taro stopped me from doing a wire transfer back to Bank of America to pay my student loans during the Lehman shock because Wachovia had gone into FDIC receivership that morning. I told Taro that I didn’t have an account at Wachovia. Taro said that he was aware of that, but that I used Lloyds’ remittance service to send wires, and Lloyds’ intermediary bank in the US was Wachovia, which might or might not be safe to have money in at the moment. I asked Taro how in God’s name does a banker in Ogaki, Japan happen to know what intermediary banks Lloyds uses in North America _off the top of his head_, and Taro said, and I quote, “There exists a customer of the bank who habitually makes USD wire transfers using Lloyds and, accordingly, it is my business to know this.”
 
-Taro called me on March 12th, the day after the Touhoku earthquake, to say that he was concerned about my balance in the circumstances \(I had cleared out my account to pay a tax assessment minutes before the quake\) and, if I needed it, to come down to the bank and, quote, we’ll take care of you and worry about the numbers some other time, endquote.
+Taro called me on March 12th, the day after the Touhoku earthquake, to say that he was concerned about my balance in the circumstances (I had cleared out my account to pay a tax assessment minutes before the quake) and, if I needed it, to come down to the bank and, quote, we’ll take care of you and worry about the numbers some other time, endquote.
 
 Taro eventually retired from his position, and as part of making his rounds, gave me a warm introduction to the new bank manager. He made it a point to invite me out for coffee, so that he’d be able to put a face to Taro’s copious handwritten notes about my character. Some years after that, a new manager transferred in. I popped by with a congratulations-on-the-new-job gift, mildly surprising the staff, but it felt appropriate.
 
-When I moved to Tokyo, I went to the regional bank’s sole Tokyo office, which exists to serve their large megacorp customers. They were quite shocked that I had an account with the bank \(“Mister! Citibank is down the street! If you use our ATMs you’ll get charged extra!”\), and even more shocked when I told them that I run a multinational software company through it. “Wouldn’t you get better services with Citibank or Mitsubishi?” The thought of switching never crossed my mind. Indeed, I can’t imagine anything that would convince me to switch. They don’t make numbers big enough to compensate for how much I trust my bank.
+When I moved to Tokyo, I went to the regional bank’s sole Tokyo office, which exists to serve their large megacorp customers. They were quite shocked that I had an account with the bank (“Mister! Citibank is down the street! If you use our ATMs you’ll get charged extra!”), and even more shocked when I told them that I run a multinational software company through it. “Wouldn’t you get better services with Citibank or Mitsubishi?” The thought of switching never crossed my mind. Indeed, I can’t imagine anything that would convince me to switch. They don’t make numbers big enough to compensate for how much I trust my bank.
 
 Was I a particularly large account to the bank? Nope. It’s the same passbook savings account a 17 year old gets to deposit their first wages into. For 8+ of my ten years in Japan, my balance there was below $2,000.
 
-The bank is one anecdote, but I could tell you about the hair stylist who drops me a handwritten postcard after _every_ appointment, the restaurant that I went to weekly that tried to cater my wedding _for free_, the glasses shop which invited me to come back for a \(free\) frame re-bending and cup of coffee any time I was in the neighborhood, etc etc.
+The bank is one anecdote, but I could tell you about the hair stylist who drops me a handwritten postcard after _every_ appointment, the restaurant that I went to weekly that tried to cater my wedding _for free_, the glasses shop which invited me to come back for a (free) frame re-bending and cup of coffee any time I was in the neighborhood, etc etc.
 
 [https://www.kalzumeus.com/2014/11/07/doing-business-in-japan/](https://www.kalzumeus.com/2014/11/07/doing-business-in-japan/)
 
 ### Social cooling
 
 * Kai kurie žmonės jau yra linkę elgtis atsargiau internete ir skirti daugiau dėmesio privatumo aspektams. Tačiau visgi didžiajai daugumai visa tai ir toliau nerūpi arba jų argumentas susiveda į "koks skirtumas, aš neturiu ką slėpti". Viena iš problemų kodėl taip yra - nes pro-privacy argumentai apima daug visokių skirtingų aspektų ir implikacijų ir jie tampa tiesiog kompeksiški ir sunkiau suvokiami.
-* Manau šis saitas nors ir labai kriminalistikai, tačiau supaprastina viską iki labai paprastos ir aiškios "social cooling' koncepcijos. 
+* Manau šis saitas nors ir labai kriminalistikai, tačiau supaprastina viską iki labai paprastos ir aiškios "social cooling' koncepcijos.&#x20;
 
-> If you feel you are being watched, you change your behavior.   
-> We are becoming too transparent. This is breeding a society where self-censorship and risk-aversion are the new normal.  
+> If you feel you are being watched, you change your behavior. \
+> We are becoming too transparent.> &#x20;This is breeding a society where self-censorship and risk-aversion are the new normal.\
 > Privacy is the right to be imperfect
 
-* [https://www.socialcooling.com/](https://www.socialcooling.com/)
+* [https://www.socialcooling.com/](https://www.socialcooling.com)
 
 ### Ask HN: What is it like to be old? What advice would you give to younger people?
 
-What's it like to be old?  
-My boss is younger than I am and is absolutely sure he knows more about my job than I do, even though I've been doing it since before he was born and he never did it at all.  
-People on TV keep trying to sell me stuff like Metamucil, some new kind of cane or similar silly gadget, or a scam investment, none of which I want.  
-My grandkids can't understand why I can't read things they're holding right in front of my face until I've spent twenty minutes finding, then cleaning, my glasses.  
-My wife has heard all of my jokes and all of my excuses. She now criticizes the former and laughs at the latter, instead of the other way around.  
-My friends sound like cranky old sticks-in-the-mud who wish they could turn back the clock to a time that wasn't nearly as wonderful as they claim to remember it was.  
-A trip to the supermarket now tires me out and instead of going out with \(surviving\) friends, I really look forward to taking a nap on the couch. Really.  
-The celebrities I recognize are senile and/or decrepit. The ones who are currently popular are appalling.  
-I don't have enough money to retire but dream of it every day \(See the above comment about my boss\).  
-Life is fantastic, except when it's not. Whichever it is now, pretty soon, it will be the other one.  
+What's it like to be old?\
+My boss is younger than I am and is absolutely sure he knows more about my job than I do, even though I've been doing it since before he was born and he never did it at all.\
+People on TV keep trying to sell me stuff like Metamucil, some new kind of cane or similar silly gadget, or a scam investment, none of which I want.\
+My grandkids can't understand why I can't read things they're holding right in front of my face until I've spent twenty minutes finding, then cleaning, my glasses.\
+My wife has heard all of my jokes and all of my excuses. She now criticizes the former and laughs at the latter, instead of the other way around.\
+My friends sound like cranky old sticks-in-the-mud who wish they could turn back the clock to a time that wasn't nearly as wonderful as they claim to remember it was.\
+A trip to the supermarket now tires me out and instead of going out with (surviving) friends, I really look forward to taking a nap on the couch. Really.\
+The celebrities I recognize are senile and/or decrepit. The ones who are currently popular are appalling.\
+I don't have enough money to retire but dream of it every day (See the above comment about my boss).\
+Life is fantastic, except when it's not. Whichever it is now, pretty soon, it will be the other one.\
 My advice: Pay attention.
 
----
+\---
 
 The key is finding a good balance between working hard and playing hard. Your career won't suffer if you take a week long vacation. Your health will be fine if you sometimes volunteer to do a weekend shift. Do both and you can be successful and happy about how you spent your youth.
 
----
+\---
 
-My advice at mid-50s to younger people is to learn 1. manage your energy for your long term health, 2. enjoy time with the highest quality people you can find \(I mean that in terms of good language, hopeful, constructive/collaborative in nature and working on themselves, empathetic to all those around you\), and lastly say "yes" to almost everything and enjoy to the max. If my life were a candle, every year it is slowly losing some if its brightness/energy through no fault or effort on my own. I had an unusual situation which aged me faster than I ever wished for-- lost my mid-30s wife to a rare cancer 3 years after diagnosis. A part of me died with her and my heart will never heal. Still I wake up hopeful every day. We are all along for a short ride, enjoy the hell out of it. It could/will disappear in an instant.
+My advice at mid-50s to younger people is to learn 1. manage your energy for your long term health, 2. enjoy time with the highest quality people you can find (I mean that in terms of good language, hopeful, constructive/collaborative in nature and working on themselves, empathetic to all those around you), and lastly say "yes" to almost everything and enjoy to the max. If my life were a candle, every year it is slowly losing some if its brightness/energy through no fault or effort on my own. I had an unusual situation which aged me faster than I ever wished for-- lost my mid-30s wife to a rare cancer 3 years after diagnosis. A part of me died with her and my heart will never heal. Still I wake up hopeful every day. We are all along for a short ride, enjoy the hell out of it. It could/will disappear in an instant.
 
 [https://news.ycombinator.com/item?id=24531718](https://news.ycombinator.com/item?id=24531718)
 
@@ -186,13 +186,13 @@ It’s an effective growth strategy. Once you try to grow the business, it’s a
 * In my experience, people who say everybody should pay for news spend most of their time with people who also pay for news, so they overestimate people’s appetite for paywalled information.
 * Subscription publications will reinforce their readers’ perspectives because most people only pay for information they agree with. Thus, an increase in subscription-supported media won’t just fragment information sources. It will fragment society.
 * Obsessive news consumption leads to a negativity bias that distorts our worldviews because creation happens slowly, but destruction happens fast and seizes our attention. Therefore, the kind of rare events that jump to the front pages of the newspaper tend to be negative, while stories about steadily declining poverty rates or improvements in global health rarely make national headlines.
-* It's not the media's role to present the world as it really is. They \(media\) will always have to compete to engage our attention with exciting stories and dramatic narratives. It is upon us consumers to realize that news is not very useful for understanding the world.
+* It's not the media's role to present the world as it really is. They (media) will always have to compete to engage our attention with exciting stories and dramatic narratives. It is upon us consumers to realize that news is not very useful for understanding the world.
 * The current philosophy is built upon the fundamental lie that news is worthy of consuming every day. Daily news is profitable because it’s an unnecessary habit. Just like cereal, once people make a habit of eating it during their morning routine, they tend to maintain the habit.
 * When we direct our attention to the daily shouts of breaking news, we overwhelm ourselves with irrelevant data and uncommon events. We give rare events too much publicity, which distorts our model of the world. In turn, we mistake chance for certainty and the infrequent for the inevitable. Instead of enriching ourselves with the wisdom of history, we drive ourselves insane with the madness of the moment.
 * The best lack all conviction, while the worst are full of passionate intensity.
 * One of the biggest benefits of writing online is realizing how often I'm wrong about the world. Whenever I publish an essay, I’m surprised by how many people respond with well-reasoned rebuttals I’ve never considered. As the responses have increased, I’ve been humbled by my inability to predict the future
 * No human will ever be able to understand the world. It’s too complex, and we can’t see culture because we’re overwhelmed by its invisible influences. At best, we can build local expertise and useful — but ultimately inaccurate — models of the world. Past a certain point, additional information deludes us because it makes us think we understand the world more than we actually do.
-* HEALTHY NEWS CONSUMPTION IS POSSIBLE 
+* HEALTHY NEWS CONSUMPTION IS POSSIBLE&#x20;
   * I. TRACK WHAT YOU CONSUME
     * The benefits of the Internet are only as strong as your ability to direct your attention. It’s a gift to people with self-control, but a curse to those without it. And while it hurts the average news consumer, savvy ones have never been smarter or more informed.
     * Fathers and mothers have lost the idea that the highest aspiration they might have for their children is for them to be wise — as priests, prophets or philosophers are wise. Specialized competence and success are all that they can imagine.
@@ -212,7 +212,7 @@ It’s an effective growth strategy. Once you try to grow the business, it’s a
 
 ### Old CSS, new CSS
 
-* Web development'o arba jei konkrečiau - būtent CSS vystymosi istorija. 
+* Web development'o arba jei konkrečiau - būtent CSS vystymosi istorija.&#x20;
 * Esu jau pakankamai senas, jog prisiminčiau, jog mokykloje dar teko pasižaisti su MS Frontpage'u ir puslapių struktūros dėliojimu lentelėmis. Taipogi esu susidūręs ir lipdoma paveikslėlių mozaika, vien tam, jog mygtuką padaryti su apvaliais kampais. Na ir galiausiai man vis dar atrodo lyg jQuery boom'as buvo dar ne taip ir senai. Tačiau įdomu pasiskaitinėti nuodugniau ir apie tai, kas buvo dar ir prieš tai.
 * Apie tai kaip buvo kuriami puslapiai iki kol pasirodė pirma CSS versija, apie tai kaip IE6 nugalėjęs Netscape'ą pasileido į visišką štilių ir web'as užsišaldė 5-erių metų laikotarpiui iki kol atsirado naujas rimtas konkurentas. Ir apie tai, kaip kai kurių dar anuometinių problemų sukurtos pasekmės, kaip pvz browser prefix'ai vis dar gyvuoja ir iki šių laikų.
 * Straipsnis puikus tuom, kad pateikia kontekstą, t.y. parodo kokios konkrečiai problemos buvo bandomos spręsti. Visus tuometinius pain points ir hack'us bandant juos apeiti.
@@ -250,10 +250,11 @@ _The diamond invention is far more than a monopoly for fixing diamond prices; it
 
 ### FaceApp
 
-* Programėlė pirmą kartą viral patapo dar 2017-ais ir būtent tada ją teko išbandyti ir man. Pamenu, pasijuokiau, kad pasendinus patalpintą nuotrauką, joje atrodau išties panašiai į savo senelį. Tačiau banga kaip staiga uždėjo, taip ir praėjo. Tada atėjo 2019-tų vasara ir prasidėjo antroji ir šį kartą kur kas stipresnė banga. Pirmiausia vajus įsisiubavo po to, kai programėle pasinaudojo kelios pasaulio įžymybės ir populiarumas išaugo iki tiek, jog atrodo, kad ja pasinaudojo ko ne visi, kas tik naudojasi socialiniais tinklais. Tačiau net nespėjus tai bangai nuslūgti, prasidėjo antrasis vajus, tik šį kartą sėjantis paniką ir pasipiktinimą. O tai kilo dėl to, jog į viešumą iškilo faktas, kad app'są sukūrė Rusijos IT kompanija bei tai, kiek milijonų žmonių jau spėjo jiems atiduoti savo duomenis ir galiausiai tai, kad jų licencija yra labai plataus pobūdžio ir iš esmės leidžianti naudoti surinktą informaciją bet kokiems tikslams. Ir taip, aš pilnai suprantu susirūpinimą dėl privatumo \(vieta iš priežasčių, kodėl Facebook'e aš nesu užsivadinęs savo tikru vardu ar pavarde jau daugybę metų\), bet iš kitos pusės, pirmiausia manau, kad skandalas išsipūtė vien jau dėlto, jog tai rusų apps'as. Taipogi, žmonės savo nuotraukas talpina į bet kokias random programėles, o tada mąsiškai "susirūpina" savo privatumu ir skundžiasi Facebook komentaruose, kuris juo labiau garsėja savo privatumo pažeidimais, kurie yra kur kas didesnio masto, o savo licencijoje irgi turi labai panašių punktų apie tai, kaip gali būti naudojama patalpinta vartotojų informacija. Visa tai yra tiesiog hipokritiška. Tie žmonės, kuriems iš tiesų tai rūpi, jie savo privatumu rūpinasi jau senai, o kiti puolė į masinę isteriją tiesiog dėl herd mentality.  Keli straipsniai ta tema:
+* Programėlė pirmą kartą viral patapo dar 2017-ais ir būtent tada ją teko išbandyti ir man. Pamenu, pasijuokiau, kad pasendinus patalpintą nuotrauką, joje atrodau išties panašiai į savo senelį. Tačiau banga kaip staiga uždėjo, taip ir praėjo. Tada atėjo 2019-tų vasara ir prasidėjo antroji ir šį kartą kur kas stipresnė banga. Pirmiausia vajus įsisiubavo po to, kai programėle pasinaudojo kelios pasaulio įžymybės ir populiarumas išaugo iki tiek, jog atrodo, kad ja pasinaudojo ko ne visi, kas tik naudojasi socialiniais tinklais. Tačiau net nespėjus tai bangai nuslūgti, prasidėjo antrasis vajus, tik šį kartą sėjantis paniką ir pasipiktinimą. O tai kilo dėl to, jog į viešumą iškilo faktas, kad app'są sukūrė Rusijos IT kompanija bei tai, kiek milijonų žmonių jau spėjo jiems atiduoti savo duomenis ir galiausiai tai, kad jų licencija yra labai plataus pobūdžio ir iš esmės leidžianti naudoti surinktą informaciją bet kokiems tikslams. Ir taip, aš pilnai suprantu susirūpinimą dėl privatumo (vieta iš priežasčių, kodėl Facebook'e aš nesu užsivadinęs savo tikru vardu ar pavarde jau daugybę metų), bet iš kitos pusės, pirmiausia manau, kad skandalas išsipūtė vien jau dėlto, jog tai rusų apps'as. Taipogi, žmonės savo nuotraukas talpina į bet kokias random programėles, o tada mąsiškai "susirūpina" savo privatumu ir skundžiasi Facebook komentaruose, kuris juo labiau garsėja savo privatumo pažeidimais, kurie yra kur kas didesnio masto, o savo licencijoje irgi turi labai panašių punktų apie tai, kaip gali būti naudojama patalpinta vartotojų informacija. Visa tai yra tiesiog hipokritiška. Tie žmonės, kuriems iš tiesų tai rūpi, jie savo privatumu rūpinasi jau senai, o kiti puolė į masinę isteriją tiesiog dėl herd mentality. \
+  Keli straipsniai ta tema:
 * [https://onezero.medium.com/is-faceapps-data-collection-any-worse-than-facebook-s-96153774575e](https://onezero.medium.com/is-faceapps-data-collection-any-worse-than-facebook-s-96153774575e)
 * [https://www.bloomberg.com/news/articles/2019-07-19/faceapp-is-it-safe-just-consider-how-much-more-google-knows](https://www.bloomberg.com/news/articles/2019-07-19/faceapp-is-it-safe-just-consider-how-much-more-google-knows)
-* [https://www.wired.com/story/faceapp-privacy-backlash-facebook/?utm\_source=pocket&utm\_medium=email&utm\_campaign=pockethits](https://www.wired.com/story/faceapp-privacy-backlash-facebook/?utm_source=pocket&utm_medium=email&utm_campaign=pockethits)
+* [https://www.wired.com/story/faceapp-privacy-backlash-facebook/?utm\_source=pocket\&utm\_medium=email\&utm\_campaign=pockethits](https://www.wired.com/story/faceapp-privacy-backlash-facebook/)
 
 ### Xbox hakerių grupuotė
 
@@ -262,21 +263,21 @@ _The diamond invention is far more than a monopoly for fixing diamond prices; it
 
 ### Senoliai nusikaltėliai
 
-* Turėdavau tokią mintį, kad jei esi benamis, ko gero turėtų būti didelė paskata tiesiog elementariai vogti. Nekalbu apie dideles vagystes, kaip kad automobiliai ar kitas brangus turtas kur rizika ir pasekmės galėtų būti dideli. Labiau apie nedideles vagystes, kaip pvz maisto produktai iš parduotuvės. Jei pavyksta - ok, turėsi ką pavalgyti. Nepavyksta ir pagauna - nuveš ir palaikys areštinėje, turėsi bent laikinai stogą virš galvos, bus šilta \(labai aktualu gi žiemą\), o jei užlaikytų ilgiau - tai dar ir pavalgyti gausi. Praktiškai win-win situacija.
+* Turėdavau tokią mintį, kad jei esi benamis, ko gero turėtų būti didelė paskata tiesiog elementariai vogti. Nekalbu apie dideles vagystes, kaip kad automobiliai ar kitas brangus turtas kur rizika ir pasekmės galėtų būti dideli. Labiau apie nedideles vagystes, kaip pvz maisto produktai iš parduotuvės. Jei pavyksta - ok, turėsi ką pavalgyti. Nepavyksta ir pagauna - nuveš ir palaikys areštinėje, turėsi bent laikinai stogą virš galvos, bus šilta (labai aktualu gi žiemą), o jei užlaikytų ilgiau - tai dar ir pavalgyti gausi. Praktiškai win-win situacija.
 * Nesu tikras, kaip su šia logika yra mūsų šalyje, bet kai kur toks principas iš tiesų veikia. Vienas iš pvz yra Japonija, kuri ir taip turi gan stiprią senėjančios demografijos, mažo gimstamumo, vis labiau užsidarančios visuomenės problemas. Jei neturi artimųjų, kurie padėtų ir pasirūpintų, o pasiekus pensijinį amžių iš bazinės pensijos šalyje nepragyvenama, tai nieko kito nebelieka kaip bandyti vagiliauti. Tad nenuostabu, kad senolių nusikaltėlių lygis šalyje auga jau paskutinius 20 metų. Įdomus ir kiek netikėtas aspektas yra tai, kad pensija būnant kalėjime tai vis vien yra mokama. Tad padarai nedidelį ne smurtinį nusikaltimą, pasėdi kalėjime metus ir išeini jau susitaupęs ir bent jau kurį laiką turi iš ko pragyventi.
 * [https://www.bbc.com/news/stories-47033704](https://www.bbc.com/news/stories-47033704)
 
 ### Computational photography
 
 * Long grid'as apie visus pagrindinius computational photography principus. Kitaip tariant, papasakojama kodėl nuotraukos vis gerėja, nors objektyviai iš esmės smarkiai nesikeičia ir apie tai, kad visos esminės fotografijos inovacijos pastaruosius 10 metų vyksta būtent dėka mobiliųjų įrenginių.
-* [https://vas3k.ru/blog/computational\_photography/](https://vas3k.ru/blog/computational_photography/)
+* [https://vas3k.ru/blog/computational\_photography/](https://vas3k.ru/blog/computational\_photography/)
 
 ### I charged $18,000 for a Static HTML Page
 
 * Istorija, labai puikiai parodanti kokie gremėzdiški ir darbų atžvilgių neefektyvūs gali būti korporatyvai. Tikri laiko siurbikai ir jis deginamas daugybėje susitikimų, laukime ir begalėje elektroninių laiškų. Skaitant kitų industrijoje dirbančių žmonių reakcijas į šį straipsnį, galima nesunkiai suprasti, kad tai toli gražu nėra vienetinis atvejis ir tokios ir panašios istorijos ištiesų nutinka nuolat.
 * [https://idiallo.com/blog/18000-dollars-static-web-page](https://idiallo.com/blog/18000-dollars-static-web-page)
 
-### Andy Weir - Digitocracy \#shortstory
+### Andy Weir - Digitocracy #shortstory
 
 * The Martian autoriaus trumputė istorija apie dirbtinį intelektą, valdantį miestus. Kartais morališkai drastiškais būdais, tačiau visgi pasiekianti teigiamus rezultatus. Ar sutiktumei gyventi tarsi mašinos prižiūrimu gyvunėliu, kuriam realiai yra apribotos teisės, tačiau to kaip ir nepajauti ir visgi gyvenimas nuo to mažai corrupt, našesnis, geresnis ir jautiesi laimingesnis.
 * [https://idiallo.com/blog/18000-dollars-static-web-page](https://idiallo.com/blog/18000-dollars-static-web-page)
@@ -288,4 +289,3 @@ _The diamond invention is far more than a monopoly for fixing diamond prices; it
 ### ‘Free’quent flier has wings clipped after American Airlines takes away his unlimited pass
 
 * [https://nypost.com/2012/05/13/freequent-flier-has-wings-clipped-after-american-airlines-takes-away-his-unlimited-pass/](https://nypost.com/2012/05/13/freequent-flier-has-wings-clipped-after-american-airlines-takes-away-his-unlimited-pass/)
-

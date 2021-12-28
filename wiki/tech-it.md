@@ -1,5 +1,5 @@
 ---
-description: 'https://www.facebook.com/techit.lt'
+description: https://www.facebook.com/techit.lt
 ---
 
 # TechIT straipsniai
@@ -12,7 +12,7 @@ Nuo pat 2011-ųjų metų Note serija visuomet reprezentuodavo geriausia, ką gal
 
 Ir štai, ateinantį sausį bus pristatomi naujieji Galaxy S21 ir Galaxy Fold 3, tačiau Note 21 tarp jų tikriausiai jau nebeišvysime. Žinios apie tai, jog Samsung planuoja atsisveikinti su Note serijos telefonais, šmėžuoja informaciniame sraute jau kurį laiką. Tačiau šaltinių kiekis vis didėja, apie tai šiandien pranešė jau ir Reuters ir darosi vis panašiau, jog spekuliacijos visgi išties teisingos.
 
-Tai nėra labai stebinantis ėjimas - į produktų asortimentą įsiliejus Galaxy Fold serijai, ji atrakino visiškai naują premium segmento lygmenį. Tuo tarpu Galaxy S telefonai metai iš metų artėjo prie Note ne tik ekrano dydžiu, tačiau ir kitomis techninėmis charakteristikomis. O galiausiai šį kovą pristatytas ir S20 Ultra, kuris gali pasigirti 120Hz ekranu ir 5G, tad Note serijai iš esmės nebelieka kuo nustebinti ir išsiskirti. Taigi ateinančiais metais šios dvi linijos susilies ir būtent naujasis Ultra perims ne tik stylus valdiklio palaikymą \(nors komplektacijoje jo tikriausiai nebus ir reikės ji pirkti atskirai\), bet ir šį inovatyviausių mobiliųjų technologijų reprezentacijos vaidmenį.
+Tai nėra labai stebinantis ėjimas - į produktų asortimentą įsiliejus Galaxy Fold serijai, ji atrakino visiškai naują premium segmento lygmenį. Tuo tarpu Galaxy S telefonai metai iš metų artėjo prie Note ne tik ekrano dydžiu, tačiau ir kitomis techninėmis charakteristikomis. O galiausiai šį kovą pristatytas ir S20 Ultra, kuris gali pasigirti 120Hz ekranu ir 5G, tad Note serijai iš esmės nebelieka kuo nustebinti ir išsiskirti. Taigi ateinančiais metais šios dvi linijos susilies ir būtent naujasis Ultra perims ne tik stylus valdiklio palaikymą (nors komplektacijoje jo tikriausiai nebus ir reikės ji pirkti atskirai), bet ir šį inovatyviausių mobiliųjų technologijų reprezentacijos vaidmenį.
 
 [https://www.reuters.com/article/uk-samsung-elec-smartphone/samsung-may-discontinue-high-end-galaxy-note-smartphones-sources-idUKKBN28B3TZ](https://www.reuters.com/article/uk-samsung-elec-smartphone/samsung-may-discontinue-high-end-galaxy-note-smartphones-sources-idUKKBN28B3TZ)
 
@@ -20,7 +20,7 @@ Tai nėra labai stebinantis ėjimas - į produktų asortimentą įsiliejus Galax
 
 ### Android subsystem for Windows 10
 
-Viena iš naujųjų M1 Apple procesorius turinčių Mac'ų savybių yra galimybė pasileidinėti iOS app'sus skirtus iPad ir iPhone. Nors naudotis pele patogu tikrai ne su visomis tokiomis programėlėmis, tačiau vis vien šaunu turėti tokią galimybę po ranka ir tai tikrai daug geriau, nei bandyti tai padaryti pasileidinėjant neoficialius emuliatorius iš third party kūrėjų. 
+Viena iš naujųjų M1 Apple procesorius turinčių Mac'ų savybių yra galimybė pasileidinėti iOS app'sus skirtus iPad ir iPhone. Nors naudotis pele patogu tikrai ne su visomis tokiomis programėlėmis, tačiau vis vien šaunu turėti tokią galimybę po ranka ir tai tikrai daug geriau, nei bandyti tai padaryti pasileidinėjant neoficialius emuliatorius iš third party kūrėjų.&#x20;
 
 Panašu, jog gan greitai atitinkamą funkcionalumą įgaus ir Windows'ai. Samsung savininkai jau kurį laiką turi galimybę susijungti savo Galaxy telefonus su WinPC naudojant Your Phone programėlę, kuri pradžioje leido tik atsakyti žinutes ar sinchronizuoti failus, tačiau su laiku įgavo galimybę ir atkartoti telefone paleistas programėles. Tačiau dabar toks funkcionalumas ruošiamas daug giliau, jau sistemos lygmeniu ir šį kartą turės palaikymą visiems, o ne tik "išrinktiesiems" telefonams.
 
@@ -48,9 +48,9 @@ Overall, Apple hit it out of the park with the M1."
 
 ### Windows XP leaked
 
-19-metė Windows XP neišsikentė ir pabėgo iš namų. 
+19-metė Windows XP neišsikentė ir pabėgo iš namų.&#x20;
 
-Esamiems old-school vartotojams, kurių vis dar yra apie 1%, tai itin didelio pavojaus gal ir nesukuria, nes hackeriai vargu ar targetins tokią siaurą vartotojų grupę, tačiau atsižvelgiant į tai, kad naujosios Win versijos nebuvo kuriamos nuo 0, o tiesiog evoliucionavo su laiku - šitas leak'as gali reikšti, kad bus atrastos visiškai naujos saugumo spragos, kurios gali būti išlikusios ir iki šiol. 
+Esamiems old-school vartotojams, kurių vis dar yra apie 1%, tai itin didelio pavojaus gal ir nesukuria, nes hackeriai vargu ar targetins tokią siaurą vartotojų grupę, tačiau atsižvelgiant į tai, kad naujosios Win versijos nebuvo kuriamos nuo 0, o tiesiog evoliucionavo su laiku - šitas leak'as gali reikšti, kad bus atrastos visiškai naujos saugumo spragos, kurios gali būti išlikusios ir iki šiol.&#x20;
 
 Taipogi įmanoma, jog sulauksim naujų custom distribucijų, kurios įgalins naujo hardware palaikymą ir taip šiai kultinei OS bus įkvėpta dar šiek tiek naujos gyvybės.
 
@@ -60,9 +60,9 @@ You can't put this genie back in the bottle.
 
 ### Tesla battery day
 
-Po vakar įvykusio Tesla Battery Day, akcijų kainos smulktelėjo žemyn ir tą faktą spėjo pasigauti nemažai informacijos šaltinių. Labai įdomu tai stebėti, nes iš tiesų renginys visgi buvo puikus: padaryti svarbūs pristatymai, nurėžta baterijų kaina, pateikta išties daug informacijos, o viskas ką iš to sugebėjo pasiimti instituciniai investuotojai - tai tik faktas, jog dauguma timeline'ų apima 2-3 artimiausius metus, tad akcijos smuko. 
+Po vakar įvykusio Tesla Battery Day, akcijų kainos smulktelėjo žemyn ir tą faktą spėjo pasigauti nemažai informacijos šaltinių. Labai įdomu tai stebėti, nes iš tiesų renginys visgi buvo puikus: padaryti svarbūs pristatymai, nurėžta baterijų kaina, pateikta išties daug informacijos, o viskas ką iš to sugebėjo pasiimti instituciniai investuotojai - tai tik faktas, jog dauguma timeline'ų apima 2-3 artimiausius metus, tad akcijos smuko.&#x20;
 
-Be naujosios baterijos, kuri mažina kainą ir padidina range'ą, viena įspūdingiausių naujienų tai naujasis Model S Plaid modelis, kuris turės žadėtojo Roadster'io specifikacijas: 800+km range'as, 320km/h max greitis ir 0-100 km/h per &lt;1.9s ir visą tai už 140k. Automobilis prekyboje bus jau kitų metų pabaigoje. 
+Be naujosios baterijos, kuri mažina kainą ir padidina range'ą, viena įspūdingiausių naujienų tai naujasis Model S Plaid modelis, kuris turės žadėtojo Roadster'io specifikacijas: 800+km range'as, 320km/h max greitis ir 0-100 km/h per <1.9s ir visą tai už 140k. Automobilis prekyboje bus jau kitų metų pabaigoje.&#x20;
 
 [https://electrek.co/2020/09/22/tesla-model-s-plaid-unveil-range-speed/](https://electrek.co/2020/09/22/tesla-model-s-plaid-unveil-range-speed/)
 
@@ -86,7 +86,7 @@ Kadaise rinkos lyderiu buvusio Evernote agonija išties lėta ir tęsiasi tikrai
 
 Tačiau vienas didžiausių jo minusų buvo free planas, kuris vartotojus apribodavo tik 1000-iui turinio blokų. Jei servisu pradedama naudotis bent kiek aktyviau, šis limitas pasiekiamas gan sparčiai, o tolimesnis naudojimas buvo galimas tik turint 5$ mėnesinę prenumeratą. Well, tokie apribojimai buvo iki šiol - visas Notion bazinis funkcionalumas patampa nemokamas, jokio apribojimo turinio kiekiui!
 
-[https://www.notion.so/notion/What-s-New-157765353f2c4705bd45474e5ba8b46c\#3a101ebad536441793eeb4f748d0eea1](https://www.notion.so/notion/What-s-New-157765353f2c4705bd45474e5ba8b46c#3a101ebad536441793eeb4f748d0eea1)
+[https://www.notion.so/notion/What-s-New-157765353f2c4705bd45474e5ba8b46c#3a101ebad536441793eeb4f748d0eea1](https://www.notion.so/notion/What-s-New-157765353f2c4705bd45474e5ba8b46c#3a101ebad536441793eeb4f748d0eea1)
 
 ### Alfred alternatyva
 
@@ -94,7 +94,7 @@ Dar visai neseniai teko ieškoti alternatyvos, kuri windowsuose galėtų pasiūl
 
 Tačiau pasirodo Microsoft turi savų planų. Dirbant su to paties Wox kūrėjais diegiamas praktiškai identiškas funkcionalumas - ir tai yra išties awesome žinia. Gan greitai, kai susiburs atskira bendruomenė ir bus prikurta daugybė įskiepių, tai gali patapti išties puikiu ir galingu įrankiu.
 
-[https://www.theverge.com/2020/5/19/21262060/microsoft-windows-10-launcher-powertoy-spotlight-alfred-download-build](https://www.theverge.com/2020/5/19/21262060/microsoft-windows-10-launcher-powertoy-spotlight-alfred-download-build) 
+[https://www.theverge.com/2020/5/19/21262060/microsoft-windows-10-launcher-powertoy-spotlight-alfred-download-build](https://www.theverge.com/2020/5/19/21262060/microsoft-windows-10-launcher-powertoy-spotlight-alfred-download-build)&#x20;
 
 ### Streaming'as ir piratavimas
 
@@ -106,7 +106,7 @@ Tuo tarpu video streaming'as kenčia nuo servisų gausos ir ekskliuzyviškumo, b
 
 Tol kol visą tai nebus išspręsta ir media pasaulis nesugebės pasiūlyti visko vienoje vietoje - video piratavimas išliks aktuali problema. Pagal dabartines tendencijas, nepanašu, jog ši industrija bando kažką keisti ir pati ji greičiausiai nesusifixins. Priversti teigiamus pokyčius galėtų nebent tik įvestos griežtesnės reguliavimo taisyklės, kurios įpareigotų leidybines kompanijas atverti savo platinimo teises visiems.
 
-[https://www.reddit.com/r/technology/comments/bd9dl0/there\_are\_officially\_too\_many\_damn\_video/](https://www.reddit.com/r/technology/comments/bd9dl0/there_are_officially_too_many_damn_video/)
+[https://www.reddit.com/r/technology/comments/bd9dl0/there\_are\_officially\_too\_many\_damn\_video/](https://www.reddit.com/r/technology/comments/bd9dl0/there\_are\_officially\_too\_many\_damn\_video/)
 
 ### Naujasis facebook.com dizainas
 
@@ -133,20 +133,20 @@ Užtat galima paskaityti inžinierių patirtis apie tai, kiek, kokių sprendimų
 ### Apple Healthcare
 
 * Technologijų kompanijų bandymas sukurti wearables segmentą šiuo metu praktiškai apsiriboja tik ties laikrodukais. O vienas iš sėkmingiausių marketing twist'ų padedančių juos parduoti yra fitnesas. Tačiau, pagalvokime plačiau apie pagrindinius principus - tai išmanūs įrenginiai, prigludę prie mūsų kūno, prifarširuoti krūva daviklių ir sugebantys išmatuoti gan svarbius kūno rodiklius. Manau, jog akivaizdu, jog šių prietaisų potencialas ties fitnesu tikrai nesibaigia, o gan netolimoje ateityje vis daugiau fokuso matysime ties kita, tiek ir rimtesne, tiek ir gerokai pelningesne - sveikatos kryptimi.
-* Viena iš tech kompanijų gan tikslingai pradėjo žygiuoti būtent šia kryptimi ir tai nesunku pastebėti: Apple Watch sugeba pasiūlyti širdies kardiogramas, įspėjimus, kai pulso rodikliai priartėja prie pavojingų rodmenų, sugeba matuoti pavojingus klausai triukšmo lygius, padeda sekti vaisingumą ir mėnesinių ciklą, o taipogi suteikia galimybę dalyvauti masinėse sveikatos tyrimų programose ar tiesioginį duomenų pasiekimą iš medicinos įstaigų, kaip kad išrašytų vaistų sąrašas, numatyti vizitai, testų rezultatai ir pan. 
-* Viena iš šiuolaikinės medicinos problemų vis dar yra tai, jog dažniausiai pirma pajaučiami negalavimai ir simptomai, tuomet kreipiamasi pagalbos ir tik tada liga nustatoma ir pradedamas gydymas. Pajungus technologijas prasidėtų gan didelis asmeninės medicinos prietaisų bumas. Tai būtų įrenginiai, kurie ne tik sugeba nuolatos matuoti rodiklius, tačiau turėdami mūsų sveikatos istoriją, alergijų sąrašą ir įgimtą polinkį į ligas, gali aktyviai ir operatyviai reaguoti į net ir menkiausius organizmo pasikeitimus, pateikti rekomendacijas, pasiūlyti vizitą pas daktarą ar net automatiškai iškviesti greitąją, jei tą akimirką to reikia. 
+* Viena iš tech kompanijų gan tikslingai pradėjo žygiuoti būtent šia kryptimi ir tai nesunku pastebėti: Apple Watch sugeba pasiūlyti širdies kardiogramas, įspėjimus, kai pulso rodikliai priartėja prie pavojingų rodmenų, sugeba matuoti pavojingus klausai triukšmo lygius, padeda sekti vaisingumą ir mėnesinių ciklą, o taipogi suteikia galimybę dalyvauti masinėse sveikatos tyrimų programose ar tiesioginį duomenų pasiekimą iš medicinos įstaigų, kaip kad išrašytų vaistų sąrašas, numatyti vizitai, testų rezultatai ir pan.&#x20;
+* Viena iš šiuolaikinės medicinos problemų vis dar yra tai, jog dažniausiai pirma pajaučiami negalavimai ir simptomai, tuomet kreipiamasi pagalbos ir tik tada liga nustatoma ir pradedamas gydymas. Pajungus technologijas prasidėtų gan didelis asmeninės medicinos prietaisų bumas. Tai būtų įrenginiai, kurie ne tik sugeba nuolatos matuoti rodiklius, tačiau turėdami mūsų sveikatos istoriją, alergijų sąrašą ir įgimtą polinkį į ligas, gali aktyviai ir operatyviai reaguoti į net ir menkiausius organizmo pasikeitimus, pateikti rekomendacijas, pasiūlyti vizitą pas daktarą ar net automatiškai iškviesti greitąją, jei tą akimirką to reikia.&#x20;
 * Tokių prietaisų dėka, medicina iš gydomosios, labiau pataptų prevencine, kitaip tariant - daug dažniau ligų būtų išvengiama pasirūpinant, jog jos tiesiog neišsivystytų in the first place, užuot gydžius jau post-factum. Tai būtų ko gero vienas didžiausių shift'ų moderniojoje medicinoje ir mūsų visų sveikatoje. Jau ir dabar tenka aptikti istorijų apie atvejus, kai draudimo ar privačios medicinos kompanijos savo labiausiai pažeidžiamus klientus aprūpina būtent Apple laikrodžiais. Su laiku, tokia praktika gali patapti visiškai įprastine.
 * [https://www.apple.com/healthcare/apple-watch/](https://www.apple.com/healthcare/apple-watch/)
 
 ### Apple MacBook'ų procesoriai
 
 * Dar 2016-aisiais metais esu rašęs apie tai, jog Apple jau laikas pradėti gaminti savo pačių procesorius Macbook'ams. Tokios spekuliacijos toli gražu nėra naujos ir technologijų sektoriuje skrajoja jau nuo iPhone 4S, kuriame pirmą kartą buvo naudojamas Apple kurtas procesorius. Visgi kompanija jau pasikaustė procesorių architektūroje, kiekvienais metais matome aiškią jų lyderystę mobiliųjų segmente ir būtent šioje srityje iPhone'ai tobulėja ko gero sparčiausiai ir įspūdingiausiai. Tad patirties jau pakankamai. Taipogi anuomet mano argumentas buvo: per didelė priklausomybė nuo vieno tiekėjo.
-* Pirmiausia, jei Intel nukelia naujo chipo išleidimą ar persigalvoja dėl palaikomų technologijų, tai gerokai suvelia pačių Apple planus. Akivaizdus to pavyzdys - kai prieš kelis metus išleisti naujieji Macbook Pro su Skylake procesoriais, maksimalioje konfiguracijoje galėjo palaikyti tik 16GB operatyviosios atminties. Išties labai "Pro". Kompanija tą kart susilaukė daug kritikos, nors iš esmės, pasirinkimo ne itin ir buvo: dėl energijos taupymo Macbook'uose naudojama LPDDR3 \(LP reiškia Low Power\) rūšies atmintis, o ji maksimaliai tiek ir tepalaiko. Tuo metu jau buvo prieinama naujesnės kartos LPDDR4, palaikanti dvigubai tiek, bet iki išleidimo datos pažadėti Intel procesorių atnaujinimai, turintys palaikymą šiam atminties tipui taip ir nepasirodė, tad Apple teko rinktis tarp 16GB apribojimo ir tarp daug energijos sueikvojančios atminties, kuri būtų tiesiog "suvalgiusi" bateriją savo sąnaudomis.
+* Pirmiausia, jei Intel nukelia naujo chipo išleidimą ar persigalvoja dėl palaikomų technologijų, tai gerokai suvelia pačių Apple planus. Akivaizdus to pavyzdys - kai prieš kelis metus išleisti naujieji Macbook Pro su Skylake procesoriais, maksimalioje konfiguracijoje galėjo palaikyti tik 16GB operatyviosios atminties. Išties labai "Pro". Kompanija tą kart susilaukė daug kritikos, nors iš esmės, pasirinkimo ne itin ir buvo: dėl energijos taupymo Macbook'uose naudojama LPDDR3 (LP reiškia Low Power) rūšies atmintis, o ji maksimaliai tiek ir tepalaiko. Tuo metu jau buvo prieinama naujesnės kartos LPDDR4, palaikanti dvigubai tiek, bet iki išleidimo datos pažadėti Intel procesorių atnaujinimai, turintys palaikymą šiam atminties tipui taip ir nepasirodė, tad Apple teko rinktis tarp 16GB apribojimo ir tarp daug energijos sueikvojančios atminties, kuri būtų tiesiog "suvalgiusi" bateriją savo sąnaudomis.
 * Šiame priklausomybės mažinimo argumente galima įžvelgti ir daugiau niuansų: užimdami dominuojančią poziciją laptopų procesorių segmente ir ilgą laiką neturėdami jokio rimto pasipriešinimo, Intel laikė gan išpūstas savo chipų kainas. Na ir galiausiai - produktai kurie teikiami Apple, nėra ekskliuzyvūs: vos tik išleidžiami nauji mobilieji Intel chip'ai, juos gali naudoti bet kuris kitas nešiojamų kompiuterių gamintojas, tad šiuo aspektu jokio išskirtinumo ir pranašumo.
 * Panašu, jog buvau teisus, naujienose jau pradėjo eiti pranešimai apie tai, jog kitais metais turėtume pamatyti pirmuosius Apple kompiuterius su jų pačių projektuotais mobiliaisiais procesoriais. Žinoma, tai galėtų būti ir visiškai nauja Macbook'ų kategorija, tačiau visai realu pernaudoti esamą produktą - Macbook Air. Tai niekada nebuvo intensyviam darbui skirtas įrenginys. Jo fokusas orientuotas į portatyvumą, mažas dimensijas ir ilgai laikančią bateriją. Tokiu būdu šis produktas vėl įgautų rimtesnio išskirtinumo ir vėl turėtų prasmę dabartiniame produktų asortimente.
 * [https://www.bloomberg.com/news/articles/2020-04-23/apple-aims-to-sell-macs-with-its-own-chips-starting-in-2021](https://www.bloomberg.com/news/articles/2020-04-23/apple-aims-to-sell-macs-with-its-own-chips-starting-in-2021)
 
-### iPhone SE \(2020\)
+### iPhone SE (2020)
 
 * Iki šiol telefonų gamintojai gan aklai sekdavo paskui Apple. Pradedant nuo "antakio" ekrano viršuje ar ausinių lizdo atsisakymo, baigiant brangesniais nei 1k+ telefonais. O štai šiuo gan sudėtingu laikotarpiu Apple gan staiga padarė ėjimą į priešingą, tai yra pigesnių telefonų pusę: pristatytas naujasis SE modelis, apie kurį gandai internetuose sukosi pastaruosius bent pusantrų metų.
 * Telefonas turi tokį patį, jau 5 metų senumo dizainą, pradėtą naudoti dar nuo iPhone 6. Nė nežinau, kodėl kai kurie tikėjosi, jog telefonas išlaikys tokį patį mažą dydį, koks buvo senajame modelyje. SE kaip produktas ir nebuvo orientuotas tiesiog į mažą dydį. Tai tiesiog mažesnės kainos entry-level iPhone'as, kuris daromas vadovaujantis principu, jog mažinant kaštus pernaudojami tie patys senesni komponentai, kurių jau "prištampuota" pakankamai ir kurių pagaminimo savikaina jau yra išties nukritusi.
@@ -160,14 +160,13 @@ Užtat galima paskaityti inžinierių patirtis apie tai, kiek, kokių sprendimų
 ### Google žino kaip mum sekasi laikytis karantino
 
 * Pagal Google duomenis lankymasis retail įstaigose ir viešajame transporte mūsų šalyje krito apie 70%, tačiau parkai ir darbovietės lankomi tik 30% rečiau, nei įprasta
-* [https://www.gstatic.com/covid19/mobility/2020-03-29\_LT\_Mobility\_Report\_en.pdf](https://www.gstatic.com/covid19/mobility/2020-03-29_LT_Mobility_Report_en.pdf)
+* [https://www.gstatic.com/covid19/mobility/2020-03-29\_LT\_Mobility\_Report\_en.pdf](https://www.gstatic.com/covid19/mobility/2020-03-29\_LT\_Mobility\_Report\_en.pdf)
 
 ### Sickness Monitoring is the Opening Video Surveillance Has Been Waiting For
 
-* 9/11 įvykiai yra ne tik tragedija, tačiau atvėrė nemažai naujų įstatymiškų durų, kurios skelbdamos War on terror turėjo įtakos žmonių privatumui ir laisvėms. Pradedant nuo griežtesnės patikros oro uostuose ar naujomis pareigūnų teisėmis įsiveržti į namus ir suimti apklausai, be jokių orderių, jei tik prikabinami įtarimai terorizmu, baigiant tuo pačiu NSA ir jos vykdomu visuotiniu sekimu. 
+*   9/11 įvykiai yra ne tik tragedija, tačiau atvėrė nemažai naujų įstatymiškų durų, kurios skelbdamos War on terror turėjo įtakos žmonių privatumui ir laisvėms. Pradedant nuo griežtesnės patikros oro uostuose ar naujomis pareigūnų teisėmis įsiveržti į namus ir suimti apklausai, be jokių orderių, jei tik prikabinami įtarimai terorizmu, baigiant tuo pačiu NSA ir jos vykdomu visuotiniu sekimu.&#x20;
 
-  COVID'as be savo finansinių padarinių turės lygiai tokį patį efektą - video sekimas, dangstant jį vardan žmonių saugumo, dabar bus daug lengviau priimamas ir legalizuojamas. Kinijos lygio sekimas buvo ir taip akivaizdi kryptis, link kur keliauja ir vakarų valstybės. Iki šiol tai buvo tik laiko klausimas. Po dabartinių įvykių - visa tai tik peršoks į naują bėgį ir įgaus daug didesnį pagreitį. Snowden'as apie tai jau įspėjo ir ko gero per artimiausius keletą metų, kamerų viešose vietose imsime matyti vis daugiau ir daugiau.
-
+    COVID'as be savo finansinių padarinių turės lygiai tokį patį efektą - video sekimas, dangstant jį vardan žmonių saugumo, dabar bus daug lengviau priimamas ir legalizuojamas. Kinijos lygio sekimas buvo ir taip akivaizdi kryptis, link kur keliauja ir vakarų valstybės. Iki šiol tai buvo tik laiko klausimas. Po dabartinių įvykių - visa tai tik peršoks į naują bėgį ir įgaus daug didesnį pagreitį. Snowden'as apie tai jau įspėjo ir ko gero per artimiausius keletą metų, kamerų viešose vietose imsime matyti vis daugiau ir daugiau.
 * [https://danielmiessler.com/blog/sickness-monitoring-is-the-open-door-that-video-surveillance-has-been-waiting-for/](https://danielmiessler.com/blog/sickness-monitoring-is-the-open-door-that-video-surveillance-has-been-waiting-for/)
 
 ## 2020-02
@@ -179,9 +178,9 @@ Užtat galima paskaityti inžinierių patirtis apie tai, kiek, kokių sprendimų
 
 ### Didžiausias darbo iš namų eksperimentas Kinijoje
 
-* Įdomu, kaip viruso epidemija Kinijoje kelia bangas skirtinguose IT segmentuose. 
+* Įdomu, kaip viruso epidemija Kinijoje kelia bangas skirtinguose IT segmentuose.&#x20;
 * Pirmiausia - tai yra didžiausias kada nors vykęs darbo iš namų eksperimentas. Net tos organizacijos, kurioms įprastai tai nėra priimtina, kaip logistikos, draudimo, teisės, vyriausybės, finansinės institucijos ar net pvz mokyklos - dabar yra priverstos imtis darbo iš namų ir virtualios komunikacijos.
-* To pasekoje didžiausių Kinijos IT kompanijų, kaip kad Alibaba, Tencent, ar Baidu video chat'ų ir koloboracijos apps'ai staiga pasiekė didžiausias kada nors turėtas apkrovas, tad nenuostabu, jog serveriai tiesiog crashina. 
+* To pasekoje didžiausių Kinijos IT kompanijų, kaip kad Alibaba, Tencent, ar Baidu video chat'ų ir koloboracijos apps'ai staiga pasiekė didžiausias kada nors turėtas apkrovas, tad nenuostabu, jog serveriai tiesiog crashina.&#x20;
 * Tuo tarpu co-working erdvės susiduria su išties sunkiu laikotarpiu, kai pajamos itin smarkiai stojo, o kada lankomumas atsigaus - dar visiška nežinia. Tad šio laikotarpio pabaigos nemaža dalis jų gali ir nebesulaukti.
 * [https://www.bloomberg.com/news/articles/2020-02-02/coronavirus-forces-world-s-largest-work-from-home-experiment](https://www.bloomberg.com/news/articles/2020-02-02/coronavirus-forces-world-s-largest-work-from-home-experiment)
 
@@ -194,7 +193,7 @@ Užtat galima paskaityti inžinierių patirtis apie tai, kiek, kokių sprendimų
 
 * Kai Apple investuotojams pateikia savo veiklos rezultatus, praktiškai visada tai būna "rekordinis ketvirtis". Tačiau to nepaisant ir panagrinėjus pateikiamą informaciją, galima pasidaryti visai įdomių įžvalgų:
 * Visiem akivaizdu, kad smartphone'ai tapo commodity preke ir progresas šioje rinkoje smarkiai sulėtėjo. Dauguma žmonių nebekeitalioja telefonų vos tik pasibaigus sutarčiai kas porą metų, o nusipirkę naują modelį juo tikisi naudotis 4-6. Tad vos pradėjus lėtėti iPhone pardavimams Cook'as nusprendė nebeteikti ataskaitų apie parduodamus kiekius, o kompanija ėmėsi perdarinėti savo strategiją, kuri kaip jau dabar matosi, išties pasiteisina. Nuo šiol parduodi klientui po naują iPhone tik kas 3-5 metus, o tuo tarpu pinigus kali iš Apple Watch ir Airpods pardavimų, kurie dėl baterijų trumpaamžiškumo atitarnauja tik apie porą metų. O dar yra krūva servisų, kuriuos visus užsiprenumeravus vartotojas per 2 metus prigeneruoja maždaug tiek pat pajamų, kiek naujas parduotas iPhone. Taigi priklausomybė nuo jo ženkliai mažinama, o ekspertai pirmą kartą tapo excited ir dėl kitų įrenginių.
-* Wearables segmentas auga po 30-50% per metus. Tai dar kartą parodo, jog Apple stabiliai sukurinėja 10+ mlrd. verslus kas kiekvienus 3-5 metus. Vieninteliai, kas tuo pasižymėdavo, būdavo MSFT. Google vis bando, išleidžia milžiniškus pinigus siekdama tokio pačio tikslo, tačiau vienintelės pinigų karvės taip ir lieka tik jų senieji pasiteisinę produktai. Įdomu, kaip dvi tokios turtingos kompanijos šitaip skirtingai executina. Būtent toks Apple pasiekimas man asmeniškai ir atrodo labiausiai stulbinantis. Ne operacijų ir tiekimo grandinės našumas, o būtent sugebėjimas šitaip daug ir stabiliai auginti pelningumą \(9% per pastaruosius metus\) ir pelno diversifikaciją, kai veikiama tokio dydžio mastais. Tokie gigantiški korporacijų laivai įprastai būna apipinti biurokratijos, juda labai lėtai ir pradedama nespėti reaguoti į rinkos pokyčius ir būtent tai sukuria galimybes į rinką įsiveržti naujam "sexy" startup'ui, kuris išties staiga pradeda atiminėti rinką iš senbuvių \(tai puikiai iliustruoja Porsche vs Tesla situacija\). Sunku nuspėti, kur Apple planuoja sekantį tokį milijardinį segmentą, tačiau visai tikėtina, kad tai galėtų būti sveikatingumo niša, kurioje ėjimus Apple kuria iš lėto, tačiau stabiliai ir užtikrintai jau kurį laiką, na ir vis šmežuoja pranešimai apie tai, kaip kompanija aktyviai dirba ties VR/AR.
+* Wearables segmentas auga po 30-50% per metus. Tai dar kartą parodo, jog Apple stabiliai sukurinėja 10+ mlrd. verslus kas kiekvienus 3-5 metus. Vieninteliai, kas tuo pasižymėdavo, būdavo MSFT. Google vis bando, išleidžia milžiniškus pinigus siekdama tokio pačio tikslo, tačiau vienintelės pinigų karvės taip ir lieka tik jų senieji pasiteisinę produktai. Įdomu, kaip dvi tokios turtingos kompanijos šitaip skirtingai executina. Būtent toks Apple pasiekimas man asmeniškai ir atrodo labiausiai stulbinantis. Ne operacijų ir tiekimo grandinės našumas, o būtent sugebėjimas šitaip daug ir stabiliai auginti pelningumą (9% per pastaruosius metus) ir pelno diversifikaciją, kai veikiama tokio dydžio mastais. Tokie gigantiški korporacijų laivai įprastai būna apipinti biurokratijos, juda labai lėtai ir pradedama nespėti reaguoti į rinkos pokyčius ir būtent tai sukuria galimybes į rinką įsiveržti naujam "sexy" startup'ui, kuris išties staiga pradeda atiminėti rinką iš senbuvių (tai puikiai iliustruoja Porsche vs Tesla situacija). Sunku nuspėti, kur Apple planuoja sekantį tokį milijardinį segmentą, tačiau visai tikėtina, kad tai galėtų būti sveikatingumo niša, kurioje ėjimus Apple kuria iš lėto, tačiau stabiliai ir užtikrintai jau kurį laiką, na ir vis šmežuoja pranešimai apie tai, kaip kompanija aktyviai dirba ties VR/AR.
 * Puikiai pasisekęs praėjusių metų iPhone kameros ir baterijos upgrade'as sumažino pesimizmą - iPhone pardavimai išaugo visose rinkose, apart Japoniją. Kodėl nepavyko ten? For those not aware: Japonijoje iPhone sudaro 80%+ rinkos, o populiariausi modeliai yra mažesnio dydžio iPhone'ai, tad praėjusiais metais jiems naujų modelių tiesiog nebuvo. Na bet šiemet užtat turėtų gauti SE2. Galbūt mažoms japonų rankytėms 6.5 colio telefonai yra tiesiog pernelyg dideli ir nepatogūs, tad šioje šalyje upgrade ciklas yra lėtesnis.
 * Tačiau nemažiau pasisekęs atnaujintas 16" Macbook Pro modelis, visgi pats vienas nespėja gesinti gaisro kuris įsiplieskė Mac'ų reputacijoje: vartotojai visgi neprisijaukino Touchbar'o, probleminės klaviatūros ir kitos quality issues, bugovi OS atnaujinimai, išties brangus Mac Pro modelis ir pan. Vartotojų kiekis, kurie palieka Mac sistemas ir patys susirenka Hackintosh'us arba kitų gamintojų produktus - yra didžiausias per pastaruosius 10 metų. Galbūt situacija bus stabilizuota išleidus atitinkamai atnaujintus ir ganėtinai geidžiamus 13" ir 15" modelius, tačiau manau, kad didelė problema yra ir tai jog universalesni Dell, Lenovo, Microsoft Surface, Razer ir kitų gamintojų laptopai ne tik lenkia Macbook'us savo galingumu, tačiau pastaruosius kelis metu pasižymėjo ir didesniu patikimumu. Na ir žinoma, ženkliai mažesnėmis kainomis. Kitaip tariant - konkurentai išties neblogai catch up'ino ir didelė Mac'ų kaina tapo daug sunkiau pateisinama.
 * Na o tuo tarpu iPad pardavimai krito visais 12%, tačiau manau, kad tai pernelyg nestebina. Žmonės, kuriems užtenka pigesnės klasės iPad'ų, visiškai pilnai patenkinti savo senais device'ais, kaip kad jau 6-us metus skaičiuojantis iPad Air 2 ir tiesiog neturi paskatos upgrade'intis. O žmonės, kuriems reikia daugiau produktyvumo - tiesiog perka laptopus. Pernai net ir nebuvo naujo iPad Pro modelio. Išvis, atsižvelgiant, jog iPad'ams jau 10 metų, tai jau turėtų būti daug labiau capable įrenginys. Dešimtmetis, o tai iš esmės taip ir liko "lovos kompiuteriu" skirtu casual turinio vartojimui.
@@ -203,7 +202,7 @@ Užtat galima paskaityti inžinierių patirtis apie tai, kiek, kokių sprendimų
 
 ### Peak Samsung TV
 
-* CES 2020 parodoje Samsung pademonstravo savo "peak TV". Su 8K ir 120Hz jau nebenustebinsi, tad Samsung'as pagamino 292 colių sieną. Ją taip ir pavadinino - The Wall. Šį milžinišką ekraną sudaro 8x8 MicroLED technologiją naudojantys moduliai, kurių kiekvieno kaina siekia 16k, o bendros energijos sąnaudos 10kWh. 
+* CES 2020 parodoje Samsung pademonstravo savo "peak TV". Su 8K ir 120Hz jau nebenustebinsi, tad Samsung'as pagamino 292 colių sieną. Ją taip ir pavadinino - The Wall. Šį milžinišką ekraną sudaro 8x8 MicroLED technologiją naudojantys moduliai, kurių kiekvieno kaina siekia 16k, o bendros energijos sąnaudos 10kWh.&#x20;
 * [https://i.redd.it/i7ug8vbi7r941.jpg](https://i.redd.it/i7ug8vbi7r941.jpg)
 
 ## 2019-12
@@ -213,11 +212,11 @@ Užtat galima paskaityti inžinierių patirtis apie tai, kiek, kokių sprendimų
 * Kiekviena nauja social platforma, kuri sugalvoja kokį naują formatą, eventually būna nukopijuojama didžiųjų ar tiesiog nuperkama. Tad realios konkurencijos tiesiog nėra ir joks kitas tinklas niekaip netaps "Facebook killer'iu". Pastaruosius kelis metus kartoju idėją, jog vienintelis tikrai masyvus shift'as galimas nebent tik su decentralizuota sistema. "The new internet, guys".
 * Dabartinės social media pagrindinis fokusas jau senokai yra ne turinio talpinimas, o rekomendacijų algoritmai. Tačiau jie uždari ir dėlto viena konkreti kompanija įgauna galią spręsti ką konkrečiai jūs pamatysite, kam ir kiek dėmesio ar laiko skirsite. Būtent ši kompanija sprendžia ką cenzūruoti, o ką iškelti į viršų. Kadangi įsitraukimas ir vartotojo išlaikymas tokio pobūdžio platformoje tampa pagrindiniais rodikliais, tai skatina vis daugiau fokusuotis į kontroversišką turinį ir diskusijas, nes jos veikia išties efektyviai.
 * Ir štai Twitterio CEO atskleidė planus sukurti decentralizuotą standartą, skirtą social media platformoms. Pradinė šio, blockain'u pastaruoju metu itin susidomėjusio CEO, mintis tikrai nėra bloga. Jis pripažįsta, kad tokio standarto sukūrimas pareikalaus išties nemažai darbo ir gali prireikti ne vienerių metų. Tačiau nereikia pamiršti, kad tai žmogus, kurio sukurta platforma pradžioje buvusi išties atvira ir pritraukusi daugybę developerių, didžiąją dalį to atvirumo nurėžė it kirviu. Tad dėl jo intencijų galima ir sudvejoti.
-* [https://twitter.com/jack/status/1204766078468911106](https://twitter.com/jack/status/1204766078468911106) 
+* [https://twitter.com/jack/status/1204766078468911106](https://twitter.com/jack/status/1204766078468911106)&#x20;
 
 ### 35 000$ Mac'as
 
-* Media pradėjo štampuoti straipsnius jog naujasis Apple kompiuteris kainuoja net 53 000$. Taip, techniškai tokios sensacingos antraštės yra teisios - max konfigūracijos kaina išties gali siekti Tesla Model 3 long-range varianto kainą. 
+* Media pradėjo štampuoti straipsnius jog naujasis Apple kompiuteris kainuoja net 53 000$. Taip, techniškai tokios sensacingos antraštės yra teisios - max konfigūracijos kaina išties gali siekti Tesla Model 3 long-range varianto kainą.&#x20;
 * Na bet calm your tits bent truputį: jei esate toks savo srities profesionalas, kuriam išties reikia kompiuteryje turėti 1.5TB ECC ram'ų už 25000$, 4TB SSD ar net dvi Radeon Pro Vega II Duo vaizdo plokštes, viso turinčias 64GB atminties, tai tikriausiai tokia kaina už kompiuterį jūsų gąsdinti tikrai neturėtų. Tokios max komplektacijos pagrindinis fokusas iš tiesų yra didžiosios media production kompanijos, kurioms tokios išlaidos už įrangą, bendrame jų veiklos kontekste, net nėra didelės.
 * [https://appleinsider.com/articles/19/12/10/a-maxed-out-mac-pro-will-cost-you-53000----without-display](https://appleinsider.com/articles/19/12/10/a-maxed-out-mac-pro-will-cost-you-53000----without-display)
 
@@ -226,7 +225,14 @@ Užtat galima paskaityti inžinierių patirtis apie tai, kiek, kokių sprendimų
 ### Macbook Pro 16"
 
 * Rekomenduoti įsigyti MacBook'ų tikrai nebegalėjau. Paskutinius kelis metus tai buvo tiesiog didelės kainos, tačiau problemų kupini laptopai: pradedant nuo stringančių, nebeveikiančių klaviatūros mygtukų, baigiant perkaistančiu procesoriumi ar "bleadinančiu" ekrano apšvietimu. Rinkoje netrūko kitų, mažiau problematiškų pasirinkimų ir Macbook'ai toli gražu nebebuvo "one of the best choices".
-* Ir štai pagaliau po visų gandų paleistas naujas, šį kartą 16" variantas, kuris pakeis iki šiol buvusį 15" modelį. Nors iš pirmos pažiūros fiziškai pakeitimų neatrodo daug, tačiau tai išties ženklus update'as:  -"upgrade"as atgal į senojo stiliaus klaviatūrą  -grąžintas fizinis esc mygtukas  -talpesnė, in fact didžiausia leistina baterija  -gerokai efektyvesnė aušinimo sistema  -spec bump -didesnis ekranas su mažesniais rėmeliais  -atnaujinti ir taip gan puikūs buvę garsiakalbiai  -no price bump - kaina lieka, kaip bazinio 15" modelio
+* Ir štai pagaliau po visų gandų paleistas naujas, šį kartą 16" variantas, kuris pakeis iki šiol buvusį 15" modelį. Nors iš pirmos pažiūros fiziškai pakeitimų neatrodo daug, tačiau tai išties ženklus update'as: \
+  \-"upgrade"as atgal į senojo stiliaus klaviatūrą \
+  \-grąžintas fizinis esc mygtukas \
+  \-talpesnė, in fact didžiausia leistina baterija \
+  \-gerokai efektyvesnė aušinimo sistema \
+  \-spec bump -didesnis ekranas su mažesniais rėmeliais \
+  \-atnaujinti ir taip gan puikūs buvę garsiakalbiai \
+  \-no price bump - kaina lieka, kaip bazinio 15" modelio
 * Teko palaukti, bet pagaliau Apple gavo savo "reality check" ir susitvarkė ir vėl turi išties solidų Mac'ą. Žinoma, jie niekad pigūs nebuvo, tačiau jei juos vertinate - šį kartą savo pinigų gailėtis tikrai neturėtumėte pradėti.
 * [https://www.youtube.com/watch?v=FEkYd1qF5Ko](https://www.youtube.com/watch?v=FEkYd1qF5Ko)
 
@@ -235,7 +241,18 @@ Užtat galima paskaityti inžinierių patirtis apie tai, kiek, kokių sprendimų
 ### Pixel 4
 
 * Po iPhone pristatymo sekantis laukiamiausias telefonas turėjo būti Pixel 4. Nesunku suprasti kodėl: šie firminiai Google telefonai - tai idealiausios ir švariausios formos Android experience. O taipogi spartūs atnaujinimai ir lyderiaujanti kamera mobiliuose telefonuose. Tad fanų prisirinkti netruko.
-* Šį kartą paslapties išlaikyti nesigavo ir tai tapo vienu labiausiai leakinamu telefonu. Tačiau summa summarum, pažvelgim ką visgi gavome: - 2800mAh talpos bateriją - nėra nei ausinių lizdo nei perėjimo kompekte. Perkant telefoną ausinės į komplektą išvis nepridedamos - telefonas nesugeba filmuoti 4K60Hz - nėra UFS 3.0 - nors yra papildoma kamera, tačiau ji ne ultra wide - jokių reikšmingų kameros kokybės patobulinimų taipogi nėra, foto ne itin skiriasi nuo praėjusios kartos Pixel'ių - nebėra pirštų skaitytuvo - didelis viršutinis rėmelis - 90Hz ekranas pasirodo irgi ne visai tikras 90Hz - nebeliko unlimited nuotraukų talpinimo į Google Photos - kaina didesnė net už iPhone
+* Šį kartą paslapties išlaikyti nesigavo ir tai tapo vienu labiausiai leakinamu telefonu. Tačiau summa summarum, pažvelgim ką visgi gavome:\
+  \- 2800mAh talpos bateriją\
+  \- nėra nei ausinių lizdo nei perėjimo kompekte. Perkant telefoną ausinės į komplektą išvis nepridedamos\
+  \- telefonas nesugeba filmuoti 4K60Hz\
+  \- nėra UFS 3.0\
+  \- nors yra papildoma kamera, tačiau ji ne ultra wide\
+  \- jokių reikšmingų kameros kokybės patobulinimų taipogi nėra, foto ne itin skiriasi nuo praėjusios kartos Pixel'ių\
+  \- nebėra pirštų skaitytuvo\
+  \- didelis viršutinis rėmelis\
+  \- 90Hz ekranas pasirodo irgi ne visai tikras 90Hz\
+  \- nebeliko unlimited nuotraukų talpinimo į Google Photos\
+  \- kaina didesnė net už iPhone
 * Oh boy, koks nuviliantis šiais metais Pixel'is gavosi. Vienintelis atpirkimas galėtų būti nebent kelerių mėn bėgyje išleidžiamas 4a, kurio kaina būtų bent kokiais 300 dolerių mažesnė.
 
 ### 2019-ųjų Apple = 2000-ųjų Linux?
@@ -261,28 +278,28 @@ Laukiam sekančių žinių ir pirmųjų žaidimų anonsų.
 ### Google Street View spragos Europoje
 
 * Google Street Views nerasite Baltarusijoje, Moldovoje ir Bosnijoje.
-*  Tačiau akivaizdžiausia spraga žemėlapyje - Vokietija. 
+*  Tačiau akivaizdžiausia spraga žemėlapyje - Vokietija.&#x20;
 * [https://bigthink.com/strange-maps/germany-street-view](https://bigthink.com/strange-maps/germany-street-view?rebelltitem=1#rebelltitem1)
 
 ### Microsoft Duo ir Neo
 
 * Microsoft renginyje pristatyti tablet'o ir telefono dydžio device'ai su dviem ekranais: Surface Neo ir Surface Duo. Atrodo išties intriguojančiai. Iki kol ištobulės sulankstomi ekranai, toks sprendimas, manau, yra kur kas praktiškesnis. Taip, prezentacijoje akis galėjo pastebėti vieną kitą hiccup'ą ar jog UI kai kada veikia ne taip responsive, kaip norėtųsi, tačiau device'as dar toli gražu ir nėra užbaigtas. Iš geležies pusės viskas atrodo išties solidžiai, tačiau softas ko gero dar turi būti gerokai nušlifuotas. Na bet visgi šie sulankstomi įrenginiai prekyboje pasirodys geriausiu atveju tik kitų metų rudenį.
-* Tačiau man įdomiausias aspektas, kad šią dviejų ekranų viziją MS jau gvildena ilgiau kaip dešimtmetį. Anksčiau projektas turėjo kodinį pavadinimą [Microsoft Courier](https://www.wikiwand.com/en/Microsoft_Courier) ir gandai apie jį pradėjo sklisti dar 2008m. Tačiau tąkart dienos šviesos galutinis produktas taip ir nebeišvydo ir 2010-aisiais projektas buvo sustabdytas. Ko gero pagal tuometines galimybės nesigavo produkto padaryti arba išties patrauklaus arba už padorią sumą. Tinkamas device'as turi būti tinkamu metu. Pamoka, kurią MS ko gero jau galėjo išmokti su savo pirmaisiais tablet'ais, kuriuos kompanija pristatė 7-iais metai anksčiau, nei pasirodė pirmasis iPad ar su visu savo mobiliųjų telefonų padaliniu. Tuomet ta idėja buvo tiesiog per anksti ir timing'as išties yra labai svarbu.
+* Tačiau man įdomiausias aspektas, kad šią dviejų ekranų viziją MS jau gvildena ilgiau kaip dešimtmetį. Anksčiau projektas turėjo kodinį pavadinimą [Microsoft Courier](https://www.wikiwand.com/en/Microsoft\_Courier) ir gandai apie jį pradėjo sklisti dar 2008m. Tačiau tąkart dienos šviesos galutinis produktas taip ir nebeišvydo ir 2010-aisiais projektas buvo sustabdytas. Ko gero pagal tuometines galimybės nesigavo produkto padaryti arba išties patrauklaus arba už padorią sumą. Tinkamas device'as turi būti tinkamu metu. Pamoka, kurią MS ko gero jau galėjo išmokti su savo pirmaisiais tablet'ais, kuriuos kompanija pristatė 7-iais metai anksčiau, nei pasirodė pirmasis iPad ar su visu savo mobiliųjų telefonų padaliniu. Tuomet ta idėja buvo tiesiog per anksti ir timing'as išties yra labai svarbu.
 * [https://www.theverge.com/2019/10/2/20889000/microsoft-surface-neo-windows-10x-hands-on-features-price-photos-release-date](https://www.theverge.com/2019/10/2/20889000/microsoft-surface-neo-windows-10x-hands-on-features-price-photos-release-date)
 
 ## 2019-09
 
 ### Apple watch konkurencija
 
-* Nežinau ar yra daug žmonių, kurie iškeičia androidinius telefonus į iPhone vien dėlto, kad pastarasis turi Apple Watch, bet manau, kad tikrai yra nemažai žmonių, kuriems būtent laikrodis patapo dar viena priežastimi, kodėl iš Apple ekosistemos išeiti jiems pasidarė dar sunkiau. Ir šioje srityje ginčytis net neverta - Apple Watch tiesiog crushina išmaniųjų laikrodžių rinką ir nėra nei vienos androidinės alternatyvos, kuri išties galėtų prilygti. Qualcomm su savo modemo ir tinklo patentais save iš principo monopolizavo ir gamintojai priversti naudoti jų visiškai neefektyvius ir per silpnus 28nm procesorius, su kuriais daugumos WearOS laikrodukų baterijos nelaiko, o interface'as tiesiog stabdo. 
-* Google tuo tarpu vis dar nesupranta ar ji nori imtis hardware'o rimtai ar ne, nes iš principo tai nesuportina pagrindinių jų įgūdžių \(software\), bei pagrindinio verslo modelio \(reklamos pajamų\). Google pavydi Apple įrenginių populiarumo ir norėtų turėti kažką panašaus ir tai gan aiškiai pasimatė su Pixel telefonais. Pirmojo modelio dizainas išties labai primena iPhone, o pasišaipę iš to, jog Apple pašalino ausinių lizdą, sekančiais metais ėmė ir padarė tą patį, be jokios svarios priežasties. Na bet jeigu telefonų padalinys ir įsivažiavo pakankamai neblogai ir turint savo device'ą jie gali eksperimentuotis su neural networks implementacijomis, tai tuo tarpu Pixel Watch likimas taip ir lieka gan miglotas. Tai, kad Google nusipirko Fossil, įkvėpė fanams vilties, tačiau greitai pasirodysiantys pirmieji Fossil laikrodukai su WearOS, jau po Google sparnu, akivaizdžiai rodo, jog konkuruoti su Apple Watch vis dar nesiruošiama. 
-* Senasis scenarijus, kai Google samdydavo kitas kompanijas, jog šios iš turimų komponentų suštampuotų prietaisą ant kurio būtų galima priklijuoti logotipą, šiuo atveju taipogi netinka ir vienintelis būdas gauti išties verta dėmesio Pixel laikrodį - jei Google pati imtųsi jo gamybos. O tam reikėtų projektuoti ne tik laikrodį bet ir savo pačių mobilųjį procesorių, o tai visgi reikalauja daugybės pastangų, resursų, na ir žinoma - laiko. 
-* Tad labiau tikėtina, jog iki kol to sulauksime \(jei sulauksime išvis\), Apple Watch darysis vis mažiau pririštas prie iPhone ir jau vos už kokių poros metų jis taps visiškai stand alone prietaisu. Jeigu taip atsitiks, tai reikš tik vieną: Apple Watch taps prieinamas ir naudotinas visiems, ne tik iPhone naudotojams, rinkoje vis dar nebus nei vienos solidarios atsvaros ir Apple šiame segmente pasieks tokią rinkos dalį, jog tai bus dar viena iPod ar iPad situacija, kai viena kompanija susirenka praktiškai visus pardavimus ir pelną. Tai vyksta jau dabar - Apple Watch pardavimai auga 50% per vienerius metus ir jau dabar turi 36% visos pasaulinės išmaniųjų laikrodžių rinkos. Teoriškai Google vis dar galėtų įšokti į šį traukinuką, tačiau po poros metų jau bus tiesiog per vėlu. Kartojasi panašus scenarijus, kurį jau matėme su planšetėmis, kurių gamybą Google sustabdė šią vasarą.
+* Nežinau ar yra daug žmonių, kurie iškeičia androidinius telefonus į iPhone vien dėlto, kad pastarasis turi Apple Watch, bet manau, kad tikrai yra nemažai žmonių, kuriems būtent laikrodis patapo dar viena priežastimi, kodėl iš Apple ekosistemos išeiti jiems pasidarė dar sunkiau. Ir šioje srityje ginčytis net neverta - Apple Watch tiesiog crushina išmaniųjų laikrodžių rinką ir nėra nei vienos androidinės alternatyvos, kuri išties galėtų prilygti. Qualcomm su savo modemo ir tinklo patentais save iš principo monopolizavo ir gamintojai priversti naudoti jų visiškai neefektyvius ir per silpnus 28nm procesorius, su kuriais daugumos WearOS laikrodukų baterijos nelaiko, o interface'as tiesiog stabdo.&#x20;
+* Google tuo tarpu vis dar nesupranta ar ji nori imtis hardware'o rimtai ar ne, nes iš principo tai nesuportina pagrindinių jų įgūdžių (software), bei pagrindinio verslo modelio (reklamos pajamų). Google pavydi Apple įrenginių populiarumo ir norėtų turėti kažką panašaus ir tai gan aiškiai pasimatė su Pixel telefonais. Pirmojo modelio dizainas išties labai primena iPhone, o pasišaipę iš to, jog Apple pašalino ausinių lizdą, sekančiais metais ėmė ir padarė tą patį, be jokios svarios priežasties. Na bet jeigu telefonų padalinys ir įsivažiavo pakankamai neblogai ir turint savo device'ą jie gali eksperimentuotis su neural networks implementacijomis, tai tuo tarpu Pixel Watch likimas taip ir lieka gan miglotas. Tai, kad Google nusipirko Fossil, įkvėpė fanams vilties, tačiau greitai pasirodysiantys pirmieji Fossil laikrodukai su WearOS, jau po Google sparnu, akivaizdžiai rodo, jog konkuruoti su Apple Watch vis dar nesiruošiama.&#x20;
+* Senasis scenarijus, kai Google samdydavo kitas kompanijas, jog šios iš turimų komponentų suštampuotų prietaisą ant kurio būtų galima priklijuoti logotipą, šiuo atveju taipogi netinka ir vienintelis būdas gauti išties verta dėmesio Pixel laikrodį - jei Google pati imtųsi jo gamybos. O tam reikėtų projektuoti ne tik laikrodį bet ir savo pačių mobilųjį procesorių, o tai visgi reikalauja daugybės pastangų, resursų, na ir žinoma - laiko.&#x20;
+* Tad labiau tikėtina, jog iki kol to sulauksime (jei sulauksime išvis), Apple Watch darysis vis mažiau pririštas prie iPhone ir jau vos už kokių poros metų jis taps visiškai stand alone prietaisu. Jeigu taip atsitiks, tai reikš tik vieną: Apple Watch taps prieinamas ir naudotinas visiems, ne tik iPhone naudotojams, rinkoje vis dar nebus nei vienos solidarios atsvaros ir Apple šiame segmente pasieks tokią rinkos dalį, jog tai bus dar viena iPod ar iPad situacija, kai viena kompanija susirenka praktiškai visus pardavimus ir pelną. Tai vyksta jau dabar - Apple Watch pardavimai auga 50% per vienerius metus ir jau dabar turi 36% visos pasaulinės išmaniųjų laikrodžių rinkos. Teoriškai Google vis dar galėtų įšokti į šį traukinuką, tačiau po poros metų jau bus tiesiog per vėlu. Kartojasi panašus scenarijus, kurį jau matėme su planšetėmis, kurių gamybą Google sustabdė šią vasarą.
 * [https://www.theverge.com/2019/9/19/20872874/google-apple-watch-wear-os-competition-fossil-smartwatch](https://www.theverge.com/2019/9/19/20872874/google-apple-watch-wear-os-competition-fossil-smartwatch)
 
 ### Kam buvo reikalingas iOS 13.0?
 
-* Šiais metais Apple atnaujinimų ciklas kelia antakį. Su naujaisiais iPhone viskas kaip ir tvarkoje - kompanija 2 metų upgrade ciklą jau yra palikusi praeityje for quite sometime, tad major update'o tikėtis ir nereikėjo, tad dizainas iš esmės lygiai toks pats jau 3-čius metus. Užtat ženkliai pagerinta kameros kokybė, kurioje Apple vis labiau atsilikdavo ir pagaliau susilygina su Pixel 3 kokybe. O kaip pliusą dar pridėjo ir ilgiau laikančią bateriją \(max iki 5h, kas jau yra išties ženklus skaičius\). Tačiau naujoji iOS versija susilaukė kritikos dėl išties didelio bug'ų kiekio. Didžioji jų dalis turėtų būti ištaisyti jau sekančiame atnaujinime, kuris pasirodys greičiau nei planuota. Ir vat iš čia ir atsiranda antakio kėlimo aspektas: iOS 13.1 bus išleista vos po 5 dienų nuo iOS 13.0 pasirodymo. Natūraliai kyla klausimas: why? iOS 13 viešai testuojama, t.y. jos beta versiją parsisiųsti galima jau nuo praėjusio mėnesio pabaigos, t.y. kai iOS13.0 dar net nebuvo išleista, tad tai rodo, jog atnaujinimas tikrai nėra paskutinės minutės pataisymas. Kam gi tuomet reikėjo iš viso leisti vartotojams atsinaujinti į šitą tarpinį bugovą softą, kuris tarnaus vos kelias dienas?
+* Šiais metais Apple atnaujinimų ciklas kelia antakį. Su naujaisiais iPhone viskas kaip ir tvarkoje - kompanija 2 metų upgrade ciklą jau yra palikusi praeityje for quite sometime, tad major update'o tikėtis ir nereikėjo, tad dizainas iš esmės lygiai toks pats jau 3-čius metus. Užtat ženkliai pagerinta kameros kokybė, kurioje Apple vis labiau atsilikdavo ir pagaliau susilygina su Pixel 3 kokybe. O kaip pliusą dar pridėjo ir ilgiau laikančią bateriją (max iki 5h, kas jau yra išties ženklus skaičius). Tačiau naujoji iOS versija susilaukė kritikos dėl išties didelio bug'ų kiekio. Didžioji jų dalis turėtų būti ištaisyti jau sekančiame atnaujinime, kuris pasirodys greičiau nei planuota. Ir vat iš čia ir atsiranda antakio kėlimo aspektas: iOS 13.1 bus išleista vos po 5 dienų nuo iOS 13.0 pasirodymo. Natūraliai kyla klausimas: why? iOS 13 viešai testuojama, t.y. jos beta versiją parsisiųsti galima jau nuo praėjusio mėnesio pabaigos, t.y. kai iOS13.0 dar net nebuvo išleista, tad tai rodo, jog atnaujinimas tikrai nėra paskutinės minutės pataisymas. Kam gi tuomet reikėjo iš viso leisti vartotojams atsinaujinti į šitą tarpinį bugovą softą, kuris tarnaus vos kelias dienas?
 * Teorija, kuri šiuo metu atrodo logiškiausia - įsigijus naują Apple Watch modelį jame rasite watchOS 6 ir ši versija yra pririšta prie iOS 13. Tad norėdama išvengti situacijos, kai laikrodį įsigijęs klientas negalėtų juo naudotis dar kelias dienas, kompanija priėmė sprendimą atnaujinti visus, net jei ir buvo žinoma, jog softas dar nėra išdirbtas iki galo ir turi ne itin malonių, tačiau ne kardinalių problemų. Nes tai yra geriau, nei potenciali didelė kontroversija ir daug neigiamos spaudos.
 * [https://www.theverge.com/2019/9/20/20874884/ios-13-0-bugs-watchos-google-amazon-climate-protests](https://www.theverge.com/2019/9/20/20874884/ios-13-0-bugs-watchos-google-amazon-climate-protests)
 
@@ -295,12 +312,11 @@ Laukiam sekančių žinių ir pirmųjų žaidimų anonsų.
 
 ### Dell kompiuteriai monitorių stovuose
 
-* O štai ir monitoriaus stovas, kuris iš tiesų galėtų būti vertas 1000$ ;\)
+*   O štai ir monitoriaus stovas, kuris iš tiesų galėtų būti vertas 1000$ ;)
 
-  Išties įdomus ir gan protingas sprendimas kompiuterį sukišti į stovą: tokiu būdu galima upgradinti sistemą ir nebūtina mokėti už pilną naują All In One. Net keistoka, jog sugalvota tik dabar.
+    Išties įdomus ir gan protingas sprendimas kompiuterį sukišti į stovą: tokiu būdu galima upgradinti sistemą ir nebūtina mokėti už pilną naują All In One. Net keistoka, jog sugalvota tik dabar.
 
-  Gaila nebent tai, jog naudojamos labai energiškai ekonomiškos detalės, pvz 25 W Intel Whiskey Lake-U procesoriai be Iris Pro. Bet ko gero pirmiausia toks sprendimas orientuotas į korporatyvinius klientus, kuriems tiesiog svarbiau darbo vietos kompaktiškumas, o į paprastus consumerius orientuoti produktai pasirodys vėliau.
-
+    Gaila nebent tai, jog naudojamos labai energiškai ekonomiškos detalės, pvz 25 W Intel Whiskey Lake-U procesoriai be Iris Pro. Bet ko gero pirmiausia toks sprendimas orientuotas į korporatyvinius klientus, kuriems tiesiog svarbiau darbo vietos kompaktiškumas, o į paprastus consumerius orientuoti produktai pasirodys vėliau.
 * [https://www.anandtech.com/show/14764/dells-optiplex-7070-ultra-a-compute-module-for-aio-pcs](https://www.anandtech.com/show/14764/dells-optiplex-7070-ultra-a-compute-module-for-aio-pcs)
 
 ### Google prisijungimai be slaptažodžių
@@ -325,15 +341,14 @@ Laukiam sekančių žinių ir pirmųjų žaidimų anonsų.
 
 ### Tamsioji reCAPTCHA pusė
 
-* Naujoji nematoma reCAPTCHA veikia principu, kai tikrinama ne ar esi botas, o digital fingerprinting pagalba bandoma nustatyti, kuris konkrečiai žmogus esi. Labai efektyvu iš saugumo pusės, not so great jei kalbama apie privatumą.
+*   Naujoji nematoma reCAPTCHA veikia principu, kai tikrinama ne ar esi botas, o digital fingerprinting pagalba bandoma nustatyti, kuris konkrečiai žmogus esi. Labai efektyvu iš saugumo pusės, not so great jei kalbama apie privatumą.
 
-  Blogiausia, jog jei nori atsisakyti tokio informacijos rinkimo, blokuoji Google script'us, naudojiesi VPN'u, secure browseriais ar pan, tai dalis interneto svetainių tampa nebepanaudojamos.
-
+    Blogiausia, jog jei nori atsisakyti tokio informacijos rinkimo, blokuoji Google script'us, naudojiesi VPN'u, secure browseriais ar pan, tai dalis interneto svetainių tampa nebepanaudojamos.
 * [https://www.fastcompany.com/90369697/googles-new-recaptcha-has-a-dark-side](https://www.fastcompany.com/90369697/googles-new-recaptcha-has-a-dark-side)
 
 ### 500$ AMD Ryzen 9 3900X yra praktiškai toks pat greitas, kaip 2k$ Intel Core i9-9980XE
 
-* Šito buvo galima tikėtis, nes 3900X optimizuotas mažesniam branduolių kiekiui, kurie yra greitesni \(12 x 3,8 GHz\) kai tuo tarpu 9980XE turi didesnį kiekį lėtesnių branduolių \(18 x 3.0 Ghz\). Geresnis palyginimas būtų tarp 3950X vs 9980XE kurių branduolių kiekis yra panašesnis \(16 vs 18\). Ir AMD vis vien lenkia Intel tiek single-threaded, tiek multi-treaded spartoje, nors ir turi 2 branduoliais mažiau! Ir plius yra 62% pigiau \(750$ vs 1950$\) bei eikvoja 36% mažiau energijos.
+* Šito buvo galima tikėtis, nes 3900X optimizuotas mažesniam branduolių kiekiui, kurie yra greitesni (12 x 3,8 GHz) kai tuo tarpu 9980XE turi didesnį kiekį lėtesnių branduolių (18 x 3.0 Ghz). Geresnis palyginimas būtų tarp 3950X vs 9980XE kurių branduolių kiekis yra panašesnis (16 vs 18). Ir AMD vis vien lenkia Intel tiek single-threaded, tiek multi-treaded spartoje, nors ir turi 2 branduoliais mažiau! Ir plius yra 62% pigiau (750$ vs 1950$) bei eikvoja 36% mažiau energijos.
 * [https://www.techquila.co.in/amd-ryzen-9-3900x-intel-core-i9/](https://www.techquila.co.in/amd-ryzen-9-3900x-intel-core-i9/)
 
 ### Audi etron ir Jaguar I-Pace sekasi ne per geriausiai - 2019-06-11
@@ -368,9 +383,10 @@ Ouch. Until then, please enjoy your delayed braking. It's just like regular brak
 
 [https://thenextweb.com/apps/2019/06/10/mozilla-will-reportedly-launch-a-paid-version-of-firefox-this-fall/](https://thenextweb.com/apps/2019/06/10/mozilla-will-reportedly-launch-a-paid-version-of-firefox-this-fall/)
 
-### C&C remaster - 2019-06-06
+### C\&C remaster - 2019-06-06
 
-* Žinoma, gaila jog ne nauji release'ai, tačiau bent jau strateginiai žaidimai ir vėl susilaukia developer'ių dėmesio: šiemet Age of Empires trilogija susilauks Definitive Editions ir bus išleista Steam'e, o C&C jau gaminami pirmieji 2 remasteriai. [https://www.neowin.net/news/command--conquer-remastered-now-in-full-production-ui-updates-shared](https://www.neowin.net/news/command--conquer-remastered-now-in-full-production-ui-updates-shared)
+* Žinoma, gaila jog ne nauji release'ai, tačiau bent jau strateginiai žaidimai ir vėl susilaukia developer'ių dėmesio: šiemet Age of Empires trilogija susilauks Definitive Editions ir bus išleista Steam'e, o C\&C jau gaminami pirmieji 2 remasteriai.\
+  [https://www.neowin.net/news/command--conquer-remastered-now-in-full-production-ui-updates-shared](https://www.neowin.net/news/command--conquer-remastered-now-in-full-production-ui-updates-shared)
 
 ### WWDC 2019 - 2019-06-03
 
@@ -379,7 +395,7 @@ Kaip įprasta, praėjus Apple renginiui visada kyla įvairių pastebėjimų. Tai
 * šiemet renginys tikrai solidus, nuveikta nemažai ir prabėgta pro krūvą punktų, ties kai kuriais iš jų stabtelint vos akimirkai. Visgi tikėtasi, kad iOS apps'ai MacOS sistemoje ir iOS dark mode'as bus renginio fokusas ir ties tuo naujovės ir pasibaigs.Tokia išties naudingų pakeitimų, kaip pvz XCode IDE patobulinimai, SwiftUI framework'as ar Macbook lokacijos nustatymas, kai kompiuteris yra sleep režime, gausa yra didelis kontrastas nuo praėjusių metų, kai daug laiko sugaišta kalbant apie Memoji ir kitus useless dalykus;
 * iPad OS. iOS iPad'e pagaliau pradeda rimtai diferencijuotis nuo iPhone versijos ir įgavo atskirą branch'ą nauju pavadinimu. Panašu, kad Apple girdi kritiką apie tai, jog iš iPad'o geležies didelės spartos mažai naudos, kai įrenginio galimybės išlieka apribotos dėl OS. Atsiranda funkcionalumas, kurio iš tiesų prašė vartotojai: gerinamos multi-task funkcijos, kaip kad galimybė atsidaryti porą to paties apps'o langų, scrollinti su scrollbar'u, folderių share'as, taipogi pagaliau bus galima prisijungti flashiukus ir SD korteles, Safaris nebeatidarinės telefoninės svetainių versijos, įgaus download manager'į ir kita. Nors iPad OS vis dar išlieka limituojanti, tačiau tai jau žingsnis tinkama linkme;
 * Apple Watch. Atsiranda atskiri nuo telefono appsai bei App Store'as jau pačiame laikrodyje. Taipogi kelios naujos health funkcijos, kaip kad aplinkos triukšmo matavimas ir keli native apps'ai, kaip voice memos, audiobook'ai ir skaičiuotuvas. Laikrodis pagaliau gavo kalkuliatorių, o iPad'as per visus tuos metus taip ir liko be jo :/ Jau nebedaug lieka, jog Apple Watch taptų pilnai autonominiu ir jį įsigyti galės jau ne tik iPhone savininkai;
-* pagaliau parodytas žadėtasis modulinis Mac Pro. Jei bulvių tarkos dizainas gali įkvėpti ne visus, tai galimybės jau kita kalba: iki 28 branduolių Xeon'as, 12 operatyviosios atminties slotų, palaikančių iki 1,5TB \(taip, rimtai kalbama apie RAM, o ne SSD\), 8 PCI-E, galima pasijungti dvi Radeon Pro Vega 2 Duo, kurios tarpusavyje turės 128GB atminties ir palaiko iki aštuonių 4K ekranų, na o visam tam energiją paduos įspūdingas 1.4 kW maitinimo blokas. Kažkodėl pasilikta prie Intel, kai Macbook'uose dabar pagrinde naudojami AMD procesoriai. Atrodė, kad bus galima tikėtis Threadripper'io. Įdomi bus maksimalios komplektacijos kaina, kai bazinė prasideda nuo 6K$ ir joje galima rasti 8 branduolius su 32gb RAM ir RX580 ir tai ko ne 6 kartus didesnė, nei naudojamų komponentų kaina, o tas 28 branduolių Intel Xeon W vienas pats kainą išpūs visais 3K; 
+* pagaliau parodytas žadėtasis modulinis Mac Pro. Jei bulvių tarkos dizainas gali įkvėpti ne visus, tai galimybės jau kita kalba: iki 28 branduolių Xeon'as, 12 operatyviosios atminties slotų, palaikančių iki 1,5TB (taip, rimtai kalbama apie RAM, o ne SSD), 8 PCI-E, galima pasijungti dvi Radeon Pro Vega 2 Duo, kurios tarpusavyje turės 128GB atminties ir palaiko iki aštuonių 4K ekranų, na o visam tam energiją paduos įspūdingas 1.4 kW maitinimo blokas. Kažkodėl pasilikta prie Intel, kai Macbook'uose dabar pagrinde naudojami AMD procesoriai. Atrodė, kad bus galima tikėtis Threadripper'io. Įdomi bus maksimalios komplektacijos kaina, kai bazinė prasideda nuo 6K$ ir joje galima rasti 8 branduolius su 32gb RAM ir RX580 ir tai ko ne 6 kartus didesnė, nei naudojamų komponentų kaina, o tas 28 branduolių Intel Xeon W vienas pats kainą išpūs visais 3K;&#x20;
 * nepaisant to, kad overall renginys šaunus, neišvengta ir kontroversijos: kartu su naujuoju Mac Pro pristatytas ir 6K monitorius, pavadinimu Pro Display XDR, kurio kaina 5000$. Atsižvelgiant į šio monitoriaus specifikacijas ir į tai, kad tokių savybių ekrano daugiau niekas negamina, tai kaina visai nestebina, o ir produktas labiau orientuotas profesionalias dizaino ir montažo kompanijas ar pavienius specialistus, kuriems reikia tokio įrankio. Ir šiai nišai gaminys visgi paliko įspūdį. Tačiau kontroversija kyla iš to, jog pasirodo jog stovas monitoriui nėra pridedamas komplektacijoje ir jį reikia nusipirkti papildomai už 1000 o.O Ši kaina bandyta paskelbti greitai, prabėgom, tačiau salės autorija į ją iš karto sureagavo. Manau, kad būtų užtekę padaryti monitorių už 6K$, neišskiriant stovo ir daugumai visai nebūtų užkliuvę.
 
 ## 2019-05
@@ -393,7 +409,7 @@ Kaip įprasta, praėjus Apple renginiui visada kyla įvairių pastebėjimų. Tai
 
 * Kai AMD prieš porą metų pristatė savo Zen architektūros procesorius, tai sukėlė nemažai bangų tarp procesorių entuziastų. Tas pats kartojasi ir šiemet. AMD jau turėjo price/performance lyderystę, kai kalba buvo apie multi-thread spartą, tačiau pagaliau šį kartą galim pamatyti tokią lyderystę net ir single-thread atžvilgiu, ko iš AMD jau nematėme išties daugybę metų:
 
-![](../.gitbook/assets/computex_keynote_draft_for_prebrief.26.05.19-page-035b.jpg)
+![](../.gitbook/assets/computex\_keynote\_draft\_for\_prebrief.26.05.19-page-035b.jpg)
 
 * Vienas įspūdingiausių chip'ų šį kartą tai Ryzen7 3700X: 8 branduolių, 16 thread'ų, 3.6Ghz procesorius už 330$, sueikvojantis viso labo 65W. Atrodo, kad tai turėtų būti pats efektyviausias kadanors sukurtas desktop procesorius. Ką jau kalbėti apie tai, kad lineup'e yra net ir 6 branduolių procesorius už viso labo 200$.
 * Atrodo išties stipriai, tad beliko sulaukti benchmark'ų ir pažiūrėti realius rezultatus.
@@ -411,23 +427,22 @@ Kaip įprasta, praėjus Apple renginiui visada kyla įvairių pastebėjimų. Tai
 
 ### Anonsuotas Minecraft Earth VR - 2019-05-19
 
-* Įdomu matyti, kai produktui dar net nepasirodžius, kūrėjai patys kalba apie akivaizdžias problemas:
+*   Įdomu matyti, kai produktui dar net nepasirodžius, kūrėjai patys kalba apie akivaizdžias problemas:
 
-  Persistent holograms are obviously the end goal for Minecraft Earth, and it’s easy to imagine a future where players can drop these wherever they want once they’ve been approved. This user-generated content always comes with a mountain of risks, though. Whether that’s people building virtual penises or houses with swastikas, there’s always going to be people who would love to ruin the fun.
-
+    Persistent holograms are obviously the end goal for Minecraft Earth, and it’s easy to imagine a future where players can drop these wherever they want once they’ve been approved. This user-generated content always comes with a mountain of risks, though. Whether that’s people building virtual penises or houses with swastikas, there’s always going to be people who would love to ruin the fun.
 * [https://www.theverge.com/2019/5/17/18627341/minecraft-earth-ios-android-free-ar-game-features-pokemon-go](https://www.theverge.com/2019/5/17/18627341/minecraft-earth-ios-android-free-ar-game-features-pokemon-go)
 
 ### RealTalk - AI generuotas Joe Rogan balsas - 2019-05-17
 
 * Manipuliacijos ties photoshop'u nesibaigia. Jau tikriausiai esate girdėję apie Deepfakes, tačiau tai kas daroma su vaizdu, taipogi gali būti daroma ir su balsu. Tiek Adobe, tiek ir kitos kompanijos dirba ties AI sistemomis, kurioms pateikiami kalbančio žmogaus balso įrašai, jie išanalizuojami ir sukuriami modeliai, kuriais pasinaudojant galima tiesiog rašyti tekstą ekrane ir perklausyti jį tarsi žmogus iš tiesų būtų visą tai pasakęs. Štai vienas iš pavyzdžių Joe Rogan. Kandidatas pasirinktas ne be reikalo, nes Rogan'as jau turi tūkstantinį podcast'ų archyvą, o turint didelius kiekius duomenų, jį atkartoti yra kur kas paprasčiau. Rezultatas dar nėra idealus, tačiau jau gąsdinančiai panašus.
-* [https://www.youtube.com/watch?v=DWK\_iYBl8cA&feature=youtu.be](https://www.youtube.com/watch?v=DWK_iYBl8cA&feature=youtu.be)
+* [https://www.youtube.com/watch?v=DWK\_iYBl8cA\&feature=youtu.be](https://www.youtube.com/watch?v=DWK\_iYBl8cA\&feature=youtu.be)
 
 ### Google I/O - 2019-05-11
 
 #### Biudžetinis Pixel 3a
 
 * Biudžetiniai telefonai visada pasižymi prastesnėmis kameromis, įprastai nukenčia ekranas bei pasitelkiami labiau ekonomiški dizaino sprendimais. Ir ši formulė gyvuoja nuo pat išmaniųjų telefonų pradžios. Tačiau Google idealogiškai atsisuka ir grįžta prie buvusių Nexus linijos principų ir pristatė Pixel 3a - biudžetinės klasės mobilų telefoną. Kompanija pasirinko nedėti didelius kiekius RAM atminties ar flagmanų lygio procesoriaus, tačiau nesileido į kompromisus ekrano ir ypač kameros srityje. Dar niekada nėra buvę varianto, kai biudžetiniame telefone gali gauti geriausią kamerą mobiliųjų telefonų rinkoje. Bus labai įdomu stebėti kaip šiam telefonui seksis pardavimai.
-* [https://www.youtube.com/watch?v=vcaXm9dgcpI&feature=youtu.be](https://www.youtube.com/watch?v=vcaXm9dgcpI&feature=youtu.be)
+* [https://www.youtube.com/watch?v=vcaXm9dgcpI\&feature=youtu.be](https://www.youtube.com/watch?v=vcaXm9dgcpI\&feature=youtu.be)
 
 #### Renginys bendrai
 
@@ -448,7 +463,10 @@ Kaip įprasta, praėjus Apple renginiui visada kyla įvairių pastebėjimų. Tai
 
 ### Tesla Autonomy Day - 2019-04-23
 
-* Pagrindinis didelis pranašumas: didelė, po realias gatves visame pasaulyje važinėjanti flotilė, kuri mokosi. Tinklas treniruojamas nepriklausomai nuo to ar autopilot yra įjungtas ar ne. Kiekvienas automobilis renka ir siunčia informaciją. Šis mokymasis susideda iš 3 komponentų:  -infrastruktūra, paremta trigeriais - siunčiama tik ta informacija, kurios šiuo metu reikia tolimesniam mokymuisi. Pagrindimas - nėra reikalo turėti didelius kiekius besikartojančios vienodos informacijos, užtat reikia tinkamos informacijos, tinkamu metu, kuri aprėptų daug skirtingų situacijų.  -duomenų algoritmai, kurie poto mokosi iš šių pateiktų pavyzdžių  -shadow režimas, kuris paleidžia išmoktą modelį demo režimu ir kuris veikia kartu su tuometine sistema vienu metu ir tikrina naujojo algoritmo efektyvumą realiose situacijose ir jeigu jis veikia gerai - tik tuomet galiausiai deployjina į jau veikiančią sistemą. 
+* Pagrindinis didelis pranašumas: didelė, po realias gatves visame pasaulyje važinėjanti flotilė, kuri mokosi. Tinklas treniruojamas nepriklausomai nuo to ar autopilot yra įjungtas ar ne. Kiekvienas automobilis renka ir siunčia informaciją. Šis mokymasis susideda iš 3 komponentų: \
+  \-infrastruktūra, paremta trigeriais - siunčiama tik ta informacija, kurios šiuo metu reikia tolimesniam mokymuisi. Pagrindimas - nėra reikalo turėti didelius kiekius besikartojančios vienodos informacijos, užtat reikia tinkamos informacijos, tinkamu metu, kuri aprėptų daug skirtingų situacijų. \
+  \-duomenų algoritmai, kurie poto mokosi iš šių pateiktų pavyzdžių \
+  \-shadow režimas, kuris paleidžia išmoktą modelį demo režimu ir kuris veikia kartu su tuometine sistema vienu metu ir tikrina naujojo algoritmo efektyvumą realiose situacijose ir jeigu jis veikia gerai - tik tuomet galiausiai deployjina į jau veikiančią sistemą.&#x20;
 * Visi šiai dienai parduodami Tesla automobiliai jau turi geležį, su kuria galima įgalinti autonominį važiavimą
 * Lidar sugeba grąžinti tik ribotą kiekį informacijos. Pvz Lidar'as gali pastebėti objektą ant kelio, tačiau negali nustatyti ar tai yra cemento blokas ar tiesiog celofaninis maišelis. Žmonės sugeba vairuoti naudodamiesi viso labo rega, vadinasi tai galima atkartoti kameromis. Musk'o nuomone visi auto gamintojai, kurie šiuo metu visas pastangas meta į Lidar'ą eventually bus priversti jo atsisakyti. Lidar'as prašoka ir palengvina kelias problemas, tačiau jas išspręsti yra būtina, norint turėti full self-driving.
 * Musk'as teigia, kad šiuo metu rinkoje vis dar nėra nei vieno automobilio, kuris galėtų konkuruoti su 2012-tųjų Model S. "Still waiting". Jeigu kas nors išties geras pradėtų dirbti ties tuo šiandien, tai turėtų pasiekti Teslos lygio sprendimus per 2-3 metus, tačiau Tesla per tą laiką jau bus nužygiavusi tolyn.
@@ -468,9 +486,7 @@ Kaip įprasta, praėjus Apple renginiui visada kyla įvairių pastebėjimų. Tai
 
 ### Pirmojo iPhone prototipas
 
-* Apple kurdama pirmąjį iPhone modelį stengėsi jį išlaikyti paslaptyje tam, kad galėtų padaryti visiškai netikėtą pristatymą. Ir kaip žinome iš istorijos - jiems tai puikiai pavyko ir pristatymas daugelį visiškai apstulbino.
+*   Apple kurdama pirmąjį iPhone modelį stengėsi jį išlaikyti paslaptyje tam, kad galėtų padaryti visiškai netikėtą pristatymą. Ir kaip žinome iš istorijos - jiems tai puikiai pavyko ir pristatymas daugelį visiškai apstulbino.
 
-  Vienas iš būdų sumažinti tikimybę, jog dizainas bus nuleak'intas - jį turi matyti kuo mažesnis kiekis žmonių. Dėl šios priežasties, inžinieriai dirbantys su OS branduoliu, driveriais, failų sistema, procesoriaus architektūra gaudavo štai tokius, kompiuterio motitinę plokštę primenančius prototipus. Nuotraukoje matomame variante yra ir ekranas, tačiau dažniausiai darbuotojai gaudavo plokštes net ir be jų, tad visą savo darbą galėdavo atlikti tik prisijungę šią plokštę prie kompiuterio ar televizoriaus, nė nenuotuokdami, kaip atrodys galutinis produktas.
-
+    Vienas iš būdų sumažinti tikimybę, jog dizainas bus nuleak'intas - jį turi matyti kuo mažesnis kiekis žmonių. Dėl šios priežasties, inžinieriai dirbantys su OS branduoliu, driveriais, failų sistema, procesoriaus architektūra gaudavo štai tokius, kompiuterio motitinę plokštę primenančius prototipus. Nuotraukoje matomame variante yra ir ekranas, tačiau dažniausiai darbuotojai gaudavo plokštes net ir be jų, tad visą savo darbą galėdavo atlikti tik prisijungę šią plokštę prie kompiuterio ar televizoriaus, nė nenuotuokdami, kaip atrodys galutinis produktas.
 * [https://www.theverge.com/2019/3/19/18263844/apple-iphone-prototype-m68-original-development-board-red](https://www.theverge.com/2019/3/19/18263844/apple-iphone-prototype-m68-original-development-board-red)
-

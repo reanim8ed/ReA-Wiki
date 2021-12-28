@@ -2,93 +2,93 @@
 
 ### **Tinkami produktai**
 
-**Mėsa:**   
-jautiena, ėriena, paukštiena. steikai, kumpiai, dešros, šoninė
+**Mėsa:** \
+****jautiena, ėriena, paukštiena. steikai, kumpiai, dešros, šoninė
 
-**Daržovės:**   
-Kale kopūstai, špinatai, burokėlių lapai bei kitos lapinės salotos   
-Ridikėliai, šparagai, smidrai, moliūgai, rabarbarai  
-Kalafiorai, brokoliai, briuselio bei kiti kopūstai, rauginti kopūstai, salierai, baklažanai, cukinija   
-Pomidorai, česnakai, agurkai, rauginti agurkai, svogūnai, svogūnų laiškai   
-Paprika, avokadas, alyvuogės   
+**Daržovės:** \
+Kale kopūstai, špinatai, burokėlių lapai bei kitos lapinės salotos \
+Ridikėliai, šparagai, smidrai, moliūgai, rabarbarai\
+Kalafiorai, brokoliai, briuselio bei kiti kopūstai, rauginti kopūstai, salierai, baklažanai, cukinija \
+Pomidorai, česnakai, agurkai, rauginti agurkai, svogūnai, svogūnų laiškai \
+Paprika, avokadas, alyvuogės \
 Grybai
 
-**Pieno produktai:**   
-Sviestas   
-Kietieji sūriai \(parmezano, chedario\)   
-Minkštieji sūriai \(brie, fetos, mocarelos, mėlynasis pelėsinis\)   
-Maskarponės sūris, grietinėlė, riebus jogurtas, riebi grietinė   
-Pusriebė ir riebi varškė, varškės sūris, natūralūs graikiški jogurtai   
-Nesaldinti augaliniai pienai   
-  
+**Pieno produktai:** \
+****Sviestas \
+Kietieji sūriai (parmezano, chedario) \
+Minkštieji sūriai (brie, fetos, mocarelos, mėlynasis pelėsinis) \
+Maskarponės sūris, grietinėlė, riebus jogurtas, riebi grietinė \
+Pusriebė ir riebi varškė, varškės sūris, natūralūs graikiški jogurtai \
+Nesaldinti augaliniai pienai \
+\
 Siekiant dar labiau išgryninti savo keto mitybos meniu, galime visiškai atsisakyti pieno produktų, taip pagerinsime žarnyno veiklą ir sumažinsime jame vykstančius uždegiminius procesus
 
-**Riešutai, sėklos:**   
-Migdolai, graikiniai bei makadamijos riešutai   
-Pekano, bertolerijų \(braziliški\) riešutai   
-Chia sėklos, nedideliais kiekiais linų sėmenys, sezamai, aguonos   
-Moliūgų sėklos, saulėgrąžų sėklos   
-Gysločio luobelės, riešutų miltai - kepimui   
+**Riešutai, sėklos:** \
+Migdolai, graikiniai bei makadamijos riešutai \
+Pekano, bertolerijų (braziliški) riešutai \
+Chia sėklos, nedideliais kiekiais linų sėmenys, sezamai, aguonos \
+Moliūgų sėklos, saulėgrąžų sėklos \
+Gysločio luobelės, riešutų miltai - kepimui \
 Šiek tiek atsargiau vartokite žemės riešutus
 
-**Žuvis:**   
-Riebi žuvis: lašiša, skumbrė, menkė ir kita.   
-Taip pat krevetės, kalmarai, austrės ir kitos jūros gėrybės.   
+**Žuvis:** \
+Riebi žuvis: lašiša, skumbrė, menkė ir kita. \
+Taip pat krevetės, kalmarai, austrės ir kitos jūros gėrybės. \
 Atsargiau su tunu.
 
-**Uogos:**   
-Braškės, avietės, gervuogės   
-Mėlynės, spanguolės, aronijos, vyšnios   
+**Uogos:** \
+Braškės, avietės, gervuogės \
+Mėlynės, spanguolės, aronijos, vyšnios \
 Per dieną nerekomenduojama suvalgyti daugiau nei 100g šių uogų.
 
-**Kiaušiniai:**   
+**Kiaušiniai:** \
 stenkitės vartoti kuo ekologiškesnės kilmės kiaušinius, nes juose geresnis Omega rūgščių santykis
 
-**Aliejus:**   
-Sviestas \(geriau organinis\)   
-Vištos, jaučio, anties taukai   
-Ghee sviestas   
-Ypač tyras alyvuogių aliejus   
-Kokosų sviestas, nerafinuotas kokosų aliejus, kokosų kremas   
-Žuvies kepimui naudoti kokosų aliejų   
-  
-Renkantis aliejus bei sviestus, svarbiausiai atkreipti dėmesį į jų kilmę bei kokybę. Nesirinkite hidrintų, rafinuotų ar kitaip pramonės būdu apdorotų riebalų. Taip pat stenkitės išlaikyti teisingą gyvulinių ir augalinių riebalų santykį: augaliniuose aliejuose gausu omega 6 riebalų rūgščių, kurių perteklius gali sukelti uždegiminius procesus organizme \(ypač saulėgrąžų aliejus\)
+**Aliejus:** \
+****Sviestas (geriau organinis) \
+Vištos, jaučio, anties taukai \
+Ghee sviestas \
+Ypač tyras alyvuogių aliejus \
+Kokosų sviestas, nerafinuotas kokosų aliejus, kokosų kremas \
+Žuvies kepimui naudoti kokosų aliejų \
+\
+Renkantis aliejus bei sviestus, svarbiausiai atkreipti dėmesį į jų kilmę bei kokybę. Nesirinkite hidrintų, rafinuotų ar kitaip pramonės būdu apdorotų riebalų. Taip pat stenkitės išlaikyti teisingą gyvulinių ir augalinių riebalų santykį: augaliniuose aliejuose gausu omega 6 riebalų rūgščių, kurių perteklius gali sukelti uždegiminius procesus organizme (ypač saulėgrąžų aliejus)
 
-**Miltai:**   
-Kokosų, migdolų ir pan.   
-Galima pirkti iš [livinn.lt](https://www.livinn.lt/)   
-Kepimui vietoj džiuvesėlių - Balkšvojo \(Indijos\) gysločio skaidulos \(psyllium husk\)
+**Miltai:** \
+Kokosų, migdolų ir pan. \
+Galima pirkti iš [livinn.lt](https://www.livinn.lt) \
+Kepimui vietoj džiuvesėlių - Balkšvojo (Indijos) gysločio skaidulos (psyllium husk)
 
 ### Galima vartoti, tačiau riboti
 
-**Majonezas:**  
-iki 60 g per dieną.   
-  
-Rekomenduočiau gamintis savo, tačiau Hellmans taip pat turi mažiau angliavandenių, jei neturite tam laiko. 
+**Majonezas:**\
+iki 60 g per dieną. \
+\
+Rekomenduočiau gamintis savo, tačiau Hellmans taip pat turi mažiau angliavandenių, jei neturite tam laiko.&#x20;
 
-**Pagardai:**  
-Citrinų sultys iki 20 g per dieną  
-Sojos padažas iki 20 g per dieną. 
+**Pagardai:**\
+Citrinų sultys iki 20 g per dieną\
+Sojos padažas iki 20 g per dieną.&#x20;
 
 Riešutų sviestai – priklauso nuo rūšies, bet geriau riboti iki 100 gr per dieną
 
-**Saldumynai:**   
-cukrų keisti stevija, eritroliu  
-Sukrinas   
-Vienuolių vaisius \(angl. monk fruit\)   
+**Saldumynai:** \
+cukrų keisti stevija, eritroliu\
+Sukrinas \
+Vienuolių vaisius (angl. monk fruit) \
 Šokoladas - virš 85%
 
-**Alkoholis:**   
+**Alkoholis:** \
 Jei mėgstate alų, vyną, likerius ar vaisinius kokteilius, juos teks pamiršti – vėlgi, dėl juose esančio cukraus. Leidžiama vartoti tik stiprius spiritinius gėrimus, nes jose yra 0 angliavandenių – degtinė, tekila, viskis, konjakas, džinas.
 
 ### Vengti
 
-Šakniavaisių daržovių: bulvės, batatai, morkos, pastarnokai   
-Miltinių \(makaronai, bandelės, picos ir t.t.\)   
-Ryžių ir visų grūdinės kilmės produktų, kviečių, kruopų, dribsnių   
-Cukrinių produktų: gazuoti gėrimai, vaisių sultys, smoothies, pyragėliai, tortai, ledai, saldainiai   
-Pupų ir kitų ankštinių: žirniai, lešiai, avinžirniai ir kt.   
-Medaus, uogienių, agavų ar klevų sirupų   
+Šakniavaisių daržovių: bulvės, batatai, morkos, pastarnokai \
+Miltinių (makaronai, bandelės, picos ir t.t.) \
+Ryžių ir visų grūdinės kilmės produktų, kviečių, kruopų, dribsnių \
+Cukrinių produktų: gazuoti gėrimai, vaisių sultys, smoothies, pyragėliai, tortai, ledai, saldainiai \
+Pupų ir kitų ankštinių: žirniai, lešiai, avinžirniai ir kt. \
+Medaus, uogienių, agavų ar klevų sirupų \
 Obuolių, kriaušių, bananų, apelsinų
 
 ### Galimų simptomų šalinimas
@@ -106,7 +106,7 @@ Standartinės mitybos besilaikančiam žmogui gliukozė yra pagrindinis energijo
 
 Ketozė yra natūrali organizmo metabolinė būsena, kai energijai naudojami ketonai. Ketonai gaminami kepenyse, o jų gamyba prasideda tada, kai organizmo gliukozės atsargos ima sekti. Kepenyse riebalai paverčiami ketonais, kurie teikia energiją kūnui ir smegenims.
 
-Mūsų kūnas nebus ketozėje tol, kol bus pakankamas angliavandenių kiekis \(gaunamas su maistu\) ar glikogeno kiekis \(saugomas kepenyse ir raumenyse\), kuris aprūpina ląsteles energija. Todėl posakis “būti ketozėje” paprastai reiškia – deginti riebalus.
+Mūsų kūnas nebus ketozėje tol, kol bus pakankamas angliavandenių kiekis (gaunamas su maistu) ar glikogeno kiekis (saugomas kepenyse ir raumenyse), kuris aprūpina ląsteles energija. Todėl posakis “būti ketozėje” paprastai reiškia – deginti riebalus.
 
 Laikantis ketogeninės mitybos 70% energijos gauname iš riebalų, 25% iš baltymų ir tik 5% iš angliavandenių.
 
@@ -117,4 +117,3 @@ Energija pirmas 16-20 val. gaunama naudojant glikogeno atsargas kepenyse bei lai
 Praėjus savaitei, jei organizmas tikrai negavo angliavandenių, prasideda ketozė. Ji tęsiasi tol kol bus ribojami angliavandeniai. Vėliau energija pradedama gauti ne iš baltymų, o riebalų. Deginami energijai suvartojami riebalai arba savo kūno riebalai. Palaipsniui kūnas patenka į ketozės būklę. Dėl teisingos keto mitybos atsiranda kalorijų deficitas ir šiame procese dalyvaujančių ketonų dėka ima tirpti riebaliukai, kurie paspartina mūsų organizmo riebalų ląstelių apykaitą.
 
 Supraskite, riebalai nepadaro jūsų storais. Jūsų kūnas nori deginti riebalus, bet jūs jam nesuteikiate šanso, nes jis priverstas nuolat deginti gliukozę gautą iš angliavandenių, atkeliavusių su maistu. Riebalai yra gyvybiškai svarbūs tinkamam organizmo funkcionavimui ir apsaugo pagrindinius jūsų organus kaip širdis, plaučiai ir smegenys. Riebalai padeda sureguliuoti jūsų imuninę sistemą ir kūno temperatūrą, jie būtini hormonų savireguliacijai, kurie atsakingi už metabolizmą, sveikų kaulų išlaikymą, raumenų vystymąsi ir bendrą gerą savijautą.
-

@@ -12,7 +12,5 @@ Mr. Robot – serialas, iš pirmos pažiūros apie IT bei revoliucijas, tačiau 
 
 Galbūt būtent dėlto šių metų Golden Globes apdovanojimuose pelnė „Geriausio metų serialo“ titulą.
 
-{% embed url="https://www.youtube.com/watch?v=xIBiJ\_SzJTA" %}
-
-
+{% embed url="https://www.youtube.com/watch?v=xIBiJ_SzJTA" %}
 

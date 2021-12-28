@@ -9,18 +9,18 @@ description: The Internet treats censorship as a malfunction and routes around i
 * Manau, kad internetas turi nemažai paslapčių. Tačiau dažniausiai geros paslaptys yra tos, apie kurias taip niekada ir nesužinome.
 * Cicada šiuo atveju yra išties plačiai žinomas galvosūkis, tačiau žinomumas jo išspręsti visgi nepadėjo: paskutinis challenge'as Liber Primus buvo dar 2014-aisiais ir šis manifestas iki šiol nėra pilnai iššifruotas.
 * Kiekvienais metais nuo 2012-ųjų pasirodydavo po naują užduotį, tačiau dabar naujovių iš Cicados daugiau nebesulaukiama ir žmonės spekuliuoja, kad ir nesulauksime tol, kol paskutinė užduotis nebus pilnai įveikta.
-* Iš esmės labai įdomu ar tai vieno žmogaus ar jų grupės sumanymas, ar tai pokštas, žaidimas, pramoga kažkam, kas nori pa'challenge'linti, priversti susiburti žmones [komandiniam darbui ](https://www.youtube.com/watch?v=RatbYqc0-jE)bei mokymuisi apie [kriptografiją ir šifravimus](https://uncovering-cicada.fandom.com/wiki/Uncovering_Cicada_Wiki), o galbūt tai iš tiesų kažkokia organizacija, kuri tokiu būdu ieškosi gabių naujų narių. Good old internet mystery, kuri nenuvertina žmonių proto sugebėjimų.
+* Iš esmės labai įdomu ar tai vieno žmogaus ar jų grupės sumanymas, ar tai pokštas, žaidimas, pramoga kažkam, kas nori pa'challenge'linti, priversti susiburti žmones [komandiniam darbui ](https://www.youtube.com/watch?v=RatbYqc0-jE)bei mokymuisi apie [kriptografiją ir šifravimus](https://uncovering-cicada.fandom.com/wiki/Uncovering\_Cicada\_Wiki), o galbūt tai iš tiesų kažkokia organizacija, kuri tokiu būdu ieškosi gabių naujų narių. Good old internet mystery, kuri nenuvertina žmonių proto sugebėjimų.
 * Tačiau problema, kai kažką apsupa paslapties, nežinomumo šydas yra tai, kad įsijungia žmonių fantazijos ir pradedamos kurti pačios įvairiausios teorijos. Taip, bet kuri iš jų, pvz kad tai hackerių bendruomenė, kultas, marketinginė kampanija ar slaptų valstybinių organizacijų darbas, gali būti iš tiesų tikros, bet iš kitos pusės, neturint visiškai jokių faktų ir įrodymų, tai yra vienodai lygios ir tikėtina, kad vienodai neteisingos spėlionės, kurios su tikrove gali neturėti nieko bendro. Kaip bebūtų, tačiau tikriausiai tiesos taip niekada ir nesužinosim ir būtent tai padaro šį fenomeną paslaptingu ir įdomiu.
 
 {% embed url="https://youtu.be/I2O7blSSzpI" %}
 
 ## Fear of Missing Out and Social Media
 
-FOMO is a great motivator of human behavior, and I think a crucial key to understanding social software, and why it works the way it does. Many people have studied the game mechanics that keep people collecting things \(points, trophies, check-ins, mayorships, kudos\). Others have studied how the neurochemistry that keeps us checking Facebook every five minutes is similar to the neurochemistry fueling addiction. Social media has made us even more aware of the things we are missing out on. You’re home alone, but watching your friends status updates tell of a great party happening somewhere. You are aware of more parties than ever before. And, like gym memberships, adding Bergman movies to your Netflix queue and piling up unread copies of the New Yorker, watching these feeds gives you a sense that you’re participating, not missing out, even when you are.
+FOMO is a great motivator of human behavior, and I think a crucial key to understanding social software, and why it works the way it does. Many people have studied the game mechanics that keep people collecting things (points, trophies, check-ins, mayorships, kudos). Others have studied how the neurochemistry that keeps us checking Facebook every five minutes is similar to the neurochemistry fueling addiction. Social media has made us even more aware of the things we are missing out on. You’re home alone, but watching your friends status updates tell of a great party happening somewhere. You are aware of more parties than ever before. And, like gym memberships, adding Bergman movies to your Netflix queue and piling up unread copies of the New Yorker, watching these feeds gives you a sense that you’re participating, not missing out, even when you are.
 
 * [https://caterina.net/2011/03/15/fomo-and-social-media/](https://caterina.net/2011/03/15/fomo-and-social-media/)
 
-## Google+ 
+## Google+&#x20;
 
 Vienas iš inžinierių dirbančių prie Google+ [aprašo priežastis](https://onezero.medium.com/why-google-failed-4b9db05b973b), kurios jo nuomone nulėmė kodėl šis socialinis tinklapis nenusisekė.
 
@@ -35,12 +35,12 @@ Vienas iš inžinierių dirbančių prie Google+ [aprašo priežastis](https://o
 
 Galima pridėti ir dar kelias, ne tokias gyvybiškai svarbias, bet kalančias dar po vinį:
 
-* Jokių read/write API nebuvimas. Nebuvo galima naudoti jokio kito kliento. Pvz. Twitter ar Reddit atvejai labai gerai parodo, kaip kiekvienas atskiras apps'as gali pateikti savo unikalų take'ą, kuris gali gan nemažai įtakoti pasitenkinimą serviso naudojimu. Tai taipogi reiškia, kad nebuvo galima automatizuoti postų rašymo ar importavimo iš kitų tinklų. Kitaip tariant, jei į daugumą soc. tinklų gali postinti parašęs postą tik kartą, Google+ reikalavo asmeniško prisilietimo. 
+* Jokių read/write API nebuvimas. Nebuvo galima naudoti jokio kito kliento. Pvz. Twitter ar Reddit atvejai labai gerai parodo, kaip kiekvienas atskiras apps'as gali pateikti savo unikalų take'ą, kuris gali gan nemažai įtakoti pasitenkinimą serviso naudojimu. Tai taipogi reiškia, kad nebuvo galima automatizuoti postų rašymo ar importavimo iš kitų tinklų. Kitaip tariant, jei į daugumą soc. tinklų gali postinti parašęs postą tik kartą, Google+ reikalavo asmeniško prisilietimo.&#x20;
 * Tikrų vardų politika
 
 Įdomu, kad socialinio tinklapio sukūrimui žmonių psichologija yra ne mažiau svarbi, nei technologija
 
 ## Notes
 
-* From ex Facebook Software Engineer:   The best minds of my generation are thinking about how to make people click ads.
-
+* From ex Facebook Software Engineer:  \
+  The best minds of my generation are thinking about how to make people click ads.

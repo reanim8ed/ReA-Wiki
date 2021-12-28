@@ -56,7 +56,7 @@ description: Wiki atliktų pakeitimų ir naujų straipsnių archyvas
 ### 2021-01-04
 
 * Knygos: [Andrius kleiva - Kaip veikia Japonija](wiki/knygos.md#andrius-kleiva-kaip-veikia-japonija)
-* Žaidimai:   [Burly Men At Sea  ](wiki/zaidimai/burly-men-at-sea.md)
+* Žaidimai:&#x20;  [Burly Men At Sea  ](wiki/zaidimai/burly-men-at-sea.md)
 * Žaidimai: [Erica](wiki/zaidimai/erica.md)
 
 ## 2020-12
@@ -123,7 +123,7 @@ description: Wiki atliktų pakeitimų ir naujų straipsnių archyvas
 
 * Programavimas: [Prestashop Nginx template](wiki/programavimas/php/prestashop.md#prestashop-1-7-6-nginx-template)
 * Programavimas: [Symfony Mercure protocol](wiki/programavimas/php/symfony/mercure.md)
-* Programavimas:[ PHP\_CodeSniffer](wiki/programavimas/php/#php_codesniffer-installation-in-phpstorm) installation in PHPStorm
+* Programavimas:[ PHP\_CodeSniffer](wiki/programavimas/php/#php\_codesniffer-installation-in-phpstorm) installation in PHPStorm
 * Programavimas: [Deployer setup for Symfony](wiki/programavimas/php/symfony/#deployer-setup)
 * Programavimas: [API endpoint naming rules](wiki/programavimas/apis.md#api-endpoint-naming-rules)
 * Programavimas: [IKEv2 VPN setup](wiki/programavimas/linux/#ikev2-vpn-set-up-in-ubuntu)
@@ -137,7 +137,7 @@ description: Wiki atliktų pakeitimų ir naujų straipsnių archyvas
 
 #### 2020-08-20
 
-* Podcasts: [Jim Keller](wiki/podcasts/#jim-keller-lex-fridman-podcast-70) @ Lex Fridman Podcast \#70
+* Podcasts: [Jim Keller](wiki/podcasts/#jim-keller-lex-fridman-podcast-70) @ Lex Fridman Podcast #70
 
 #### 2020-08-15
 
@@ -167,7 +167,7 @@ description: Wiki atliktų pakeitimų ir naujų straipsnių archyvas
 
 #### 2020-05-24
 
-* [iOS 13 Jailbreak](wiki/ios/jailbreak.md#ios-13)
+* [iOS 13 Jailbreak](wiki/mac/ios/jailbreak.md#ios-13)
 
 #### 2020-05-19
 
@@ -187,7 +187,9 @@ description: Wiki atliktų pakeitimų ir naujų straipsnių archyvas
 #### 2020-05-10
 
 * [Mental modeliai](wiki/mental-modeliai.md)
-* Istorija: [Kaip sovietai mainė karo laivus į Pepsi](wiki/istorija/#kaip-sovietai-main-karo-laivus-pepsi)
+*   Istorija: [Kaip sovietai mainė karo laivus į Pepsi](wiki/istorija/#kaip-sovietai-main-karo-laivus-pepsi)
+
+
 
 #### 2020-05-09
 
@@ -216,7 +218,7 @@ description: Wiki atliktų pakeitimų ir naujų straipsnių archyvas
 
 #### 2020-04-15
 
-* TechIT: [iPhone SE \(2020\)](wiki/tech-it.md#iphone-se-2020)
+* TechIT: [iPhone SE (2020)](wiki/tech-it.md#iphone-se-2020)
 
 #### 2020-04-10
 
@@ -407,7 +409,7 @@ description: Wiki atliktų pakeitimų ir naujų straipsnių archyvas
 
 * TechIT: [Apple Watch konkurencija](wiki/tech-it.md#apple-watch-konkurencija)
 * Random internetai: [Dviračių kapinynas](wiki/random-internetai.md#dviraci-kapinynas)
-* Kokteiliai: [Campari]()
+* Kokteiliai: [Campari](broken-reference)
 * Showerthoughts:[ subscription apps'as subscription'ams](wiki/showerthoughts.md#2019-09-22)
 * Showerthoughts: [stalo žaidimų nuoma](wiki/showerthoughts.md#2019-09-22)
 * Showerthoughts: [Netflix nemalonių scenų skippinimas](wiki/showerthoughts.md#2019-09-22)
@@ -427,7 +429,7 @@ description: Wiki atliktų pakeitimų ir naujų straipsnių archyvas
 #### 2019-09-03
 
 * Skaitiniai: [Should the Rich Be Allowed to Buy the Best Genes?](wiki/skaitiniai/#should-the-rich-be-allowed-to-buy-the-best-genes)
-* Akcijos: [Beyond Meat \(BYND\)](wiki/ekonomika/investavimas/akcijos.md#beyond-meat-bynd)
+* Akcijos: [Beyond Meat (BYND)](wiki/ekonomika/investavimas/akcijos.md#beyond-meat-bynd)
 
 #### 2019-09-01
 
@@ -530,7 +532,7 @@ Tinklaraščio migracija:
 
 #### 2019-07-27
 
-Tinklaraščio migracija: 
+Tinklaraščio migracija:&#x20;
 
 * [Bevielės ausinės](wiki/technologijos/gadgets/bevieles-ausines/)
 * [Pirmasis raketos „Falcon Heavy“ skrydis](wiki/kosmosas.md#pirmasis-raketos-falcon-heavy-skrydis-2018-01-31)
@@ -572,7 +574,7 @@ Tinklaraščio migracija:
 #### 2019-07-25
 
 * Nirvanos daina [Polly ](https://www.youtube.com/watch?v=NJ97KdTQFww)yra viena tamsesnių grupės dainų
-* exurb1a   patarimai apie [rašymą](https://www.youtube.com/watch?v=MANyX7woDPA)
+* exurb1a  &#x20;patarimai apie [rašymą](https://www.youtube.com/watch?v=MANyX7woDPA)
 * [Apie skaitymo įpročius](wiki/skaitiniai/skaitymo-prociai.md)
 * [Geras teisininkas](wiki/showerthoughts.md#2019-07-25) yra tas, kuris su tokiu pačiu užsidegimu galėtų kovoti bet kurioje pusėje.
 * Citata apie [minčių generavimą](wiki/citatos.md#minci-generavimas-rytais) rytais
@@ -682,7 +684,7 @@ Tinklaraščio migracija:
 
 #### 2019-06-06
 
-* C&C žaidimų [remaster versija](wiki/tech-it.md#c-and-c-remaster-2019-06-06)
+* C\&C žaidimų [remaster versija](wiki/tech-it.md#c-and-c-remaster-2019-06-06)
 
 #### 2019-06-03
 
@@ -701,14 +703,14 @@ Tinklaraščio migracija:
 * [Gitbook alternatyvos](wiki/software.md#wikis), jei norėtųsi turėsi self-hosted sprendimą.
 * [TechIT ](wiki/tech-it.md)naujienų skiltis
 * [Skaitomos ](wiki/knygos.md#siuo-metu-skaitoma)ir [PlanToRead ](wiki/knygos.md#plantoread)knygos
-* [Barcelona](wiki/pasaulis/keliones/barcelona-2019.md) \(2019\) kelionės info
-* [Graikija ](wiki/pasaulis/keliones/graikija-2018.md)\(2018\) kelionės info
+* [Barcelona](wiki/pasaulis/keliones/barcelona-2019.md) (2019) kelionės info
+* [Graikija ](wiki/pasaulis/keliones/graikija-2018.md)(2018) kelionės info
 * 2015-tų kelionės į [Tailandą ](wiki/pasaulis/keliones/tailandas-2015/)aprašymas
 * [Kūrybingumas](wiki/kurybingumas.md)
 
 #### 2019-05-26
 
-* Pridėta [MealTimeVideos ](wiki/mealtimevideos.md)tema ir pirmasis įrašas - LinusTechTips 
+* Pridėta [MealTimeVideos ](wiki/mealtimevideos.md)tema ir pirmasis įrašas - LinusTechTips&#x20;
 * Video su FBI [kūno kalbos ekspertu](wiki/mealtimevideos.md)
 
 #### 2019-05-25
@@ -851,6 +853,4 @@ Tinklaraščio migracija:
 
 * Wiki startas
 * Sukurtas Įvadas, motyvacinis puslapis, šis timeline
-
-
 

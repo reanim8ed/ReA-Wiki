@@ -12,58 +12,58 @@ description: 'Good book is like a puppy: easy to pick up, but hard to put down.'
 
 ## PlanToRead
 
-| Autorius | Knyga |
-| :--- | :--- |
-| Matthew Walker | [Why We Sleep: Unlocking the Power of Sleep and Dreams](https://www.amazon.com/Why-We-Sleep-Unlocking-Dreams/dp/1501144316) |
-| Cal Newport | [Digital Minimalism: Choosing a Focused Life in a Noisy World](https://www.amazon.com/Digital-Minimalism-Choosing-Focused-Noisy/dp/0525536515) |
-| Scott Adams | [How To Fail At Almost Everything And Still Win Big](https://www.amazon.com/How-Fail-Almost-Everything-Still-ebook/dp/B00COOFBA4) |
-| Michael Pollan | [How to Change Your Mind](https://www.amazon.com/Change-Your-Mind-Consciousness-Transcendence/dp/1594204225) |
-| Andy Weir | [Artemis](https://www.amazon.com/Artemis-Andy-Weir/dp/1543641490) |
-| Ray Dalio | [Principles: Life and Work](https://www.amazon.com/Principles-Life-Work-Ray-Dalio/dp/1501124021) |
-| Roger Fisher | [Getting to Yes: Negotiating Agreement Without Giving In](https://www.amazon.com/Getting-Yes-Negotiating-Agreement-Without/dp/0140157352) |
-| Ray Bradbury | [Fahrenheit 451, The Martian Chronicles](https://www.goodreads.com/author/show/1630.Ray_Bradbury) |
-| Stephen King | [The Dark Tower Series](https://www.goodreads.com/series/40750-the-dark-tower) |
-| Isaac Asimov | [Galactic Empire series](https://www.wikiwand.com/en/Galactic_Empire_%28series%29) |
-| Thomas J. Stanley | [The Millionaire Next Door: The Surprising Secrets of America's Wealthy](https://www.amazon.com/dp/1589795474/?tag=richardreeze-20) |
-| Max Tegmark | [Life 3.0: Being Human in the Age of Artificial Intelligence](https://www.amazon.com/Life-3-0-Being-Artificial-Intelligence/dp/1101946598) |
-| Mr. Money Mustache | [The Simple Path to Wealth](https://www.amazon.com/dp/1533667926/?tag=richardreeze-20) |
-| Ogi Ogas | [A Billion Wicked Thoughts: What the Internet Tells Us About Sexual Relationships](https://www.amazon.com/dp/B004LRPJ3G/?tag=richardreeze-20) |
-| Martin Fowler | [Refactoring: Improving the Design of Existing Code](https://www.amazon.com/Refactoring-Improving-Design-Existing-Code/dp/0201485672) |
-| Daniel Kahneman | [Thinking, Fast and Slow](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555) |
-| Jesse C. Stine | [Insider Buy Superstocks](https://www.amazon.com/Insider-Buy-Superstocks-Turned-Million/dp/0615818455) |
-| Neil Strauss | [The Game: Penetrating the Secret Society of Pickup Artists](https://www.amazon.com/Game-Penetrating-Secret-Society-Artists/dp/0060554738) |
-|  Tim Wu | [The Master Switch: The Rise and Fall of Information Empires](https://www.goodreads.com/book/show/8201080-the-master-switch) |
-|  William Gibson |  ****[Neuromancer](https://www.wikiwand.com/en/Neuromancer) |
-|  Jamie Metzl | [Hacking Darwin: Genetic Engineering and the Future of Humanity](https://www.amazon.com/Hacking-Darwin-Genetic-Engineering-Humanity/dp/149267009X) |
-| John Brockman | [This Explains Everything: 150 Deep, Beautiful, and Elegant Theories of How the World Works](https://www.amazon.com/This-Explains-Everything-Beautiful-Theories-ebook/dp/B0089LOGDO?_bbid=12217792&tag=bookbubemail17-20) |
-| Matt Stauffer | [Laravel: Up & Running](https://www.amazon.com/Laravel-Running-Framework-Building-Modern-ebook-dp-B07Q3T513R/dp/B07Q3T513R/ref=as_li_ss_tl?_encoding=UTF8&me=&qid=1554814898&linkCode=sl1&tag=laranews08-20&linkId=30a646cad717ff51dad164b6c7375a63&language=en_US) |
-| Marshall Cavendish | [An Idea a Day...: 365 Great Business Ideas for Each Day of the Year](https://www.amazon.com/Idea-Day-Great-Business-Ideas/dp/9814328642) |
+| Autorius           | Knyga                                                                                                                                                                                                                                                                          |
+| ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Matthew Walker     | [Why We Sleep: Unlocking the Power of Sleep and Dreams](https://www.amazon.com/Why-We-Sleep-Unlocking-Dreams/dp/1501144316)                                                                                                                                                    |
+| Cal Newport        | [Digital Minimalism: Choosing a Focused Life in a Noisy World](https://www.amazon.com/Digital-Minimalism-Choosing-Focused-Noisy/dp/0525536515)                                                                                                                                 |
+| Scott Adams        | [How To Fail At Almost Everything And Still Win Big](https://www.amazon.com/How-Fail-Almost-Everything-Still-ebook/dp/B00COOFBA4)                                                                                                                                              |
+| Michael Pollan     | [How to Change Your Mind](https://www.amazon.com/Change-Your-Mind-Consciousness-Transcendence/dp/1594204225)                                                                                                                                                                   |
+| Andy Weir          | [Artemis](https://www.amazon.com/Artemis-Andy-Weir/dp/1543641490)                                                                                                                                                                                                              |
+| Ray Dalio          | [Principles: Life and Work](https://www.amazon.com/Principles-Life-Work-Ray-Dalio/dp/1501124021)                                                                                                                                                                               |
+| Roger Fisher       | [Getting to Yes: Negotiating Agreement Without Giving In](https://www.amazon.com/Getting-Yes-Negotiating-Agreement-Without/dp/0140157352)                                                                                                                                      |
+| Ray Bradbury       | [Fahrenheit 451, The Martian Chronicles](https://www.goodreads.com/author/show/1630.Ray\_Bradbury)                                                                                                                                                                             |
+| Stephen King       | [The Dark Tower Series](https://www.goodreads.com/series/40750-the-dark-tower)                                                                                                                                                                                                 |
+| Isaac Asimov       | [Galactic Empire series](https://www.wikiwand.com/en/Galactic\_Empire\_\(series\))                                                                                                                                                                                             |
+| Thomas J. Stanley  | [The Millionaire Next Door: The Surprising Secrets of America's Wealthy](https://www.amazon.com/dp/1589795474/?tag=richardreeze-20)                                                                                                                                            |
+| Max Tegmark        | [Life 3.0: Being Human in the Age of Artificial Intelligence](https://www.amazon.com/Life-3-0-Being-Artificial-Intelligence/dp/1101946598)                                                                                                                                     |
+| Mr. Money Mustache | [The Simple Path to Wealth](https://www.amazon.com/dp/1533667926/?tag=richardreeze-20)                                                                                                                                                                                         |
+| Ogi Ogas           | [A Billion Wicked Thoughts: What the Internet Tells Us About Sexual Relationships](https://www.amazon.com/dp/B004LRPJ3G/?tag=richardreeze-20)                                                                                                                                  |
+| Martin Fowler      | [Refactoring: Improving the Design of Existing Code](https://www.amazon.com/Refactoring-Improving-Design-Existing-Code/dp/0201485672)                                                                                                                                          |
+| Daniel Kahneman    | [Thinking, Fast and Slow](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555)                                                                                                                                                                             |
+| Jesse C. Stine     | [Insider Buy Superstocks](https://www.amazon.com/Insider-Buy-Superstocks-Turned-Million/dp/0615818455)                                                                                                                                                                         |
+| Neil Strauss       | [The Game: Penetrating the Secret Society of Pickup Artists](https://www.amazon.com/Game-Penetrating-Secret-Society-Artists/dp/0060554738)                                                                                                                                     |
+|  Tim Wu            | [The Master Switch: The Rise and Fall of Information Empires](https://www.goodreads.com/book/show/8201080-the-master-switch)                                                                                                                                                   |
+|  William Gibson    |  **** [Neuromancer](https://www.wikiwand.com/en/Neuromancer)                                                                                                                                                                                                                   |
+|  Jamie Metzl       | [Hacking Darwin: Genetic Engineering and the Future of Humanity](https://www.amazon.com/Hacking-Darwin-Genetic-Engineering-Humanity/dp/149267009X)                                                                                                                             |
+| John Brockman      | [This Explains Everything: 150 Deep, Beautiful, and Elegant Theories of How the World Works](https://www.amazon.com/This-Explains-Everything-Beautiful-Theories-ebook/dp/B0089LOGDO?\_bbid=12217792\&tag=bookbubemail17-20)                                                    |
+| Matt Stauffer      | [Laravel: Up & Running](https://www.amazon.com/Laravel-Running-Framework-Building-Modern-ebook-dp-B07Q3T513R/dp/B07Q3T513R/ref=as\_li\_ss\_tl?\_encoding=UTF8\&me=\&qid=1554814898\&linkCode=sl1\&tag=laranews08-20\&linkId=30a646cad717ff51dad164b6c7375a63\&language=en\_US) |
+| Marshall Cavendish | [An Idea a Day...: 365 Great Business Ideas for Each Day of the Year](https://www.amazon.com/Idea-Day-Great-Business-Ideas/dp/9814328642)                                                                                                                                      |
 
 ## **Notes**
 
 * Senas video, kuriame Joe Rogan skaito rašytojo, Fear and Loathing in Las Vegas autoriaus [Hunter S Thompson](https://www.youtube.com/watch?v=RqEmCr8gAAM) dienotvarkę.
 
-### [George S. Clason - The Richest Man in Babylon](https://www.goodreads.com/book/show/1052.The_Richest_Man_in_Babylon)
+### [George S. Clason - The Richest Man in Babylon](https://www.goodreads.com/book/show/1052.The\_Richest\_Man\_in\_Babylon)
 
-**Start thy purse to fattening** \(Pay yourself first\) - The book recommends a 10% saving at the least \(keep 1 out of every 10 gold coins for yourself\). Just remove it __as soon as one gets the salary or any lumpsum amount \(Recommended to start with 10% and afterwards go up\).
+**Start thy purse to fattening** (Pay yourself first) - The book recommends a 10% saving at the least (keep 1 out of every 10 gold coins for yourself). Just remove it __ as soon as one gets the salary or any lumpsum amount (Recommended to start with 10% and afterwards go up).
 
 **Control thy expenditures** - For this budgeting has been suggested in the book. The basic idea is to be aware that life is a series of trade-offs in which one desire is sacrificed to support another one which is considered to be more important. The first cure helps in attaining the second one.
 
 **Make thy gold multiply** - Saving money is slightly different from investing it. Investing means putting your money in instruments which provide interest which again can be invested. Be it the use of stock markets, real estate, trading, investing in a business, etc based upon the individual's expertise and knowledge.
 
-**Guard thy treasures from loss** - Partly this indicates the idea of medical insurance \(and other types of insurances like critical care, disability\). The main part is invest in instruments which have a margin of safety, are liquid and provide a reasonable \(too good to be true are false\) rate of appreciation. If required, consult with wise men \(defined as people who have decent experience in increasing their money\) and secure their advice. As a corollary, do not invest in instruments with which you are not familiar or which cannot be explained in easy ways to you – say NO to them. Do not buy anything which someone wants to sell \(read all insurance products except the pure term ones\). Buy what you have researched and you think is valuable.
+**Guard thy treasures from loss** - Partly this indicates the idea of medical insurance (and other types of insurances like critical care, disability). The main part is invest in instruments which have a margin of safety, are liquid and provide a reasonable (too good to be true are false) rate of appreciation. If required, consult with wise men (defined as people who have decent experience in increasing their money) and secure their advice. As a corollary, do not invest in instruments with which you are not familiar or which cannot be explained in easy ways to you – say NO to them. Do not buy anything which someone wants to sell (read all insurance products except the pure term ones). Buy what you have researched and you think is valuable.
 
-**Make of thy dwelling a profitable investment** - This translates into buy or rent a house which is affordable to you. Although the book mentions own thy home, but it should be considered in a way of owning and not being owned by a bank/loan. \(My personal thumb rule is have 50% of the house cost as your own money before thinking of buying one\).
+**Make of thy dwelling a profitable investment** - This translates into buy or rent a house which is affordable to you. Although the book mentions own thy home, but it should be considered in a way of owning and not being owned by a bank/loan. (My personal thumb rule is have 50% of the house cost as your own money before thinking of buying one).
 
-**Insure a future income** - There are again two aspects in this – one is the use of life insurance which will ensure that in case of your own loss of life, persons who are financially dependent upon you get an amount which will be sufficient for them. The other part is to consider the idea of financial independence \(a.k.a. retirement\) which will provide a decent stream of income when you can stop working for money \(in case you do not die!\).
+**Insure a future income** - There are again two aspects in this – one is the use of life insurance which will ensure that in case of your own loss of life, persons who are financially dependent upon you get an amount which will be sufficient for them. The other part is to consider the idea of financial independence (a.k.a. retirement) which will provide a decent stream of income when you can stop working for money (in case you do not die!).
 
-**Increase thy ability to earn** - Continually learn and improve. It can be in the form of how to better invest, better save, etc – do this by reading and understanding more \(books, blogs, websites\). Eat healthy, exercise regularly, etc are also part of this. A quote from Scott Adams would be apt here – Every skill you acquire doubles your odds of success.
+**Increase thy ability to earn** - Continually learn and improve. It can be in the form of how to better invest, better save, etc – do this by reading and understanding more (books, blogs, websites). Eat healthy, exercise regularly, etc are also part of this. A quote from Scott Adams would be apt here – Every skill you acquire doubles your odds of success.
 
-_When youth comes to age for advice he receives the wisdom of years. But too often does youth think that age knows only the wisdom of days that are gone, and therefore profits not. But remember this, the sun than shines today is the sun that shone when thy father was born, and will still be shining when thy last grandchild shall pass into the darkness._ 
+_When youth comes to age for advice he receives the wisdom of years. But too often does youth think that age knows only the wisdom of days that are gone, and therefore profits not. But remember this, the sun than shines today is the sun that shone when thy father was born, and will still be shining when thy last grandchild shall pass into the darkness._&#x20;
 
 _Yet, thou do not all earn the same. Some earn much more that others. Some have much larger families to support. Yet, all purses were equally lean. Now I will tell thee an unusual thruth about men and sons of men. It is this: That what each of us call our 'necessary expanses' will always grow to equal our incomes unless we protest to the contrary. "Confuse not the necessary expanses with thy desires. Each of you, together with your good families, have more desires that your earnings can gratify. Therefore are thy earnings spent to gratify these desires insofar as they will go. Still thou retainest many ungratified desires._
 
-### \_\_[Andrius kleiva - Kaip veikia Japonija](https://www.tytoalba.lt/kaip-veikia-japonija)
+### __[Andrius kleiva - Kaip veikia Japonija](https://www.tytoalba.lt/kaip-veikia-japonija)
 
 Japonijoje pagyvenęs Andrius, kurį kai kas prisimena dar iš tinklaraščio laikų, aprašo kultūrines smulkmenas ir labai giliai įsišaknijusį japonišką mentalitetą ir taip bent iš dalies pademonstruoja kokie tai žmonės, kodėl jie tokie, kaip gan smarkiai skiriasi nuo tipinio europiečio ir visgi kad net ir tokios tolimos šalies gyventojuose galima įžvelgti lietuviams pažįstamų bruožų.
 
@@ -75,7 +75,7 @@ Tiesa, rašymo stilius vietomis gali būti hit or miss. Jaučiasi, kaip autorius
 
 ### [Joseph Pisenti - Answers to Questions You’ve Never Asked: Explaining the What If in Science, Geography and the Absurd](https://www.goodreads.com/book/show/36049427-answers-to-questions-you-ve-never-asked)
 
-* Viena iš tų knygų, kur pagal idėją atrodo, kad turėtų pasirodyti gan linksma ir įdomi, nes visgi mėgstu faktus, tačiau tokia nebuvo. Gal dėlto, kad Youtuberio knyga \(RealLifeLore\). Nors pozicionuojama, kaip panaši į Randall Munroe - What if?, bet mano manymu tikrai atsilieka. Dauguma iškeltų klausimų nė nesukelia didelio susidomėjimo, kad labai norėtųsi sužinoti atsakymą, o ir pats turinys yra kokie 75% istorijos/geografijos. Pvz trumpai aprašyti visi 45 JAV prezidentai, kas būtų jei kai kurios imperijos vis dar egzistuotų šiai dienai ar kiek toliausiai gali būti nuo Wallmart'o ar McDonaldo.
+* Viena iš tų knygų, kur pagal idėją atrodo, kad turėtų pasirodyti gan linksma ir įdomi, nes visgi mėgstu faktus, tačiau tokia nebuvo. Gal dėlto, kad Youtuberio knyga (RealLifeLore). Nors pozicionuojama, kaip panaši į Randall Munroe - What if?, bet mano manymu tikrai atsilieka. Dauguma iškeltų klausimų nė nesukelia didelio susidomėjimo, kad labai norėtųsi sužinoti atsakymą, o ir pats turinys yra kokie 75% istorijos/geografijos. Pvz trumpai aprašyti visi 45 JAV prezidentai, kas būtų jei kai kurios imperijos vis dar egzistuotų šiai dienai ar kiek toliausiai gali būti nuo Wallmart'o ar McDonaldo.
 * Įdomiausias faktas iš visos knygos man buvo tik tai, kad jeigu surinkti visą auksą iškastą per žmonijos istoriją ir jį išlydyti į vieną didelį aukso kubo lydinį, tai tas kūbas būtų su 21 metro kraštine.
 
 ### Naujųjų laikų Evangelija pagal Užkalnį
@@ -102,9 +102,9 @@ Bendras sovietinių laikų paveikslas po šios knygos man patapo lozungu: žmogu
 
 Kelios labiau įsiminusios citatos iš knygos:
 
-> Niekada atvirai moteriški žurnalai nekalbėdavo, jog moterys negali padaryti to, ko labiausiai norėtų \(nusipirkti naują drabužį vietoj pabodusio\), dėl to, kad trūksta pinigų, dėl to, kad nėra ką pirkti, arba tai kas yra pirkti, taip pat baisu, kaip ir tai kas kabo spintoje.
+> Niekada atvirai moteriški žurnalai nekalbėdavo, jog moterys negali padaryti to, ko labiausiai norėtų (nusipirkti naują drabužį vietoj pabodusio), dėl to, kad trūksta pinigų, dėl to, kad nėra ką pirkti, arba tai kas yra pirkti, taip pat baisu, kaip ir tai kas kabo spintoje.
 >
-> …pigios knygos \(iš tikrųjų pigios: nauja knyga dažnai kainavo tiek, kiek indelis grietinės; kad ją skaityti buvo taip pat įdomu, kaip grietinės indelio dangtelį, tai jau kitas klausimas\)…
+> …pigios knygos (iš tikrųjų pigios: nauja knyga dažnai kainavo tiek, kiek indelis grietinės; kad ją skaityti buvo taip pat įdomu, kaip grietinės indelio dangtelį, tai jau kitas klausimas)…
 >
 > Kažkaip mintis apie teisėsaugos pareigūną, važiuojantį viešuoju transportu į nusikaltimo vietą, man skamba keistai…
 
@@ -112,7 +112,7 @@ Kelios labiau įsiminusios citatos iš knygos:
 
 Publikuota: 2011-05-08
 
-Vaikystėje skaitydavau gana nemažai knygų. Buvau tikras fantastinių knygų gerbėjas ir ne vieną jų sudorodavau ilgais žiemos vakarais, o kažkada net esu bandęs ir pats kažką pakeverziot su spausdinamąja mašinėle, kaip koks tikras rašytojas :p Tačiau užaugau ir skaitymui ale neliko laiko: didžioji dalis laisvalaikio prabėga darbe, studijoms, draugams, arba prie pc’iuko. Ir nors laikas prie jo tirpsta tiesiog akimirksniu, bet niekada jo nešvaistydavau žaidimams. Laikas sudegdavo mano pomėgiui gilintis, bei domėtis milijonu įvairiausių temų. Savišvieta, skant. Kai pagalvoji, kokias tonas knygų aš jau perskaičiau internete… Taigi, visą žiemą prasėdėjęs čia, Vilniuj, bendrabutį, tik dabar, atšilus orams, sumąsčiau, kad reikia grįžti prie savo senojo pomėgio ir paskaitinėti vieną kitą popierinį romaną. Ir štai pati pirmoji į rankas pakliuvo prancūzų autoriaus [_**Martin Page**_](http://en.wikipedia.org/wiki/Martin_Page_%28author%29) 2001 m. parašyta filosofinė novelė [_Kaip aš tapau kvailiu_](http://en.wikipedia.org/wiki/How_I_Became_Stupid).
+Vaikystėje skaitydavau gana nemažai knygų. Buvau tikras fantastinių knygų gerbėjas ir ne vieną jų sudorodavau ilgais žiemos vakarais, o kažkada net esu bandęs ir pats kažką pakeverziot su spausdinamąja mašinėle, kaip koks tikras rašytojas :p Tačiau užaugau ir skaitymui ale neliko laiko: didžioji dalis laisvalaikio prabėga darbe, studijoms, draugams, arba prie pc’iuko. Ir nors laikas prie jo tirpsta tiesiog akimirksniu, bet niekada jo nešvaistydavau žaidimams. Laikas sudegdavo mano pomėgiui gilintis, bei domėtis milijonu įvairiausių temų. Savišvieta, skant. Kai pagalvoji, kokias tonas knygų aš jau perskaičiau internete… Taigi, visą žiemą prasėdėjęs čia, Vilniuj, bendrabutį, tik dabar, atšilus orams, sumąsčiau, kad reikia grįžti prie savo senojo pomėgio ir paskaitinėti vieną kitą popierinį romaną. Ir štai pati pirmoji į rankas pakliuvo prancūzų autoriaus [_**Martin Page**_](http://en.wikipedia.org/wiki/Martin\_Page\_\(author\)) 2001 m. parašyta filosofinė novelė [_Kaip aš tapau kvailiu_](http://en.wikipedia.org/wiki/How\_I\_Became\_Stupid).
 
 Sutapimas ar ne, bet prieš pirkdamas šią knygą, į kurios tematiką smarkiai nesigilinau, o nusipirkau tik dėl ironiškumo, kaip tik ketinau sukonstruoti kokį trumpą straipsniuką, apie tai, kad žmonių laimė yra atvirkščiai proporcinga jų protui. Nekalbu apie kažkokius rodiklius, kaip IQ ir panašiai. Tiesiog jei žmogus pasižymi aštriu protu, racionaliu mastymu ir turi košės galvoj, labai dažnai tokie žmonės per daug analizuoja ir žiūri į gan paprastus dalykus per daug sudėtingai. To pasekmė – tokie žmonės neranda sielos ramybės ir jaučiasi nelaimingi. Ir kuo daugiau protelio dievulis davė, tuo jie nelaimingesni. Tai nėra taisyklė ir toli gražu nereiškia, kad būna visada. Ne, tai tik dėsningumas su kuriuo sutinka kai kurie mano pažįstami. Va užtenka pažiūrėt į margais rožiniais drabužėliais pasipuošusias baltapūkes Lietuvos mergaites, kramtančias gumą ir įnirtingai pusiau rusiškai pasakojančias apie vakarykščius nuotykius su draugo BMW prie podjezdo. Tik pažiūrėkit kokios jų akytės laimingos, nepagadintos ir na ir kas, kad drugeliai galvoj skraido.
 
@@ -120,23 +120,23 @@ Taigi, šios bestseleriu tapusios knygos tematika yra labai artima šiai mano mi
 
 Tiesą sakant, žiūrinėjant kitų skaitytojų atsiliepimus, kiek nustebau, kad yra prirašyta tiek negatyvumo. Man knyga buvo stebėtinai gera ir neskaitant to, kad perskaityti gali vos per vieną pavakarę, tačiau knygos puslapiuose paslėpta daugiau, nei kai kuriose 6 kart ilgesnėse knygose.
 
-Sekdami Antuano \(pagrindinio knygos veikėjo\) pasikeitimus, galbūt atpažinsite kai kuriuos savo pažįstamus, galbūt pamatysite pasirinkimus, kokius taipogi esat atlikę praeityje, na arba pažvelgsite į tai, kas gali nutikti jūsų ateityje, tačiau visa tai atlikta su lengva satyrine kalba, kuri visa tai paslepia ir priverčia neskausmingai nusišypsoti pačiam iš savęs.
+Sekdami Antuano (pagrindinio knygos veikėjo) pasikeitimus, galbūt atpažinsite kai kuriuos savo pažįstamus, galbūt pamatysite pasirinkimus, kokius taipogi esat atlikę praeityje, na arba pažvelgsite į tai, kas gali nutikti jūsų ateityje, tačiau visa tai atlikta su lengva satyrine kalba, kuri visa tai paslepia ir priverčia neskausmingai nusišypsoti pačiam iš savęs.
 
 Pirmoji knygos pusė skaitosi neabejotinai linksmai, puikiai įvedama į istoriją, na o pirmieji keli skyriai buvo puiki socialinė satyra. Na o štai nuo antros pusės vadžios kiek atsileidžia, istorija labai greit išsirutulioja, na ir pati pabaiga nebuvo itin moralizuojanti ar atskleidžianti gilias mintis, kaip kad pirmoji pusė.
 
 **Mano nuomone, knyga verta:**
 
-\[rating: 3.5/5\]
+\[rating: 3.5/5]
 
 **Knyga Goodreads sistemoje:**
 
-[http://www.goodreads.com/book/show/186837.How\_I\_Became\_Stupid](http://www.goodreads.com/book/show/186837.How_I_Became_Stupid)
+[http://www.goodreads.com/book/show/186837.How\_I\_Became\_Stupid](http://www.goodreads.com/book/show/186837.How\_I\_Became\_Stupid)
 
 **Labiausiai patikusios citatos:**
 
 > “Protingumas žmogų daro nelaimingą, vienišą, vargšą, o apsimestinis protingumas suteikia laikraščių popieriaus nemirtingumą ir susižavėjimą tų, kurie tiki tuo, ką skaito.”
 
-> “Tuo metu Nestle ketino pradėti gaminti naują kūdikių maistelio rūšį su vitaminų ir fosforo papildais. Mikroskopinės fosforo dozės naudingos sveikatai, bet gamykloje kažkoks inžinierius supainiojo mikrogramus su kilogramais. Po šios gamybos klaidos ne visi bandymuose dalyvavę vaikai mirė: išgyvenusieji kentėjo nuo vėžio ir kitų rimtų ligų. Asly tam tikra prasme pasisekė, nes jis turėjo tik psichikos sutrikimų, iškreipusių jo protinį vystymąsi. Tiesą pasakius, jis nebuvo protiškai atsilikęs, tiesiog jo mintys keliavo savais keliais, jo mąstymo logika buvo tokia, kokia nebūdinga niekam kitam. Dar viena perdozuoto fosforo pasekmė buvo ta, jog Asly švietė tamsoje. Būdavo labai gražu. Kai naktį jie vaikštinėdavo gatvėmis, Asly šalia Antuano atrodydavo kaip didžiulis jonvabalis, nušviečiantis jiems kelią gatvėse be žibintų.  
+> “Tuo metu Nestle ketino pradėti gaminti naują kūdikių maistelio rūšį su vitaminų ir fosforo papildais. Mikroskopinės fosforo dozės naudingos sveikatai, bet gamykloje kažkoks inžinierius supainiojo mikrogramus su kilogramais. Po šios gamybos klaidos ne visi bandymuose dalyvavę vaikai mirė: išgyvenusieji kentėjo nuo vėžio ir kitų rimtų ligų. Asly tam tikra prasme pasisekė, nes jis turėjo tik psichikos sutrikimų, iškreipusių jo protinį vystymąsi. Tiesą pasakius, jis nebuvo protiškai atsilikęs, tiesiog jo mintys keliavo savais keliais, jo mąstymo logika buvo tokia, kokia nebūdinga niekam kitam. Dar viena perdozuoto fosforo pasekmė buvo ta, jog Asly švietė tamsoje. Būdavo labai gražu. Kai naktį jie vaikštinėdavo gatvėmis, Asly šalia Antuano atrodydavo kaip didžiulis jonvabalis, nušviečiantis jiems kelią gatvėse be žibintų.\
 > Kad išgyventų savo bėdą, Asly vaikystę praleido specializuotoje įstaigoje. Ilgus metus jis tylėjo, jokiais klasikiniais metodais nepavyko jo iš tos tylos ištraukti. Paskui viena logopedė, poezijos mylėtoja, atrado, jog vienintelis Asly kalbėjimo būdas – tai eilės. Jo neįgaliai kalbai reikėjo kojų: eilės buvo ramentai jo žodžiams. Pamažu jis grįžo į beveik normalų gyvenimą ir išėjo iš ligoninės šešiolikos metų. Nuo tada, nors buvo taikaus charakterio, dėl kurio labiau panėšėjo į didelį meškiną nei į apsauginį, dirbo sargu: manyta, kad jo įspūdingas ūgis išgąsdins galimus vagis. Retiems įsilaužėliams, su kuriais buvo susidūręs, tam tikrą poveikį galėjo padaryti ir kitos dvi savybės: pirmiausia, dėl švytėjimo jis buvo panašus į  vaiduoklį, į antgamtinį reiškinį, o antra – jei vagis dar nebūdavo nualpęs ar pasprukęs, Asly kalbėjimas eilėmis galutinai jį įbaugindavo.”
 
 > “Vladas buvo metro aštuoniasdešimties ūgio ir turėjo sverti gerus šimtą dvidešimt kilogramų. Jis buvo toks stiprus, jog kartą pamiršo, kad Antuanas kybo ant peties, grįžo į savo namus ir ėmė ruošti vakarienę.”
@@ -145,20 +145,20 @@ Pirmoji knygos pusė skaitosi neabejotinai linksmai, puikiai įvedama į istorij
 
 > “Yra merginos skirtos draugauti, ir yra merginos skirtos mylėtis.”
 
-> “-Gerai, gali atsimerkti.  
-> -Klemense, atvažiuoja mašina, –ramiai konstatavo Antuanas.  
-> -Pažadėjai manimi pasitikėti.  
-> -Visai ne, niekada to nesakiau.  
-> -Ai, pamiršau tavęs to paprašyti. Pasitikėk manimi, gerai?  
-> -Klemense, mašina…  
-> -Prisiek, kad pasitiki manimi, ir nustok verkšlenti, silpnavali. Privalai nesijudinti, tai labai svarbu. Prisiek.  
-> -Gerai, prisiekiu. Nesijudinsiu, aš ne… nesijudinsiu…”
+> “-Gerai, gali atsimerkti.\
+> \-Klemense, atvažiuoja mašina, –ramiai konstatavo Antuanas.\
+> \-Pažadėjai manimi pasitikėti.\
+> \-Visai ne, niekada to nesakiau.\
+> \-Ai, pamiršau tavęs to paprašyti. Pasitikėk manimi, gerai?\
+> \-Klemense, mašina…\
+> \-Prisiek, kad pasitiki manimi, ir nustok verkšlenti, silpnavali. Privalai nesijudinti, tai labai svarbu. Prisiek.\
+> \-Gerai, prisiekiu. Nesijudinsiu, aš ne… nesijudinsiu…”
 
 ### Protingos Labai Mažo Protelio Meškiuko Mintys
 
 Publikuota: 2010-07-06
 
-Netyčia aptikau namuose knygutę, kurią gavau 2007-ųjų gimtadienį. Tai žavinga knygelė gauta iš geros draugės.  
+Netyčia aptikau namuose knygutę, kurią gavau 2007-ųjų gimtadienį. Tai žavinga knygelė gauta iš geros draugės.\
 Cituoju keletas labiausiai patikusių knygelės vietų:
 
 > _Kai eini, eini, eini ir eini ilgų ilgiausiai prieš vėją ir pas ką nors užeini, ir kas nors tau sako: "Labas, kaip tik laiku, mes čia užkandžiaujam", – ir jie IŠ TIKRŲJŲ užkandžiauja, tada aš sakau, kad buvo Gera Diena._
@@ -179,10 +179,9 @@ Cituoju keletas labiausiai patikusių knygelės vietų:
 
 ### Beigbeder – Meilė trunka trejus metus
 
-_Kai paprašiau jos rankos, Alisos atsakymas buvo kupinas švelnumo, romantikos, subtilumo, grožio, meilumo ir poezijos:  
-– Ne._
+_Kai paprašiau jos rankos, Alisos atsakymas buvo kupinas švelnumo, romantikos, subtilumo, grožio, meilumo ir poezijos:_\
+_– Ne._
 
 _Ar įmanoma įsimylėti taip, kad viskas nesibaigtų krauju, sperma ar ašaromis?_
 
 _Esu miręs žmogus. Kas rytą nubundu nepakeliamai norėdamas miego. Dėviu vien juodus drabužius, nes gedžiu pats savęs. Gedžiu žmogaus, kuriuo galėjau būti. Vienodu ritmu vaikštinėju Beaux-Arts gatve – toj gatvėj mirė Oskaras Vaildas, kaip ir aš. Einu į restoraną ir nieko nevalgau. Metrdoteliai įsižeidę, kad neprisiliečiu prie valgių. Bet ar jūs pažįstat daug numirėlių, kurie apsilaižydami kerta restorano patiekalą? Ką geriu – viskas į tuščią skrandį. Privalumas: staigus apgirtimas. Nepatogumas: skrandžio opa. Nebesišypsau. Tai viršytų mano jėgas. Esu miręs ir palaidotas. Nedarysiu vaikų. Mirusieji nesidaugina. Esu numirėlis, kavinėse spaudžiantis kažkam rankas. Esu gana draugiškas ir labai subtilus numirėlis. Manau, kad aš – pati liūdniausia iš visų kada nors mano sutiktų būtybių._
-

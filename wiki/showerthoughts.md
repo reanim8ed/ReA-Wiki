@@ -15,7 +15,7 @@
 
 * Kiekvienas startup'as šiais laikais siekia tapti subscription'u. Taip, tai yra geras verslo modelis, nes generuoja stabilias ir lengvai prognazuojamas pajamas. Tačiau to pasekmė - subscription'ų dabar yra tiek daug, kad visus sekti darosi tiesiog sudėtinga. Tad idea: subscription app'sas, kuris padėtų sekti visus kitus subscription'us.
 * Stalo žaidimus žmonės dažnu atveju pažaidžia vos kelis kartus ir visą likusį laiko tarpą jie tiesiog praguli spintoje. Tad idea: board game nuoma. Išsinuomoji pageidaujamą žaidimą tik vienam vakarui. Žaidėjam tai ekonomiškai naudinga, nes nuoma kainuotų gerokai mažiau už žaidimo pirkimą. Nuomotojui irgi galėtų būti naudinga, kai jis savo visiškai nebenaudojamą pirkinį galėtų įdarbinti.
-* Netflix nustatymas, kurį galėtų įsijungti jautresni žmonės, kurį įjungus būtų automatiškai skippinamos scenos, kuriose miršta gyvūnas. Galima būtų padaryti identišką nustatymą ir su sexo scenomis, kai planuojama žiūrėti su tėvais, seneliais ar tiesiog dalyvaujama \#noFap judėjime.
+* Netflix nustatymas, kurį galėtų įsijungti jautresni žmonės, kurį įjungus būtų automatiškai skippinamos scenos, kuriose miršta gyvūnas. Galima būtų padaryti identišką nustatymą ir su sexo scenomis, kai planuojama žiūrėti su tėvais, seneliais ar tiesiog dalyvaujama #noFap judėjime.
 
 ## 2019-07-27
 
@@ -31,12 +31,12 @@
 * Jeigu dirbi darbo biržoje ir tave atleidžia, tai reiškia, kad tau ir toliau teks vaikščioti į savo darbovietę, pakol tau suras kitą darbą.
 * Jeigu mokaisi kulinarijos mokykloje, tai pasiteisinimas jog šuo suėdė tavo namų darbus yra pakankamai legit.
 * Filmų informacijos saitai, kaip IMDB, galėtų turėti atskirą žymą, nurodančią ar filmas turi baigiamąją sceną po creditų ar ne.
-* Kaip pagerinti rezultatus sporto salėse? Tiesiog užtektų ant treniruoklių padaryti taškų skaičiavimą ir high score lenteles.   Taipogi gyvenimui papildomo įdomumo pridėtų, jei savo regėjimo lauke turėtume experience bar ir galėtume kelti atskirų kasdienių task’ų lvl. Sportuoji sau ir staiga pasigirsta fanfaros: Congratulations! You’ve reached your 100 hour mark of running. Tikrai padėtų motyvacijai ir savipasitenkinimui. Bet jei gyvenimas būtų, kaip MMO, tai būtų smarkiai kritikuojamas, dėl didelių balanso problemų, bei kiek daug durno grindinimo jame reikia atlikinėti.
+* Kaip pagerinti rezultatus sporto salėse? Tiesiog užtektų ant treniruoklių padaryti taškų skaičiavimą ir high score lenteles.  &#x20;Taipogi gyvenimui papildomo įdomumo pridėtų, jei savo regėjimo lauke turėtume experience bar ir galėtume kelti atskirų kasdienių task’ų lvl. Sportuoji sau ir staiga pasigirsta fanfaros: Congratulations! You’ve reached your 100 hour mark of running. Tikrai padėtų motyvacijai ir savipasitenkinimui. Bet jei gyvenimas būtų, kaip MMO, tai būtų smarkiai kritikuojamas, dėl didelių balanso problemų, bei kiek daug durno grindinimo jame reikia atlikinėti.
 * Gyvenimo aktualijos: pirma mes laikome egzaminus, o tik po to pradedame iš tiesų mokytis.
 * NASA gauna duomenis iš daugiau nei 4 milijardų km, kai tuo tarpu man užtenka nueiti į tualetą, kad dingtų wifi signalas.
 * Jei gyvenimas būtų kaip MMO, tai būtų smarkiai kritikuojamas, dėl didelių balanso problemų, bei kiek daug bukinančio grindinimo jame reikia atlikinėti.
 * Vargu ar gamtos pasaulyje rasi bejėgiškesnę būtybę nei moteris su neišdžiuvusiu nagų laku.
-* Nuomos pasirinkimai Vilniuje: pigiai, bet su šeimininke. Pigiai, be šeimininkės, bet su sovietiniais baldais ir kilimais ant sienos. Pigiai, be šeimininkės, be sovietinių baldų ir kilimų, bet Naujininkuose. Pigiai, be šeimininkės, be sovietinių baldų ir kilimų, ne Naujininkuose, bet jau ir ne visai Vilniuj. Arba brangiai. \(credits to kaspiniuotis\).
+* Nuomos pasirinkimai Vilniuje: pigiai, bet su šeimininke. Pigiai, be šeimininkės, bet su sovietiniais baldais ir kilimais ant sienos. Pigiai, be šeimininkės, be sovietinių baldų ir kilimų, bet Naujininkuose. Pigiai, be šeimininkės, be sovietinių baldų ir kilimų, ne Naujininkuose, bet jau ir ne visai Vilniuj. Arba brangiai. (credits to kaspiniuotis).
 
 ## 2019-07-26
 
@@ -113,9 +113,9 @@
 
 ## 2019-04-03
 
-* Netflix'as. Stebėtina, kai servisas, turintis 140 mln. prenumeratorių visiškai neturi jokių social funkcijų. Jokių draugų, followerių, feed'ų ar viešai prieinamų film list'ų. Gan refreshing, šiais, hyper social interneto laikais. Na ir dar gi be reklamos. Ir nors tikrai nesu už ją, bet manau, kad reklamos galimybes tikrai galima išnaudot. Pvz: papildomas planas su reklamomis filmo/serialo pradžioje ir pabaigoje ir priklausomai nuo peržiūrėtų reklamų kiekio per mėnesį, sumažėja sekančio mėnesio sąskaita. Tiesa, tokį modelį ko gero būtų galima taikyti silpnesnės ekonomikos šalims, kaip prenumeratorių kiekį skatinančią priemonę, tačiau akivaizdu, jog jei šis modelis imtų veikti JAV, Kanadoje ir UK, tai smarkiai kirsteltų per Netflix kišenę. 
+*   Netflix'as. Stebėtina, kai servisas, turintis 140 mln. prenumeratorių visiškai neturi jokių social funkcijų. Jokių draugų, followerių, feed'ų ar viešai prieinamų film list'ų. Gan refreshing, šiais, hyper social interneto laikais. Na ir dar gi be reklamos. Ir nors tikrai nesu už ją, bet manau, kad reklamos galimybes tikrai galima išnaudot. Pvz: papildomas planas su reklamomis filmo/serialo pradžioje ir pabaigoje ir priklausomai nuo peržiūrėtų reklamų kiekio per mėnesį, sumažėja sekančio mėnesio sąskaita. Tiesa, tokį modelį ko gero būtų galima taikyti silpnesnės ekonomikos šalims, kaip prenumeratorių kiekį skatinančią priemonę, tačiau akivaizdu, jog jei šis modelis imtų veikti JAV, Kanadoje ir UK, tai smarkiai kirsteltų per Netflix kišenę.&#x20;
 
-  P.s. Netflix'ui tikrai trūksta "skip autoplay trailers" opcijos.
+    P.s. Netflix'ui tikrai trūksta "skip autoplay trailers" opcijos.
 
 ## 2019-04-02
 
@@ -131,9 +131,11 @@
 
 ## 2019-03-23
 
-* Galėtų būti Waze pobūdžio apps'as, kuris realiu laiku rodytų barų ar renginių užimtumą. Naudojimo pavyzdys: -Davai varom į "Square Voyage & Wine" \(išgalvotas hipsteriško baro pavyzdys\)  _pachekina apps'ą: overcrowded_  -Ai gal geriau einam pas mane latte iš avokadų atsigersim
+* Galėtų būti Waze pobūdžio apps'as, kuris realiu laiku rodytų barų ar renginių užimtumą. Naudojimo pavyzdys:\
+  \-Davai varom į "Square Voyage & Wine" (išgalvotas hipsteriško baro pavyzdys) \
+  _pachekina apps'ą: overcrowded_ \
+  \-Ai gal geriau einam pas mane latte iš avokadų atsigersim
 
 ## 2019-03-09
 
 * Idėja food delivery apps’ams: jeigu kažkas užsisakinėja maistą 1km atstumu nuo tavęs, gauni notification’ą, jog gausi nuolaidą ar nemokamą pristatymą jeigu taipogi ką nors užsisakysi per artimiausias 5min
-

@@ -21,8 +21,7 @@ Plačiau apie tai - [motyvacijos skiltyje](motyvacija.md).
 * Dešinė šoninė juosta - navigacija atidarytoje temoje. Padeda greitai peršokti į skirtingas to paties puslapio skiltis.
 * Paieška - headerio dešinėje.
 
-## ❤Atgalinis ryšys
+## :heart:Atgalinis ryšys
 
 * Projektas talpinamas Github platformoje, tad radus netikslumų ar norint kažką patikslinti - tiesiog parašykite apie tai [čia.](https://github.com/reanim8ed/ReA-Wiki/issues/new)
-* Rasti, sekti ar susisiekti galite per [Twitter ](https://twitter.com/reanimuotasis%20)ar [FB](https://www.facebook.com/reanimated.lt).
-
+* Rasti, sekti ar susisiekti galite per [Twitter ](https://twitter.com/reanimuotasis)ar [FB](https://www.facebook.com/reanimated.lt).
