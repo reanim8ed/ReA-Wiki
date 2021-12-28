@@ -270,3 +270,4 @@
     * [Michael Jackson](wiki/zmones/pop-kultura/michael-jackson.md)
   * [Santykiai](wiki/zmones/santykiai/README.md)
     * [Vestuviniai įžadai](wiki/zmones/santykiai/vestuviniai-zadai.md)
+* [Web](wiki/web.md)
