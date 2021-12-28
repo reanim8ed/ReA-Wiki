@@ -2,6 +2,20 @@
 
 * [LockHunter ](https://www.lockhunter.com/index.htm)- tais atvejais, kai norima ištrinti failą, tačiau jį bala žino kas naudoja ir to padaryti tiesiog neleidžia. Kiek platesnė Unlocker alternatyva, nes sugeba ne tik atrakinti failą jo ištrynimui, tačiau ir parodo procesus, kurie šį failą naudoja.
 
+## Screenshots
+
+Win:
+
+* absoliutus mano favoritas: [ShareX](https://getsharex.com)
+
+Mac:
+
+* command + shift + 4
+* [Zappy](https://zapier.com/zappy)
+* [Xnip](https://xnipapp.com)
+* [Cleanshot X](https://cleanshot.com)
+* [Shottr](https://shottr.cc)
+
 ## Code snippet manager
 
 Naudingi išsisaugoti kodo fragmentai turi gulėti cloude, jog būtų galima juos pasiekti dirbant iš bet kurio kompiuterio. Vienas iš variantų - naudoti snippet managerį, kuris saugotų į markdown failus, tokiu atveju galima juos saugoti į dropbox direktoriją.
