@@ -1,5 +1,7 @@
 # PHP
 
+* Library to work with CSV documents: [https://csv.thephpleague.com](https://csv.thephpleague.com/9.0/)
+
 ## Setting up together PHPStorm, PHPUnit, Xdebug and Docker
 
 [https://www.orbitale.io/2019/11/16/setting-up-together-phpstorm-phpunit-xdebug-and-docker.html](https://www.orbitale.io/2019/11/16/setting-up-together-phpstorm-phpunit-xdebug-and-docker.html)
@@ -8,7 +10,7 @@
 
 NTLMStream.php
 
-```text
+```
 <?php
 /*
 * Original https://thomas.rabaix.net/blog/2008/03/using-soap-php-with-ntlm-authentication
@@ -119,7 +121,7 @@ class NTLMSoapClient extends \SoapClient
 
 test.php
 
-```text
+```
 <?php
 define('USERPWD', 'domain\username:password');
 require_once("NTLMStream.php");
@@ -153,4 +155,3 @@ $retVal = $client->ReadMultiple(...
 ### NuSOAP
 
 * [NuSOAP ](https://github.com/econea/nusoap)tai package'as, kuris lyginant su integruotu SOAP klientu turi pranašumą tuom, kad jo pagalba nereikia kurti XML tipo užklausų, jis tai atlieka automatiškai. Labai efektyvu dirbant su WSDL tipo web servisais. Nors originalus paketas jau nebeatnaujinamas kelis metus, tačiau pateikta versija yra originalo fork'as, kuris turi support'ą PHP 5.4 - 7.1 versijoms ir periodiškai atnaujinamas.
-
