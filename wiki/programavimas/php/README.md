@@ -2,6 +2,7 @@
 
 * Library to work with CSV documents: [https://csv.thephpleague.com](https://csv.thephpleague.com/9.0/)
 * A library for validating emails against several RFC: [https://github.com/egulias/EmailValidator](https://github.com/egulias/EmailValidator)
+* Iteration of big JSON files or streams: [https://github.com/halaxa/json-machine](https://github.com/halaxa/json-machine)
 
 ## Setting up together PHPStorm, PHPUnit, Xdebug and Docker
 
