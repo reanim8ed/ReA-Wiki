@@ -2,6 +2,8 @@
 
 * The complete guide for MacOS Apps Optimized for Apple Silicon Macs and the M1 Processor: [https://isapplesiliconready.com](https://isapplesiliconready.com)
 * Fixes and compatibility for every single game on M1 Apple silicon Macs: [https://www.applegamingwiki.com/wiki/Home](https://www.applegamingwiki.com/wiki/Home)
+* Speed Up Docker for Mac: [http://blog.michaelperrin.fr/2017/04/14/docker-for-mac-on-a-symfony-app/](http://blog.michaelperrin.fr/2017/04/14/docker-for-mac-on-a-symfony-app/)&#x20;
+* Awesome macOS software list: [https://github.com/jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac)
 
 ### Emulation
 
