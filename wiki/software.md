@@ -18,7 +18,7 @@ Mac: [Snippet Lab](https://www.renfei.org/snippets-lab/), [Quiver](http://happen
 
 Windows:
 
-* [Boostnote](https://boostnote.io) - programos rewrite'as, kuris atrodo visai neblogai. Patinka jog pakankamai aktyviai prie jo dirbama, taipogi yra web versija, plačios customize galimybės ir planuojami net ir mobile apps'ai. Tačiau šiuo metu neturi tiesioginės integracijos su Gist ir galima kodą laikyti lokaliai arba jų cloud'e, kas yra deal breaker. Tačiau yra bent šioks toks workaround'as - pasirinkus saugojimą lokaliai, galima nusirodyti Dropbox folderį ir sinchronizuotis tarp skirtingų kompiuterių tokiu būdu.
+* [Boostnote](https://boostnote.io) - programos rewrite'as, kuris atrodo visai neblogai. Patinka jog pakankamai aktyviai prie jo dirbama, taipogi yra web versija, plačios customize galimybės ir planuojami net ir mobile apps'ai. Tačiau šiuo metu neturi tiesioginės integracijos su Gist ir galima kodą laikyti lokaliai.
 * [SnipAway](https://snipaway.futureglobe.de) - plačios customize galimybės, turi feature'ą įtraukti internetinius puslapius tiesiogiai į redaktorių, tačiau tiesioginės integracijos su Gist neturi. Galima nebent lygiai taip pat saugotis per kitus third party cloud'us.
 * [Lepton](https://hackjutsu.com/Lepton/) - kol kas tinka labiausiai. Sinchronizuojasi neblogai, organizacija vykdoma tag'ais, bei automatinis skirstymas pagal file extension'us. Note'us darausi daugiausiai su markdown'u ir patinka jog edit ir preview yra atskiri režimai. Yra vos keli šiek tiek erzinantys apribojimai, pvz sidebare esančių sekcijų negalima praplėsti, tad nesimato pilno tag list'o, taipogi paieška apribota tik title'uose ir failų pavadinimuose, ieškoti turinio galimybės nėra. Na ir tai yra electron appsas, tad greitis nedžiugina.
 
