@@ -4,6 +4,12 @@ description: Wiki atliktų pakeitimų ir naujų straipsnių archyvas
 
 # Timeline
 
+## 2021–12
+
+### 2012-12-28
+
+* Web: [Anonymous Email Forwarding](wiki/web.md#anonymous-email-forwarding)
+
 ## 2021-07
 
 ### 2021-07-26
