@@ -1,5 +1,9 @@
 # API's
 
+* Free fake API for testing and prototyping: \
+  [https://jsonplaceholder.typicode.com](https://jsonplaceholder.typicode.com)\
+  [https://httpbin.org/json](https://httpbin.org/json)
+
 ### JSON API in excel
 
 * [https://www.howtoexcel.org/power-query/how-to-access-a-json-api-with-power-query/](https://www.howtoexcel.org/power-query/how-to-access-a-json-api-with-power-query/)

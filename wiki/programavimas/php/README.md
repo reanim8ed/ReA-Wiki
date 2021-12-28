@@ -1,6 +1,7 @@
 # PHP
 
 * Library to work with CSV documents: [https://csv.thephpleague.com](https://csv.thephpleague.com/9.0/)
+* A library for validating emails against several RFC: [https://github.com/egulias/EmailValidator](https://github.com/egulias/EmailValidator)
 
 ## Setting up together PHPStorm, PHPUnit, Xdebug and Docker
 
