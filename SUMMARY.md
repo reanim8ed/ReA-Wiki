@@ -36,6 +36,7 @@
 * [Kosmonautika](wiki/kosmosas.md)
 * [Kūrybingumas](wiki/kurybingumas.md)
 * [Mac](wiki/mac/README.md)
+  * [Set Up for Web Development](wiki/mac/set-up-for-web-development.md)
   * [iOS](wiki/mac/ios/README.md)
     * [Jailbreak](wiki/mac/ios/jailbreak.md)
 * [MealTimeVideos](wiki/mealtimevideos.md)
