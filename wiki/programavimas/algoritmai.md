@@ -7,7 +7,7 @@ Metodas išskaičiuoti bet kurios datos savaitės dienai tiesiog mintyse.
 Doomsday tai atspiros taškas, kuris naudojamas visų kitų datų išskaičiavimui. \
 Metų doomsday (YDD) visada yra paskutinė vasario diena, nepriklausomai ar tai keliamieji metai.\
 Kiekvieno kito mėnesio doomsday (MDD) galima nusistatyti pagal kelias paprastas taisykles ir toji diena visada yra lygi metų doomsday.\
-Na o žinant bent vieną to mėnesio dieną - visas kitas visai nesunku išskaičiuoti tiesiog pliusuojant/minusuojant 7.
+Na o žinant bent vieną to mėnesio dieną - visas kitas visai nesunku išskaičiuoti tiesiog mintyse pliusuojant/minusuojant bei naudojant 7 daugiklį.
 
 ### Einamieji metai
 
@@ -15,7 +15,7 @@ Einamųjų metų dienas išskaičiuoti galima kiek paprasčiau, o tame tarpe nes
 
 * Tad norint galėti išskaičiuoti einamųjų metų bet kuriai dienai, užtenka prisiminti tų metų YDD ir you good for the rest of the year.
 * Kiekvienais nekeliamaisiais metais ši diena slenkasi per 1, o keliamaisiais per 2.\
-  Ar metai keliamieji galima nustatyti iš to ar jie dalinasi iš 4 (tačiau tai negalioja jei dalinasi iš 100, tačiau išimtis jei dalinasi iš 400).
+  Ar metai keliamieji galima nustatyti iš to ar jie dalinasi iš 4 (papildoma pastaba, kad tai negalioja jei metai dalinasi iš 100, tačiau išimtis jei dalinasi iš 400).
 * Žinant tų metų YDD, kiekvieno mėnesio MDD galima nustatyti pagal šias taisykles:\
   1mėn - 3/4 diena priklausomai ar tai keliamieji metai\
   2mėn - 0/1 diena priklausomai ar tai keliamieji metai. 0-inė mėnesio diena yra tiesiog kito mėnesio paskutinė diena\
