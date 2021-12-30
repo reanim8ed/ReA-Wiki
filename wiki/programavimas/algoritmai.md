@@ -19,7 +19,7 @@ Einamųjų metų dienas išskaičiuoti galima paprasčiau, o tame tarpe nesunkia
 * Žinant tų metų YDD, kiekvieno mėnesio MDD galima nustatyti pagal šias taisykles:\
   \- 1mėn - 3/4 diena priklausomai ar tai keliamieji metai\
   \- 2mėn - 0/1 diena priklausomai ar tai keliamieji metai. 0-inė mėnesio diena yra tiesiog kito mėnesio paskutinė diena\
-  \- 3mėn - visada 0\
+  \- 3mėn - visada 0 (dar galima prisiminti, kad pi day visada yra = YDD)\
   \- 4/6/8/10/12 mėn - lyginiams mėnesiams naudojamas tiesiog to mėnesio skaičius\
   \- 5/9 ir 7/11 mėn - apkeičiame mėnesių skaičius pagal frazę "9to5 at 7-eleven"
 * Žinant mėnesio MDD, belieka tik simple deduction
