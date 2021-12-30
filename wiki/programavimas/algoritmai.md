@@ -43,7 +43,7 @@ Principas panašus, tačiau procesas susidaro viso iš 4 dalių:
 1. Imami metų paskutiniai 2 skaičiai. Jei tai lyginis skaičius - dalinama iš 2, jei ne, pirmiau pridedami 11 ir tik tada padalinami. Jei rezultatas gaunasi nelyginis, tai vėl pridedame 11.\
    Jei skaičius gaunasi didelis - galima išsimesti perteklinius 7-etus.
 2. Prie gautojo rezultato pridedame šimtmečio pirmąjį sekmadienį (pirmasis sekmadienis po tų metų doomsday). Padeda prisiminti frazė "No tuna for friday": 0,2,4,5.
-3. Prie gautojo skaičiaus pridedame to mėnesio doomsday pagal tokias pat taisykles, kaip aprašyta prie einamųjų metų skaičiavimo
+3. Prie gautojo skaičiaus pridedame to mėnesio doomsday pagal tokias pat taisykles, kaip aprašyta prie einamųjų metų skaičiavimo. Gauname to mėnesio pirmajį sekmadienį (MFS). Jei jį prisiminti visą mėnėsį, tai galima skippinti 1-3 žigsnius.
 4. Iš išskaičiuojamos dienos atimame rezultatą. Jei gauname minusinį skaičių, jį dar papildomai atimame iš 7 ir gauname tos dienos savaitės dieną.
 
 Pvz.: 1989-11-06
