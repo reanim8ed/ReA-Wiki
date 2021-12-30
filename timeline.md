@@ -6,7 +6,11 @@ description: Wiki atliktų pakeitimų ir naujų straipsnių archyvas
 
 ## 2021–12
 
-### 2012-12-28
+### 2021-12-30
+
+* Algoritmai: [Doomsday Algorithm](wiki/programavimas/algoritmai.md#doomsday-algorithm)
+
+### 2021-12-28
 
 * Web: [Anonymous Email Forwarding](wiki/web.md#anonymous-email-forwarding)
 * Mac: [Set Up for Web Development](wiki/mac/#c030)
