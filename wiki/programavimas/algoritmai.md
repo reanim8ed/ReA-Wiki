@@ -14,8 +14,8 @@ Na o žinant bent vieną to mėnesio dieną - visas kitas visai nesunku išskai�
 Einamųjų metų dienas išskaičiuoti galima kiek paprasčiau, o tame tarpe nesunkiai galima sukoreliuoti ir praėjusių ar ateinančių metų datas. Kas iš esmės apima didžiają dalį panaudojamumo, nes labai retais variantais prireikia nusistatinėti tolimesnes dienas.
 
 * Tad norint galėti išskaičiuoti einamųjų metų bet kuriai dienai, užtenka prisiminti tų metų YDD ir you good for the rest of the year.
-* Kiekvienais nekeliamaisiais metais ši diena slekasi per 1, o keliamaisiais per 2.\
-  Ar metai keliamieji galima nustatyti iš to ar jie dalinasi iš 4.
+* Kiekvienais nekeliamaisiais metais ši diena slenkasi per 1, o keliamaisiais per 2.\
+  Ar metai keliamieji galima nustatyti iš to ar jie dalinasi iš 4 (tačiau tai negalioja jei dalinasi iš 100, tačiau išimtis jei dalinasi iš 400).
 * Žinant tų metų YDD, kiekvieno mėnesio MDD galima nustatyti pagal šias taisykles:\
   1mėn - 3/4 diena priklausomai ar tai keliamieji metai\
   2mėn - 0/1 diena priklausomai ar tai keliamieji metai. 0-inė mėnesio diena yra tiesiog kito mėnesio paskutinė diena\
