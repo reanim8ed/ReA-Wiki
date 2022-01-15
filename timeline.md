@@ -4,12 +4,6 @@ description: Wiki atliktų pakeitimų ir naujų straipsnių archyvas
 
 # Timeline
 
-## 2022-01
-
-### 2022-01-15
-
-* Web: [WEB 3.0](wiki/web.md#web-3.0)
-
 ## 2021–12
 
 ### 2021-12-30

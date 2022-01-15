@@ -8,7 +8,7 @@ web3 pagal idėją vyktų natūrali evoliucija, kai viskas vėl decentralizuojam
 
 Tačiau atidžiau pasinagrinėjus dabartinę web3 rinką, galima pastebėti, kad teiginiai apie decentralizavimą gali būti ne tokie jau ir teisingi: ganėtinai daug statoma aplink kelis dominuojančius API tiekėjus, o natūraliai atsirandantis naujų, praplėstų galimybių poreikis, kurių palaikymo naudojamose krypto technologijose dažnai nebūna - tik dar labiau skatina šiuos API tiekėjus plėstis, pildyti šiuos poreikius savo sprendimais ir taip vis labiau konsoliduojant viską į savo platformas. Tai išesmės vėl gaunasi tas pats web2, tik kitaip.
 
-[https://moxie.org/2022/01/07/web3-first-impressions.html](https://moxie.org/2022/01/07/web3-first-impressions.html)
+* [https://moxie.org/2022/01/07/web3-first-impressions.html](https://moxie.org/2022/01/07/web3-first-impressions.html)
 
 ### Anonymous Email Forwarding
 
