@@ -1,6 +1,5 @@
 # Software
 
-* [Files](https://files.community) - moderni windows file explorerio alternatyva, išlaikanti tą patį dizainą, tačiau papildanti tokiomis nice to have funkcijomos, kaip file tab'ai, macOS stiliaus tagų sistema, multi pane view, extensionai ir pan. Galėtų patapti visišku pakaitalu, tačiau kai kurie vartotojai skundžiasi su kartais krentančiu performance'u. Verta pastebėti tolimesnį development'ą.
 * [LockHunter ](https://www.lockhunter.com/index.htm)- tais atvejais, kai norima ištrinti failą, tačiau jį bala žino kas naudoja ir to padaryti tiesiog neleidžia. Kiek platesnė Unlocker alternatyva, nes sugeba ne tik atrakinti failą jo ištrynimui, tačiau ir parodo procesus, kurie šį failą naudoja.
 
 ## Screenshots
