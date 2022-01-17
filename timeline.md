@@ -6,6 +6,10 @@ description: Wiki atliktų pakeitimų ir naujų straipsnių archyvas
 
 ## 2022-01
 
+### 2022-01-17
+
+* Mityba: [Žuvų taukai](wiki/mityba/#zuv-taukai)
+
 ### 2022-01-16
 
 * Software: [Files](wiki/software.md)
