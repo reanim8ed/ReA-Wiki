@@ -8,7 +8,7 @@ description: Wiki atliktų pakeitimų ir naujų straipsnių archyvas
 
 ### 2022-01-17
 
-* Mityba: [Žuvų taukai](wiki/mityba/#zuv-taukai)
+* Mityba: [[wiki/mityba/README#Žuvų taukai|Žuvų taukai]]
 
 ### 2022-01-16
 
@@ -83,7 +83,9 @@ description: Wiki atliktų pakeitimų ir naujų straipsnių archyvas
 ### 2021-01-04
 
 * Knygos: [Andrius kleiva - Kaip veikia Japonija](wiki/knygos.md#andrius-kleiva-kaip-veikia-japonija)
-* Žaidimai:&#x20;  [Burly Men At Sea  ](wiki/zaidimai/burly-men-at-sea.md)
+* Žaidimai:&#x20;
+  [Burly Men At Sea
+  ](wiki/zaidimai/burly-men-at-sea.md)
 * Žaidimai: [Erica](wiki/zaidimai/erica.md)
 
 ## 2020-12
@@ -601,7 +603,8 @@ Tinklaraščio migracija:&#x20;
 #### 2019-07-25
 
 * Nirvanos daina [Polly ](https://www.youtube.com/watch?v=NJ97KdTQFww)yra viena tamsesnių grupės dainų
-* exurb1a  &#x20;patarimai apie [rašymą](https://www.youtube.com/watch?v=MANyX7woDPA)
+* exurb1a
+  &#x20;patarimai apie [rašymą](https://www.youtube.com/watch?v=MANyX7woDPA)
 * [Apie skaitymo įpročius](wiki/skaitiniai/skaitymo-prociai.md)
 * [Geras teisininkas](wiki/showerthoughts.md#2019-07-25) yra tas, kuris su tokiu pačiu užsidegimu galėtų kovoti bet kurioje pusėje.
 * Citata apie [minčių generavimą](wiki/citatos.md#minci-generavimas-rytais) rytais
