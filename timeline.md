@@ -8,7 +8,7 @@ description: Wiki atliktų pakeitimų ir naujų straipsnių archyvas
 
 ### 2022-01-17
 
-* Mityba: [[wiki/mityba/README#Žuvų taukai|Žuvų taukai]]
+* Mityba: [Žuvų taukai](wiki/mityba/README#Žuvų taukai)
 
 ### 2022-01-16
 
