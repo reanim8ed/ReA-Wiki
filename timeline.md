@@ -6,26 +6,26 @@ description: Wiki atliktų pakeitimų ir naujų straipsnių archyvas
 
 ## 2022-01
 
-### 2022-01-17
+#### 2022-01-17
 
-* Mityba: [Žuvų taukai](wiki/mityba/README.md#zuv-taukai)
+* Mityba: [Žuvų taukai](wiki/mityba/#zuv-taukai)
 
-### 2022-01-16
+#### 2022-01-16
 
 * Software: [Files](wiki/software.md)
 * Programavimas: [Formspree](wiki/programavimas/tools.md#forms)
 
-### 2022-01-15
+#### 2022-01-15
 
 * Web: [WEB 3.0](wiki/web.md#web-3.0)
 
 ## 2021–12
 
-### 2021-12-30
+#### 2021-12-30
 
 * Algoritmai: [Doomsday Algorithm](wiki/programavimas/algoritmai.md#doomsday-algorithm)
 
-### 2021-12-28
+#### 2021-12-28
 
 * Web: [Anonymous Email Forwarding](wiki/web.md#anonymous-email-forwarding)
 * Mac: [Set Up for Web Development](wiki/mac/#c030)
@@ -33,7 +33,7 @@ description: Wiki atliktų pakeitimų ir naujų straipsnių archyvas
 
 ## 2021-07
 
-### 2021-07-26
+#### 2021-07-26
 
 * Pasaulis: [Šeimų maršai, antivax ir flat earth society](wiki/pasaulis/#seim-marsai-antivax-ir-flat-earth-society)
 * Filmai / serialai: [The Six Main Arcs in Storytelling](wiki/filmai/#the-six-main-arcs-in-storytelling)
@@ -41,7 +41,7 @@ description: Wiki atliktų pakeitimų ir naujų straipsnių archyvas
 
 ## 2021-06
 
-### 2021-06-20
+#### 2021-06-20
 
 * Skaitiniai: [Not Everyone Has An Internal Monologue](wiki/skaitiniai/#not-everyone-has-an-internal-monologue)
 * Skaitiniai: [Everything You Know About Fitness is a Lie](wiki/skaitiniai/straipsniu-archyvas/everything-you-know-about-fitness-is-a-lie.md)
@@ -51,41 +51,39 @@ description: Wiki atliktų pakeitimų ir naujų straipsnių archyvas
 
 ## 2021-05
 
-### 2021-05-25
+#### 2021-05-25
 
 * Crypto: [Track Shitcoin Pricing](wiki/crypto.md#track-shitcoin-pricing-with-google-sheets)
 * Crypto: [Gyventojo mokesčiai iš kriptovaliutų uždirbus milijoną eurų 2020 m.](wiki/crypto.md#gyventojo-mokesciai-is-kriptovaliut-uzdirbus-milijona-eur-2020-m)
 * Crypto: [Anonymous wallets](wiki/crypto.md#anonymous-wallets)
 
-### 2021-05-02
+#### 2021-05-02
 
 * Programavimas: [REST, SOAP OR GRAPHQL?](wiki/programavimas/apis.md#rest-soap-or-graphql)
 * Programavimas: [YAGNI](wiki/programavimas/#you-arent-gonna-need-it)
 
 ## 2021-02
 
-### 2021-02-28
+#### 2021-02-28
 
 * Knygos: [The Richest Man in Babylon](wiki/knygos.md#george-s-clason-the-richest-man-in-babylon)
 
-### 2021-02-07
+#### 2021-02-07
 
 * Skaitiniai: [The Relentless Jeff Bezos](wiki/skaitiniai/#the-relentless-jeff-bezos)
 
 ## 2021-01
 
-### 2021-01-25
+#### 2021-01-25
 
 * Politika: [Five trends to guide civilizations towards Totalitarianism](wiki/politika/#five-trends-to-guide-civilizations-towards-totalitarianism)
 * Skaitiniai: [Social Networking 2.0](wiki/skaitiniai/#social-networking-2-0)
 * Programavimas: [Pomodoro for Software Development](wiki/programavimas/#pomodoro-for-software-development)
 
-### 2021-01-04
+#### 2021-01-04
 
 * Knygos: [Andrius kleiva - Kaip veikia Japonija](wiki/knygos.md#andrius-kleiva-kaip-veikia-japonija)
-* Žaidimai:&#x20;
-  [Burly Men At Sea
-  ](wiki/zaidimai/burly-men-at-sea.md)
+* Žaidimai: [Burly Men At Sea](wiki/zaidimai/burly-men-at-sea.md)
 * Žaidimai: [Erica](wiki/zaidimai/erica.md)
 
 ## 2020-12
@@ -216,9 +214,7 @@ description: Wiki atliktų pakeitimų ir naujų straipsnių archyvas
 #### 2020-05-10
 
 * [Mental modeliai](wiki/mental-modeliai.md)
-*   Istorija: [Kaip sovietai mainė karo laivus į Pepsi](wiki/istorija/#kaip-sovietai-main-karo-laivus-pepsi)
-
-
+* Istorija: [Kaip sovietai mainė karo laivus į Pepsi](wiki/istorija/#kaip-sovietai-main-karo-laivus-pepsi)
 
 #### 2020-05-09
 
@@ -438,7 +434,7 @@ description: Wiki atliktų pakeitimų ir naujų straipsnių archyvas
 
 * TechIT: [Apple Watch konkurencija](wiki/tech-it.md#apple-watch-konkurencija)
 * Random internetai: [Dviračių kapinynas](wiki/random-internetai.md#dviraci-kapinynas)
-* Kokteiliai: [Campari](broken-reference)
+* Kokteiliai: [Campari](broken-reference/)
 * Showerthoughts:[ subscription apps'as subscription'ams](wiki/showerthoughts.md#2019-09-22)
 * Showerthoughts: [stalo žaidimų nuoma](wiki/showerthoughts.md#2019-09-22)
 * Showerthoughts: [Netflix nemalonių scenų skippinimas](wiki/showerthoughts.md#2019-09-22)
@@ -561,7 +557,7 @@ Tinklaraščio migracija:
 
 #### 2019-07-27
 
-Tinklaraščio migracija:&#x20;
+Tinklaraščio migracija:
 
 * [Bevielės ausinės](wiki/technologijos/gadgets/bevieles-ausines/)
 * [Pirmasis raketos „Falcon Heavy“ skrydis](wiki/kosmosas.md#pirmasis-raketos-falcon-heavy-skrydis-2018-01-31)
@@ -603,8 +599,7 @@ Tinklaraščio migracija:&#x20;
 #### 2019-07-25
 
 * Nirvanos daina [Polly ](https://www.youtube.com/watch?v=NJ97KdTQFww)yra viena tamsesnių grupės dainų
-* exurb1a
-  &#x20;patarimai apie [rašymą](https://www.youtube.com/watch?v=MANyX7woDPA)
+* exurb1a patarimai apie [rašymą](https://www.youtube.com/watch?v=MANyX7woDPA)
 * [Apie skaitymo įpročius](wiki/skaitiniai/skaitymo-prociai.md)
 * [Geras teisininkas](wiki/showerthoughts.md#2019-07-25) yra tas, kuris su tokiu pačiu užsidegimu galėtų kovoti bet kurioje pusėje.
 * Citata apie [minčių generavimą](wiki/citatos.md#minci-generavimas-rytais) rytais
@@ -740,7 +735,7 @@ Tinklaraščio migracija:&#x20;
 
 #### 2019-05-26
 
-* Pridėta [MealTimeVideos ](wiki/mealtimevideos.md)tema ir pirmasis įrašas - LinusTechTips&#x20;
+* Pridėta [MealTimeVideos ](wiki/mealtimevideos.md)tema ir pirmasis įrašas - LinusTechTips
 * Video su FBI [kūno kalbos ekspertu](wiki/mealtimevideos.md)
 
 #### 2019-05-25
@@ -772,7 +767,7 @@ Tinklaraščio migracija:&#x20;
 #### 2019-05-11
 
 * [After Life ](wiki/filmai/#after-life-2019)serialas
-* Jonah Hill filmas [Mid90 ](wiki/filmai/#mid-90-s-2018)
+* Jonah Hill filmas [Mid90](wiki/filmai/#mid-90-s-2018)
 * Ištrauka iš pokalbio su[ Lex Fridman](wiki/podcasts/#2019-05) apie tai, jog kai dalis mūsų natūralių instinktų yra šiai dienai nebereikalingi, žmonės dėlto tampa nelaimingi.
 * Ištrauka iš pokalbio su [Jamie Metzl ](wiki/podcasts/#2019-05)apie tai, kaip Kinija yra susifokusavusi ir sistemingai siekia tikslo iki 2050-ųjų tapti lyderiaujančia technologijų valstybe.
 
@@ -883,4 +878,3 @@ Tinklaraščio migracija:&#x20;
 
 * Wiki startas
 * Sukurtas Įvadas, motyvacinis puslapis, šis timeline
-
