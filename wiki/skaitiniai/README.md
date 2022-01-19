@@ -2,14 +2,15 @@
 
 ### GPS
 
-Absoliučiai puikus įvadas išaiškinantis GPS veikimo principus. Nors finale sistema išties komplikuota, tačiau pradedama pažindinti nuo nesudėtingų, aiškių konceptų ir po truputis buildinama jau atsispiriant nuo jų ir tai padeda suprasti kur kas lengviau. Įdomu kiek daug inovacijų ir problemų turėjo būti išspręsta, jog turėtume tokią naudingą globalią pozicijos nustatymo technologiją. 
+Absoliučiai puikus įvadas išaiškinantis GPS veikimo principus. Nors finale sistema išties komplikuota, tačiau pradedama pažindinti nuo nesudėtingų, aiškių konceptų ir po truputis buildinama jau atsispiriant nuo jų ir tai padeda suprasti kur kas lengviau. Įdomu kiek daug inovacijų ir problemų turėjo būti išspręsta, jog turėtume tokią naudingą globalią pozicijos nustatymo technologiją.&#x20;
+
 O taipogi šiame tutoriale didelį įspūdi palieka ir interaktyvios animacijos. Vizualinis pavaizdavimas, o dar labiau - leidimas pačiam pasieksperimentuoti su sistema yra neįtikėtinai efektyvus mokymosi pagalbininkas. O mane labai žavi ir šių animacijų kruopštus dėmesys detalėms.
 
-[https://ciechanow.ski/gps/](https://ciechanow.ski/gps/)
+* [https://ciechanow.ski/gps/](https://ciechanow.ski/gps/)
 
 ### Not Everyone Has An Internal Monologue
 
-[https://ryanandrewlangdon.wordpress.com/2020/01/28/today-i-learned-that-not-everyone-has-an-internal-monologue-and-it-has-ruined-my-day/](https://ryanandrewlangdon.wordpress.com/2020/01/28/today-i-learned-that-not-everyone-has-an-internal-monologue-and-it-has-ruined-my-day/)
+* [https://ryanandrewlangdon.wordpress.com/2020/01/28/today-i-learned-that-not-everyone-has-an-internal-monologue-and-it-has-ruined-my-day/](https://ryanandrewlangdon.wordpress.com/2020/01/28/today-i-learned-that-not-everyone-has-an-internal-monologue-and-it-has-ruined-my-day/)
 
 ### The Relentless Jeff Bezos
 
@@ -17,7 +18,7 @@ In the spring of 94 web usage was growing at 2300% a year. You have to keep in m
 
 Being able to do something online that you can’t do in any other way is important. It’s all about the fundamental tenet of building any business, which is creating a value proposition for the customer, and online, especially three years ago, but even today and for the next several years, the value proposition that you have to build for customers is incredibly large. That’s because the web is a pain to use today! We’ve all experienced the modem hangups and the browsers crash — there are all sorts of inconveniences: websites are slow, modem speeds are slow. So if you’re going to get people to use a website in today’s environment, you have to offer them overwhelming compensation for this primitive infant technology. And I would claim that that compensation has to be so strong that it’s basically the same as saying, you can only do things online today that simply can’t be done any other way. And that’s why this huge number of products looked like a winning combination online. There’s no other way to have a two-and-a-half-million-title bookstore. You can’t do it in a physical store, but you also can’t do it in a print catalog. If you were to print the M’s on a card catalog, it would be the size of more than 40 New York city phone books.
 
-[https://stratechery.com/2021/the-relentless-jeff-bezos/](https://stratechery.com/2021/the-relentless-jeff-bezos/)
+* [https://stratechery.com/2021/the-relentless-jeff-bezos/](https://stratechery.com/2021/the-relentless-jeff-bezos/)
 
 ### Social Networking 2.0
 
@@ -31,7 +32,7 @@ What changed was the feed, something uniquely enabled by digital. Whereas a news
 
 Instead, the role for both products will be as a bridge between attention-focused products on one side, and private interest-defined trusted groups on the other. Their networks still have value, but primarily as a tool for distribution and reach of content that will increasingly be created in one place, and discussed in another.
 
-[https://stratechery.com/2020/social-networking-2-0/](https://stratechery.com/2020/social-networking-2-0/)&#x20;
+* [https://stratechery.com/2020/social-networking-2-0/](https://stratechery.com/2020/social-networking-2-0/)
 
 ### Red Hat Goes Full IBM and Says Farewell to CentOS
 
@@ -39,7 +40,7 @@ The end of support for CentOS 6 was in November 2020. Since RHEL and CentOS are 
 
 Then, on December 8, 2020, Red Hat announced that it was going to cut the current CentOS 8 support timeframe down considerably in the process of effectively killing the project. While 2021 may not be impacted, with CentOS 6 EOL on November 30, 2020, and CentOS 8 EOL on December 31, 2021, by January 1, 2022 CentOS 7 will be the only one receiving Maintenance Updates. The CentOS name will live on but in a different part of the ecosystem than it has to date.
 
-[https://www.servethehome.com/red-hat-goes-full-ibm-and-says-farewell-to-centos/](https://www.servethehome.com/red-hat-goes-full-ibm-and-says-farewell-to-centos/)
+* [https://www.servethehome.com/red-hat-goes-full-ibm-and-says-farewell-to-centos/](https://www.servethehome.com/red-hat-goes-full-ibm-and-says-farewell-to-centos/)
 
 ### Doing Business In Japan
 
@@ -95,16 +96,15 @@ Was I a particularly large account to the bank? Nope. It’s the same passbook s
 
 The bank is one anecdote, but I could tell you about the hair stylist who drops me a handwritten postcard after _every_ appointment, the restaurant that I went to weekly that tried to cater my wedding _for free_, the glasses shop which invited me to come back for a (free) frame re-bending and cup of coffee any time I was in the neighborhood, etc etc.
 
-[https://www.kalzumeus.com/2014/11/07/doing-business-in-japan/](https://www.kalzumeus.com/2014/11/07/doing-business-in-japan/)
+* [https://www.kalzumeus.com/2014/11/07/doing-business-in-japan/](https://www.kalzumeus.com/2014/11/07/doing-business-in-japan/)
 
 ### Social cooling
 
 * Kai kurie žmonės jau yra linkę elgtis atsargiau internete ir skirti daugiau dėmesio privatumo aspektams. Tačiau visgi didžiajai daugumai visa tai ir toliau nerūpi arba jų argumentas susiveda į "koks skirtumas, aš neturiu ką slėpti". Viena iš problemų kodėl taip yra - nes pro-privacy argumentai apima daug visokių skirtingų aspektų ir implikacijų ir jie tampa tiesiog kompeksiški ir sunkiau suvokiami.
-* Manau šis saitas nors ir labai kriminalistikai, tačiau supaprastina viską iki labai paprastos ir aiškios "social cooling' koncepcijos.&#x20;
+* Manau šis saitas nors ir labai kriminalistikai, tačiau supaprastina viską iki labai paprastos ir aiškios "social cooling' koncepcijos.
 
-> If you feel you are being watched, you change your behavior. \
-> We are becoming too transparent.
-> &#x20;This is breeding a society where self-censorship and risk-aversion are the new normal.\
+> If you feel you are being watched, you change your behavior.\
+> We are becoming too transparent. This is breeding a society where self-censorship and risk-aversion are the new normal.\
 > Privacy is the right to be imperfect
 
 * [https://www.socialcooling.com/](https://www.socialcooling.com)
@@ -131,7 +131,7 @@ The key is finding a good balance between working hard and playing hard. Your ca
 
 My advice at mid-50s to younger people is to learn 1. manage your energy for your long term health, 2. enjoy time with the highest quality people you can find (I mean that in terms of good language, hopeful, constructive/collaborative in nature and working on themselves, empathetic to all those around you), and lastly say "yes" to almost everything and enjoy to the max. If my life were a candle, every year it is slowly losing some if its brightness/energy through no fault or effort on my own. I had an unusual situation which aged me faster than I ever wished for-- lost my mid-30s wife to a rare cancer 3 years after diagnosis. A part of me died with her and my heart will never heal. Still I wake up hopeful every day. We are all along for a short ride, enjoy the hell out of it. It could/will disappear in an instant.
 
-[https://news.ycombinator.com/item?id=24531718](https://news.ycombinator.com/item?id=24531718)
+* [https://news.ycombinator.com/item?id=24531718](https://news.ycombinator.com/item?id=24531718)
 
 ### There are “only two ways to make money in business: One is to bundle; the other is unbundle.”
 
@@ -139,7 +139,7 @@ Music was one of the things where there was this very clear set of bundles in wh
 
 It’s an effective growth strategy. Once you try to grow the business, it’s an easier out to stay focused on your core and then add things to it. And you become a big bundle again. Which then creates a new vulnerability that you didn’t have when you were the insurgent.
 
-[https://hbr.org/2014/06/how-to-succeed-in-business-by-bundling-and-unbundling](https://hbr.org/2014/06/how-to-succeed-in-business-by-bundling-and-unbundling)
+* [https://hbr.org/2014/06/how-to-succeed-in-business-by-bundling-and-unbundling](https://hbr.org/2014/06/how-to-succeed-in-business-by-bundling-and-unbundling)
 
 ### The Truth Is Paywalled But The Lies Are Free
 
@@ -200,7 +200,7 @@ It’s an effective growth strategy. Once you try to grow the business, it’s a
 * The best lack all conviction, while the worst are full of passionate intensity.
 * One of the biggest benefits of writing online is realizing how often I'm wrong about the world. Whenever I publish an essay, I’m surprised by how many people respond with well-reasoned rebuttals I’ve never considered. As the responses have increased, I’ve been humbled by my inability to predict the future
 * No human will ever be able to understand the world. It’s too complex, and we can’t see culture because we’re overwhelmed by its invisible influences. At best, we can build local expertise and useful — but ultimately inaccurate — models of the world. Past a certain point, additional information deludes us because it makes us think we understand the world more than we actually do.
-* HEALTHY NEWS CONSUMPTION IS POSSIBLE&#x20;
+* HEALTHY NEWS CONSUMPTION IS POSSIBLE
   * I. TRACK WHAT YOU CONSUME
     * The benefits of the Internet are only as strong as your ability to direct your attention. It’s a gift to people with self-control, but a curse to those without it. And while it hurts the average news consumer, savvy ones have never been smarter or more informed.
     * Fathers and mothers have lost the idea that the highest aspiration they might have for their children is for them to be wise — as priests, prophets or philosophers are wise. Specialized competence and success are all that they can imagine.
@@ -220,7 +220,7 @@ It’s an effective growth strategy. Once you try to grow the business, it’s a
 
 ### Old CSS, new CSS
 
-* Web development'o arba jei konkrečiau - būtent CSS vystymosi istorija.&#x20;
+* Web development'o arba jei konkrečiau - būtent CSS vystymosi istorija.
 * Esu jau pakankamai senas, jog prisiminčiau, jog mokykloje dar teko pasižaisti su MS Frontpage'u ir puslapių struktūros dėliojimu lentelėmis. Taipogi esu susidūręs ir lipdoma paveikslėlių mozaika, vien tam, jog mygtuką padaryti su apvaliais kampais. Na ir galiausiai man vis dar atrodo lyg jQuery boom'as buvo dar ne taip ir senai. Tačiau įdomu pasiskaitinėti nuodugniau ir apie tai, kas buvo dar ir prieš tai.
 * Apie tai kaip buvo kuriami puslapiai iki kol pasirodė pirma CSS versija, apie tai kaip IE6 nugalėjęs Netscape'ą pasileido į visišką štilių ir web'as užsišaldė 5-erių metų laikotarpiui iki kol atsirado naujas rimtas konkurentas. Ir apie tai, kaip kai kurių dar anuometinių problemų sukurtos pasekmės, kaip pvz browser prefix'ai vis dar gyvuoja ir iki šių laikų.
 * Straipsnis puikus tuom, kad pateikia kontekstą, t.y. parodo kokios konkrečiai problemos buvo bandomos spręsti. Visus tuometinius pain points ir hack'us bandant juos apeiti.
@@ -258,7 +258,7 @@ _The diamond invention is far more than a monopoly for fixing diamond prices; it
 
 ### FaceApp
 
-* Programėlė pirmą kartą viral patapo dar 2017-ais ir būtent tada ją teko išbandyti ir man. Pamenu, pasijuokiau, kad pasendinus patalpintą nuotrauką, joje atrodau išties panašiai į savo senelį. Tačiau banga kaip staiga uždėjo, taip ir praėjo. Tada atėjo 2019-tų vasara ir prasidėjo antroji ir šį kartą kur kas stipresnė banga. Pirmiausia vajus įsisiubavo po to, kai programėle pasinaudojo kelios pasaulio įžymybės ir populiarumas išaugo iki tiek, jog atrodo, kad ja pasinaudojo ko ne visi, kas tik naudojasi socialiniais tinklais. Tačiau net nespėjus tai bangai nuslūgti, prasidėjo antrasis vajus, tik šį kartą sėjantis paniką ir pasipiktinimą. O tai kilo dėl to, jog į viešumą iškilo faktas, kad app'są sukūrė Rusijos IT kompanija bei tai, kiek milijonų žmonių jau spėjo jiems atiduoti savo duomenis ir galiausiai tai, kad jų licencija yra labai plataus pobūdžio ir iš esmės leidžianti naudoti surinktą informaciją bet kokiems tikslams. Ir taip, aš pilnai suprantu susirūpinimą dėl privatumo (vieta iš priežasčių, kodėl Facebook'e aš nesu užsivadinęs savo tikru vardu ar pavarde jau daugybę metų), bet iš kitos pusės, pirmiausia manau, kad skandalas išsipūtė vien jau dėlto, jog tai rusų apps'as. Taipogi, žmonės savo nuotraukas talpina į bet kokias random programėles, o tada mąsiškai "susirūpina" savo privatumu ir skundžiasi Facebook komentaruose, kuris juo labiau garsėja savo privatumo pažeidimais, kurie yra kur kas didesnio masto, o savo licencijoje irgi turi labai panašių punktų apie tai, kaip gali būti naudojama patalpinta vartotojų informacija. Visa tai yra tiesiog hipokritiška. Tie žmonės, kuriems iš tiesų tai rūpi, jie savo privatumu rūpinasi jau senai, o kiti puolė į masinę isteriją tiesiog dėl herd mentality. \
+* Programėlė pirmą kartą viral patapo dar 2017-ais ir būtent tada ją teko išbandyti ir man. Pamenu, pasijuokiau, kad pasendinus patalpintą nuotrauką, joje atrodau išties panašiai į savo senelį. Tačiau banga kaip staiga uždėjo, taip ir praėjo. Tada atėjo 2019-tų vasara ir prasidėjo antroji ir šį kartą kur kas stipresnė banga. Pirmiausia vajus įsisiubavo po to, kai programėle pasinaudojo kelios pasaulio įžymybės ir populiarumas išaugo iki tiek, jog atrodo, kad ja pasinaudojo ko ne visi, kas tik naudojasi socialiniais tinklais. Tačiau net nespėjus tai bangai nuslūgti, prasidėjo antrasis vajus, tik šį kartą sėjantis paniką ir pasipiktinimą. O tai kilo dėl to, jog į viešumą iškilo faktas, kad app'są sukūrė Rusijos IT kompanija bei tai, kiek milijonų žmonių jau spėjo jiems atiduoti savo duomenis ir galiausiai tai, kad jų licencija yra labai plataus pobūdžio ir iš esmės leidžianti naudoti surinktą informaciją bet kokiems tikslams. Ir taip, aš pilnai suprantu susirūpinimą dėl privatumo (vieta iš priežasčių, kodėl Facebook'e aš nesu užsivadinęs savo tikru vardu ar pavarde jau daugybę metų), bet iš kitos pusės, pirmiausia manau, kad skandalas išsipūtė vien jau dėlto, jog tai rusų apps'as. Taipogi, žmonės savo nuotraukas talpina į bet kokias random programėles, o tada mąsiškai "susirūpina" savo privatumu ir skundžiasi Facebook komentaruose, kuris juo labiau garsėja savo privatumo pažeidimais, kurie yra kur kas didesnio masto, o savo licencijoje irgi turi labai panašių punktų apie tai, kaip gali būti naudojama patalpinta vartotojų informacija. Visa tai yra tiesiog hipokritiška. Tie žmonės, kuriems iš tiesų tai rūpi, jie savo privatumu rūpinasi jau senai, o kiti puolė į masinę isteriją tiesiog dėl herd mentality.\
   Keli straipsniai ta tema:
 * [https://onezero.medium.com/is-faceapps-data-collection-any-worse-than-facebook-s-96153774575e](https://onezero.medium.com/is-faceapps-data-collection-any-worse-than-facebook-s-96153774575e)
 * [https://www.bloomberg.com/news/articles/2019-07-19/faceapp-is-it-safe-just-consider-how-much-more-google-knows](https://www.bloomberg.com/news/articles/2019-07-19/faceapp-is-it-safe-just-consider-how-much-more-google-knows)
