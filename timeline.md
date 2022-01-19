@@ -8,85 +8,84 @@ description: Wiki atliktų pakeitimų ir naujų straipsnių archyvas
 
 #### 2022-01-19
 
-* Skaitiniai: [GPS](wiki/skaitiniai/README.md#GPS)
+* Skaitiniai: [GPS](wiki/skaitiniai/skaitiniai.md#GPS)
 
 #### 2022-01-17
 
-* Mityba: [Žuvų taukai](wiki/mityba/README.md#zuv-taukai)
+* Mityba: [Žuvų taukai](wiki/mityba/mityba.md#zuv-taukai)
 
 #### 2022-01-16
 
-* Software: [Files](wiki/software.md)
-* Programavimas: [Formspree](wiki/programavimas/tools.md#forms)
+* Software: [Files](wiki/tech/software/sfotware.md)
+* Programavimas: [Formspree](wiki/tech/programavimas/tools.md#forms)
 
 #### 2022-01-15
 
-* Web: [WEB 3.0](wiki/web.md#web-3.0)
+* Web: [WEB 3.0](wiki/web/web.md#web-3.0)
 
 ## 2021–12
 
 #### 2021-12-30
 
-* Algoritmai: [Doomsday Algorithm](wiki/programavimas/algoritmai.md#doomsday-algorithm)
+* Algoritmai: [Doomsday Algorithm](wiki/tech/programavimas/algoritmai.md#doomsday-algorithm)
 
 #### 2021-12-28
 
-* Web: [Anonymous Email Forwarding](wiki/web.md#anonymous-email-forwarding)
-* Mac: [Set Up for Web Development](wiki/mac/#c030)
-* Me: [Vestuvių įžadai](wiki/me/vestuvi-zadai.md)
+* Web: [Anonymous Email Forwarding](wiki/web/web.md#anonymous-email-forwarding)
+* Mac: [Set Up for Web Development](wiki/tech/mac/#c030)
 
 ## 2021-07
 
 #### 2021-07-26
 
-* Pasaulis: [Šeimų maršai, antivax ir flat earth society](wiki/pasaulis/#seim-marsai-antivax-ir-flat-earth-society)
-* Filmai / serialai: [The Six Main Arcs in Storytelling](wiki/filmai/#the-six-main-arcs-in-storytelling)
-* Receptai: [James Hoffmann coffee routine](wiki/receptai.md#james-hoffmann-coffee-routine)
+* Pasaulis: [Šeimų maršai, antivax ir flat earth society](wiki/pasaulis/pasaulis.md#seim-marsai-antivax-ir-flat-earth-society)
+* Filmai / serialai: [The Six Main Arcs in Storytelling](wiki/filmai/filmai.md#the-six-main-arcs-in-storytelling)
+* Receptai: [James Hoffmann coffee routine](wiki/receptai/receptai.md#james-hoffmann-coffee-routine)
 
 ## 2021-06
 
 #### 2021-06-20
 
-* Skaitiniai: [Not Everyone Has An Internal Monologue](wiki/skaitiniai/#not-everyone-has-an-internal-monologue)
-* Skaitiniai: [Everything You Know About Fitness is a Lie](wiki/skaitiniai/straipsniu-archyvas/everything-you-know-about-fitness-is-a-lie.md)
-* Santykiai: [Vestuviniai įžadai](wiki/zmones/santykiai/vestuviniai-zadai.md)
-* Žmonės: [Charlie Kaufman](wiki/zmones/pop-kultura/charlie-kaufman.md)
-* Karjera: [Don't End The Week With Nothing](wiki/karjera-produktyvumas.md#dont-end-the-week-with-nothing)
+* Skaitiniai: [Not Everyone Has An Internal Monologue](wiki/skaitiniai/skaitiniai.md#not-everyone-has-an-internal-monologue)
+* Skaitiniai: [Everything You Know About Fitness is a Lie](wiki/skaitiniai/skaitiniai.mdstraipsniu-archyvas/everything-you-know-about-fitness-is-a-lie.md)
+* Me: [Vestuviniai įžadai](wiki/me/vestuviu-izadai.md)
+* Žmonės: [Charlie Kaufman](wiki/zmones/zmones.md#charlie-kaufman.md)
+* Karjera: [Don't End The Week With Nothing](wiki/karjera-produktyvumas/karjera-produktyvumas.md#dont-end-the-week-with-nothing)
 
 ## 2021-05
 
 #### 2021-05-25
 
-* Crypto: [Track Shitcoin Pricing](wiki/crypto.md#track-shitcoin-pricing-with-google-sheets)
-* Crypto: [Gyventojo mokesčiai iš kriptovaliutų uždirbus milijoną eurų 2020 m.](wiki/crypto.md#gyventojo-mokesciai-is-kriptovaliut-uzdirbus-milijona-eur-2020-m)
-* Crypto: [Anonymous wallets](wiki/crypto.md#anonymous-wallets)
+* Crypto: [Track Shitcoin Pricing](wiki/finansai/crypto/crypto.md#track-shitcoin-pricing-with-google-sheets)
+* Crypto: [Gyventojo mokesčiai iš kriptovaliutų uždirbus milijoną eurų 2020 m.](wiki/finansai/crypto/crypto.md#gyventojo-mokesciai-is-kriptovaliut-uzdirbus-milijona-eur-2020-m)
+* Crypto: [Anonymous wallets](wiki/finansai/crypto/crypto.md#anonymous-wallets)
 
 #### 2021-05-02
 
-* Programavimas: [REST, SOAP OR GRAPHQL?](wiki/programavimas/apis.md#rest-soap-or-graphql)
-* Programavimas: [YAGNI](wiki/programavimas/#you-arent-gonna-need-it)
+* Programavimas: [REST, SOAP OR GRAPHQL?](wiki/tech/programavimas/apis.md#rest-soap-or-graphql)
+* Programavimas: [YAGNI](wiki/tech/programavimas/programavimas.md#you-arent-gonna-need-it)
 
 ## 2021-02
 
 #### 2021-02-28
 
-* Knygos: [The Richest Man in Babylon](wiki/knygos.md#george-s-clason-the-richest-man-in-babylon)
+* Knygos: [The Richest Man in Babylon](wiki/knygos/knygos.md#george-s-clason-the-richest-man-in-babylon)
 
 #### 2021-02-07
 
-* Skaitiniai: [The Relentless Jeff Bezos](wiki/skaitiniai/#the-relentless-jeff-bezos)
+* Skaitiniai: [The Relentless Jeff Bezos](wiki/skaitiniai/skaitiniai.md#the-relentless-jeff-bezos)
 
 ## 2021-01
 
 #### 2021-01-25
 
-* Politika: [Five trends to guide civilizations towards Totalitarianism](wiki/politika/#five-trends-to-guide-civilizations-towards-totalitarianism)
-* Skaitiniai: [Social Networking 2.0](wiki/skaitiniai/#social-networking-2-0)
-* Programavimas: [Pomodoro for Software Development](wiki/programavimas/#pomodoro-for-software-development)
+* Politika: [Five trends to guide civilizations towards Totalitarianism](wiki/pasaulis/politika/politika.md#five-trends-to-guide-civilizations-towards-totalitarianism)
+* Skaitiniai: [Social Networking 2.0](wiki/skaitiniai/skaitiniai.md#social-networking-2-0)
+* Programavimas: [Pomodoro for Software Development](wiki/tech/programavimas/programavimas.md#pomodoro-for-software-development)
 
 #### 2021-01-04
 
-* Knygos: [Andrius kleiva - Kaip veikia Japonija](wiki/knygos.md#andrius-kleiva-kaip-veikia-japonija)
+* Knygos: [Andrius kleiva - Kaip veikia Japonija](wiki/knygos/knygos.md#andrius-kleiva-kaip-veikia-japonija)
 * Žaidimai: [Burly Men At Sea](wiki/zaidimai/burly-men-at-sea.md)
 * Žaidimai: [Erica](wiki/zaidimai/erica.md)
 
@@ -94,36 +93,36 @@ description: Wiki atliktų pakeitimų ir naujų straipsnių archyvas
 
 #### 2020-12-14
 
-* Programavimas: [LEMP on CentOS](wiki/programavimas/linux/lemp-on-centos.md)
+* Programavimas: [LEMP on CentOS](wiki/tech/programavimas/linux/lemp-on-centos.md)
 
 #### 2020-12-13
 
-* Programavimas: [Stop Expecting Customers to Know What They Want](wiki/programavimas/#the-iceberg-secret-revealed)
-* Skaitiniai: [Red Hat Goes Full IBM and Says Farewell to CentOS](wiki/skaitiniai/#red-hat-goes-full-ibm-and-says-farewell-to-centos)
+* Programavimas: [Stop Expecting Customers to Know What They Want](wiki/tech/programavimas/programavimas.md#the-iceberg-secret-revealed)
+* Skaitiniai: [Red Hat Goes Full IBM and Says Farewell to CentOS](wiki/skaitiniai/skaitiniai.md#red-hat-goes-full-ibm-and-says-farewell-to-centos)
 
 #### 2020-12-02
 
-* TechIt: [Note'ų eros pabaiga?](wiki/tech-it.md#note-eros-pabaiga)
+* TechIt: [Note'ų eros pabaiga?](wiki/tech/tech-it/tech-it.md#note-eros-pabaiga)
 
 ## 2020-11
 
 #### 2020-11-30
 
-* TechIT: [Android subsystem for Windows 10](wiki/tech-it.md#android-subsystem-for-windows-10)
+* TechIT: [Android subsystem for Windows 10](wiki/tech/tech-it/tech-it.md#android-subsystem-for-windows-10)
 
 #### 2020-11-23
 
-* Programavimas: [worst strategic mistake by software company](wiki/programavimas/#single-worst-strategic-mistake-that-any-software-company-can-make-decide-to-rewrite-the-code-from-scratch)
-* Programavimas: [Why Learning to Code is So Damn Hard](wiki/programavimas/#why-learning-to-code-is-so-damn-hard)
-* Programavimas: [The steady stream of new issue trackers](wiki/programavimas/#the-steady-stream-of-new-issue-trackers)
-* Programavimas: [Procrastination is driven by our desire to avoid difficult emotions](wiki/programavimas/#procrastination-is-driven-by-our-desire-to-avoid-difficult-emotions)
-* Karjera: [Working from home](wiki/karjera-produktyvumas.md#work-from-home)
-* Karjera: [Salary](wiki/karjera-produktyvumas.md#salary)
-* Skaitiniai: [Doing Business In Japan](wiki/skaitiniai/#doing-business-in-japan)
+* Programavimas: [worst strategic mistake by software company](wiki/tech/programavimas/programavimas.md#single-worst-strategic-mistake-that-any-software-company-can-make-decide-to-rewrite-the-code-from-scratch)
+* Programavimas: [Why Learning to Code is So Damn Hard](wiki/tech/programavimas/programavimas.md#why-learning-to-code-is-so-damn-hard)
+* Programavimas: [The steady stream of new issue trackers](wiki/tech/programavimas/programavimas.md#the-steady-stream-of-new-issue-trackers)
+* Programavimas: [Procrastination is driven by our desire to avoid difficult emotions](wiki/tech/programavimas/programavimas.md#procrastination-is-driven-by-our-desire-to-avoid-difficult-emotions)
+* Karjera: [Working from home](wiki/karjera-produktyvumas/karjera-produktyvumas.md#work-from-home)
+* Karjera: [Salary](wiki/karjera-produktyvumas/karjera-produktyvumas.md#salary)
+* Skaitiniai: [Doing Business In Japan](wiki/skaitiniai/skaitiniai.md#doing-business-in-japan)
 
 #### 2020-11-19
 
-* TechIT: [Apple M1](wiki/tech-it.md#apple-m1)
+* TechIT: [Apple M1](wiki/tech/tech-it/tech-it.md#apple-m1)
 
 ## 2020-10
 
@@ -184,7 +183,7 @@ description: Wiki atliktų pakeitimų ir naujų straipsnių archyvas
 
 #### 2020-06-29
 
-* Mityba: [Ketogeninė dieta](wiki/mityba/ketogenin-dieta.md)
+* Mityba: [Ketogeninė dieta](wiki/mityba/ketogenine-dieta.md)
 
 #### 2020-06-23
 
