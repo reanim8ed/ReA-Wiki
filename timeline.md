@@ -6,9 +6,13 @@ description: Wiki atliktų pakeitimų ir naujų straipsnių archyvas
 
 ## 2022-01
 
+#### 2022-01-19
+
+* Skaitiniai: [GPS](wiki/skaitiniai/README.md#GPS)
+
 #### 2022-01-17
 
-* Mityba: [Žuvų taukai](wiki/mityba/#zuv-taukai)
+* Mityba: [Žuvų taukai](wiki/mityba/README.md#zuv-taukai)
 
 #### 2022-01-16
 

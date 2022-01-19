@@ -1,5 +1,12 @@
 # Skaitiniai
 
+### GPS
+
+Absoliučiai puikus įvadas išaiškinantis GPS veikimo principus. Nors finale sistema išties komplikuota, tačiau pradedama pažindinti nuo nesudėtingų, aiškių konceptų ir po truputis buildinama jau atsispiriant nuo jų ir tai padeda suprasti kur kas lengviau. Įdomu kiek daug inovacijų ir problemų turėjo būti išspręsta, jog turėtume tokią naudingą globalią pozicijos nustatymo technologiją. 
+O taipogi šiame tutoriale didelį įspūdi palieka ir interaktyvios animacijos. Vizualinis pavaizdavimas, o dar labiau - leidimas pačiam pasieksperimentuoti su sistema yra neįtikėtinai efektyvus mokymosi pagalbininkas. O mane labai žavi ir šių animacijų kruopštus dėmesys detalėms.
+
+[https://ciechanow.ski/gps/](https://ciechanow.ski/gps/)
+
 ### Not Everyone Has An Internal Monologue
 
 [https://ryanandrewlangdon.wordpress.com/2020/01/28/today-i-learned-that-not-everyone-has-an-internal-monologue-and-it-has-ruined-my-day/](https://ryanandrewlangdon.wordpress.com/2020/01/28/today-i-learned-that-not-everyone-has-an-internal-monologue-and-it-has-ruined-my-day/)
@@ -96,7 +103,8 @@ The bank is one anecdote, but I could tell you about the hair stylist who drops 
 * Manau šis saitas nors ir labai kriminalistikai, tačiau supaprastina viską iki labai paprastos ir aiškios "social cooling' koncepcijos.&#x20;
 
 > If you feel you are being watched, you change your behavior. \
-> We are becoming too transparent.> &#x20;This is breeding a society where self-censorship and risk-aversion are the new normal.\
+> We are becoming too transparent.
+> &#x20;This is breeding a society where self-censorship and risk-aversion are the new normal.\
 > Privacy is the right to be imperfect
 
 * [https://www.socialcooling.com/](https://www.socialcooling.com)
