@@ -1,6 +1,6 @@
 # Symfony
 
-* Super Speed Symfony - nginx: [https://gnugat.github.io/2016/04/20/super-speed-sf-nginx.html](https://gnugat.github.io/2016/04/20/super-speed-sf-nginx.html)&#x20;
+* Super Speed Symfony - nginx: [https://gnugat.github.io/2016/04/20/super-speed-sf-nginx.html](https://gnugat.github.io/2016/04/20/super-speed-sf-nginx.html)
 
 ## Fundamentals
 
@@ -9,8 +9,6 @@
 ## Secrets management
 
 {% embed url="https://gist.github.com/reanim8ed/d7de4918be42ff4b9553a1de7bf26a28" %}
-
-
 
 ## Deployer setup
 
@@ -24,3 +22,6 @@
 
 {% embed url="https://gist.github.com/75ff049f8ffae638ee2655f450d92133#file-sample-md" %}
 
+## Logging events to database
+
+{% embed url="https://gist.github.com/reanim8ed/673bb0f742e12cd734b446f26ea31ea0" %}

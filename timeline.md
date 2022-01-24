@@ -6,10 +6,6 @@ description: Wiki atliktų pakeitimų ir naujų straipsnių archyvas
 
 ## 2022-01
 
-#### 2020-01-25
-
-* Programavimas: [Doctrine](wiki/tech/programavimas/php/symfony/doctrine.md)
-
 #### 2022-01-19
 
 * Skaitiniai: [GPS](wiki/skaitiniai/skaitiniai.md#gps)
