@@ -230,6 +230,7 @@
       * [Prestashop](wiki/tech/programavimas/php/prestashop.md)
       * [Symfony](wiki/tech/programavimas/php/symfony/symfony.md)
         * [Deployer](wiki/tech/programavimas/php/symfony/deployer.md)
+        * [Doctrine](wiki/tech/programavimas/php/symfony/doctrine.md)
         * [Mercure](wiki/tech/programavimas/php/symfony/mercure.md)
         * [VichUpload](wiki/tech/programavimas/php/symfony/vichupload.md)
       * [Wordpress](wiki/tech/programavimas/php/wordpress.md)
