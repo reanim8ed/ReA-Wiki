@@ -29,10 +29,9 @@ description: Podcasts are like an electric campfire, people gather around and te
 
 #### George Hotz @ Artificial Intelligence Podcast
 
-* geohot yra pasipūtęs, temperamentingas ir stačiokiškas trolis, tačiau užtenka išgirsti jį kalbant apie savo stichiją ir iš karto pasimato jo ambicingumas, didelis intelektas bei itin gilus temos perpratimas. Šitu aspektu jis man primena Martin Shkreli. Daug kas linkę susidaryti greitą neigiamą įspūdį, tačiau tokių žmonių skill'ai kalba patys už save.&#x20;
+* geohot yra pasipūtęs, temperamentingas ir stačiokiškas trolis, tačiau užtenka išgirsti jį kalbant apie savo stichiją ir iš karto pasimato jo ambicingumas, didelis intelektas bei itin gilus temos perpratimas. Šitu aspektu jis man primena Martin Shkreli. Daug kas linkę susidaryti greitą neigiamą įspūdį, tačiau tokių žmonių skill'ai kalba patys už save.
 * Man patinka jo nematerialistiškas požiūris ir biurokratijos engimas. Jis yra labai competitive, mėgsta išties didelės kompleksijos problemas ir pagrindinė jo varomoji jėga - laimėti, "parodyti kitiems" išsprendžiant jas pirmesniam. Išties gerbia žmones už jų realius skill'us ir vienas pagrindinių jo troškimų - būti žinomam būtent tokių, išties talentingų žmonių tarpe.
-* Podcast'e patiko kontrastas tarp kalbančiųjų: Hotz'as greitas ir chaotiškas, Lex'as tuo tarpu santūrus, lėtas ir apgalvojantis. Vedėjas išlaikė nepatiklumą ir paspaudė pašnekovą tose vietose, kuriose jų požiūriai išsiskyrė ir dėlto diskusija tapo įdomesnė. Norėčiau, jog tokia dinamika būtų buvusi ir tuomet, kai to paties podcast'o svečias buvo Musk'as, nes tuomet jis daugiausiai kartojo savo jau atkaltas supaprastintas formuluotes. Manau jog Lex'as būtų tas vedėjas, kuris sugebėtų pokalbį pakreipti į daug smulkmeniškesnę techninę pusę ir paspaustų Musk'ą pakalbėti apie daug gilesnius inžinerinius niuansus, ko ir pritrūksta per visus jo interviu.\
-
+* Podcast'e patiko kontrastas tarp kalbančiųjų: Hotz'as greitas ir chaotiškas, Lex'as tuo tarpu santūrus, lėtas ir apgalvojantis. Vedėjas išlaikė nepatiklumą ir paspaudė pašnekovą tose vietose, kuriose jų požiūriai išsiskyrė ir dėlto diskusija tapo įdomesnė. Norėčiau, jog tokia dinamika būtų buvusi ir tuomet, kai to paties podcast'o svečias buvo Musk'as, nes tuomet jis daugiausiai kartojo savo jau atkaltas supaprastintas formuluotes. Manau jog Lex'as būtų tas vedėjas, kuris sugebėtų pokalbį pakreipti į daug smulkmeniškesnę techninę pusę ir paspaustų Musk'ą pakalbėti apie daug gilesnius inžinerinius niuansus, ko ir pritrūksta per visus jo interviu.\\
 * Elon Musk was looking for someone to build a vision system for Autopilot. We talked about a contract. If I could deliver something that meets Mobileye level performance tomorrow I would get $12 million. I would lose $1 million for each month I couldn’t deliver.
 * In life, I usually get away with saying stupid things. Elon is very sharp. He immediately called me out on it. Most people don’t even notice.
 * Tesla is going to win level 5. Tesla is gathering data on a scale no one else is. They are putting real users behind the wheel. The incremental strategy is the only strategy that works.
@@ -52,7 +51,7 @@ description: Podcasts are like an electric campfire, people gather around and te
 
 * MMA - it’s high-level problem solving with dire physical consequences
 * We’ve been interested in people beating the shit out of each other since the beginning of time.
-* Getting fired, dumped, or losing a game is important because the feelings of failure make the feelings of success sweeter.&#x20;
+* Getting fired, dumped, or losing a game is important because the feelings of failure make the feelings of success sweeter.
 * Feelings of failure are really critical for your motivation. If you’re afraid of failing, but you go out and fail anyway, you learn that fear won’t kill you. You can view failure positively or negatively, the choice is yours.
 * We’re so often married to our ideas like our ideas are a part of us and we’re losing if our ideas that we’ve been discussing are incorrect.
 * You have to be willing to have unpopular opinions to make new discoveries. The world doesn’t progress very much unless there’s a guy like Steve Jobs or a Copernicus…poking people in the eye with a stick…you know very often they’re discredited or hated for their whole lives.
@@ -69,7 +68,7 @@ description: Podcasts are like an electric campfire, people gather around and te
 ### 2019 - 09
 
 * [John Carmack](https://www.youtube.com/watch?v=udlMSe5-zP8) programuotojų, inžinierių ir developerių tarpuose pristatinėti nereikia, jis jau ir taip yra legenda. Tikrai planuoju paskaityti [Masters of Doom](https://www.amazon.com/Masters-Doom-Created-Transformed-Culture/dp/0812972155), o iki to laiko - interviu pas Joe Rogan'ą, kuriame kalbama apie AI, VR, raketas ir turbo boosted ferrarius.
-* _He's the kind of guy who gets passionate about something and he gives it his all and enjoys sharing his knowledge._&#x20;
+* _He's the kind of guy who gets passionate about something and he gives it his all and enjoys sharing his knowledge._
 
 ### 2019 - 07
 
@@ -87,13 +86,13 @@ Netapsi turtingu vien tik pardavinėdamas savo laiką. Kiekvieną kartą, kai pr
 
 > There are two great addictions - heroin and the monthly salary.
 
-> Specialisation is for insects.&#x20;
+> Specialisation is for insects.
 
 Žmonės randa vieną sritį, kurioje jiems sekasi ir dažniausiai lieka joje visą likusį gyvenimą. Dėlto, kad patogu, dėlto, kad taip nepasirodys neišmanėliais ir dėl baimės pradėti viską iš naujo. Romėnai, graikai turėjo visą ciklą - eini į mokyklą, dalyvauji kare, vertiesi veslu, tarnauji senate ir galiausiai tampi filosofu. Kitaip tariant turi daug skirtingų "karjerų", išbandai save keliose visiškai skirtingose srityse. Tarsi gyvenimo arka. Dabar dažniausiai taip nebegyvename, specializuojamės.
 
 > We each have two lives. The second one begins, when we realize we have only one.
 
-> ### 2019 - 05
+> #### 2019 - 05
 
 * [Jamie Metzl](https://youtu.be/aaZRiN15tXI) - futuristas, knygos Hacking Darwin autorius
 
@@ -112,6 +111,6 @@ Netapsi turtingu vien tik pardavinėdamas savo laiką. Kiekvieną kartą, kai pr
 ### 2019 - 03
 
 * [Alex Honnald](https://youtu.be/2OhHkBmbb5Y) - kur kiekvienas interviu džiugina jau vien tuom, kad pašnekovas vis dar čia, vis dar gali atvykti. Alex'as yra žymiausias Free Solo kopėjas, kuris [vienintelis įlipo](https://www.wikiwand.com/en/Free\_Solo) į garsiausią JAV kalną be jokios įrangos. 22 metus vyrukas vaikšto tokia slidžia riba, kur viena vienintelė klaida, jam kainuotų gyvybę. Podcast'e pasakoja apie tai, kad kopiant įsitempimas turi būti tarp 3,5-7, nes kitu atveju yra didelė tikimybė padaryti klaidą. Apie tai, kaip kopikai pasiilsina rankas kabėdami žemyn galva ir apie tai, kad turi būti pakankamai įsitempęs, kad neprarastum savo general alertness, tačiau tuo pat metu ir pakankamai atsipalaidavęs, jog jaustumeisi komforto zonoje ir nenuvargintum savęs. Yra puikus filmas apie tai, kaip vystėsi visa ši kopimo kultūra, pavadinimu [Valley Uprising](https://www.imdb.com/title/tt3784160/).
-* &#x20;_I don't like holidays because I don't like being told when to have fun_
+* _I don't like holidays because I don't like being told when to have fun_
 
 ![](../../.gitbook/assets/8be64e4b-cdb9-4ed6-947a-8e9ffebf5466.jpg)

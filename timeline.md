@@ -6,6 +6,10 @@ description: Wiki atliktų pakeitimų ir naujų straipsnių archyvas
 
 ## 2022-01
 
+#### 2020-01-25
+
+* Programavimas: [Doctrine](wiki/tech/programavimas/php/symfony/doctrine.md)
+
 #### 2022-01-19
 
 * Skaitiniai: [GPS](wiki/skaitiniai/skaitiniai.md#gps)
@@ -187,7 +191,7 @@ description: Wiki atliktų pakeitimų ir naujų straipsnių archyvas
 
 #### 2020-06-23
 
-* Technologijos: [ReA PC 2.0](wiki/tech/rea-pc-build.md#rea-pc-2-0-2020-now)
+* Technologijos: [ReA PC 2.0](wiki/tech/pc-build.md#rea-pc-2-0-2020-now)
 
 #### 2020-06-09
 
@@ -486,7 +490,7 @@ description: Wiki atliktų pakeitimų ir naujų straipsnių archyvas
 
 #### 2019-08-19
 
-* [ReA PC build](wiki/tech/rea-pc-build.md)
+* [ReA PC build](wiki/tech/pc-build.md)
 
 #### 2019-08-16
 

@@ -6,7 +6,7 @@ Manau, tiesiog turi būti kažkas kaltas dėl jų lūkesčių neatitinkančių g
 
 ### Tesėjo laivas
 
-![](../.gitbook/assets/trireme-559x413%20%281%29.jpg)
+![](<../../.gitbook/assets/trireme-559x413 (1).jpg>)
 
 Įsivaizduokite, kad senelis jums padovanoja savo kirvį, kurį jis naudojo daugybę metų ir trokšta, kad jūs jį turėtumėte. Besinaudojant pastaruoju kirviu, jo ašmenys po truputis susidėvi ir galandinimas čia jau niekuom nepadėtų – tiesiog pakeičiate geležtę nauja ir toliau sėkmingai naudojatės dovana. Tačiau kirvis toliau po truputis dėvisi ir po daugel metų jums vėl tenka jį taisyti, tik šį kartą pakeičiate kirvio kotą. Kai nebeliko nei vienos originalios kirvio dalies ar tai vis dar tas pats kirvis kurį jums dovanojo senelis?
 
@@ -19,6 +19,3 @@ Atrodytų logiška, kad tas, kuris visgi turi originalias dalis ir būtų tikras
 * 60 sekundžių trukmės minties eksperimentų rinkinukas:
 
 {% embed url="https://www.youtube.com/watch?v=5zVaFjSxAZs" %}
-
-
-

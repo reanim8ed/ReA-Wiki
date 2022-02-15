@@ -242,7 +242,7 @@
   * [TechIT straipsniai](wiki/tech/tech-it/tech-it.md)
   * [AI](wiki/tech/ai.md)
   * [Internetas](wiki/tech/internetas.md)
-  * [ReA PC build](wiki/tech/rea-pc-build.md)
+  * [PC build](wiki/tech/pc-build.md)
 * [Teorijos / efektai](wiki/teorijos-efektai/teorijos-efektai.md)
 * [Terminai](wiki/terminai/terminai.md)
 * [Vadyba](wiki/vadyba/vadyba.md)

@@ -70,8 +70,6 @@ It was always the plan to put the world in your hand
 
 {% embed url="https://www.youtube.com/watch?v=k1BneeJTDcU" %}
 
-
-
 ### Why Your Favorite Musicians Are Broke
 
 * Kai gerai žinomi ir populiarūs muzikantai gali parduoti milijonus įrašų, tačiau patys iš to praktiškai nieko neuždirbti.
@@ -86,11 +84,11 @@ It was always the plan to put the world in your hand
 
 * Žaidimų industrijos dizainas statosi ant ankstesnių experience'ų pagrindo. Labai dažnai visiškai net nesusimąstome, jog mechanikos, kurios mums atrodo visiškai intuityvios, tokios yra tik dėlto, kad žaidėme kompiuterinius žaidimus visą savo gyvenimą. Žinome jų istoriją, progresiją ir tos taisyklės yra tiesiog giliai įsirėžusios mumyse. Kiekviena pasiteisinusi ir plačiai industrijoje paplitusi dizaino ar mechanikos logika mums tapo tokia įprasta, jog net pasileidus visiškai nematytą žaidimą, greičiausiai mokėsime jį valdyti, net be jokių papildomų tutorialų. Universal language of games.\
   Tačiau žmonės, kurie neturėjo tokios patirties, gali struglinti net visiškai elementariose vietose. Nes jie neturi konteksto, neturiu patirčių, o žaidimų kūrėjai išties dažnai vadovaujasi prielaidomis, kad jūs turite bent bazines valdymo žinias ir savo dizainą lipdo jau ant to.
-* [https://youtu.be/ax7f3JZJHSw](https://youtu.be/ax7f3JZJHSw)&#x20;
+* [https://youtu.be/ax7f3JZJHSw](https://youtu.be/ax7f3JZJHSw)
 
 ### 2019-12-09
 
-* Barcelonos Sagrada Familia yra ne tik vienas įspūdingiausių architektūros pavyzdžių, bet taipogi ir ko gero ilgiausiai vis dar ongoing statybos projektas pasaulyje. \
+* Barcelonos Sagrada Familia yra ne tik vienas įspūdingiausių architektūros pavyzdžių, bet taipogi ir ko gero ilgiausiai vis dar ongoing statybos projektas pasaulyje.\
   Bažnyčios įprastai nėra man itin didelio įspūdžio paliekantys objektai, tačiau turiu pripažinti, kad Sagrados vidus išties atrodo įspūdingai. Pradedant nuo milžiniškų medžių kamienus primenančių kolonų ar neįtikėtinai aukštų lubų, baigiant visų vaivorykštės spalvų žaismu, kuris užpildo bažnyčios vidų. Tai be abejonės tapo įsimintiniausia bažnyčia, kurioje esu buvęs, net ir neskaitant išties didelio žmonių srauto.\
   Šis [Real Engineering video](https://youtu.be/kkNGdzo\_3EA) paaiškina kodėl šio projekto statybos trunka jau 137-erius metus.
 
@@ -99,7 +97,7 @@ It was always the plan to put the world in your hand
 * Video esė, apie tai, kas padaro Pixar kuriamas istorijas tokias [relatable](https://www.youtube.com/watch?v=xTM-AdrIpaE).
 * Nuo 76-tųjų iki 2003-čiųjų turėjome viršgarsinius keleivinius Concorde lėktuvus, kurie Atlandą sugebėdavo perskristi vos per 3,5h. Tačiau dabar naudojamės Boing'ais, kurie tą patį atstumą įveikia dvigubai lėčiau. [What happened?](https://www.youtube.com/watch?v=a\_wuykzfFzE)
 * 60s trukmės [minčių eksperimentai](https://www.youtube.com/watch?v=5zVaFjSxAZs)
-* Yra išties labai puikių žinomų žinomų žmonių kalbų, skirtų universiteto studentų baigimo progai. Pvz.  Steve Jobs'o "You can’t connect the dots looking forward". Taipogi esu žiūrėjęs ir patiko šmaikščios Elen ir Conan'o kalbos. O šį kartą - [Matt Damon](https://www.youtube.com/watch?v=vj-cK\_KfjsI).
+* Yra išties labai puikių žinomų žinomų žmonių kalbų, skirtų universiteto studentų baigimo progai. Pvz. Steve Jobs'o "You can’t connect the dots looking forward". Taipogi esu žiūrėjęs ir patiko šmaikščios Elen ir Conan'o kalbos. O šį kartą - [Matt Damon](https://www.youtube.com/watch?v=vj-cK\_KfjsI).
 * Japonijos [istorija](https://www.youtube.com/watch?v=Mh5LY4Mz15o)
 * Mėgstame gan lengvai švaistytis fraze "depresija" kai yra tiesiog liūdna, nėra nuotaikos. Video, kuris paaiškina ką iš tiesų reiškia [gyventi depresijoje](https://www.youtube.com/watch?v=EJ\_S5Rjt\_iI).
 * PC technologijų kanalas Bitwit turėjo labai įdomią iniciatyvą: GTA V online žaidime vežiojo kitus žmones su taxi ir tuo tarpu tiesiog pasikalbėdavo su nepažįstamaisiais. Kartais gaudavosi išties itin [įdomūs ir atviri pokalbiai](https://www.youtube.com/watch?v=Pyfn0QmmG7A).
@@ -134,7 +132,7 @@ It was always the plan to put the world in your hand
 * Turėjome viršgarsinius keleivinius lėktuvus, kuriais perskristi Atlantą būdavo galima per 3,5 valandos, tačiau dabar skraidome su dvigubai lėtesniais lėktuvais. Ir visai ne dėl saugumo. Tai kodėl taip nutiko? TLDW: [too load too expensive](https://www.youtube.com/watch?v=a\_wuykzfFzE)
 * [Why Men and Women Cant Be Friends](https://www.youtube.com/watch?v=ko5sSeU-TrY)
 * Požiūris į [online dating ](https://www.ted.com/talks/christina\_wallace\_how\_to\_stop\_swiping\_and\_find\_your\_person\_on\_dating\_apps)iš verslo administravimo pusės
-* __[_The Beauty Of A Second_](https://www.youtube.com/watch?v=cyj\_aVYDlAc) – tai trumpametražių filmų konkursas, kuruojamas Wim Wenders’o. Šis režisierius prašo dalyvių tik vieno: užfiksuoti grožio akimirką vos sekundėje juostos.&#x20;
+* \_\_[_The Beauty Of A Second_](https://www.youtube.com/watch?v=cyj\_aVYDlAc) – tai trumpametražių filmų konkursas, kuruojamas Wim Wenders’o. Šis režisierius prašo dalyvių tik vieno: užfiksuoti grožio akimirką vos sekundėje juostos.
 * Jau ne kartą įsitikinau, kad [Matt’ui Damon’ui](https://www.youtube.com/watch?v=vj-cK\_KfjsI) charizmos tikrai netrūksta. Tai dar kartą įrodo ši puiki kalba absolventams.
 * Puiki [Ellen ](https://www.youtube.com/watch?v=0e8ToRVOtRo)kalba studijų baigimo ceremonijoje
 * Ką reiškia gyvenimas[ su depresija](https://www.youtube.com/watch?v=EJ\_S5Rjt\_iI). Perteikta video formatu.
@@ -166,11 +164,11 @@ It was always the plan to put the world in your hand
 
 ### 2019-07-17
 
-* [Pirmoji Neurolink prezentacija](kompanijos/neurolink.md)
+* [Pirmoji Neurolink prezentacija](../kompanijos/neurolink.md)
 
 ### 2019-07-14
 
-* [Starlink palydovų konsteliacija](kosmosas.md#starlink-palydov-konsteliacija)
+* [Starlink palydovų konsteliacija](../kosmosas.md#starlink-palydov-konsteliacija)
 
 ### 2019-07-07
 
