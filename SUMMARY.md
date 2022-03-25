@@ -223,6 +223,7 @@
     * [Docker](wiki/tech/programavimas/docker.md)
     * [HTML technikos](wiki/tech/programavimas/html.md)
     * [Linux](wiki/tech/programavimas/linux/linux.md)
+      * [Yubikey for SSH login](wiki/tech/programavimas/linux/yubikey-for-ssh-login.md)
       * [Nginx](wiki/tech/programavimas/linux/nginx.md)
       * [LEMP on CentOS](wiki/tech/programavimas/linux/lemp-on-centos.md)
       * [Linux commands](wiki/tech/programavimas/linux/linux-commands.md)
