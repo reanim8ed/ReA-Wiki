@@ -235,6 +235,7 @@
         * [VichUpload](wiki/tech/programavimas/php/symfony/vichupload.md)
       * [Wordpress](wiki/tech/programavimas/php/wordpress.md)
     * [Programavimo karjera](wiki/tech/programavimas/programavimo-karjera.md)
+    * [Servers](wiki/tech/programavimas/servers.md)
     * [SEO](wiki/tech/programavimas/seo.md)
     * [Testing](wiki/tech/programavimas/testing.md)
     * [Tools](wiki/tech/programavimas/tools.md)

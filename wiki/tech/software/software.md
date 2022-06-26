@@ -1,7 +1,6 @@
 # Software
 
 * [LockHunter ](https://www.lockhunter.com/index.htm)- tais atvejais, kai norima ištrinti failą, tačiau jį bala žino kas naudoja ir to padaryti tiesiog neleidžia. Kiek platesnė Unlocker alternatyva, nes sugeba ne tik atrakinti failą jo ištrynimui, tačiau ir parodo procesus, kurie šį failą naudoja.
-* SSH management: [https://www.termius.com](https://www.termius.com/pricing)
 
 ## Screenshots
 
