@@ -9,6 +9,7 @@ description: Wiki atliktų pakeitimų ir naujų straipsnių archyvas
 #### 2022-06-26
 
 * New category: [Self host](wiki/tech/self-host.md)
+* Web: [Why Netflix Should Sell Ads?](wiki/tech/web.md#why-netflix-should-sell-ads)
 
 ## 2022-03
 
@@ -37,7 +38,7 @@ description: Wiki atliktų pakeitimų ir naujų straipsnių archyvas
 
 #### 2022-01-15
 
-* Web: [WEB 3.0](wiki/web/web.md#web-3.0)
+* Web: [WEB 3.0](wiki/tech/web.md#web-3.0)
 
 ## 2021–12
 
@@ -47,7 +48,7 @@ description: Wiki atliktų pakeitimų ir naujų straipsnių archyvas
 
 #### 2021-12-28
 
-* Web: [Anonymous Email Forwarding](wiki/web/web.md#anonymous-email-forwarding)
+* Web: [Anonymous Email Forwarding](wiki/tech/web.md#anonymous-email-forwarding)
 * Mac: [Set Up for Web Development](wiki/tech/mac/set-up-for-web-development.md)
 
 ## 2021-07
@@ -506,7 +507,7 @@ description: Wiki atliktų pakeitimų ir naujų straipsnių archyvas
 
 #### 2019-08-16
 
-* [Cicada 3301](wiki/tech/internetas.md#cicada-3301)
+* [Cicada 3301](broken-reference)
 
 #### 2019-08-15
 
@@ -516,7 +517,7 @@ description: Wiki atliktų pakeitimų ir naujų straipsnių archyvas
 
 * MMORPG kaip [socialinė mokykla](wiki/zaidimai/zaidimai.md#mmorpg-kaip-socialin-mokykla)
 * Skolindamasis kreditu, skoliniesi [iš savęs paties](wiki/ekonomika/#notes), tiesiog ateityje.
-* [Fear of Missing Out](wiki/tech/internetas.md#fear-of-missing-out-and-social-media) and Social Media
+* [Fear of Missing Out](broken-reference) and Social Media
 * Google [prisijungimai be slaptažodžių](wiki/tech-it.md#google-prisijungimai-be-slaptazodzi)
 
 #### 2019-08-11
@@ -739,7 +740,7 @@ Tinklaraščio migracija:
 #### 2019-05-30
 
 * Google planuoja [limituoti adblock'us](wiki/tech-it.md#chrome-limituos-adblockus-tik-iki-enterprice-useri) Chrome naršyklėje
-* [Žmogaus akies limitai](wiki/faktai/faktai.md#zmogaus-akies-galimyb-s) arba ar reikalingi greiti ekranai.
+* [Žmogaus akies limitai](wiki/random-internetai.md#zmogaus-akies-galimyb-s) arba ar reikalingi greiti ekranai.
 * Gaminio savikaina neatspindi [jo sąnaudų](wiki/ekonomika/#faktai)
 
 #### 2019-05-28
@@ -766,7 +767,7 @@ Tinklaraščio migracija:
 * [Avengers: Endgame](wiki/filmai/#avengers-endgame-2019) filmas
 * [The way way back](wiki/filmai/#the-way-way-back-2013) filmas
 * Pirmasis [McDonalds Rusijoje](wiki/istorija/istorija.md)
-* Vaistai nuo gonorėjos, o tuo pačiu ir [grindų plovimo skystis](wiki/faktai/faktai.md)
+* Vaistai nuo gonorėjos, o tuo pačiu ir [grindų plovimo skystis](wiki/random-internetai.md)
 
 #### 2019-05-19
 
@@ -798,7 +799,7 @@ Tinklaraščio migracija:
 #### 2019-05-04
 
 * Idėja apie tai, kad Pornhub komanda turėtų pakankamai [know-how](wiki/showerthoughts/showerthoughts.md#2019-05-04), kad sukurti Youtube konkurentą
-* Technologijose pridėta [Interneto ](wiki/tech/internetas.md)tema ir aprašytos vienos iš [Google+](wiki/tech/internetas.md#google) nesekmės priežastys.
+* Technologijose pridėta [Interneto ](broken-reference)tema ir aprašytos vienos iš [Google+](broken-reference) nesekmės priežastys.
 * Pridėta Andy Weir trumpa istorija "[Digitocracy](wiki/skaitiniai/skaitiniai.md#bookTitle)".
 
 #### 2019-05-02
