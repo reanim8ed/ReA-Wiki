@@ -4,12 +4,6 @@ description: The Internet treats censorship as a malfunction and routes around i
 
 # Internetas
 
-## Tools
-
-#### AdBlock
-
-* [https://adguard-dns.io/en/welcome.html](https://adguard-dns.io/en/welcome.html) - beta versijoje esanti NextDNS alternatyva. Pastarasis yra gan gerai establishintas ir veikia tikrai neblogai, tačiau Adguard turi gerą reputacija ir yra kur kas didesni ir populiaresni, tad visai įdomu pamatyti ar konkurencija duos vaisių.
-
 ## Cicada 3301
 
 * Manau, kad internetas turi nemažai paslapčių. Tačiau dažniausiai geros paslaptys yra tos, apie kurias taip niekada ir nesužinome.
@@ -26,7 +20,7 @@ FOMO is a great motivator of human behavior, and I think a crucial key to unders
 
 * [https://caterina.net/2011/03/15/fomo-and-social-media/](https://caterina.net/2011/03/15/fomo-and-social-media/)
 
-## Google+
+## Google+&#x20;
 
 Vienas iš inžinierių dirbančių prie Google+ [aprašo priežastis](https://onezero.medium.com/why-google-failed-4b9db05b973b), kurios jo nuomone nulėmė kodėl šis socialinis tinklapis nenusisekė.
 
@@ -41,12 +35,12 @@ Vienas iš inžinierių dirbančių prie Google+ [aprašo priežastis](https://o
 
 Galima pridėti ir dar kelias, ne tokias gyvybiškai svarbias, bet kalančias dar po vinį:
 
-* Jokių read/write API nebuvimas. Nebuvo galima naudoti jokio kito kliento. Pvz. Twitter ar Reddit atvejai labai gerai parodo, kaip kiekvienas atskiras apps'as gali pateikti savo unikalų take'ą, kuris gali gan nemažai įtakoti pasitenkinimą serviso naudojimu. Tai taipogi reiškia, kad nebuvo galima automatizuoti postų rašymo ar importavimo iš kitų tinklų. Kitaip tariant, jei į daugumą soc. tinklų gali postinti parašęs postą tik kartą, Google+ reikalavo asmeniško prisilietimo.
+* Jokių read/write API nebuvimas. Nebuvo galima naudoti jokio kito kliento. Pvz. Twitter ar Reddit atvejai labai gerai parodo, kaip kiekvienas atskiras apps'as gali pateikti savo unikalų take'ą, kuris gali gan nemažai įtakoti pasitenkinimą serviso naudojimu. Tai taipogi reiškia, kad nebuvo galima automatizuoti postų rašymo ar importavimo iš kitų tinklų. Kitaip tariant, jei į daugumą soc. tinklų gali postinti parašęs postą tik kartą, Google+ reikalavo asmeniško prisilietimo.&#x20;
 * Tikrų vardų politika
 
 Įdomu, kad socialinio tinklapio sukūrimui žmonių psichologija yra ne mažiau svarbi, nei technologija
 
 ## Notes
 
-* From ex Facebook Software Engineer:\
+* From ex Facebook Software Engineer:  \
   The best minds of my generation are thinking about how to make people click ads.

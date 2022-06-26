@@ -24,6 +24,6 @@ Taigi, šioje akcijoje aš turiu papasakoti 7 faktus apie save. Chm, taigi ko ga
 
 7\. Ach… už ką čia tiek daug punktų. Num gerai. Esu tiiinginys. Visos mano negalėjimo/nenorėjimo ir visokios kitokios priežastys dažniausiai slypi tingėjime. Žinau, kad galėčiau daug jei netingėčiau. Bet ajjj… Tingiu aiškint kodėl taip yra :p
 
-Oki, pareigą atlikau. Pristačiau nuo ko, pavardinau 7 šventas tiesas apie save. Na o stilingumo apdovanojimą įbruku [SilverWoof](http://silverwoof.wordpress.com/), [Buržujui](http://www.kleckas.lt/blog/), na ir [Nekalbadieniui](http://nekalbadienis.blogspot.com/).
+Oki, pareigą atlikau. Pristačiau nuo ko, pavardinau 7 šventas tiesas apie save. Na o stilingumo apdovanojimą įbruku [SilverWoof](http://silverwoof.wordpress.com), [Buržujui](http://www.kleckas.lt/blog/), na ir [Nekalbadieniui](http://nekalbadienis.blogspot.com).
 
 Turėkitės, skant!
