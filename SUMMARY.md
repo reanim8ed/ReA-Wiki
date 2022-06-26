@@ -239,6 +239,7 @@
     * [SEO](wiki/tech/programavimas/seo.md)
     * [Testing](wiki/tech/programavimas/testing.md)
     * [Tools](wiki/tech/programavimas/tools.md)
+  * [Self host](wiki/tech/self-host.md)
   * [Software](wiki/tech/software/software.md)
   * [TechIT straipsniai](wiki/tech/tech-it/tech-it.md)
   * [AI](wiki/tech/ai.md)

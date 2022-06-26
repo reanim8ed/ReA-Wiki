@@ -4,6 +4,12 @@ description: Wiki atliktų pakeitimų ir naujų straipsnių archyvas
 
 # Timeline
 
+## 2022-06
+
+#### 2022-06-26
+
+* New category: [Self host](wiki/tech/self-host.md)
+
 ## 2022-03
 
 #### 2022-01-26
