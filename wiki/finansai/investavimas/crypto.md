@@ -2,8 +2,8 @@
 
 ## Anonymous wallets
 
-* [https://www.bitamp.com](https://www.bitamp.com/) (Bitcoin only)
-* [https://rahakott.ch/](https://rahakott.ch/)
+* [https://www.bitamp.com](https://www.bitamp.com) (Bitcoin only)
+* [https://rahakott.ch/](https://rahakott.ch)
 * Samourai (Android only)
 
 ## Gyventojo mokesčiai iš kriptovaliutų uždirbus milijoną eurų 2020 m.

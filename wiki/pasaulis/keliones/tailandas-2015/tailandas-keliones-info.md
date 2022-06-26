@@ -117,7 +117,7 @@ Minivans depart to Kanchanaburi from BTS Victory Monument. The minivans leave wh
 
 ### Traukiniai
 
-[http://www.seat61.com/Thailand.htm#Ko\_Samui](http://www.seat61.com/Thailand.htm#Ko\_Samui) - trains [http://thailandtrainticket.com/](http://thailandtrainticket.com/) [http://www.railway.co.th/checktime/checktime.asp?lenguage=Eng](http://www.railway.co.th/checktime/checktime.asp?lenguage=Eng)
+[http://www.seat61.com/Thailand.htm#Ko\_Samui](http://www.seat61.com/Thailand.htm#Ko\_Samui) - trains [http://thailandtrainticket.com/](http://thailandtrainticket.com) [http://www.railway.co.th/checktime/checktime.asp?lenguage=Eng](http://www.railway.co.th/checktime/checktime.asp?lenguage=Eng)
 
 If you're going to Ko Tao, make your ferry connection at Chumphon. For Ko Samui and Ko Pha Ngan, go to Surat Thani (Phun Phin).
 
@@ -127,7 +127,7 @@ If you're aiming for Ko Tao, the express #85 is an option -- it gets you into Ch
 
 If you're heading to Ko Samui which night train you take doesn't matter so much as there are far more frequent ferry connections out to Ko Samui from around Surat Thani. Despite these frequent ferry departures, the Express Special Diesel #39 from Bangkok remains by far the most popular choice.
 
-To **Ko Tao** you have the following options, the [Lomprayah](http://www.lomprayah.com/) high-speed catamaran (leaves Chumphon at 07:00 and 13:00) costing 550B and takes 90 minutes, and the Songserm and Seatran boats, both of which leave at 07:00, costing 650B and 450B respectively and take 2.5-3 hours. The Lomprayah service is worth the extra money. The night ferry leaves Chumphon at 23:00 and arrives at 05:00 costing 300B.
+To **Ko Tao** you have the following options, the [Lomprayah](http://www.lomprayah.com) high-speed catamaran (leaves Chumphon at 07:00 and 13:00) costing 550B and takes 90 minutes, and the Songserm and Seatran boats, both of which leave at 07:00, costing 650B and 450B respectively and take 2.5-3 hours. The Lomprayah service is worth the extra money. The night ferry leaves Chumphon at 23:00 and arrives at 05:00 costing 300B.
 
 To **Ko Pha Ngan**, you need to go to Surat Thani from where Raja Ferry run five boats a day from Don Sak to Ko Pha Ngan and Songsern run two. There is also the night boat which leaves Surat Thani at 23:00 for Ko Pha Ngan (taking six hours). From Ko Pha Ngan to Surat Thani, though, the boat is an hour earlier, at 22:00. Note if you miss the 07:00 direct Songserm boat to Ko Pha Ngan, you may be able to go to Ko Samui, then grab an afternoon boat from there to Ko Pha Ngan.
 

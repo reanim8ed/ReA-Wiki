@@ -105,7 +105,7 @@ Kad ir supranti, kad visa tai tik žaidimas, kad niekas nevyksta ištikrųjų, b
 
 [Youtube kanalas](http://www.youtube.com/user/MarbleHornets)
 
-[Enciklopedija](http://marblehornets.wikidot.com/)
+[Enciklopedija](http://marblehornets.wikidot.com)
 
 [Twitter paskyra](http://twitter.com/#!/marblehornets)
 
