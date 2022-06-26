@@ -32,11 +32,11 @@ Taigi kitą kartą, jei pamatytumėt keistokai besielgiantį žmogų, lyg ir ban
 
 #### Internetiniai namai:
 
-[Oficialus Geocaching puslapis](http://www.geocaching.com)
+[Oficialus Geocaching puslapis](http://www.geocaching.com/)
 
 [Visų Lietuvoje paslėptų lobių sąrašas](http://www.geocaching.com/seek/nearest.aspx?lat=55.169438\&lng=23.881275\&dist=100)
 
-[Lietuviška Geocaching bendruomenė](http://www.geoforum.lt)
+[Lietuviška Geocaching bendruomenė](http://www.geoforum.lt/)
 
 ### Telikas
 
