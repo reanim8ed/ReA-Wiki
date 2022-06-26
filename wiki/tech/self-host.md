@@ -1,9 +1,5 @@
 # Self host
 
-### Static Site Generators
-
-* [https://getpublii.com/](https://getpublii.com/)
-
 ### Standard notes
 
 * [https://docs.standardnotes.com/self-hosting/getting-started/](https://docs.standardnotes.com/self-hosting/getting-started/)&#x20;
