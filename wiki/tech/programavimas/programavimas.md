@@ -1,12 +1,5 @@
 # Programavimas
 
-## Roadmaps
-
-Nežinant nuo ko pradėti, visai neblogas resursas yra sudaryti baziniai roadmap'ai:
-
-* FE/BE: [https://roadmap.sh/roadmaps](https://roadmap.sh/roadmaps)
-* Teamlead: [https://github.com/tlbootcamp/tlroadmap](https://github.com/tlbootcamp/tlroadmap)
-
 ## Notes
 
 * A good engineer never assumes the perfect reliability of the components of the system. He or she builds in redundancy to protect the integrity of the total system.
@@ -27,9 +20,9 @@ Nežinant nuo ko pradėti, visai neblogas resursas yra sudaryti baziniai roadmap
 * The greatest of all weaknesses is the fear of appearing weak.
 *
 
-```
-Instead of excuses, provide options. Don't say it can't be done; explain what can be done to salvage the situation. it is up to you to provide solutions, not excuses.
-```
+
+
+    Instead of excuses, provide options. Don't say it can't be done; explain what can be done to salvage the situation. it is up to you to provide solutions, not excuses.
 
 ## You Arent Gonna Need It
 
@@ -43,11 +36,14 @@ There are two main reasons to practise YagNi:
 
 * You save time, because you avoid writing code that you turn out not to need.
 * Your code is better, because you avoid polluting it with 'guesses' that turn out to be more or less wrong but stick around anyway.
+
+
+
 * [http://c2.com/xp/YouArentGonnaNeedIt.html](http://c2.com/xp/YouArentGonnaNeedIt.html)
 
 ## Pomodoro for Software Development
 
-Yra nemažai tyrimų, kurie rodo pertraukėlių naudą dirbant intensyvų protinį darbą. Nors kartais galbūt ir nesijaučiame, jog tos pertaukėlės taip jau reikėtų, tačiau jos padeda smegenims recoverinti, taipogi tokių dažnų pertraukėlių metu labai rekomenduoti atsistoti iš savo vietos, bent kiek pajudėti. Tad tai ne tik sveikiau dėl bendros fizinės sveikatos, tačiau ir bendras produktyvumo lygis ilgesniu laikotarpiu visgi gaunasi aukštesnis.
+Yra nemažai tyrimų, kurie rodo pertraukėlių naudą dirbant intensyvų protinį darbą. Nors kartais galbūt ir nesijaučiame, jog tos pertaukėlės taip jau reikėtų, tačiau jos padeda smegenims recoverinti, taipogi tokių dažnų pertraukėlių metu labai rekomenduoti atsistoti iš savo vietos, bent kiek pajudėti. Tad tai ne tik sveikiau dėl bendros fizinės sveikatos, tačiau ir bendras produktyvumo lygis ilgesniu laikotarpiu visgi gaunasi aukštesnis.&#x20;
 
 Tad atrodytų, jog Pomodoro technika turėtų išties puikiai tikti programavimo srityje, nes kaip bebūtų tai sėdimas ir labai intensyvaus smegenų darbo reikalaujantis užsiėmimas. Tačiau standartinis 25-5 Pomodoro variantas visgi veikia gan prastai, darbo etapai tampa per trumpo, o dėl vadinamojo "Task Recovery Lag" grįžti į darbinį, minčių flow prireikia laiko ir kartais tai gali trukti net iki 15 minučių. Tačiau Pomodoro galima taikyti ir kitokiais intervalais. Populiariausi - 45:15, 52:17, 90:15.\
 Iš asmeninės patirties, manau, kad geriausiai man asmeniškai "sueina" 50:10 - pertraukos nėra pernelyg ilgos, kai tiesiog nebėra kuom užsiimti per tokias ilgas pertraukas. Darbo etapas pakankamai ilgas, kad per jį spėtum išties atlikti nemažą porciją darbo ir po tiek laiko trumpa pertraukėlė tampa ganėtinai natūrali. Na ir galiausiai - sekti tokius ciklus tampa itin paprasta, užtenka vos tik užmesti akį į laikrodį ir iškarto tampa aišku, kiek laiko liko iki pertraukos pradžios ar pabaigos.
@@ -97,13 +93,14 @@ _You don't know what you don't know._
 
 [https://www.thinkful.com/blog/why-learning-to-code-is-so-damn-hard/](https://www.thinkful.com/blog/why-learning-to-code-is-so-damn-hard/)
 
-## Single worst strategic mistake that any software company can make: decide to rewrite the code from scratch
+Single worst strategic mistake that any software company can make:&#x20;decide to rewrite the code from scratch
+---------------------------------------------
 
 Programmers are, in their hearts, architects, and the first thing they want to do when they get to a site is to bulldoze the place flat and build something grand. We’re not excited by incremental renovation: tinkering, improving, planting flower beds.
 
 There’s a subtle reason that programmers always want to throw away the code and start over. The reason is that they think the old code is a mess. And here is the interesting observation: they are probably wrong. The reason that they think the old code is a mess is because of a cardinal, fundamental law of programming: It’s harder to read code than to write it.
 
-It’s important to remember that when you start from scratch there is absolutely no reason to believe that you are going to do a better job than you did the first time.
+It’s important to remember that when you start from scratch there is absolutely no reason to believe that you are going to do a better job than you did the first time.&#x20;
 
 [https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/](https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/)
 
@@ -113,12 +110,12 @@ Words of warning from a not so young (36) chronic procrastinator with a rather m
 
 [https://news.ycombinator.com/item?id=23537317](https://news.ycombinator.com/item?id=23537317)
 
-## The greatest of all weaknesses is the fear of appearing weak.
+## The greatest of all weaknesses is the fear of appearing weak.&#x20;
 
-Tai viena iš priežasčių, kaip programavimo srityje dažnai apima _Impostor_ sindromas.\
+Tai viena iš priežasčių, kaip programavimo srityje dažnai apima _Impostor_ sindromas. \
 Vienas iš svarbiausių React kūrėjų [straipsnyje rašo](https://overreacted.io/things-i-dont-know-as-of-2018/):
 
-> _First, there is often an unrealistic expectation that an experienced engineer knows every technology in their field. Have you seen a “learning roadmap” that consists of a hundred libraries and tools? It’s useful — but intimidating._
+> _First, there is often an unrealistic expectation that an experienced engineer knows every technology in their field. Have you seen a “learning roadmap” that consists of a hundred libraries and tools? It’s useful — but intimidating._&#x20;
 
 > _What’s more, no matter how experienced you get, you may still find yourself switching between feeling capable, inadequate (“Impostor syndrome”), and overconfident (“Dunning–Kruger effect”)._
 
