@@ -125,6 +125,7 @@
 * [Komunikacija](wiki/komunikacija/komunikacija.md)
 * [Kūrybingumas](wiki/kurybingumas/kurybingumas.md)
 * [Me](wiki/me/me.md)
+  * [Doša testas](wiki/me/dosa-testas.md)
   * [Vestuvių įžadai](wiki/me/vestuviu-izadai.md)
 * [MealTimeVideos](wiki/mealtimevideos/mealtimevideos.md)
 * [Mental modeliai](wiki/mental-modeliai/mental-modeliai.md)
