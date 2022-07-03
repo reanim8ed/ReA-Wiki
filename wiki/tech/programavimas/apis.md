@@ -1,17 +1,12 @@
 # API's
 
-### Fake API for testing and prototyping
-
-* [https://jsonplaceholder.typicode.com](https://jsonplaceholder.typicode.com)
-* [https://httpbin.org/json](https://httpbin.org/json)
-
-### Documenting APIs: A guide for technical writers and engineers
-
-* [https://idratherbewriting.com/learnapidoc/](https://idratherbewriting.com/learnapidoc/)
+* Free fake API for testing and prototyping:\
+  [https://jsonplaceholder.typicode.com](https://jsonplaceholder.typicode.com)\
+  [https://httpbin.org/json](https://httpbin.org/json)
 
 ### API Security Checklist
 
-* [https://github.com/shieldfy/API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist)&#x20;
+[https://github.com/shieldfy/API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist)&#x20;
 
 ### JSON API in excel
 

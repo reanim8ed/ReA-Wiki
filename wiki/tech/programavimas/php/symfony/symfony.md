@@ -1,7 +1,9 @@
 # Symfony
 
 * Super Speed Symfony - nginx: [https://gnugat.github.io/2016/04/20/super-speed-sf-nginx.html](https://gnugat.github.io/2016/04/20/super-speed-sf-nginx.html)
-* PDF generation with Symfony: [https://web.archive.org/web/20171025012649/https://www.cloudways.com/blog/pdf-generation-symfony-knpsnappybundle/](https://web.archive.org/web/20171025012649/https://www.cloudways.com/blog/pdf-generation-symfony-knpsnappybundle/)
+* PDF generation with Symfony: [https://web.archive.org/web/20171025012649/https://www.cloudways.com/blog/pdf-generation-symfony-knpsnappybundle/](https://web.archive.org/web/20171025012649/https://www.cloudways.com/blog/pdf-generation-symfony-knpsnappybundle/)\
+  [http://aroundthefire.io/phpspreadsheet](http://aroundthefire.io/phpspreadsheet)
+* How to send a file as a response from the controller: [https://ourcodeworld.com/articles/read/329/how-to-send-a-file-as-response-from-a-controller-in-symfony-3](https://ourcodeworld.com/articles/read/329/how-to-send-a-file-as-response-from-a-controller-in-symfony-3)
 
 ## Fundamentals
 
