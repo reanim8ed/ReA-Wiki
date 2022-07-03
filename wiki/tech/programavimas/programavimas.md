@@ -9,7 +9,6 @@ Nežinant nuo ko pradėti, visai neblogas resursas yra sudaryti baziniai roadmap
 
 ## Notes
 
-* A place for everything, and everything in its place. A piece of code should be where you expect to find it - and, if not, you should re-factor to get it there.
 * A good engineer never assumes the perfect reliability of the components of the system. He or she builds in redundancy to protect the integrity of the total system.
 * That which hinders your task is your task.
 * Software has been riding on immense hardware improvement, so it looks like it’s doing okay.
