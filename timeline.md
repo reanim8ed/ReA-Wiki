@@ -4,11 +4,16 @@ description: Wiki atliktų pakeitimų ir naujų straipsnių archyvas
 
 # Timeline
 
+## 2022-07
+
+Skaitiniai: [My awakening moment about how smartphones fragment our attention span](wiki/skaitiniai/skaitiniai.md#my-awakening-moment-about-how-smartphones-fragment-our-attention-span)
+
 ## 2022-06
 
 #### 2022-06-26
 
 * New category: [Self host](wiki/tech/self-host.md)
+* Web: [Why Netflix Should Sell Ads?](wiki/web/web.md#why-netflix-should-sell-ads)
 
 ## 2022-03
 
@@ -506,7 +511,7 @@ description: Wiki atliktų pakeitimų ir naujų straipsnių archyvas
 
 #### 2019-08-16
 
-* [Cicada 3301](wiki/tech/internetas.md#cicada-3301)
+* [Cicada 3301](broken-reference)
 
 #### 2019-08-15
 
@@ -516,7 +521,7 @@ description: Wiki atliktų pakeitimų ir naujų straipsnių archyvas
 
 * MMORPG kaip [socialinė mokykla](wiki/zaidimai/zaidimai.md#mmorpg-kaip-socialin-mokykla)
 * Skolindamasis kreditu, skoliniesi [iš savęs paties](wiki/ekonomika/#notes), tiesiog ateityje.
-* [Fear of Missing Out](wiki/tech/internetas.md#fear-of-missing-out-and-social-media) and Social Media
+* [Fear of Missing Out](broken-reference) and Social Media
 * Google [prisijungimai be slaptažodžių](wiki/tech-it.md#google-prisijungimai-be-slaptazodzi)
 
 #### 2019-08-11
@@ -798,7 +803,7 @@ Tinklaraščio migracija:
 #### 2019-05-04
 
 * Idėja apie tai, kad Pornhub komanda turėtų pakankamai [know-how](wiki/showerthoughts/showerthoughts.md#2019-05-04), kad sukurti Youtube konkurentą
-* Technologijose pridėta [Interneto ](wiki/tech/internetas.md)tema ir aprašytos vienos iš [Google+](wiki/tech/internetas.md#google) nesekmės priežastys.
+* Technologijose pridėta [Interneto ](broken-reference)tema ir aprašytos vienos iš [Google+](broken-reference) nesekmės priežastys.
 * Pridėta Andy Weir trumpa istorija "[Digitocracy](wiki/skaitiniai/skaitiniai.md#bookTitle)".
 
 #### 2019-05-02

@@ -1,5 +1,11 @@
 # Skaitiniai
 
+### My awakening moment about how smartphones fragment our attention span
+
+Straipsnis apie dėmesio ekonomiką, bei tai, jog pastovus informacijos srautas naujienų ir soc tinklų pavidalu trumpina mūsų gebėjimą koncentruotis.
+
+[https://idratherbewriting.com/blog/awakening-moment-to-how-smartphones-fragment-our-attention/](https://idratherbewriting.com/blog/awakening-moment-to-how-smartphones-fragment-our-attention/)
+
 ### Sea Dragon
 
 * For all mankind sezono finalas supažindino mane su šia neįtikėtina raketa, kylančia iš vandens, pavadinimu Sea Dragon, kuri nėra visiška fantazija - tai realus planuotas projektas iš 60-ųjų, kuris deja pasibaigus kosmoso lenktynėms taip niekada ir nebuvo įgyvendintas.

@@ -1,15 +1,5 @@
 # MealTimeVideos
 
-### Cicada 3301
-
-* Manau, kad internetas turi nemažai paslapčių. Tačiau dažniausiai geros paslaptys yra tos, apie kurias taip niekada ir nesužinome.
-* Cicada šiuo atveju yra išties plačiai žinomas galvosūkis, tačiau žinomumas jo išspręsti visgi nepadėjo: paskutinis challenge'as Liber Primus buvo dar 2014-aisiais ir šis manifestas iki šiol nėra pilnai iššifruotas.
-* Kiekvienais metais nuo 2012-ųjų pasirodydavo po naują užduotį, tačiau dabar naujovių iš Cicados daugiau nebesulaukiama ir žmonės spekuliuoja, kad ir nesulauksime tol, kol paskutinė užduotis nebus pilnai įveikta.
-* Iš esmės labai įdomu ar tai vieno žmogaus ar jų grupės sumanymas, ar tai pokštas, žaidimas, pramoga kažkam, kas nori pa'challenge'linti, priversti susiburti žmones [komandiniam darbui ](https://www.youtube.com/watch?v=RatbYqc0-jE)bei mokymuisi apie [kriptografiją ir šifravimus](https://uncovering-cicada.fandom.com/wiki/Uncovering\_Cicada\_Wiki), o galbūt tai iš tiesų kažkokia organizacija, kuri tokiu būdu ieškosi gabių naujų narių. Good old internet mystery, kuri nenuvertina žmonių proto sugebėjimų.
-* Tačiau problema, kai kažką apsupa paslapties, nežinomumo šydas yra tai, kad įsijungia žmonių fantazijos ir pradedamos kurti pačios įvairiausios teorijos. Taip, bet kuri iš jų, pvz kad tai hackerių bendruomenė, kultas, marketinginė kampanija ar slaptų valstybinių organizacijų darbas, gali būti iš tiesų tikros, bet iš kitos pusės, neturint visiškai jokių faktų ir įrodymų, tai yra vienodai lygios ir tikėtina, kad vienodai neteisingos spėlionės, kurios su tikrove gali neturėti nieko bendro. Kaip bebūtų, tačiau tikriausiai tiesos taip niekada ir nesužinosim ir būtent tai padaro šį fenomeną paslaptingu ir įdomiu.
-
-{% embed url="https://youtu.be/I2O7blSSzpI" %}
-
 ### Welcome to the Internet
 
 \[Verse 1]\
