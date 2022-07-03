@@ -1,10 +1,16 @@
 # Skaitiniai
 
+### Good sleep, good learning, good life <a href="#firstheading" id="firstheading"></a>
+
+Vienas geriausių online resursų susisteminantis visą esminę informaciją apie miegą
+
+* [https://supermemo.guru/wiki/Good\_sleep,\_good\_learning,\_good\_life](https://supermemo.guru/wiki/Good\_sleep,\_good\_learning,\_good\_life)
+
 ### My awakening moment about how smartphones fragment our attention span
 
 Straipsnis apie dėmesio ekonomiką, bei tai, jog pastovus informacijos srautas naujienų ir soc tinklų pavidalu trumpina mūsų gebėjimą koncentruotis.
 
-[https://idratherbewriting.com/blog/awakening-moment-to-how-smartphones-fragment-our-attention/](https://idratherbewriting.com/blog/awakening-moment-to-how-smartphones-fragment-our-attention/)
+* [https://idratherbewriting.com/blog/awakening-moment-to-how-smartphones-fragment-our-attention/](https://idratherbewriting.com/blog/awakening-moment-to-how-smartphones-fragment-our-attention/)
 
 ### Sea Dragon
 
