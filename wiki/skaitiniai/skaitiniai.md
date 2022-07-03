@@ -1,5 +1,11 @@
 # Skaitiniai
 
+### Privacy
+
+The fact is that once you give out a piece of information, you’ve effectively lost control of it. Really think about that. Every single thing you share – even just venting to your closest friend – is a piece of information you lose control over. You have no say in who they share that information with, where they post it, or what they do with it. You’re trusting them to lock it up inside their head and never share it, but you can’t force them. Even if you’re able to pursue some sort of recourse – like suing them or exiling them from your life – you can’t undo the disclosure.
+
+This goes a thousandfold for companies, who basically treat everything you tell them like it’s public record with their poor security and data handling practices. Once you disclose something, you can’t take it back, especially once a company has leaked your data and now it’s all over the internet. Therefore it’s important to decide up front if someone needs that information in the first place.
+
 ### Power nap
 
 Do not use the alarm clock! Contrary to popular belief, well-scheduled nap will not result in sleep inertia (unless you are seriously sleep deprived). Alarm clock can seriously undermine the value of the nap!

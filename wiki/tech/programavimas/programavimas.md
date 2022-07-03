@@ -9,6 +9,7 @@ Nežinant nuo ko pradėti, visai neblogas resursas yra sudaryti baziniai roadmap
 
 ## Notes
 
+* A place for everything, and everything in its place. A piece of code should be where you expect to find it - and, if not, you should re-factor to get it there.
 * A good engineer never assumes the perfect reliability of the components of the system. He or she builds in redundancy to protect the integrity of the total system.
 * That which hinders your task is your task.
 * Software has been riding on immense hardware improvement, so it looks like it’s doing okay.
@@ -25,11 +26,7 @@ Nežinant nuo ko pradėti, visai neblogas resursas yra sudaryti baziniai roadmap
 
     I've found the most incredible thing is just to say "no" to things. Not doing things has this fantastic side effect of not causing more work. When you don't do more things, you don't cause more problems, which doesn't need more work, which doesn't need more staff, which doesn't require more money, which gives you less stress, and gives you happier staff, happier customers, and a happier self.
 * The greatest of all weaknesses is the fear of appearing weak.
-*
-
-```
-Instead of excuses, provide options. Don't say it can't be done; explain what can be done to salvage the situation. it is up to you to provide solutions, not excuses.
-```
+* Instead of excuses, provide options. Don't say it can't be done; explain what can be done to salvage the situation. it is up to you to provide solutions, not excuses.
 
 ## You Arent Gonna Need It
 

@@ -12,6 +12,7 @@ description: The desired triple 8 rule — 8-hours sleep, 8-hours work, and 8-ho
 * In the modern world, you want to earn money through knowledge and leverage, not by selling your time. “Nine to five is just modern slavery…it’s wage slavery”
 * Recently, I was asked if I was going to fire an employee who made a mistake that cost the company $600,000. No, I replied, I just spent $600,000 training him. Why would I want somebody to hire his experience?
 * Would I ever leave this company? Look, I'm all about loyalty. In fact, I feel like part of what I'm being paid for here is my loyalty. But if there were somewhere else that valued loyalty more highly, I'm going wherever they value loyalty the most. - Dwight Schrute
+* Building multiple income streams decentralizes your finances and is “the single most important thing you can do”. Start with cash-earning assets, not time-consuming side hustles. Financial freedom starts by covering your expenses with revenue streams that don’t require your time.
 
 ### [Don't End The Week With Nothing](https://training.kalzumeus.com/newsletters/archive/do-not-end-the-week-with-nothing)
 
@@ -28,6 +29,10 @@ If at all possible, publish what you write. Even if it is published to an audien
 Consumption Is Sometimes Valuable, But Creation Moves You Forward
 
 ### Work from home
+
+The company "needs to earn the commute" - and explained that if the office is just another place where the desk stands in a room it's not worth it for the employees to spend time to get there.
+
+\--
 
 Getting to the set of regular, forced interactions necessarily consumes the limited time those people would have to pursue those social activities outside the home. That is, it's hard to have a strong social life when you commute, at best, 5 hours a week. And that's if you're lucky. \
 All of this benefits corporations. Especially, insidiously, the notion that your job can and should double as your social life. What concerns me, today, is that that we're in this middle stage where things could tip either way. For this reason, I think it's important for us to bang the drum loudly that we won't spend 40-50 hours in the office. Hybrid is a sufficient compromise.
