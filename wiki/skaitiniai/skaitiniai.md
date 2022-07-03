@@ -1,6 +1,28 @@
 # Skaitiniai
 
-### NAUJAS AR NAUDOTAS AUTOMOBILIS?
+### Power nap
+
+Do not use the alarm clock! Contrary to popular belief, well-scheduled nap will not result in sleep inertia (unless you are seriously sleep deprived). Alarm clock can seriously undermine the value of the nap!
+
+Measure exactly the optimum length of the period between the natural awakening and the nap to maximize the effectiveness of a nap. The nap should come at the nadir of alertness, which usually comes 7-8 hours from natural waking. Napping beginners often miss the right timing! Choosing 7 hours as your starting point will allow of a 60 min. margin in case you were late for one reason or another. See: Best time for napping
+
+Drink coffee or other caffeine drinks only after the nap. Even the tiniest amounts of caffeine in the system might interfere with the quality of sleep. If you drink alcohol before the nap, it should be largely metabolized (i.e. out of your system) by the time you fall asleep
+
+If you nap for more than 100 minutes, you probably need more sleep in the night (or you nap too late)
+
+Exercise is good. Try to finish your exercise at least 45 minutes before the nap. If you fail to cool down, your nap may end up prematurely
+
+Meal before the nap is recommended. Unless your doctor says otherwise, your main meal of the day should actually come before the nap (around the 6th hour of your waking day)!
+
+Sex before the nap is recommended
+
+Even if you cannot fall asleep, you may still need a nap! Sleeplessness may only be a result of a habit or your inability to forget the worries of the day. You may simply not fully understand your actual sleep needs.
+
+If it all won't make you fall asleep in 10 minutes even after a month of trying, you can probably safely give up napping for good
+
+When sleep deprived you may need 20 minutes of naptime per one hour of sleep lost
+
+### Naujas ar naudotas automobilis?
 
 Praktiškai ir finansiškai realistiškas įvertinimas, kuris argumentas turi daugiau svorio: pirkti naują ar naudotą auto.
 
