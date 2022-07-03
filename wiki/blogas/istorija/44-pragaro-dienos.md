@@ -4,7 +4,7 @@ description: 'Publikuota: 2014-04-06'
 
 # 44 pragaro dienos
 
-![](../../.gitbook/assets/furuta.jpg)
+![](../../../.gitbook/assets/furuta.jpg)
 
 Tokijas, Japonija, lapkričio 25-ta, 1988-ieji. 11-tokė Junko Furuta, vos prieš tris dienas atšventusi savo 17-tąjį gimtadienį, žygiavo namų link. Bekeliaujant namo ją pastebėjo ir apsupo 7 panašaus amžiaus vaikinai, kurie ją užspaudė ir nusitempė su savimi į namą, kuris priklausė vieno iš užpuolikų tėvams. Taip prasidėjo neįsivaizduojamai siaubingos 44-ios pragaro dienos, po kurių jaunoji Junko namo taip ir nebesugrįžo…
 
@@ -16,13 +16,13 @@ Pats pirmas veiksmas, kuris buvo atliktas atvykus į namą – mergina buvo priv
 
 Lyg to būtų maža, mergina buvo marinama badu, verčiama valgyti tarakonus, bei gerti savo paties šlapimą. Atsisakius atlikti kurį nors iš veiksmų – kankinama būdais, kokius tik galėjo sugalvoti šutvės fantazija:
 
--veidą, bei akių vokus deginant žiebtuvėliu, degančiomis cigaretėmis,  
--varvinant vašką jai ant veido,  
--mėtant iš aukštai didelius svorius ant pilvo,  
--badant jos krūtinę su adatomis,  
--sprogdinant pedartas įkištas į jos burną, ausis, bei užpakalį,  
--įkišant į jos vaginą įkaitusią lemputę,  
--suspaudžiant spenelius replėmis ir t.t.
+\-veidą, bei akių vokus deginant žiebtuvėliu, degančiomis cigaretėmis,\
+\-varvinant vašką jai ant veido,\
+\-mėtant iš aukštai didelius svorius ant pilvo,\
+\-badant jos krūtinę su adatomis,\
+\-sprogdinant pedartas įkištas į jos burną, ausis, bei užpakalį,\
+\-įkišant į jos vaginą įkaitusią lemputę,\
+\-suspaudžiant spenelius replėmis ir t.t.
 
 Objektai, kurie buvo kišami į jos tarpkojį, sukėlė smarkų kraujavimą, ko pasekoje mergina negalėjo normaliai šlapintis. Jos sužalojimai buvo tokie rimti, kad prireikė pusvalandžio, kad iš kambario nušliaušti į gretimais esantį tualetą, kad galėtų nusišlapinti.
 
@@ -52,8 +52,7 @@ Likę gaujos nariai išsisuko neįtikėtai lengvai – vienas gavo 5-9 metų tei
 
 Vėliau sekė Junko tėvų kelta civilinė byla prieš vieno iš berniuko tėvus, kurių namuose viskas ir įvyko. Taip, prieš tuos pačius, kurie nieko nedarė. Junko tėvai laimėjo, o jiems atitekęs prizas – prievartavimų, kankinimų ir žmogžudystės namas.
 
-—  
+—\
 Ši istorija nėra kokia nors nesveika fikcija, o yra reali siaubo istorija iš keistosios Japonijos.
 
-[http://en.wikipedia.org/wiki/Murder\_of\_Junko\_Furuta ](http://en.wikipedia.org/wiki/Murder_of_Junko_Furuta)
-
+[http://en.wikipedia.org/wiki/Murder\_of\_Junko\_Furuta ](http://en.wikipedia.org/wiki/Murder\_of\_Junko\_Furuta)

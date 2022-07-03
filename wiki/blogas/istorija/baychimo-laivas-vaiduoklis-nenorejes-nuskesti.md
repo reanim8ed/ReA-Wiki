@@ -4,7 +4,7 @@ description: 'Publikuota: 2012-03-25'
 
 # Baychimo – laivas vaiduoklis, nenorėjęs nuskęsti
 
-![](../../.gitbook/assets/sd_baychimo.jpg)
+![](../../../.gitbook/assets/sd\_baychimo.jpg)
 
 Everyone likes ghost stories. Mistika, nepaaiškinami faktai baugina žmones, tačiau tuo pat metu paslaptingumo šydas traukia ir norisi sužinoti kuo daugiau. Jei pasižvalgytumėte po laivybos istoriją, ypač kas liečia ilgas keliones per vandenyną, tai rastumėte tikrai ne vieną keistą įvykį. Žinoma, didelė dalis  jų yra tiesiog mitai, kurie gimdavo iš žmonių fantazijos ar tiesiog skirti įbauginti, tačiau tikrai rasite ir tokių istorijų, kurios priskiriamos neįtikėtinui atsitiktinumui, kurio kaltininkė dažniausiai būna gamtos jėga, kaip kad audros, cunamiai ir pan. Ir tikrai rasite tokių nutikimų, kai įrodymai apie įvykį egzistuoja, niekas tuom nė neabejoja, tačiau paaiškinimo, kaip tai įvyko, taipogi nėra.
 
@@ -42,5 +42,4 @@ Kaip bebūtų laivas nuo tada nebebuvo pastebėtas. Galbūt laikas padarė savo 
 
 Faktas, kad pati _Hudson Bay_ kompanija negali tvirtai teigti, kad laivas išties nuskendo, nes 2006-aisiais Aliaskos valdžia suorganizavo projektą, skirtą išsiaiškinti paslaptingojo laivo likimui, tačiau net pasitelkiant naujausias technologijas, laivo nuskendimo vieta taip ir nebuvo rasta. Gal tiesiog jis taip ir nenuskendo?
 
-Tokia tad, paslaptingoji _Baychimo_ – Aliaskos vaiduoklio istorija ;\)
-
+Tokia tad, paslaptingoji _Baychimo_ – Aliaskos vaiduoklio istorija ;)

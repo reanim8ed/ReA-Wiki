@@ -14,12 +14,7 @@ _Notes aren’t a record of my thinking process. They are my thinking process. �
 
 Plačiau apie tai - [motyvacijos skiltyje](motyvacija.md).
 
-## Navigacija
 
-* Šoninė temų juosta kairėje. Kiekviena tema gali turėti savo vidines išskleidžiamas sub-kategorijas.
-* Meniu punktas "Timeline" - turinio archyvas.
-* Dešinė šoninė juosta - navigacija atidarytoje temoje. Padeda greitai peršokti į skirtingas to paties puslapio skiltis.
-* Paieška - headerio dešinėje.
 
 ## :heart:Atgalinis ryšys
 
