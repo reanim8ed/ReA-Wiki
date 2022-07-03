@@ -29,10 +29,6 @@ Consumption Is Sometimes Valuable, But Creation Moves You Forward
 
 ### Work from home
 
-The company "needs to earn the commute" - and explained that if the office is just another place where the desk stands in a room it's not worth it for the employees to spend time to get there.
-
-\--
-
 Getting to the set of regular, forced interactions necessarily consumes the limited time those people would have to pursue those social activities outside the home. That is, it's hard to have a strong social life when you commute, at best, 5 hours a week. And that's if you're lucky. \
 All of this benefits corporations. Especially, insidiously, the notion that your job can and should double as your social life. What concerns me, today, is that that we're in this middle stage where things could tip either way. For this reason, I think it's important for us to bang the drum loudly that we won't spend 40-50 hours in the office. Hybrid is a sufficient compromise.
 

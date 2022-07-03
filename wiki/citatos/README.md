@@ -4,6 +4,7 @@ description: Never attribute to malice that which can be adequately explained by
 
 # Citatos
 
+* Žmonės kurie yra liūdni, gyvena praeitimi ir sielojasi dėl to, kas buvo ir ko nebebus. Nerimastingi žmonės gyvena ateitimi ir baimėmis dėl jos - jie nežino, kas bus, ir jiems dėl to neramu. Ir tik žmonės, kurie gyvena čia ir dabar, yra laimingi. - A. Užkalnis
 * Iš viršukalnės visi takai veda tik į apačią, ir jei nėra kitos viršukalnės, apačia yra ten, kur tu dabar eini. - A. Užkalnis
 * You can reduce the annoyance of someone’s stupid belief by increasing your understanding of why they believe it.
 * The worst evils in history have always been committed by those who truly believed they were combating evil. Beware of combating evil.
@@ -18,7 +19,7 @@ description: Never attribute to malice that which can be adequately explained by
 * When analytic thought, the knife, is applied to experience, something is always killed in the process.
 * The majority is always wrong. The minority is rarely right.” — Henrik Ibsen
 * It has always appalled me that really bright scientists almost all work in the most competitive fields, the ones in which they are making the least difference. In other words, if they were hit by a truck, the same discovery would be made by somebody else about 10 minutes later.” — Aubrey de Grey
-* Writers are desperate people and when they stop being desperate they stop being writers. -  Charles Bukowski
+* Writers are desperate people and when they stop being desperate they stop being writers. - Charles Bukowski
 * If you don't build your dream, someone will hire you to help build theirs. - Tony Gaskins
 * The last few days, I’ve been learning not to trust people and I’m glad I’ve failed. Sometimes we depend on other people as a mirror to define us and tell us who we are
 * Česnakas ir druska atskleidžia ir kartono skonį.
@@ -61,14 +62,14 @@ description: Never attribute to malice that which can be adequately explained by
 
 Iš vaikiškos knygelės „Ką žmonės dirba visą dieną?“
 
-_Vaikai, šiais laikais žmonės nebedirba. Jie tik eina į darbą ir ten užsiima kas kuo:  
-Štai žurnalistai – pliurpia.  
-Mokslininkai – tyrinėja. Bomžai – irgi tyrinėja. Konteinerius.  
-Ofiso planktonas – žaidžia kompiuteriu.  
-Policininkai – važinėjasi. Pardavėjos – nuobodžiauja. Seimūnai – važinėjasi ir nuobodžiauja.  
-Kurie nori pabūti seimūnais – žada. Žada maždaug kaip vaikinas merginai likę dviese.  
-Prezidentė – barasi. Premjeras – aiškina. Politologai paaiškina juos abu.  
-Finansų ministrė – neduoda. Niekam arba truputį kai kam. Kai kurios moterys irgi neduoda. Niekam arba truputį kai kam._
+_Vaikai, šiais laikais žmonės nebedirba. Jie tik eina į darbą ir ten užsiima kas kuo:_\
+_Štai žurnalistai – pliurpia._\
+_Mokslininkai – tyrinėja. Bomžai – irgi tyrinėja. Konteinerius._\
+_Ofiso planktonas – žaidžia kompiuteriu._\
+_Policininkai – važinėjasi. Pardavėjos – nuobodžiauja. Seimūnai – važinėjasi ir nuobodžiauja._\
+_Kurie nori pabūti seimūnais – žada. Žada maždaug kaip vaikinas merginai likę dviese._\
+_Prezidentė – barasi. Premjeras – aiškina. Politologai paaiškina juos abu._\
+_Finansų ministrė – neduoda. Niekam arba truputį kai kam. Kai kurios moterys irgi neduoda. Niekam arba truputį kai kam._
 
 ### Momentum of the time
 
@@ -78,30 +79,29 @@ Keista, kai trumputė citata sugeba iššaukti auksinę nostalgiją tiems laikam
 
 ### What's Wrong With Science Fiction
 
-* So what's gone wrong? What happened to the genre that once held such towering giants such as Isaac Asimov, Robert Heinlein, and Arthur C. Clarke \(other than the fact that all three are dead\)?
+*   So what's gone wrong? What happened to the genre that once held such towering giants such as Isaac Asimov, Robert Heinlein, and Arthur C. Clarke (other than the fact that all three are dead)?
 
-  I think that the answer lies in society's perception of what the "future" is. When science fiction got its start back in the post-war period, the future was all jet-packs and flying cars: the GE Home Of Tomorrow, the Nuclear Family \(both socially and literally\), the whole World's Fair Promise of the Future ideal. Science fiction channeled this optimism, putting men on Mars and fighting evil Aliens from Outer Space in shiny space ships with neat-o ray guns.
+    I think that the answer lies in society's perception of what the "future" is. When science fiction got its start back in the post-war period, the future was all jet-packs and flying cars: the GE Home Of Tomorrow, the Nuclear Family (both socially and literally), the whole World's Fair Promise of the Future ideal. Science fiction channeled this optimism, putting men on Mars and fighting evil Aliens from Outer Space in shiny space ships with neat-o ray guns.
 
-  It wasn't, of course, going to stay this rosy for long. The Atomic Bomb revealed the other side of the coin on all this futurism: death and destruction. Science Fiction, however, thrived. The 50s and 60s were a great time for what's now called "hard" Science Fiction: Asimov's Robot Novels \(1954, 1957\), as well as his Galactic Empire series in the early 1950s; Clarke released the highly influential Childhood's End in 1953; and Heinlein's Starship Troopers \(1959\), Stranger in a Strange Land \(1961\), and The Moon Is a Harsh Mistress \(1966\) all during this period, as well as innumerable quantities of short fiction.
+    It wasn't, of course, going to stay this rosy for long. The Atomic Bomb revealed the other side of the coin on all this futurism: death and destruction. Science Fiction, however, thrived. The 50s and 60s were a great time for what's now called "hard" Science Fiction: Asimov's Robot Novels (1954, 1957), as well as his Galactic Empire series in the early 1950s; Clarke released the highly influential Childhood's End in 1953; and Heinlein's Starship Troopers (1959), Stranger in a Strange Land (1961), and The Moon Is a Harsh Mistress (1966) all during this period, as well as innumerable quantities of short fiction.
 
 ### Minčių generavimas rytais
 
-* Лучшие мои идеи рождались в хаосе и я начал это использовать. Каждое утро мне надо минимум полчаса \(и кофе\) чтобы собраться с мыслями и начать жить. Однако, это состояние оказалось идеальным для генерации новых идей. Мысли сами соединяются в случайном порядке потому что основная часть мозга еще не проснулась и не сказала всем собраться и жить правильно.
+* Лучшие мои идеи рождались в хаосе и я начал это использовать. Каждое утро мне надо минимум полчаса (и кофе) чтобы собраться с мыслями и начать жить. Однако, это состояние оказалось идеальным для генерации новых идей. Мысли сами соединяются в случайном порядке потому что основная часть мозга еще не проснулась и не сказала всем собраться и жить правильно.
 
 ### Get Mad!
 
- Ištrauka iš 1976-metų filmo “[Network](http://www.imdb.com/title/tt0074958/)”:
+Ištrauka iš 1976-metų filmo “[Network](http://www.imdb.com/title/tt0074958/)”:
 
-I _don’t have to tell you things are bad. Everybody knows things are bad. It’s a depression. Everybody’s out of work or scared of losing their job. The dollar buys a nickel’s work, banks are going bust, shopkeepers keep a gun under the counter. Punks are running wild in the street and there’s nobody anywhere who seems to know what to do, and there’s no end to it. We know the air is unfit to breathe and our food is unfit to eat, and we sit watching our TV’s while some local newscaster tells us that today we had fifteen homicides and sixty-three violent crimes, as if that’s the way it’s supposed to be. We know things are bad – worse than bad. They’re crazy. It’s like everything everywhere is going crazy, so we don’t go out anymore. We sit in the house, and slowly the world we are living in is getting smaller, and all we say is, ‘Please, at least leave us alone in our living rooms. Let me have my toaster and my TV and my steel-belted radials and I won’t say anything. Just leave us alone.’Well, I’m not gonna leave you alone. I want you to get mad! I don’t want you to protest. I don’t want you to riot – I don’t want you to write to your congressman because I wouldn’t know what to tell you to write. I don’t know what to do about the depression and the inflation and the Russians and the crime in the street. All I know is that first you’ve got to get mad.  
-\[shouting\] You’ve got to say, ‘I’m a HUMAN BEING, Goddamnit! My life has VALUE!’ So I want you to get up now. I want all of you to get up out of your chairs. I want you to get up right now and go to the window. Open it, and stick your head out, and yell,  
-\[shouting\]  
-‘I’M AS MAD AS HELL, AND I’M NOT GOING TO TAKE THIS ANYMORE!’  
-Then we’ll figure out what to do about the depression and the inflation and the oil crisis. But first get up out of your chairs, open the window, stick your head out, and yell, and say it:  
-\[screaming at the top of his lungs\] "I’M AS MAD AS HELL, AND I’M NOT GOING TO TAKE THIS ANYMORE!"_
+I _don’t have to tell you things are bad. Everybody knows things are bad. It’s a depression. Everybody’s out of work or scared of losing their job. The dollar buys a nickel’s work, banks are going bust, shopkeepers keep a gun under the counter. Punks are running wild in the street and there’s nobody anywhere who seems to know what to do, and there’s no end to it. We know the air is unfit to breathe and our food is unfit to eat, and we sit watching our TV’s while some local newscaster tells us that today we had fifteen homicides and sixty-three violent crimes, as if that’s the way it’s supposed to be. We know things are bad – worse than bad. They’re crazy. It’s like everything everywhere is going crazy, so we don’t go out anymore. We sit in the house, and slowly the world we are living in is getting smaller, and all we say is, ‘Please, at least leave us alone in our living rooms. Let me have my toaster and my TV and my steel-belted radials and I won’t say anything. Just leave us alone.’Well, I’m not gonna leave you alone. I want you to get mad! I don’t want you to protest. I don’t want you to riot – I don’t want you to write to your congressman because I wouldn’t know what to tell you to write. I don’t know what to do about the depression and the inflation and the Russians and the crime in the street. All I know is that first you’ve got to get mad._\
+_\[shouting] You’ve got to say, ‘I’m a HUMAN BEING, Goddamnit! My life has VALUE!’ So I want you to get up now. I want all of you to get up out of your chairs. I want you to get up right now and go to the window. Open it, and stick your head out, and yell,_\
+_\[shouting]_\
+_‘I’M AS MAD AS HELL, AND I’M NOT GOING TO TAKE THIS ANYMORE!’_\
+_Then we’ll figure out what to do about the depression and the inflation and the oil crisis. But first get up out of your chairs, open the window, stick your head out, and yell, and say it:_\
+_\[screaming at the top of his lungs] "I’M AS MAD AS HELL, AND I’M NOT GOING TO TAKE THIS ANYMORE!"_
 
 {% embed url="https://www.youtube.com/watch?v=rNxoLJy3m3s" %}
 
 \_\_
 
 \_\_
-
