@@ -4,6 +4,8 @@ description: Never attribute to malice that which can be adequately explained by
 
 # Citatos
 
+* Your outcomes are a lagging measure of your habits. Your net worth is a lagging measure of your financial habits. Your weight is a lagging measure of your eating habits. Your knowledge is a lagging measure of your learning habits. You get what you repeat.
+* A sign of free speech is that someone you don’t like is allowed to say something you don’t like.
 * Žmonės kurie yra liūdni, gyvena praeitimi ir sielojasi dėl to, kas buvo ir ko nebebus. Nerimastingi žmonės gyvena ateitimi ir baimėmis dėl jos - jie nežino, kas bus, ir jiems dėl to neramu. Ir tik žmonės, kurie gyvena čia ir dabar, yra laimingi. - A. Užkalnis
 * Iš viršukalnės visi takai veda tik į apačią, ir jei nėra kitos viršukalnės, apačia yra ten, kur tu dabar eini. - A. Užkalnis
 * You can reduce the annoyance of someone’s stupid belief by increasing your understanding of why they believe it.
