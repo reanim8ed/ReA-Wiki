@@ -217,7 +217,7 @@
     * [Algoritmai](wiki/tech/programavimas/algoritmai.md)
     * [Ansible](wiki/tech/programavimas/ansible.md)
     * [API's](wiki/tech/programavimas/apis.md)
-    * [Bitbucket pipelines (CD)](wiki/tech/programavimas/bitbucket-pipelines-cd.md)
+    * [CI/CD](wiki/tech/programavimas/bitbucket-pipelines-cd.md)
     * [Docker](wiki/tech/programavimas/docker.md)
     * [HTML technikos](wiki/tech/programavimas/html.md)
     * [Linux](wiki/tech/programavimas/linux/linux.md)
