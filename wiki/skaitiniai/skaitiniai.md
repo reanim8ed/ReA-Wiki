@@ -1,22 +1,10 @@
 # Skaitiniai
 
-### NAUJAS AR NAUDOTAS AUTOMOBILIS?
-
-Praktiškai ir finansiškai realistiškas įvertinimas, kuris argumentas turi daugiau svorio: pirkti naują ar naudotą auto.
-
-* [https://balticmustache.lt/naujas-ar-naudotas-automobilis/](https://balticmustache.lt/naujas-ar-naudotas-automobilis/)
-
-### Good sleep, good learning, good life <a href="#firstheading" id="firstheading"></a>
-
-Vienas geriausių online resursų susisteminantis visą esminę informaciją apie miegą
-
-* [https://supermemo.guru/wiki/Good\_sleep,\_good\_learning,\_good\_life](https://supermemo.guru/wiki/Good\_sleep,\_good\_learning,\_good\_life)
-
 ### My awakening moment about how smartphones fragment our attention span
 
 Straipsnis apie dėmesio ekonomiką, bei tai, jog pastovus informacijos srautas naujienų ir soc tinklų pavidalu trumpina mūsų gebėjimą koncentruotis.
 
-* [https://idratherbewriting.com/blog/awakening-moment-to-how-smartphones-fragment-our-attention/](https://idratherbewriting.com/blog/awakening-moment-to-how-smartphones-fragment-our-attention/)
+[https://idratherbewriting.com/blog/awakening-moment-to-how-smartphones-fragment-our-attention/](https://idratherbewriting.com/blog/awakening-moment-to-how-smartphones-fragment-our-attention/)
 
 ### Sea Dragon
 

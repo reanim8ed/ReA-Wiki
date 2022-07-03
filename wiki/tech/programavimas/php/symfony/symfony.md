@@ -1,6 +1,7 @@
 # Symfony
 
 * Super Speed Symfony - nginx: [https://gnugat.github.io/2016/04/20/super-speed-sf-nginx.html](https://gnugat.github.io/2016/04/20/super-speed-sf-nginx.html)
+* PDF generation with Symfony: [https://web.archive.org/web/20171025012649/https://www.cloudways.com/blog/pdf-generation-symfony-knpsnappybundle/](https://web.archive.org/web/20171025012649/https://www.cloudways.com/blog/pdf-generation-symfony-knpsnappybundle/)
 
 ## Fundamentals
 
