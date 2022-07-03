@@ -1,5 +1,11 @@
 # Skaitiniai
 
+### NAUJAS AR NAUDOTAS AUTOMOBILIS?
+
+Praktiškai ir finansiškai realistiškas įvertinimas, kuris argumentas turi daugiau svorio: pirkti naują ar naudotą auto.
+
+* [https://balticmustache.lt/naujas-ar-naudotas-automobilis/](https://balticmustache.lt/naujas-ar-naudotas-automobilis/)
+
 ### Good sleep, good learning, good life <a href="#firstheading" id="firstheading"></a>
 
 Vienas geriausių online resursų susisteminantis visą esminę informaciją apie miegą
