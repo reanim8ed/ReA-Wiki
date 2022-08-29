@@ -7,6 +7,3 @@
 ### Install Ubuntu on Oracle VirtualBox
 
 {% embed url="https://brb.nci.nih.gov/seqtools/installUbuntu.html" %}
-
-
-

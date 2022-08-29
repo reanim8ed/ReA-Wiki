@@ -11,6 +11,3 @@
 ### Test commands
 
 {% embed url="https://gist.github.com/reanim8ed/451ce84f23416811019f67ab69c48527" %}
-
-
-

@@ -20,4 +20,3 @@ Taip, dabar labai populiarumo įgauna visokie Shopify, Wix ir pan. tačiau jie, 
 ### WooCommerce - Add checkbox field to the checkout
 
 {% embed url="https://gist.github.com/a7cdc24505e40cc3051ad3df7d9fd792#file-functions-php" %}
-

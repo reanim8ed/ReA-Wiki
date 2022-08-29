@@ -53,7 +53,7 @@ Pvz.: 1989-11-06
 * Mėnesio doomsday yra 7, nes "7-eleven". tai rezultatas yra 5+7=12. Išmetus perteklinius 7: 12-7=5
 * Dienos išskaičiavimas: 06-5=1. tad pirmadienis.
 
-![](../../../.gitbook/assets/FLUOxRA.png)
+![](../../.gitbook/assets/FLUOxRA.png)
 
 * [http://rudy.ca/doomsday.html](http://rudy.ca/doomsday.html)
 * [https://firstsundaydoomsday.blogspot.com/2009/12/quick-start-guide.html](https://firstsundaydoomsday.blogspot.com/2009/12/quick-start-guide.html)

@@ -22,7 +22,7 @@ Linkai turi `rel` atributą, kuris nurodo nuorodos sąryšį su dabartiniu pusla
 
 * `nofollow` - ši reikšmė ko gero yra ir taip neblogai žinoma, jei bent kiek užsiimama SEO optimizacijomis. Iš esmės nurodo, jog nuoroda nėra susijusi su mūsų dabartiniu puslapiu, nėra jo dalis ir SEO įtaka nėra perduodama. Puikiai tinka, kai dedamos nuorodos į partnerių, rėmėjų puslapius, tinklapio kūrėjų nuorodai.
 * `noreferrer` - neperduoda nukreipimo informacijos. T.y. statistikoje nesimatys, jog tinklapio lankytojas atėjo iš jūsų puslapio.
-* `noopener` - kai naudojamasi `target=_blank` atributu, naujai atidarytas langas `window.opener` pagalba gali visvien pasiekti jį atidariusio [puslapio langą](https://mathiasbynens.github.io/rel-noopener/). Tai yra pavojinga, nes jei nukreipiate į third-party puslapį ir jį buvo įsilaužta, tai naudotojui, kuris paspaudžia ant šios nuorodos įmanoma potencialiai redirectinti jūsų tinklapio tab'ą į visai kitą žalingą URL. `noopener` uždaro duris tokio pobūdžio atakai. &#x20;
+* `noopener` - kai naudojamasi `target=_blank` atributu, naujai atidarytas langas `window.opener` pagalba gali visvien pasiekti jį atidariusio [puslapio langą](https://mathiasbynens.github.io/rel-noopener/). Tai yra pavojinga, nes jei nukreipiate į third-party puslapį ir jį buvo įsilaužta, tai naudotojui, kuris paspaudžia ant šios nuorodos įmanoma potencialiai redirectinti jūsų tinklapio tab'ą į visai kitą žalingą URL. `noopener` uždaro duris tokio pobūdžio atakai.
 
 ## Elementai
 
@@ -48,7 +48,7 @@ Jeigu video neturi groti automatiškai ir turėtų būti rodomas tik po naudotoj
 
 ### Picture
 
-Paveikslėliai sudaro didelę dalį šiuolaikinio web'o, tad jiems taipogi reikia skirti dėmesio.&#x20;
+Paveikslėliai sudaro didelę dalį šiuolaikinio web'o, tad jiems taipogi reikia skirti dėmesio.
 
 #### Dydis
 
@@ -70,7 +70,7 @@ Pagal šį pavyzdį standartiškai loadinamas 800px pločio paveikslėlis, neben
 
 #### Kokybė
 
-Antras optimizavimo metodas po dydžio yra paveikslėlio kokybės optimizavimas. Tai dažniausiai daroma kompresijos pagalba pasinaudojant tokius įrankius, kaip kad "Export to web" img redaktoriuose, [https://squoosh.app](https://squoosh.app), [https://tinypng.com](https://tinypng.com) ir kitais. Dažnu atveju paveikslėliui galima nustatyti pvz 85% kokybės lygį: matomo tinklapyje paveikslėlio kokybė pasikeičia beveik nepastebimai, tačiau paties paveikslėlio svoris gali sumažėti gan ženkliai, pvz. 30-50%.&#x20;
+Antras optimizavimo metodas po dydžio yra paveikslėlio kokybės optimizavimas. Tai dažniausiai daroma kompresijos pagalba pasinaudojant tokius įrankius, kaip kad "Export to web" img redaktoriuose, [https://squoosh.app](https://squoosh.app), [https://tinypng.com](https://tinypng.com) ir kitais. Dažnu atveju paveikslėliui galima nustatyti pvz 85% kokybės lygį: matomo tinklapyje paveikslėlio kokybė pasikeičia beveik nepastebimai, tačiau paties paveikslėlio svoris gali sumažėti gan ženkliai, pvz. 30-50%.
 
 Be kompresijos taipogi galima naudoti modernesnius paveikslėlių formatus, pvz .webp. Problema su šiuo formatu yra, kad jo nerodo [Safari ir IE](https://caniuse.com/#search=webp). Apeiti šią problemą galima vietoj \<img> elemento naudojant HTML5 \<picture> elementą:
 
@@ -85,7 +85,7 @@ Naršyklės, kurios palaiko source nurodytą formatą į img src įstatys pirmą
 
 Šis \<picture> elementas taipogi gali naudoti responsive img su prieš tai aprašytais `srcset` ar `sizes` atributais.
 
-Taipogi su \<picture> elementu galima atlikti ir [art direction](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia\_and\_embedding/Responsive\_images#Art\_direction) - principas, kai mažesniuose ekranuose norime rodyti ne tik mažesnę to paties paveikslėlio versiją, tačiau jis turi būti ir visiškai kitokio aspect ratio. Pvz desktop'e naudojama plati horizontali nuotrauka, kurioje pagrindinis objektas centre, tačiau rodant mobiliuose įrenginiuose ją apkerpame, jog pagrindinis fokusas būtų į centrinį objektą:&#x20;
+Taipogi su \<picture> elementu galima atlikti ir [art direction](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia\_and\_embedding/Responsive\_images#Art\_direction) - principas, kai mažesniuose ekranuose norime rodyti ne tik mažesnę to paties paveikslėlio versiją, tačiau jis turi būti ir visiškai kitokio aspect ratio. Pvz desktop'e naudojama plati horizontali nuotrauka, kurioje pagrindinis objektas centre, tačiau rodant mobiliuose įrenginiuose ją apkerpame, jog pagrindinis fokusas būtų į centrinį objektą:
 
 ```markup
 <picture>
@@ -111,7 +111,7 @@ Tačiau panašu, kad sulauksime ir native lazy load funkcionalumo. Paruoštos sp
 <img src="image.png" loading="lazy" alt="…" width="200" height="200">
 ```
 
-Naršyklės, kurios loading atributo dar nepalaiko - kraus paveikslėlį, kaip įprasta.&#x20;
+Naršyklės, kurios loading atributo dar nepalaiko - kraus paveikslėlį, kaip įprasta.
 
 Galima šiuos du metodus apjungti ir tokiu atveju lazy loadinti paveikslėlius nepriklausomai nuo naršyklės:
 
@@ -138,13 +138,13 @@ Galima šiuos du metodus apjungti ir tokiu atveju lazy loadinti paveikslėlius n
 </script>
 ```
 
-&#x20;`if ('loading' in HTMLImageElement.prototype) {` patikrina ar naršyklė palaiko loading atributą ir jei taip - pakeičia visų paveikslėlių su šiuo parametru `data-src` į tiesiog `src` , kitu atveju dinamiškai užkraunama lazysizes biblioteka. Alternatyva galėtų būti, kai tiesiog į tinklapį įtraukiama lazysizes biblioteka ir papildomas jos [plugin'as](https://github.com/aFarkas/lazysizes/tree/gh-pages/plugins/native-loading), kuris šį darbą atlieka automatiškai ir tokiu atveju aukščiau esamo kodo naudoti nebereikia.
+`if ('loading' in HTMLImageElement.prototype) {` patikrina ar naršyklė palaiko loading atributą ir jei taip - pakeičia visų paveikslėlių su šiuo parametru `data-src` į tiesiog `src` , kitu atveju dinamiškai užkraunama lazysizes biblioteka. Alternatyva galėtų būti, kai tiesiog į tinklapį įtraukiama lazysizes biblioteka ir papildomas jos [plugin'as](https://github.com/aFarkas/lazysizes/tree/gh-pages/plugins/native-loading), kuris šį darbą atlieka automatiškai ir tokiu atveju aukščiau esamo kodo naudoti nebereikia.
 
 #### Placeholders
 
 Programuojant puslapį dažnu atveju prireikia paveikslėlių, kol tuo tarpu tikrų, planuojamų naudoti tinklapyje paveikslėlių ar nuotraukų vis dar neturime, tad reikalingi laikini, t.y. placeholder paveikslėliai. Įprastai tam naudoju vieną iš šių 2 metodų:
 
-* jei noriu iškomunikuoti kokio dydžio paveikslėlis turėtų toje vietoje būti naudojamas, naudoju placehold.it.  Pvz: [https://placehold.it/350x250?text=350x250](https://via.placeholder.com/350x250?text=350x250)
+* jei noriu iškomunikuoti kokio dydžio paveikslėlis turėtų toje vietoje būti naudojamas, naudoju placehold.it. Pvz: [https://placehold.it/350x250?text=350x250](https://via.placeholder.com/350x250?text=350x250)
 * jei norima naudoti tiesiog realius, gražius random paveikslėlius, pvz reprezentuoti slideriui, tai naudoju unsplash. Pvz: [https://source.unsplash.com/random/350x250](https://source.unsplash.com/random/350x250) galima nusirodyti, kad paveikslėlis updatintusi ne kiekvieną kartą pasikreipus, o pvz tik 1 kartą į dieną ar savaitę, taipogi galima atfiltruoti konkrečią temą, pvz: [https://source.unsplash.com/weekly?water](https://source.unsplash.com/weekly?water)
 
 Mažiau profesionalūs, bet užtat daug labiau fun placeholderiai:
