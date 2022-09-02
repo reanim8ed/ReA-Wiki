@@ -125,6 +125,7 @@
   * [Vadyba](wiki/karjera-produktyvumas/vadyba.md)
   * [Programavimo karjera](wiki/tech/programavimas/programavimo-karjera.md)
 * [Knygos](wiki/knygos/knygos.md)
+  * [Sarah Knight - You Do You](wiki/knygos/sarah-knight-you-do-you.md)
   * [Carlos Gil - The End of Marketing](wiki/knygos/carlos-gil-the-end-of-marketing.md)
   * [Scott Barry Kaufman - Transcend](wiki/knygos/scott-barry-kaufman-transcend.md)
   * [George S. Clason - The Richest Man in Babylon](wiki/knygos/george-s.-clason-the-richest-man-in-babylon.md)
