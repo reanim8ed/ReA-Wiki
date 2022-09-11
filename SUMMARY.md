@@ -169,6 +169,7 @@
   * [Ansible](wiki/tech/programavimas/ansible.md)
   * [API's](wiki/tech/programavimas/apis.md)
   * [CI/CD](wiki/tech/programavimas/bitbucket-pipelines-cd.md)
+  * [Databases](wiki/programavimas/databases.md)
   * [Docker](wiki/tech/programavimas/docker.md)
   * [HTML technikos](wiki/tech/programavimas/html.md)
   * [Linux](wiki/tech/programavimas/linux/linux.md)
