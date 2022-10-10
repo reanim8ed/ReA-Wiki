@@ -6,6 +6,11 @@
 * [LibreWolf](https://librewolf.net/) - į privacy orientuotas Firefox fork'as, kuris pašalina viską, kas susiję su Mozilla kompanija, t.y. ta pati paskirtis, kaip Chromium'as Chrome atžvilgiu.
 * [SearchFilters](https://github.com/quenhus/uBlock-Origin-dev-filter) - uBlock Origin filtras, skirtas iš paieškos rezultatų išfiltruoti useless StackOverflow ir Github copycat puslapius.
 
+## Privacy tools
+
+* [https://www.privacyguides.org/tools/](https://www.privacyguides.org/tools/)&#x20;
+* [https://www.privacytools.io/](https://www.privacytools.io/)
+
 ## Screenshots
 
 Win:
