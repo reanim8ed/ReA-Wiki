@@ -144,6 +144,7 @@
 * [MealTimeVideos](wiki/mealtimevideos/mealtimevideos.md)
 * [Mental modeliai](wiki/mental-modeliai/mental-modeliai.md)
 * [Mityba](wiki/mityba/mityba.md)
+  * [Britų trumpaplaukio mityba](wiki/mityba/brit-trumpaplaukio-mityba.md)
   * [Ketogeninė dieta](wiki/mityba/ketogenine-dieta.md)
   * [Protarpinis badavimas](wiki/mityba/protarpinis-badavimas.md)
   * [Receptai](wiki/mityba/receptai.md)
