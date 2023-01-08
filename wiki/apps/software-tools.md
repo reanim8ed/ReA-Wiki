@@ -125,3 +125,10 @@ Taigi išsisaugoti nuorodoms iki šiol naudojau Google Keep ir Pocket kombinacij
 * [Notable ](https://github.com/notable/notable)- kokybiškas local Markdown editorius išlaikantis hierarchinę sistemą
 * [Typora](https://typora.io) - kaip markdown editorius, turi nemažai patogių papildomų funkcijų
 * [Zettlr](https://www.zettlr.com)
+
+## Markdown publishing
+
+- [Publish your Obsidian Notes](https://github.com/jobindjohn/obsidian-publish-mkdocs)
+- [Flowershow: A Free & Open Source tool for publishing your Obsidian vaults](https://forum.obsidian.md/t/flowershow-a-free-open-source-tool-for-publishing-your-obsidian-vaults/41966/1)
+- [VuePress](https://v2.vuepress.vuejs.org/)
+- [Docusaurus](https://docusaurus.io/)
