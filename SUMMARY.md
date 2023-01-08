@@ -4,7 +4,7 @@
 ## Wiki
 
 - [Apps](apps/apps.md)
-  * [Software](apps/software.md)
+  * [Software](software-tools.md)
 - [Blog Archive](blog-archive/blog-archive.md)
   - [Istorija](blog-archive/istorija/README.md)
     * [44 Pragaro Dienos](blog-archive/istorija/44-pragaro-dienos.md)

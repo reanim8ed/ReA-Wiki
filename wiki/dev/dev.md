@@ -1,9 +1,23 @@
-## Tags
-#programming
+# DEV
+- tags: #programming #dev
+---
 
-## Roadmaps
+- [What it feels like to be bullied out of a job you love](https://news.ycombinator.com/item?id=33177101)
+	All bad job stories can be boiled down to someone at a company who was in charge over employees did not want someone at the company anymore.
+	  
+	No amount of emotions or rationalization or any other factor really changes this.
 
-Nežinant nuo ko pradėti, visai neblogas resursas yra sudaryti baziniai roadmap'ai:
+[Things they didn’t teach you about software engineering](https://news.ycombinator.com/item?id=34282339)
+	"Estimations will be asked even when you don't want to give them"
+	I think usually it's not a matter of not "wanting" to give them. It's a matter of not wanting to take a wild guess - which is talked down if it seems too high - and then be asked to finish the work in that time frame.
+
+	Time or scope, at least one of these things needs to be flexible, and stay flexible until the work is done. 
+
+	Estimates are not commitments. More people need to understand and accept this.
+
+- [Code review handbook](https://www.sledgeworx.io/code-review-handbook/) 
+
+### Roadmaps
 
 * FE/BE: [https://roadmap.sh/roadmaps](https://roadmap.sh/roadmaps)
 * Teamlead: [https://github.com/tlbootcamp/tlroadmap](https://github.com/tlbootcamp/tlroadmap)

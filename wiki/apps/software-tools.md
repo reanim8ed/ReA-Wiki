@@ -1,23 +1,24 @@
-# Software
+# Software tools
 
-- tags: 
+- tags: #soft
 ---
 
-
-* [LockHunter ](https://www.lockhunter.com/index.htm)- tais atvejais, kai norima ištrinti failą, tačiau jį bala žino kas naudoja ir to padaryti tiesiog neleidžia. Kiek platesnė Unlocker alternatyva, nes sugeba ne tik atrakinti failą jo ištrynimui, tačiau ir parodo procesus, kurie šį failą naudoja.
+## File sync
 * [Syncthing](https://syncthing.net/) - tiesioginis failų sinchronizavimas tarp dviejų ar daugiau kompiuterių, kaip alternatyva nenaudoti cloud storage.
+* [LockHunter ](https://www.lockhunter.com/index.htm)- tais atvejais, kai norima ištrinti failą, tačiau jį bala žino kas naudoja ir to padaryti tiesiog neleidžia. Kiek platesnė Unlocker alternatyva, nes sugeba ne tik atrakinti failą jo ištrynimui, tačiau ir parodo procesus, kurie šį failą naudoja.
 * [Cryptomator](https://cryptomator.org/) - saugus failų saugojimas kompiuteryje ar cloud servisuose juos užkoduojant.
-* [LibreWolf](https://librewolf.net/) - į privacy orientuotas Firefox fork'as, kuris pašalina viską, kas susiję su Mozilla kompanija, t.y. ta pati paskirtis, kaip Chromium'as Chrome atžvilgiu.
-* [SearchFilters](https://github.com/quenhus/uBlock-Origin-dev-filter) - uBlock Origin filtras, skirtas iš paieškos rezultatų išfiltruoti useless StackOverflow ir Github copycat puslapius.
 
 ## Privacy tools
 
-* [https://www.privacyguides.org/tools/](https://www.privacyguides.org/tools/)&#x20;
+* [https://www.privacyguides.org/tools/](https://www.privacyguides.org/tools/)
 * [https://www.privacytools.io/](https://www.privacytools.io/)
+*  [LibreWolf](https://librewolf.net/) - į privacy orientuotas Firefox fork'as, kuris pašalina viską, kas susiję su Mozilla kompanija, t.y. ta pati paskirtis, kaip Chromium'as Chrome atžvilgiu.
 
-### AdBlock
+### Browsers
 
 * [https://adguard-dns.io/en/welcome.html](https://adguard-dns.io/en/welcome.html) - beta versijoje esanti NextDNS alternatyva. Pastarasis yra gan gerai establishintas ir veikia tikrai neblogai, tačiau Adguard turi gerą reputacija ir yra kur kas didesni ir populiaresni, tad visai įdomu pamatyti ar konkurencija duos vaisių.
+* [uBlacklist](https://iorate.github.io/ublacklist/docs) - domeno blokavimas iš paieškos rezultatų
+* [SearchFilters](https://github.com/quenhus/uBlock-Origin-dev-filter) - uBlock Origin filtras, skirtas iš paieškos rezultatų išfiltruoti useless StackOverflow ir Github copycat puslapius.
 
 ### Anonymous Email Forwarding
 
