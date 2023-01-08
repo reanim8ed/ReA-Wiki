@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/zmones/me/me.md",
+                "file": "wiki/buy-it-for-life.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wiki/zmones/me/me.md",
+                "file": "wiki/buy-it-for-life.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "wiki/zmones/me/me.md",
+                "file": "wiki/buy-it-for-life.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "wiki/zmones/me/me.md"
+                "file": "wiki/buy-it-for-life.md"
               }
             }
           }
@@ -147,15 +147,15 @@
   },
   "active": "32678a1459eb6471",
   "lastOpenFiles": [
-    "wiki/skaitiniai/skaitiniai.md",
     "wiki/citatos/citatos.md",
+    "wiki/zmones/me/me.md",
+    "wiki/skaitiniai/skaitiniai.md",
     "wiki/facts.md",
     "wiki/filmai.md",
     "wiki/muzika.md",
     "wiki/videos.md",
     "wiki/programming/programming.md",
     "wiki/internetas/internetas.md",
-    "wiki/tech/tech-it/tech-it.md",
-    "wiki/internetas/tools.md"
+    "wiki/tech/tech-it/tech-it.md"
   ]
 }
