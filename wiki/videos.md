@@ -1,6 +1,6 @@
 # Videos
 
--  tags: #mealtimevideo #video
+-  tags: #video
 ---
 
 ### 2021-06

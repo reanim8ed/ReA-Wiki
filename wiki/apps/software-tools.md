@@ -1,6 +1,6 @@
 # Software tools
 
-- tags: #soft
+- tags: #software #tools
 ---
 
 ## File sync

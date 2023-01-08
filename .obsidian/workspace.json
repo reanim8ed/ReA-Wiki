@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "09ed79744e8a33d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wiki/citatos/citatos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -61,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#planToRead",
+                "query": "tag:#quotes",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wiki/karjera/remote-work.md",
+                "file": "wiki/citatos/citatos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "wiki/karjera/remote-work.md",
+                "file": "wiki/citatos/citatos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "wiki/karjera/remote-work.md"
+                "file": "wiki/citatos/citatos.md"
               }
             }
           }
@@ -159,17 +171,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "574ccac6872aacc9",
+  "active": "6f2d40e2433f9750",
   "lastOpenFiles": [
-    "wiki/karjera/karjera.md",
-    "wiki/dev/dev.md",
-    "wiki/karjera/remote-work.md",
-    "wiki/karjera/programavimo-karjera.md",
-    "wiki/apps/software-tools.md",
-    "wiki/knygos/knygos.md",
     "wiki/citatos/showerthoughts.md",
+    "wiki/creativity.md",
     "wiki/apps/apps.md",
-    "SUMMARY.md",
-    "wiki/zaidimai/zaidimai.md"
+    "wiki/knygos/knygos.md",
+    "wiki/karjera/remote-work.md",
+    "wiki/skaitiniai/skaitiniai.md",
+    "wiki/apps/software-tools.md",
+    "wiki/videos.md",
+    "wiki/buy-it-for-life.md",
+    "wiki/mityba/medicininiai-grybai.md"
   ]
 }
