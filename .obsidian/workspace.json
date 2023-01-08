@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/citatos/citatos.md",
+                "file": "wiki/zmones/me/me.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wiki/citatos/citatos.md",
+                "file": "wiki/zmones/me/me.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "wiki/citatos/citatos.md",
+                "file": "wiki/zmones/me/me.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "wiki/citatos/citatos.md"
+                "file": "wiki/zmones/me/me.md"
               }
             }
           }
@@ -145,8 +145,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6f2d40e2433f9750",
+  "active": "32678a1459eb6471",
   "lastOpenFiles": [
+    "wiki/skaitiniai/skaitiniai.md",
+    "wiki/citatos/citatos.md",
     "wiki/facts.md",
     "wiki/filmai.md",
     "wiki/muzika.md",
@@ -154,8 +156,6 @@
     "wiki/programming/programming.md",
     "wiki/internetas/internetas.md",
     "wiki/tech/tech-it/tech-it.md",
-    "wiki/internetas/tools.md",
-    "wiki/apps-software/software.md",
-    "wiki/tech/mac/mac.md"
+    "wiki/internetas/tools.md"
   ]
 }
