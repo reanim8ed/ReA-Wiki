@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SUMMARY.md",
+                "file": "wiki/zaidimai/zaidimai.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SUMMARY.md",
+                "file": "wiki/zaidimai/zaidimai.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SUMMARY.md",
+                "file": "wiki/zaidimai/zaidimai.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SUMMARY.md"
+                "file": "wiki/zaidimai/zaidimai.md"
               }
             }
           }
@@ -148,15 +148,15 @@
   },
   "active": "2f92238d8f82f90e",
   "lastOpenFiles": [
-    "README.md",
-    "SUMMARY.md",
-    "wiki/social/komunikacija.md",
-    "wiki/skaitiniai/skaitiniai.md",
-    "wiki/videos.md",
-    "wiki/muzika.md",
-    "2023-01-08.md",
-    "Untitled.canvas",
+    "wiki/creativity.md",
+    "wiki/facts.md",
     "wiki/filmai.md",
-    "wiki/tech/tech.md"
+    "wiki/muzika.md",
+    "wiki/videos.md",
+    "wiki/buy-it-for-life.md",
+    "wiki/citatos/citatos.md",
+    "SUMMARY.md",
+    "README.md",
+    "wiki/social/komunikacija.md"
   ]
 }
