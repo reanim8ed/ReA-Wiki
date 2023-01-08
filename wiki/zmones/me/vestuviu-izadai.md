@@ -7,26 +7,26 @@ Mylėti žmogų - tai matyti visą jo skleidžiamą magiją ir priminti jam, kuo
 Startinė pozicija yra tik momentinis dalykas. Po jos dar seka visas gyvenimas, kuris yra sudarytas iš laisvos valios ir pasirinkimų. Ir nors vienas žmogus ir gali judėti greičiau, bet visgi dviese nukeliauja kur kas toliau.
 
 * Taigi pažadu palaikyti ir saugoti tavo pasirinkimus, nes mūsų gyvenimai nors ir yra persipynę, tačiau tavo pasirinkimai išlieka tavo pačios. Ir aš esu vienas iš jų.
-* Pasižadu siekti gilaus supratimo ir gerbti tavo norus, troškimus, baimes, ribas ir svajones.&#x20;
+* Pasižadu siekti gilaus supratimo ir gerbti tavo norus, troškimus, baimes, ribas ir svajones.
 * Ir siekti išpildyti tavo lūkesčius, ne dėl įsipareigojimų, o dėlto, kad mane džiugina matyti tave laimingą.
 * Pažadu klausytis atviru protu ir atvira širdimi.
 * Pažadu Tikėti ir pasitikėti.
 * Pažadu įkvėpti ir atsiliepti.
 * Ir laikyti tvirtai, kai viskas gerai ir dar tvirčiau, kai nevisai.
 * Pažadu stovėti greta tavęs tau būnant tokiai, kaip dabar ir būnant tokiai, kokia sieki būti ateityje.
-* Pažadu gerbti ir vertinti kaip asmenį, kaip partnerę ir kaip lygią sau, žinant, kad mes nesivaržome tarpusavyje, bet vienas kitą papildome.&#x20;
+* Pažadu gerbti ir vertinti kaip asmenį, kaip partnerę ir kaip lygią sau, žinant, kad mes nesivaržome tarpusavyje, bet vienas kitą papildome.
 * Mokintis iš tavęs, kartu su tavimi ir augti kartu, kaip vyrui ir žmonai.
 * Pažadu kalbėti, kai žodžiai yra reikalingi ir dalintis tyla, kai jų nereikia.
 * Pažadu tau padėti mylėti gyvenimą ir turėti kantrybės, kurios taip kartais meilė pareikalauja.
-* Pažadu dalintis viskuo kas dar laukia.&#x20;
+* Pažadu dalintis viskuo kas dar laukia.
 * Ir gyventi greta tavo širdies skleidžiamo gerumo ir šilumos ir visą tai vadinti savo namais.
 
 \--
 
 Celtic Wedding Pledge
 
-Ye are Blood of my Blood, and Bone of my Bone. \
-I give ye my Body, that we Two might be One. \
+Ye are Blood of my Blood, and Bone of my Bone.\
+I give ye my Body, that we Two might be One.\
 I give ye my Spirit, 'til our Life shall be Done.
 
 You cannot possess me for I belong to myself, just as you belong to yourself.\
@@ -45,4 +45,4 @@ Private and tell no strangers our grievances.\
 This is my wedding vow to you\
 This is the marriage of equals.
 
-![](../../.gitbook/assets/unnamed4.jpeg) ![](../../.gitbook/assets/unnamed1.jpeg) ![](../../.gitbook/assets/unnamed2.jpeg) ![](../../.gitbook/assets/unnamed3.jpeg)
+![](../../../.gitbook/assets/unnamed4.jpeg) ![](../../../.gitbook/assets/unnamed1.jpeg) ![](../../../.gitbook/assets/unnamed2.jpeg) ![](../../../.gitbook/assets/unnamed3.jpeg)

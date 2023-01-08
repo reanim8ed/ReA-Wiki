@@ -2,6 +2,12 @@
 
 HTML programavimas ;D Juokas juokais, bet iš tiesų, net ir HTML'as turi visokių niuansų, kuriuos derėtų žinoti. Pasinaudojus įvairiomis technikomis galima gan ženkliai optimizuoti puslapio krovimo greitį. Tad ir pakalbėkime apie visokius triukus ir taktikas.
 
+
+
+### Best practices for images
+
+{% embed url="https://github.com/nucliweb/image-element" %}
+
 ### Javascript
 
 Nuo HTM5 specifikacijos išleidimo nebėra privalomybės \<script> elementui nurodinėti`type="text/javascript"` . Pvz naudojantis W3 validatoriumi, jis ant scriptų, kurie turės šitą atributą, rodys warning žinutę. Jei visus scriptus įtraukinėjame patys, tai galima jų įtraukimo sintaksę supaprastinti, tačiau jeigu naudojami third-party moduliai, scriptai ar library, tai tikėtina, jog jie automatiškai įtraukinės scriptus senąja sintakse.
