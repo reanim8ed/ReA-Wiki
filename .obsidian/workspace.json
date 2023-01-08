@@ -11,12 +11,8 @@
             "id": "56631ad6e4ace2dd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "wiki/karjera/programavimo-karjera.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -37,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/citatos/citatos.md",
+                "file": "wiki/karjera/vadyba.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wiki/citatos/citatos.md",
+                "file": "wiki/karjera/vadyba.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "wiki/citatos/citatos.md",
+                "file": "wiki/karjera/vadyba.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "wiki/citatos/citatos.md"
+                "file": "wiki/karjera/vadyba.md"
               }
             }
           }
@@ -171,17 +167,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6f2d40e2433f9750",
+  "active": "09ed79744e8a33d8",
   "lastOpenFiles": [
+    "wiki/karjera/karjera.md",
+    "wiki/karjera/programavimo-karjera.md",
+    "wiki/citatos/citatos.md",
     "wiki/citatos/showerthoughts.md",
     "wiki/creativity.md",
     "wiki/apps/apps.md",
     "wiki/knygos/knygos.md",
     "wiki/karjera/remote-work.md",
     "wiki/skaitiniai/skaitiniai.md",
-    "wiki/apps/software-tools.md",
-    "wiki/videos.md",
-    "wiki/buy-it-for-life.md",
-    "wiki/mityba/medicininiai-grybai.md"
+    "wiki/apps/software-tools.md"
   ]
 }
