@@ -4,6 +4,14 @@
 * A library for validating emails against several RFC: [https://github.com/egulias/EmailValidator](https://github.com/egulias/EmailValidator)
 * Iteration of big JSON files or streams: [https://github.com/halaxa/json-machine](https://github.com/halaxa/json-machine)
 
+## Optimizations from nginx
+
+[https://www.nginx.com/blog/9-tips-for-improving-wordpress-performance-with-nginx](https://www.nginx.com/blog/9-tips-for-improving-wordpress-performance-with-nginx/)
+
+## Security headers for WP
+
+[https://solidx.dev/improve-wordpress-security-grade](https://solidx.dev/improve-wordpress-security-grade/)
+
 ## Setting up together PHPStorm, PHPUnit, Xdebug and Docker
 
 [https://www.orbitale.io/2019/11/16/setting-up-together-phpstorm-phpunit-xdebug-and-docker.html](https://www.orbitale.io/2019/11/16/setting-up-together-phpstorm-phpunit-xdebug-and-docker.html)

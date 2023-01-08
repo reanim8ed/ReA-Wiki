@@ -1,6 +1,6 @@
 # Databases
 
-## Postgres Full-Text Search
+### Postgres Full-Text Search
 
 * [http://rachbelaid.com/postgres-full-text-search-is-good-enough/](http://rachbelaid.com/postgres-full-text-search-is-good-enough/)
 * [https://www.crunchydata.com/blog/postgres-full-text-search-a-search-engine-in-a-database](https://www.crunchydata.com/blog/postgres-full-text-search-a-search-engine-in-a-database)

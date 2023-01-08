@@ -1,6 +1,5 @@
 # Random internetai
 
-* Yra nemažai pavyzdžių, kai dabar laikomos klasikinės knygos ar kino filmai nebuvo taip jau gerai vertinami jų išleidimo metu. Pvz už legendinį Kubrick’o siaubo filmą „The Shining“ režisierius buvo nominuotas prasčiausio metų režisieriaus [titului](http://www.wikiwand.com/en/The\_Shining\_\(film\)#/Initial\_reception).
 * To paties namo tokio pačio išplanavimo butai ir skirtingi žmonių gyvenimai: [https://mymodernmet.com/bogdan-girbovan-apartment-series/](https://mymodernmet.com/bogdan-girbovan-apartment-series/)
 * Žmogus, kuris nusipirko „auksinį bilietą“ ir skraidė avialinijomis beveik 30 metų, pakol šį bilietą[ iš jo atėmė](http://nypost.com/2012/05/13/freequent-flier-has-wings-clipped-after-american-airlines-takes-away-his-unlimited-pass/), nes avialinijoms jis kainavo daug daugiau, nei bet kas tikėjosi.
 * Susirūpinę dėl per didelio [kobrų kiekio Indijoje](http://www.wikiwand.com/en/Cobra\_effect), britai buvo paskyrę premiją už jas, tačiau vėliau sužinojo, kad buvo įkurtos atskiros fermos, kurios augino kobras vien tam, jog galėtų pasiimti premijas. Tai sužinoję, britai premiją panaikino, o to pasekmė – minėtos fermos paleido jiems nebereikalingas kobras į laisvę, tad kobrų kiekis gamtoje tik dar labiau padidėjo.
