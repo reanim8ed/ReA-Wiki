@@ -1,7 +1,7 @@
 # Filmai
 
-## Tags
-#movies
+- tags: #movies
+---
 
 ## Watch list
 

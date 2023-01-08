@@ -1,7 +1,7 @@
 # Facts
 
-## Tags
-#facts
+- tags: #facts
+---
 
 * To paties namo tokio pačio išplanavimo butai ir skirtingi žmonių gyvenimai: [https://mymodernmet.com/bogdan-girbovan-apartment-series/](https://mymodernmet.com/bogdan-girbovan-apartment-series/)
 * Žmogus, kuris nusipirko „auksinį bilietą“ ir skraidė avialinijomis beveik 30 metų, pakol šį bilietą[ iš jo atėmė](http://nypost.com/2012/05/13/freequent-flier-has-wings-clipped-after-american-airlines-takes-away-his-unlimited-pass/), nes avialinijoms jis kainavo daug daugiau, nei bet kas tikėjosi.

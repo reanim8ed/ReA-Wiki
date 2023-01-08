@@ -1,5 +1,9 @@
 # Software
 
+- tags: 
+---
+
+
 * [LockHunter ](https://www.lockhunter.com/index.htm)- tais atvejais, kai norima ištrinti failą, tačiau jį bala žino kas naudoja ir to padaryti tiesiog neleidžia. Kiek platesnė Unlocker alternatyva, nes sugeba ne tik atrakinti failą jo ištrynimui, tačiau ir parodo procesus, kurie šį failą naudoja.
 * [Syncthing](https://syncthing.net/) - tiesioginis failų sinchronizavimas tarp dviejų ar daugiau kompiuterių, kaip alternatyva nenaudoti cloud storage.
 * [Cryptomator](https://cryptomator.org/) - saugus failų saugojimas kompiuteryje ar cloud servisuose juos užkoduojant.

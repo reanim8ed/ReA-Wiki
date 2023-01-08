@@ -6,6 +6,9 @@ description: >-
 
 # Kūrybingumas
 
+- tags: #creativity
+---
+
 Manau, jog kūrybingumas nėra kažkas labiau ypatingo nei idėjų, minčių apjungimas naujais būdais. Kitaip tariant [Everything Is A Remix](https://www.youtube.com/watch?v=nJPERZDfyWc).  Arba, kaip Samas yra sakęs "Visos dainos jau sudainuotos, tik ne visi pinigai dar paimti".
 
 Remix'ą galima apibūdinti trimis žodžiais:

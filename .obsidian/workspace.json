@@ -4,39 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "859d04bb8bff04f6",
+        "id": "06c4b2f0c15432c6",
         "type": "tabs",
         "children": [
           {
-            "id": "2f92238d8f82f90e",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "e49d1a4753b07eec",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "09c1d363b2e3368a",
+            "id": "e11c114cf4ea331a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/buy-it-for-life.md",
+                "file": "SUMMARY.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -65,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#movies",
+                "query": "tag:#facts",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wiki/buy-it-for-life.md",
+                "file": "SUMMARY.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "wiki/buy-it-for-life.md",
+                "file": "SUMMARY.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "wiki/buy-it-for-life.md"
+                "file": "SUMMARY.md"
               }
             }
           }
@@ -163,16 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "09c1d363b2e3368a",
+  "active": "e11c114cf4ea331a",
   "lastOpenFiles": [
-    "SUMMARY.md",
-    "wiki/mityba/britu-trumpaplaukio-mityba.md",
-    "wiki/zmones/me/me.md",
-    "wiki/tech/kompanijos/kompanijos.md",
-    "wiki/social/social.md",
-    "wiki/zaidimai/zaidimai.md",
-    "wiki/creativity.md",
-    "wiki/facts.md",
-    "wiki/filmai.md"
+    "wiki/quotes/quotes.md",
+    "wiki/videos.md",
+    "templates/default.md",
+    "daily/2023-01-09.md",
+    "templates/daily.md",
+    "Untitled.md",
+    "motyvacija.md",
+    "wiki/movies.md",
+    "wiki/music.md",
+    "SUMMARY.md"
   ]
 }
