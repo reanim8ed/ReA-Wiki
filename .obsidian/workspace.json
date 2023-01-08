@@ -11,15 +11,32 @@
             "id": "2f92238d8f82f90e",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "e49d1a4753b07eec",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "09c1d363b2e3368a",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/zaidimai/zaidimai.md",
+                "file": "SUMMARY.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wiki/zaidimai/zaidimai.md",
+                "file": "SUMMARY.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "wiki/zaidimai/zaidimai.md",
+                "file": "SUMMARY.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "wiki/zaidimai/zaidimai.md"
+                "file": "SUMMARY.md"
               }
             }
           }
@@ -146,17 +163,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2f92238d8f82f90e",
+  "active": "09c1d363b2e3368a",
   "lastOpenFiles": [
+    "SUMMARY.md",
+    "wiki/mityba/britu-trumpaplaukio-mityba.md",
+    "wiki/zmones/me/me.md",
+    "wiki/tech/kompanijos/kompanijos.md",
+    "wiki/social/social.md",
+    "wiki/zaidimai/zaidimai.md",
     "wiki/creativity.md",
     "wiki/facts.md",
-    "wiki/filmai.md",
-    "wiki/muzika.md",
-    "wiki/videos.md",
-    "wiki/buy-it-for-life.md",
-    "wiki/citatos/citatos.md",
-    "SUMMARY.md",
-    "README.md",
-    "wiki/social/komunikacija.md"
+    "wiki/filmai.md"
   ]
 }
