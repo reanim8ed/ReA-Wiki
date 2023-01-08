@@ -2,7 +2,8 @@
 
 ## 2019-11-03
 
-* Pasak makaronų dėžutės aš esu 4 asmenų šeima  .
+* Pasak makaronų dėžutės aš esu 4 asmenų šeima
+  .
 * Šunys nežino, kad jų savininkai gali daryti klaidas. Tad,kai keldamasis naktį netyčia jį paspiri, jis galvoja, kad kėleisi tam, kad specialiai jį paspirtum.
 * Žmonės, kurie nepakankamai miega - miršta greičiau. Tačiau tie, kurie miega pakankamai, pramiega tą extra laiką.
 * I got a king sized bed. I don’t know any kings, but if one came over, I guess he’d be comfortable.
@@ -31,7 +32,8 @@
 * Jeigu dirbi darbo biržoje ir tave atleidžia, tai reiškia, kad tau ir toliau teks vaikščioti į savo darbovietę, pakol tau suras kitą darbą.
 * Jeigu mokaisi kulinarijos mokykloje, tai pasiteisinimas jog šuo suėdė tavo namų darbus yra pakankamai legit.
 * Filmų informacijos saitai, kaip IMDB, galėtų turėti atskirą žymą, nurodančią ar filmas turi baigiamąją sceną po creditų ar ne.
-* Kaip pagerinti rezultatus sporto salėse? Tiesiog užtektų ant treniruoklių padaryti taškų skaičiavimą ir high score lenteles.  &#x20;Taipogi gyvenimui papildomo įdomumo pridėtų, jei savo regėjimo lauke turėtume experience bar ir galėtume kelti atskirų kasdienių task’ų lvl. Sportuoji sau ir staiga pasigirsta fanfaros: Congratulations! You’ve reached your 100 hour mark of running. Tikrai padėtų motyvacijai ir savipasitenkinimui. Bet jei gyvenimas būtų, kaip MMO, tai būtų smarkiai kritikuojamas, dėl didelių balanso problemų, bei kiek daug durno grindinimo jame reikia atlikinėti.
+* Kaip pagerinti rezultatus sporto salėse? Tiesiog užtektų ant treniruoklių padaryti taškų skaičiavimą ir high score lenteles.
+  &#x20;Taipogi gyvenimui papildomo įdomumo pridėtų, jei savo regėjimo lauke turėtume experience bar ir galėtume kelti atskirų kasdienių task’ų lvl. Sportuoji sau ir staiga pasigirsta fanfaros: Congratulations! You’ve reached your 100 hour mark of running. Tikrai padėtų motyvacijai ir savipasitenkinimui. Bet jei gyvenimas būtų, kaip MMO, tai būtų smarkiai kritikuojamas, dėl didelių balanso problemų, bei kiek daug durno grindinimo jame reikia atlikinėti.
 * Gyvenimo aktualijos: pirma mes laikome egzaminus, o tik po to pradedame iš tiesų mokytis.
 * NASA gauna duomenis iš daugiau nei 4 milijardų km, kai tuo tarpu man užtenka nueiti į tualetą, kad dingtų wifi signalas.
 * Jei gyvenimas būtų kaip MMO, tai būtų smarkiai kritikuojamas, dėl didelių balanso problemų, bei kiek daug bukinančio grindinimo jame reikia atlikinėti.

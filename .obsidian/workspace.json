@@ -1,0 +1,161 @@
+{
+  "main": {
+    "id": "0fa2d00be4d4b3a5",
+    "type": "split",
+    "children": [
+      {
+        "id": "c77e8d34014a8142",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1718ef9971966971",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "32678a1459eb6471",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wiki/citatos/citatos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f3bad2bc069db043",
+    "type": "split",
+    "children": [
+      {
+        "id": "4f70a519f03fd805",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6f2d40e2433f9750",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2d40e4a78a97e655",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#programming",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4e64274197b4212f",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cfbb7f91310fccac",
+    "type": "split",
+    "children": [
+      {
+        "id": "e1281816c6967b2b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "342d14539520f9e5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "wiki/citatos/citatos.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "21f247a6cba72982",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "wiki/citatos/citatos.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f7752650477d4d97",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9cf6610860ed6c24",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "wiki/citatos/citatos.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "6f2d40e2433f9750",
+  "lastOpenFiles": [
+    "wiki/facts.md",
+    "wiki/filmai.md",
+    "wiki/muzika.md",
+    "wiki/videos.md",
+    "wiki/programming/programming.md",
+    "wiki/internetas/internetas.md",
+    "wiki/tech/tech-it/tech-it.md",
+    "wiki/internetas/tools.md",
+    "wiki/apps-software/software.md",
+    "wiki/tech/mac/mac.md"
+  ]
+}

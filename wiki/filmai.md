@@ -1,4 +1,5 @@
-# Filmai / serialai
+## Notes
+#movies
 
 ## Watch list
 
@@ -36,11 +37,16 @@ Visus peržiūrėtus filmus įvertinu IMDB svetainėje. Pirmuosius vertinimus ga
 ## The Six Main Arcs in Storytelling
 
 Kurt Vonnegut'as buvo iškėlęs teoriją, jog jeigu koncentruotis tik į istorijos emocinę trajektoriją, tai visas kada nors sukurtas istorijas iš esmės galima sugrupuoti į viso labo 6 pagrindinius tipus:\
-1\. Rags to Riches (rise)\
-2\. Riches to Rags (fall) or Tragedy&#x20;\
-3\. Man in a Hole (fall then rise) - The main character gets into trouble then gets out of it again and ends up better off for the experience.\
-4\. Icarus (rise then fall)\
-5\. Cinderella (rise then fall then rise) or Boys Meets Girl - The main character comes across something wonderfull, gets it, loses it, then gets it back forever.\
+1\. Rags to Riches (rise)
+\
+2\. Riches to Rags (fall) or Tragedy&#x20;
+\
+3\. Man in a Hole (fall then rise) - The main character gets into trouble then gets out of it again and ends up better off for the experience.
+\
+4\. Icarus (rise then fall)
+\
+5\. Cinderella (rise then fall then rise) or Boys Meets Girl - The main character comes across something wonderfull, gets it, loses it, then gets it back forever.
+\
 6\. Oedipus (fall then rise then fall)
 
 [https://www.theatlantic.com/technology/archive/2016/07/the-six-main-arcs-in-storytelling-identified-by-a-computer/490733/](https://www.theatlantic.com/technology/archive/2016/07/the-six-main-arcs-in-storytelling-identified-by-a-computer/490733/)

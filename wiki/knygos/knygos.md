@@ -42,3 +42,6 @@ description: 'Good book is like a puppy: easy to pick up, but hard to put down.'
 ## **Notes**
 
 * Senas video, kuriame Joe Rogan skaito rašytojo, Fear and Loathing in Las Vegas autoriaus [Hunter S Thompson](https://www.youtube.com/watch?v=RqEmCr8gAAM) dienotvarkę.
+
+## Tags
+#planToRead #books

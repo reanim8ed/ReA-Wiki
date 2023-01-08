@@ -2,7 +2,8 @@
 description: Never attribute to malice that which can be adequately explained by stupidity.
 ---
 
-# Citatos
+## Tags
+#quotes
 
 * Your outcomes are a lagging measure of your habits. Your net worth is a lagging measure of your financial habits. Your weight is a lagging measure of your eating habits. Your knowledge is a lagging measure of your learning habits. You get what you repeat.
 * A sign of free speech is that someone you don’t like is allowed to say something you don’t like.
