@@ -1,4 +1,4 @@
-# Music
+# Muzika
 
 - tags: #music
 ---

@@ -4,7 +4,7 @@ description: www.buyforlifeproducts.com
 
 # Buy it for life
 
-- tags: #BIFL
+- tags: #BIFL #BuyItForLife
 ---
 
 Buy it for life (BIFL) kategorijos produktų nereikia priiminėti tiesiogine to žodžio prasme. Asmeniškai aš apie juos galvoju ne kaip "buy once and keep forever", o tiesiog patvarumu, kokybiškumu, rankų darbu ar dėmesiu detalėms pasižyminčius daiktus, kuriais gali pasikliauti ir džiaugtis išties ilgą laiko tarpą. Tai tarsi kontrastas įprastiniams ir dažniausiai sutinkamiems vartotojiškosios kultūros produktams, kurie pagaminti greitai ir pigiai ir kuriems sugedus - jie tiesiog išmetami.

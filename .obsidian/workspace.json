@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "wiki/apps/apps.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "34aa631316d740bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "SUMMARY.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,17 +159,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e11c114cf4ea331a",
+  "active": "34aa631316d740bf",
   "lastOpenFiles": [
-    "wiki/quotes/quotes.md",
+    "SUMMARY.md",
+    "wiki/dev/dev.md",
+    "wiki/zaidimai/zaidimai.md",
     "wiki/videos.md",
-    "templates/default.md",
-    "daily/2023-01-09.md",
-    "templates/daily.md",
-    "Untitled.md",
-    "motyvacija.md",
-    "wiki/movies.md",
-    "wiki/music.md",
-    "SUMMARY.md"
+    "wiki/filmai.md",
+    "wiki/faktai.md",
+    "wiki/citatos/citatos.md",
+    "wiki/buy-it-for-life.md",
+    "wiki/creativity.md",
+    "wiki/muzika.md"
   ]
 }
