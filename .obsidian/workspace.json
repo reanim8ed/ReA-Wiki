@@ -11,8 +11,12 @@
             "id": "e5c2b95c0521693d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "docs/motyvacija.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#softwa",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "docs/motyvacija.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "docs/motyvacija.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "docs/motyvacija.md"
+              }
             }
           }
         ],
@@ -140,6 +148,8 @@
   },
   "active": "6f2d40e2433f9750",
   "lastOpenFiles": [
+    "docs/wiki/skaitiniai/skaitiniai.md",
+    "docs/wiki/skaitiniai/README.md",
     "docs/wiki/tech/ai.md",
     "docs/wiki/tech/tech.md",
     "docs/wiki/apps/self-host.md",
@@ -147,8 +157,6 @@
     "docs/wiki/apps/jailbreak.md",
     "docs/wiki/tech/mac/ios/ios.md",
     "docs/wiki/apps/mac.md",
-    "docs/wiki/dev/mac/set-up-for-web-development.md",
-    "docs/wiki/skaitiniai/skaitiniai.md",
-    "docs/wiki/karjera/vadyba.md"
+    "docs/wiki/dev/mac/set-up-for-web-development.md"
   ]
 }
