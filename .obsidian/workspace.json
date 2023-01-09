@@ -14,17 +14,8 @@
               "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "de97aa256a72f073",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
