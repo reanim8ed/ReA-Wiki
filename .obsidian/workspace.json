@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "5a1460f535a0e453",
+        "id": "2252e42bb769b648",
         "type": "tabs",
         "children": [
           {
-            "id": "56631ad6e4ace2dd",
+            "id": "e5c2b95c0521693d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/apps/software-tools.md",
+                "file": "wiki/pinigai/pinigai.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "de97aa256a72f073",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wiki/verslas.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wiki/apps/software-tools.md",
+                "file": "wiki/verslas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "wiki/apps/software-tools.md",
+                "file": "wiki/verslas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "wiki/apps/software-tools.md"
+                "file": "wiki/verslas.md"
               }
             }
           }
@@ -146,17 +159,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6f2d40e2433f9750",
+  "active": "de97aa256a72f073",
   "lastOpenFiles": [
+    "wiki/videos.md",
+    "wiki/pinigai/pinigai.md",
+    "wiki/verslas.md",
+    "wiki/dev/dev.md",
+    "SUMMARY.md",
+    "wiki/zmones/zmones.md",
+    "wiki/apps/software-tools.md",
     "wiki/apps/apps.md",
     "wiki/karjera/remote-work.md",
-    "wiki/karjera/vadyba.md",
-    "wiki/karjera/karjera.md",
-    "wiki/karjera/programavimo-karjera.md",
-    "wiki/citatos/citatos.md",
-    "wiki/citatos/showerthoughts.md",
-    "wiki/creativity.md",
-    "wiki/knygos/knygos.md",
-    "wiki/skaitiniai/skaitiniai.md"
+    "wiki/karjera/vadyba.md"
   ]
 }

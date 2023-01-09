@@ -4,7 +4,9 @@ description: >-
   kaip jis iš tiesų veikia.
 ---
 
-# Ekonomika / finansai
+# Pinigai / finansai
+
+## Notes
 
 * Bankas – tai tokia institucija, kuri duoda skėtį, kai šviečia saulė, ir jį atima, kai lyja lietus
 * Money is the way that we keep score of how much you have benefited society
@@ -71,11 +73,14 @@ Problema yra ne tai, kad įsigalės tokia utopinė sistema, o tai, kad mums reik
 
 ## [Vebleno efektas](https://www.wikiwand.com/en/Veblen\_good)
 
-Rinkos anomalija, kuri kartais pasireiškia ir ganėtinai prieštarauja standartiniams pasiūlos/paklausos dėsniams: prekės pardavimai pradeda augti dėlto, jog auga jo kaina. Įprastai visgi būna priešingai.&#x20;Tai dažniausiai luxury prekių savybė, kai prekės troškimas didėja, nes mokėdami už ją daugiau, žmonės pradeda ją laikyti patikimesne, kokybiškesne.
+Rinkos anomalija, kuri kartais pasireiškia ir ganėtinai prieštarauja standartiniams pasiūlos/paklausos dėsniams: prekės pardavimai pradeda augti dėlto, jog auga jo kaina. Įprastai visgi būna priešingai.
+&#x20;Tai dažniausiai luxury prekių savybė, kai prekės troškimas didėja, nes mokėdami už ją daugiau, žmonės pradeda ją laikyti patikimesne, kokybiškesne.
 
-Šitą efektą galima pritaikyti ir taikant savo atliktų darbų įkainojimui:
 
-> Price is often a proxy for quality, and when you put yourself at the low end, it signals that you’re unsure of your value - or the value just isn’t there. Either can be alarming for prospective clients.>
+Šitą efektą galima pritaikyti ir taikant savo atliktų darbų įkainojimui:
+
+> Price is often a proxy for quality, and when you put yourself at the low end, it signals that you’re unsure of your value - or the value just isn’t there. Either can be alarming for prospective clients.
+>
 
 Reikia nepamiršti, kad tavo darbas turėtų būti apmokamas ne už tai ką tu realiai atlikai, o už sukuriamą naudą, vertę ar už tai kiek laiko tu kam nors potencialiai sutaupei.
 
