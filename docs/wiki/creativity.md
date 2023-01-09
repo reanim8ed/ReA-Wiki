@@ -1,9 +1,10 @@
-# Kūrybingumas
 ---
 description: >-
   Creativity is inspecting and introspecting components from everything around
   us.
 ---
+
+# Kūrybingumas
 
 - tags: #kūrybingumas
 ---
