@@ -29,7 +29,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/wiki/creativity.md",
+                "file": "docs/wiki/tech/ai.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#softwa",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/wiki/creativity.md",
+                "file": "docs/wiki/tech/ai.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/wiki/creativity.md",
+                "file": "docs/wiki/tech/ai.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/wiki/creativity.md"
+                "file": "docs/wiki/tech/ai.md"
               }
             }
           }
@@ -165,15 +165,15 @@
   },
   "active": "62e0194c2ca8619a",
   "lastOpenFiles": [
-    "docs/wiki/filmai.md",
-    "docs/wiki/muzika.md",
-    "docs/wiki/verslas.md",
-    "docs/wiki/videos.md",
     "docs/wiki/tech/tech.md",
-    "docs/motyvacija.md",
-    "docs/README.md",
-    "daily/2023-01-09.md",
-    "docs/wiki/citatos/citatos.md",
-    "docs/wiki/citatos/showerthoughts.md"
+    "docs/wiki/apps/self-host.md",
+    "docs/wiki/tech/gadgets/pc-build.md",
+    "docs/wiki/tech/ai.md",
+    "docs/wiki/apps/jailbreak.md",
+    "docs/wiki/tech/mac/ios/ios.md",
+    "docs/wiki/apps/mac.md",
+    "docs/wiki/dev/mac/set-up-for-web-development.md",
+    "docs/wiki/skaitiniai/skaitiniai.md",
+    "docs/wiki/karjera/vadyba.md"
   ]
 }

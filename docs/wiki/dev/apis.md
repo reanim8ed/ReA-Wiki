@@ -1,5 +1,8 @@
 # API's
 
+- tags: #API
+---
+
 ### Fake API for testing and prototyping
 
 * [https://jsonplaceholder.typicode.com](https://jsonplaceholder.typicode.com)

@@ -1,5 +1,7 @@
 # Databases
 
+- tags: #databases
+
 ### Postgres Full-Text Search
 
 * [http://rachbelaid.com/postgres-full-text-search-is-good-enough/](http://rachbelaid.com/postgres-full-text-search-is-good-enough/)

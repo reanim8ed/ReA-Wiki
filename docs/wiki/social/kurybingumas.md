@@ -1,12 +1,10 @@
 ---
-description: >-
-  Creativity is inspecting and introspecting components from everything around
-  us.
+description: Creativity is inspecting and introspecting components from everything around us.
 ---
 
 # Kūrybingumas
 
-- tags: #kūrybingumas
+- tags: #creativity
 ---
 
 Manau, jog kūrybingumas nėra kažkas labiau ypatingo nei idėjų, minčių apjungimas naujais būdais. Kitaip tariant [Everything Is A Remix](https://www.youtube.com/watch?v=nJPERZDfyWc).  Arba, kaip Samas yra sakęs "Visos dainos jau sudainuotos, tik ne visi pinigai dar paimti".

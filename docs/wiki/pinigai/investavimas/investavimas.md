@@ -2,7 +2,10 @@
 description: 'Never cry for money, because it never cries for you.'
 ---
 
-# Investavimas / FIRE
+# Investavimas
+
+- tags: #investing
+---
 
 ## Finansinė nepriklausomybė \(FIRE\)
 

@@ -1,6 +1,6 @@
 # Verslas
 
-- tags: #verslas
+- tags: #business
 ---
 
 ## Atsakas į reddit klausimą: Pradėsiu savo e-komercijos projektą. Ką turėčiau žinoti?

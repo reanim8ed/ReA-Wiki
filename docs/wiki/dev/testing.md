@@ -1,5 +1,7 @@
 # Testing
 
+- tags: #testing
+
 ## Tools
 
 * Locust - [https://locust.io/](https://locust.io/)

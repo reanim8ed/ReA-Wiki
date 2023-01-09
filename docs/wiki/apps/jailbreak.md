@@ -4,7 +4,8 @@
 
 Prieš 6 metus tinklaraštyje buvau aprašęs iOS jailbreak ir savo tuo metu labiausiai mėgiamus [teaks'us](https://www.reanimated.lt/wiki/technologijos/it-talk/ios-jailbreakas-ir-ka-su-juo-veikti).&#x20;
 
-Su laiku mano poreikis jailbreakinimui išties sumažėjo: modifikacijos, kurias laikydavau naudingomis, dabar jau yra integruotos pačioje iOS. Pvz.: iPad'o ekrane ir dock'e dabar jau telpa padorus apps'ų kiekis, teksto kursoriaus poziciją galima slankioti braukiant ties klaviatūros tarpo mygtuku, o&#x20;Apple pasiūlytas Night Shift funkcionalumas atkartoja f.lux'ą.
+Su laiku mano poreikis jailbreakinimui išties sumažėjo: modifikacijos, kurias laikydavau naudingomis, dabar jau yra integruotos pačioje iOS. Pvz.: iPad'o ekrane ir dock'e dabar jau telpa padorus apps'ų kiekis, teksto kursoriaus poziciją galima slankioti braukiant ties klaviatūros tarpo mygtuku, o&#x20;
+Apple pasiūlytas Night Shift funkcionalumas atkartoja f.lux'ą.
 
 Ikonų stiliaus, animacijų ar dizaino pakeitimai man ne taip berūpi, piratauti žaidimus taipogi, nes iš esmės iPad'ą naudoju tik skaitymui ir Youtube'ui, tad iš principo vienintelė svari priežastis toliau laužyti savo įrenginį liko tik reklamų blokavimas. Taip, AppStore galima rasti daugybę tai sugebančių apps'ų, tačiau tik turint JB galima turėti pilną, t.y. system wide adblock'ą, kai reklamos blokuojamos facebook'e, youtubėj ir kituose appsuose.
 

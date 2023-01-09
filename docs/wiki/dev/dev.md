@@ -1,5 +1,6 @@
 # DEV
-- tags: #programming #dev
+
+- tags: #dev
 ---
 
 - [What it feels like to be bullied out of a job you love](https://news.ycombinator.com/item?id=33177101)

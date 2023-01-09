@@ -1,5 +1,8 @@
 # Wordpress
 
+- tags: #wordpress
+---
+
 ### Multisite klonavimas
 
 * [https://wpengine.com/solution-center/ns-cloner/](https://wpengine.com/solution-center/ns-cloner/)

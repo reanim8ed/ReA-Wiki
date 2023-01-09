@@ -10,7 +10,9 @@ _This left us staring at the screen, confronting the intense concept of potentia
 ## Notes
 
 * Technologijų futuristas [Jamie Metzl](https://youtu.be/6TB3blQ1Wx0) pas Joe Rogan laidoje, kalba apie tai, kaip neišvengiamai technologijos integruosis, kad nebebus tokio ryškaus atskyrimo, kaip biologinė ir technologinė evoliucija, jos susilies į vieną.\
-  _Because we're on this exponential  &#x20;change it's really hard for people to internalize a kind of feel how fast  &#x20;these changes are coming._
+  _Because we're on this exponential
+  &#x20;change it's really hard for people to internalize a kind of feel how fast
+  &#x20;these changes are coming._
 * Vienas iš argumentų bandant sumažinti teiginius keliančius abejones ir baimę yra tai, kad dirbtinė intelekto forma nebūtinai turi būti priešiškai nusistačiusi, kaip mėgstama vaizduoti kino filmuose ir kad suteikiama nauda, gali kur kas lenkti bet kokią riziką. Tačiau šitas point'as yra labai slidus, dėlto, kad visa rizika atsiranda iš to jog atsiradus super intelligent AI, mes neteksime kontrolės, o intelekto šuolis gali būti toks staigus, jog primintų [sporgimą](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-2.html) ir mes akimirksniu liksime toli, daugybę laiptelių žemiau. O turint intelekto formą, kuri mus lenktų daugybę kartų, sukuria visiškai naujas rizikas. Užtenka pasižiūrėti į mūsų pačių elgseną:
 * _Intelligence gives us godlike powers over all other creatures on Earth—which has not been a fun time for the creatures. If any of their body parts are possible value creators, we have major industries processing and selling those body parts. We sometimes kill them for sport. But we’re probably the least fun all the times we’re just doing our thing, for our own reasons, with no hate in our hearts or desire to hurt anyone, and there are creatures, or ecosystems, that just happen to be in our way or in the line of fire of the side effects of what we’re doing. People like to get all mad at humanity about this, but really, we’re just doing what species do—being selfish, first and foremost._
 

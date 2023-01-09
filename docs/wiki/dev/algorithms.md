@@ -1,5 +1,8 @@
 # Algoritmai
 
+- tags: #algorithms
+---
+
 ## Doomsday Algorithm
 
 Metodas išskaičiuoti bet kurios datos savaitės dienai tiesiog mintyse.

@@ -4,6 +4,9 @@ description: The desired triple 8 rule — 8-hours sleep, 8-hours work, and 8-ho
 
 # Karjera
 
+- _I don’t need to squeeze money out of you. I’ll have the rest of your life to take your money. It’s my long-term greedy strategy. Our slogan is, ‘We’d rather you stay than pay.'” — Phil Libin, former CEO of Evernote
+* “Mushroom management” is where employees aren’t told about the ideas or general state of the company, and are given work without knowing its purpose. So called because they are “kept in the dark and fed bullshit” [https://www.wikiwand.com/en/Mushroom\_management](https://www.wikiwand.com/en/Mushroom\_management)
+- Kiekybinis rodiklis, vietoje kokybinio visada reiškia, kad bus generuojama kuo daugiau šlamšto.
 * Self-taught programmers are more likely to feel the nagging fear that their skills are incomplete or illegitimate. They worry that there are things they should know but have never name-checked with a Google search. They worry about other languages and hard-core computing theory. A surprising number worry about pronunciation, thinking that saying coder jargon the wrong way will expose them as an impostor.
 
 ### Atsakas į klausimą:  **Ar norint tureti programuotojo karjerą užtenka kolegijos?**

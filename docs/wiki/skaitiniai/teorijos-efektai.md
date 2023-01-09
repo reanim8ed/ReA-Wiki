@@ -1,4 +1,4 @@
-# Teorijos / efektai / fenomenai
+# Teorijos / efektai
 
 ### Didelių miestų apatiškumas
 
