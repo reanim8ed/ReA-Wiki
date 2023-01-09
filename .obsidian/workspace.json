@@ -22,17 +22,9 @@
               "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "62e0194c2ca8619a",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -155,7 +147,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "62e0194c2ca8619a",
+  "active": "6f2d40e2433f9750",
   "lastOpenFiles": [
     "docs/wiki/tech/ai.md",
     "docs/wiki/tech/tech.md",
