@@ -27,12 +27,8 @@
             "id": "62e0194c2ca8619a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/wiki/tech/ai.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -102,7 +98,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/wiki/tech/ai.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +114,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/wiki/tech/ai.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,9 +135,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "docs/wiki/tech/ai.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -165,10 +157,10 @@
   },
   "active": "62e0194c2ca8619a",
   "lastOpenFiles": [
+    "docs/wiki/tech/ai.md",
     "docs/wiki/tech/tech.md",
     "docs/wiki/apps/self-host.md",
     "docs/wiki/tech/gadgets/pc-build.md",
-    "docs/wiki/tech/ai.md",
     "docs/wiki/apps/jailbreak.md",
     "docs/wiki/tech/mac/ios/ios.md",
     "docs/wiki/apps/mac.md",
