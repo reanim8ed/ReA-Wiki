@@ -3,8 +3,15 @@
 ---
 
 ## Analytics
+
 - https://plausible.io/ - Simple and privacy-friendly Google Analytics alternative (can be self hosted)
 - https://clicky.com/ - GDPR-compliant, Real-time, Google Analytics alternative
+
+---
+
+## Project management
+
+- [Linear](https://linear.app/) - Streamline issues, sprints, and product roadmaps (Jira alternative)
 
 ---
 
