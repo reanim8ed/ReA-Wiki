@@ -3,7 +3,59 @@
 - tags: #reading
 ---
 
-### Skaitymo įpročiai
+## The Seven Basic Plots
+
+- https://en.wikipedia.org/wiki/The_Seven_Basic_Plots
+
+The meta-plot begins with the _anticipation stage_, in which the hero is called to the adventure to come. This is followed by a _dream stage_, in which the adventure begins, the hero has some success, and has an illusion of invincibility. However, this is then followed by a _frustration stage_, in which the hero has his first confrontation with the enemy, and the illusion of invincibility is lost. This worsens in the _nightmare stage_, which is the climax of the plot, where hope is apparently lost. Finally, in the _resolution_, the hero overcomes his burden against the odds.
+
+The key thesis of the book: "However many characters may appear in a story, its real concern is with just one: its hero. It is the one whose fate we identify with, as we see them gradually developing towards that state of self-realization which marks the end of the story. Ultimately it is in relation to this central figure that all other characters in a story take on their significance. What each of the other characters represents is really only some aspect of the inner state of the hero himself."
+
+Overcoming the monster
+
+Definition: The protagonist sets out to defeat an antagonistic force (often evil) that threatens the protagonist and/or protagonist's homeland.
+
+Examples: [Perseus](https://en.wikipedia.org/wiki/Perseus "Perseus"), [Theseus](https://en.wikipedia.org/wiki/Theseus "Theseus"), _[Beowulf](https://en.wikipedia.org/wiki/Beowulf "Beowulf")_, _[Dracula](https://en.wikipedia.org/wiki/Dracula "Dracula")_, _[The War of the Worlds](https://en.wikipedia.org/wiki/The_War_of_the_Worlds "The War of the Worlds")_, _[Nicholas Nickleby](https://en.wikipedia.org/wiki/Nicholas_Nickleby "Nicholas Nickleby")_, _[The Guns of Navarone](https://en.wikipedia.org/wiki/The_Guns_of_Navarone_(novel) "The Guns of Navarone (novel)")_, _[Seven Samurai](https://en.wikipedia.org/wiki/Seven_Samurai "Seven Samurai")_ (_[The Magnificent Seven](https://en.wikipedia.org/wiki/The_Magnificent_Seven "The Magnificent Seven")_), [James Bond](https://en.wikipedia.org/wiki/James_Bond "James Bond"), _[Jaws](https://en.wikipedia.org/wiki/Jaws_(film) "Jaws (film)")_, _[Star Wars](https://en.wikipedia.org/wiki/Star_Wars:_A_New_Hope "Star Wars: A New Hope")_, _[Naruto](https://en.wikipedia.org/wiki/Naruto "Naruto")_.
+
+Rags to riches
+
+Definition: The poor protagonist acquires power, wealth, and/or a mate, loses it all and gains it back, growing as a person as a result.
+
+Examples: _[Cinderella](https://en.wikipedia.org/wiki/Cinderella "Cinderella")_, _[Aladdin](https://en.wikipedia.org/wiki/Aladdin "Aladdin")_, _[Jane Eyre](https://en.wikipedia.org/wiki/Jane_Eyre "Jane Eyre")_, _[A Little Princess](https://en.wikipedia.org/wiki/A_Little_Princess "A Little Princess")_, _[Great Expectations](https://en.wikipedia.org/wiki/Great_Expectations "Great Expectations")_, _[David Copperfield](https://en.wikipedia.org/wiki/David_Copperfield "David Copperfield")_, _[Moll Flanders](https://en.wikipedia.org/wiki/Moll_Flanders "Moll Flanders")_, _[The Red and the Black](https://en.wikipedia.org/wiki/The_Red_and_the_Black "The Red and the Black")_, _[The Prince and the Pauper](https://en.wikipedia.org/wiki/The_Prince_and_the_Pauper "The Prince and the Pauper")_, _[The Ugly Duckling](https://en.wikipedia.org/wiki/The_Ugly_Duckling "The Ugly Duckling")_, _[The Gold Rush](https://en.wikipedia.org/wiki/The_Gold_Rush "The Gold Rush")_, _[The Jerk](https://en.wikipedia.org/wiki/The_Jerk "The Jerk")_.
+
+The quest
+
+Definition: The protagonist and companions set out to acquire an important object or to get to a location. They face temptations and other obstacles along the way.
+
+Examples: [_The Iliad_](https://en.wikipedia.org/wiki/Iliad "Iliad"), _[The Pilgrim's Progress](https://en.wikipedia.org/wiki/The_Pilgrim%27s_Progress "The Pilgrim's Progress")_, _[The Lord of the Rings](https://en.wikipedia.org/wiki/The_Lord_of_the_Rings "The Lord of the Rings")_, _[King Solomon's Mines](https://en.wikipedia.org/wiki/King_Solomon%27s_Mines "King Solomon's Mines")_, _[The Divine Comedy](https://en.wikipedia.org/wiki/The_Divine_Comedy "The Divine Comedy")_, _[Watership Down](https://en.wikipedia.org/wiki/Watership_Down "Watership Down")_, _[The Aeneid](https://en.wikipedia.org/wiki/The_Aeneid "The Aeneid")_, _[Raiders of the Lost Ark](https://en.wikipedia.org/wiki/Raiders_of_the_Lost_Ark "Raiders of the Lost Ark")_, _[Monty Python and the Holy Grail](https://en.wikipedia.org/wiki/Monty_Python_and_the_Holy_Grail "Monty Python and the Holy Grail")_.
+
+Voyage and return
+
+Definition: The protagonist goes to a strange land and, after overcoming the threats it poses or learning important lessons unique to that location, they return with experience.
+
+Examples: _[Ramayana](https://en.wikipedia.org/wiki/Ramayana "Ramayana")_, _[Odyssey](https://en.wikipedia.org/wiki/Odyssey "Odyssey")_, _[Alice's Adventures in Wonderland](https://en.wikipedia.org/wiki/Alice%27s_Adventures_in_Wonderland "Alice's Adventures in Wonderland")_, _[Goldilocks and the Three Bears](https://en.wikipedia.org/wiki/Goldilocks_and_the_Three_Bears "Goldilocks and the Three Bears")_, [Orpheus](https://en.wikipedia.org/wiki/Orpheus "Orpheus"), _[The Time Machine](https://en.wikipedia.org/wiki/The_Time_Machine "The Time Machine")_, _[Peter Rabbit](https://en.wikipedia.org/wiki/Peter_Rabbit "Peter Rabbit")_, _[The Hobbit](https://en.wikipedia.org/wiki/The_Hobbit "The Hobbit")_, _[Brideshead Revisited](https://en.wikipedia.org/wiki/Brideshead_Revisited "Brideshead Revisited")_, _[The Rime of the Ancient Mariner](https://en.wikipedia.org/wiki/The_Rime_of_the_Ancient_Mariner "The Rime of the Ancient Mariner")_, _[Gone with the Wind](https://en.wikipedia.org/wiki/Gone_with_the_Wind_(novel) "Gone with the Wind (novel)")_, _[The Third Man](https://en.wikipedia.org/wiki/The_Third_Man "The Third Man")_, _[The Lion King](https://en.wikipedia.org/wiki/The_Lion_King "The Lion King")_, _[Back to the Future](https://en.wikipedia.org/wiki/Back_to_the_Future "Back to the Future")_, _[The Lion, the Witch and the Wardrobe](https://en.wikipedia.org/wiki/The_Lion,_the_Witch_and_the_Wardrobe "The Lion, the Witch and the Wardrobe")_, _[Gulliver's Travels](https://en.wikipedia.org/wiki/Gulliver%27s_Travels "Gulliver's Travels")_, _[Peter Pan](https://en.wikipedia.org/wiki/Peter_and_Wendy "Peter and Wendy")_, _[The Epic of Gilgamesh](https://en.wikipedia.org/wiki/The_Epic_of_Gilgamesh "The Epic of Gilgamesh")_.
+
+Comedy
+
+Definition: Light and humorous character with a happy or cheerful ending; a dramatic work in which the central motif is the triumph over adverse circumstance, resulting in a successful or happy conclusion. Booker stresses that comedy is more than humor. It refers to a pattern where the conflict becomes more and more confusing, but is at last made plain in a single clarifying event. The majority of romance films fall into this category.
+
+Examples: _[The Wasps](https://en.wikipedia.org/wiki/The_Wasps "The Wasps")_, _[Aurularia](https://en.wikipedia.org/wiki/The_Pot_of_Gold "The Pot of Gold")_, _[The Arbitration](https://en.wikipedia.org/wiki/Epitrepontes "Epitrepontes")_, _[A Midsummer Night's Dream](https://en.wikipedia.org/wiki/A_Midsummer_Night%27s_Dream "A Midsummer Night's Dream")_, _[Much Ado About Nothing](https://en.wikipedia.org/wiki/Much_Ado_About_Nothing "Much Ado About Nothing")_, _[Twelfth Night](https://en.wikipedia.org/wiki/Twelfth_Night "Twelfth Night")_, _[The Taming of the Shrew](https://en.wikipedia.org/wiki/The_Taming_of_the_Shrew "The Taming of the Shrew")_, _[The Alchemist](https://en.wikipedia.org/wiki/The_Alchemist_(play) "The Alchemist (play)")_, _[Bridget Jones's Diary](https://en.wikipedia.org/wiki/Bridget_Jones%27s_Diary "Bridget Jones's Diary")_, _[Four Weddings and a Funeral](https://en.wikipedia.org/wiki/Four_Weddings_and_a_Funeral "Four Weddings and a Funeral")_, _[The Big Lebowski](https://en.wikipedia.org/wiki/The_Big_Lebowski "The Big Lebowski")_.
+
+Tragedy
+
+Definition: The protagonist is a hero with a major character flaw or great mistake which is ultimately their undoing. Their unfortunate end evokes pity at their folly and the fall of a fundamentally good character.
+
+Examples: _[Anna Karenina](https://en.wikipedia.org/wiki/Anna_Karenina "Anna Karenina")_, _[Bonnie and Clyde](https://en.wikipedia.org/wiki/Bonnie_and_Clyde_(film) "Bonnie and Clyde (film)")_, _[Carmen](https://en.wikipedia.org/wiki/Carmen "Carmen")_, _[Citizen Kane](https://en.wikipedia.org/wiki/Citizen_Kane "Citizen Kane")_, _[John Dillinger](https://en.wikipedia.org/wiki/John_Dillinger "John Dillinger")_, _[Jules et Jim](https://en.wikipedia.org/wiki/Jules_et_Jim "Jules et Jim")_, _[Julius Caesar](https://en.wikipedia.org/wiki/Julius_Caesar_(play) "Julius Caesar (play)")_, _[Macbeth](https://en.wikipedia.org/wiki/Macbeth "Macbeth")_, _[Madame Bovary](https://en.wikipedia.org/wiki/Madame_Bovary "Madame Bovary")_, _[Oedipus Rex](https://en.wikipedia.org/wiki/Oedipus_Rex "Oedipus Rex")_, _[The Picture of Dorian Gray](https://en.wikipedia.org/wiki/The_Picture_of_Dorian_Gray "The Picture of Dorian Gray")_, _[Romeo and Juliet](https://en.wikipedia.org/wiki/Romeo_and_Juliet "Romeo and Juliet")_, _[Hamilton](https://en.wikipedia.org/wiki/Hamilton_(musical) "Hamilton (musical)")_, _[The Great Gatsby](https://en.wikipedia.org/wiki/The_Great_Gatsby "The Great Gatsby")_, _[Hamlet](https://en.wikipedia.org/wiki/Hamlet "Hamlet")_.
+
+Rebirth
+
+Definition: An event forces the main character to change their ways and often become a better individual.
+
+Examples: _[Pride and Prejudice](https://en.wikipedia.org/wiki/Pride_and_Prejudice "Pride and Prejudice")_, _[The Frog Prince](https://en.wikipedia.org/wiki/The_Frog_Prince_(story) "The Frog Prince (story)")_, _[Beauty and the Beast](https://en.wikipedia.org/wiki/Beauty_and_the_Beast "Beauty and the Beast")_, _[The Snow Queen](https://en.wikipedia.org/wiki/The_Snow_Queen "The Snow Queen")_, _[A Christmas Carol](https://en.wikipedia.org/wiki/A_Christmas_Carol "A Christmas Carol")_, _[The Secret Garden](https://en.wikipedia.org/wiki/The_Secret_Garden "The Secret Garden")_, _[Peer Gynt](https://en.wikipedia.org/wiki/Peer_Gynt "Peer Gynt")_, _[Groundhog Day](https://en.wikipedia.org/wiki/Groundhog_Day_(film) "Groundhog Day (film)")_.
+
+---
+
+## Skaitymo įpročiai
 
 Jaučiu, kad man netinka įprastinės taisyklės, kaip turi būti skaitomos knygos, nes jomis vadovaujantis skaitau kurkas mažiau nei norėčiau. Dažniausiai man koją pakiša tai, kad knygų skaitymas yra laikui reiklus užsiėmimas ir pirmenybę atiduodu kitiems dalykams, primarily internetui. Kartais būna, jog knyga tiesiog neįtraukia ar yra ne tokia jau ir gera, kaip tikėjausi, o kartais pati knyga gali būti nuostabi, tačiau apie jos aprašomą temą paskutiniu metu jau domėjausi ir nebesvarbu, kaip gerai ji susisteminta ir aprašyta, tačiau jau nebeturiu susidomėjimo ir būna tiesiog nuobodu.
 
