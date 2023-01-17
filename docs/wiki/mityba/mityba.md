@@ -1,5 +1,7 @@
 # Mityba
 
+- [Supplements: A scorecard](https://www.health.harvard.edu/newsletter_article/supplements-a-scorecard) 
+
 ### Žuvų taukai
 
 Pabandžius pasidomėti apie tai ar žuvų taukai ištiesų yra naudingi ar tai yra snake oil (pun intended), galima rasti daug prieštaraujančių tyrimų, tad aiškaus atsakymo visgi nėra. Tačiau aš asmeniškai vadovaujuosi tokia prielaida: dauguma diatologų ir sveikos gyvensenos specialistų pripažįsta, jog sveikoje, subalansuotoje mityboje svarbią dalį turėtų užimti žuvis. Ir visgi nors visi retkarčiais ir paskaunaujame jos, tačiau ko gero dauguma iš mūsų jos nevalgome taip jau reguliariai dažnai, kaip ištiesų turėtume. Tad net jei ir ignoruosime visus tuos pažadus apie žuvų taukų efektus, kaip stipresnę širdį, imunitetą ir smegenis, visgi galima pripažinti, jog papildyti mitybą papildais, taip kompensuojant žuvies trūkumą mūsų racione, išties turėtų būti verta. Ir išgerti papildomai papildą atrodo daug paprastesnis variantas, nei pradėti valgyti kur kas didesnius kiekius žuvies.
