@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/wiki/apps/software-tools.md",
+                "file": "docs/wiki/apps/mac.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/wiki/apps/software-tools.md",
+                "file": "docs/wiki/apps/mac.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/wiki/apps/software-tools.md",
+                "file": "docs/wiki/apps/mac.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/wiki/apps/software-tools.md"
+                "file": "docs/wiki/apps/mac.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "e5c2b95c0521693d",
   "lastOpenFiles": [
-    "docs/wiki/dev/php/wordpress.md",
     "docs/wiki/apps/software-tools.md",
+    "docs/wiki/dev/php/wordpress.md",
     "docs/wiki/apps/self-host.md",
     "docs/wiki/apps/mac.md",
     "docs/wiki/apps/README.md",

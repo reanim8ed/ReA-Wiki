@@ -127,6 +127,7 @@ Taigi išsisaugoti nuorodoms iki šiol naudojau Google Keep ir Pocket kombinacij
 * [Notable ](https://github.com/notable/notable)- kokybiškas local Markdown editorius išlaikantis hierarchinę sistemą
 * [Typora](https://typora.io) - kaip markdown editorius, turi nemažai patogių papildomų funkcijų
 * [Zettlr](https://www.zettlr.com)
+* [Mark](https://github.com/barelyhuman/mark-mac) - a macOS native markdown editor
 
 ## Markdown publishing
 
