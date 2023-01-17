@@ -22,10 +22,20 @@
 * [Redirect.li ](https://redirect.li/http/?url=https%3A%2F%2Ffabricair.com%2Flt%2Fabout-fabricair%2Femployees%2Fasia)- test headers
 * [Mail-tester](https://www.mail-tester.com/) - test email issues
 
-### LEMP
+## Server
+
+* [Caddy](https://caddyserver.com/) - Caddy 2 is a powerful, enterprise-ready, **open source web server** with **automatic HTTPS** written in Go
+
+### Local
 
 * [Laragon ](https://laragon.org/download/index.html)- vienas labiausiai patikusių local server sprendimų LEMP stack'ui. Iš pavadinimo atrodytų, jog orientuotas į Laravel, bet ištiesų tai pilnavertė alternatyva WAMP, XAMPP ar mano iki tol naudotam UniServer. Automatinis host file įrašų sukūrimas, itin lengvas naujų stack'o versijų diegimas, integruotas Mail Catcher'is ir ko gero overall veikiantis sparčiausiai iš visų kadanors bandytų.
 * Kita alternatyva - [Laradock](http://laradock.io): PHP development environment, skirtas Docker'iui.
+
+---
+
+## Search
+
+- [Sonic](https://github.com/valeriansaliou/sonic) - Sonic is a fast, lightweight and schema-less search backend. Can be used as a simple alternative to super-heavy and full-featured search backends such as Elasticsearch in some use-cases, but not as drop in replacement.
 
 ---
 
