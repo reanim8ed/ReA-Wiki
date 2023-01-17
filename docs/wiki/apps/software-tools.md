@@ -108,6 +108,7 @@ Kelios ne self-hosted alternatyvos:
 * [Standart Notes](https://standardnotes.org) yra artimiausia Evernote alternatyva, kurią so far pavyko rasti. Nemokamas, cross-platform'inis, labai panašus failų organizavimas. Jei reikia daugiau laisvės, nei suteikia Google Keep - manau vienas geresnių pasirinkimų.
 	* [Awesome Standart Notes](https://github.com/jonhadfield/awesome-standard-notes) - A curated list of tools and information relating to Standard Notes
 * [Notion ](https://www.notion.so)- multiplatforminė ir sąlyginai nemokama Evernote alternatyva, turinti visai neblogų pranašumų. Pvz.: palaiko DB stiliaus lenteles, Trello stiliaus kanban bei turi markdown support'ą. Viena pagrindinių paskirčių kaip galiu panaudoti - greitas research draft'as, pvz kelionių planavimai. Tačiau startuoja kiek lėtai ir feature overload'as kiek apsunkina naudojimą, nėra itin intuityvus.
+	* [Craft](https://www.craft.do/solutions/individuals) - Notion alternative
 
 ## Bookmarking tools
 
