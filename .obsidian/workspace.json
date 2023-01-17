@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/wiki/dev/tools.md",
+                "file": "docs/wiki/pirkiniai/pirkiniai.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/wiki/dev/tools.md",
+                "file": "docs/wiki/pirkiniai/pirkiniai.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/wiki/dev/tools.md",
+                "file": "docs/wiki/pirkiniai/pirkiniai.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/wiki/dev/tools.md"
+                "file": "docs/wiki/pirkiniai/pirkiniai.md"
               }
             }
           }
@@ -146,13 +146,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e5c2b95c0521693d",
+  "active": "6f2d40e2433f9750",
   "lastOpenFiles": [
+    "docs/wiki/dev/tools.md",
     "docs/wiki/dev/apis.md",
     "docs/wiki/dev/php/wordpress.md",
     "docs/wiki/dev/php/php.md",
     "docs/wiki/social/komunikacija.md",
-    "docs/wiki/dev/tools.md",
     "docs/wiki/dev/dev.md",
     "docs/wiki/dev/databases.md",
     "docs/wiki/dev/testing.md",
