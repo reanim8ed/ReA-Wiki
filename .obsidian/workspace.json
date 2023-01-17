@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/motyvacija.md",
+                "file": "docs/wiki/dev/tools.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/motyvacija.md",
+                "file": "docs/wiki/dev/tools.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/motyvacija.md",
+                "file": "docs/wiki/dev/tools.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +115,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false
               }
             }
           },
@@ -125,12 +125,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/motyvacija.md"
+                "file": "docs/wiki/dev/tools.md"
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -146,17 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6f2d40e2433f9750",
+  "active": "e5c2b95c0521693d",
   "lastOpenFiles": [
-    "docs/wiki/skaitiniai/skaitiniai.md",
-    "docs/wiki/skaitiniai/README.md",
-    "docs/wiki/tech/ai.md",
-    "docs/wiki/tech/tech.md",
-    "docs/wiki/apps/self-host.md",
-    "docs/wiki/tech/gadgets/pc-build.md",
-    "docs/wiki/apps/jailbreak.md",
-    "docs/wiki/tech/mac/ios/ios.md",
-    "docs/wiki/apps/mac.md",
-    "docs/wiki/dev/mac/set-up-for-web-development.md"
+    "docs/wiki/dev/dev.md",
+    "docs/wiki/dev/apis.md",
+    "docs/wiki/dev/tools.md",
+    "docs/wiki/dev/databases.md",
+    "docs/wiki/dev/php/wordpress.md",
+    "docs/wiki/dev/php/php.md",
+    "docs/wiki/dev/testing.md",
+    "docs/wiki/apps/software-tools.md",
+    "docs/motyvacija.md",
+    "docs/wiki/skaitiniai/skaitiniai.md"
   ]
 }

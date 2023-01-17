@@ -79,3 +79,7 @@ $fb = new \Facebook\Facebook([
 
 $response = $fb->get('/{page-id}/posts?&fields=id,created_time,permalink_url,message,attachments', {access-token});
 ```
+
+# Tools
+* [Paw ](https://paw.cloud)- API tool for Mac (like Postman)
+* [Dash](https://kapeli.com/dash) - API Documentation Browser and Code Snippet Manager for Mac (alt for [Zeal](https://zealdocs.org))
