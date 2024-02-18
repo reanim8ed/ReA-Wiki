@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/daily/2024-02-18.md",
+                "file": "docs/daily/README.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/daily/2024-02-18.md",
+                "file": "docs/daily/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/daily/2024-02-18.md",
+                "file": "docs/daily/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/daily/2024-02-18.md"
+                "file": "docs/daily/README.md"
               }
             }
           }
@@ -156,8 +156,8 @@
   },
   "active": "b66429d4428a996b",
   "lastOpenFiles": [
-    "docs/daily/README.md",
     "docs/daily/2024-02-18.md",
+    "docs/daily/README.md",
     "docs/SUMMARY.md",
     "docs/apps/apps.md",
     "docs/archive/README.md",

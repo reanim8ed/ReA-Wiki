@@ -1,5 +1,3 @@
-# Daily
-
 # 2024-02-18
 ---
 Big Iron - mainframe like infrastruktūra didelėse korporacijoje.  
