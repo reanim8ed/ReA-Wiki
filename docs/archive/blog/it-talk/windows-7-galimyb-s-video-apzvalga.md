@@ -1,2 +1,2 @@
-# Windows 7 galimybės – video apžvalga
+# Windows 7 Galimyb S Video Apzvalga
 

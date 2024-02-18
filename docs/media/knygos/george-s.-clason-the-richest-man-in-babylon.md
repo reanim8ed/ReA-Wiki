@@ -1,19 +1,2 @@
 # George S. Clason - The Richest Man in Babylon
 
-**Start thy purse to fattening** (Pay yourself first) - The book recommends a 10% saving at the least (keep 1 out of every 10 gold coins for yourself). Just remove it \_\_ as soon as one gets the salary or any lumpsum amount (Recommended to start with 10% and afterwards go up).
-
-**Control thy expenditures** - For this budgeting has been suggested in the book. The basic idea is to be aware that life is a series of trade-offs in which one desire is sacrificed to support another one which is considered to be more important. The first cure helps in attaining the second one.
-
-**Make thy gold multiply** - Saving money is slightly different from investing it. Investing means putting your money in instruments which provide interest which again can be invested. Be it the use of stock markets, real estate, trading, investing in a business, etc based upon the individual's expertise and knowledge.
-
-**Guard thy treasures from loss** - Partly this indicates the idea of medical insurance (and other types of insurances like critical care, disability). The main part is invest in instruments which have a margin of safety, are liquid and provide a reasonable (too good to be true are false) rate of appreciation. If required, consult with wise men (defined as people who have decent experience in increasing their money) and secure their advice. As a corollary, do not invest in instruments with which you are not familiar or which cannot be explained in easy ways to you – say NO to them. Do not buy anything which someone wants to sell (read all insurance products except the pure term ones). Buy what you have researched and you think is valuable.
-
-**Make of thy dwelling a profitable investment** - This translates into buy or rent a house which is affordable to you. Although the book mentions own thy home, but it should be considered in a way of owning and not being owned by a bank/loan. (My personal thumb rule is have 50% of the house cost as your own money before thinking of buying one).
-
-**Insure a future income** - There are again two aspects in this – one is the use of life insurance which will ensure that in case of your own loss of life, persons who are financially dependent upon you get an amount which will be sufficient for them. The other part is to consider the idea of financial independence (a.k.a. retirement) which will provide a decent stream of income when you can stop working for money (in case you do not die!).
-
-**Increase thy ability to earn** - Continually learn and improve. It can be in the form of how to better invest, better save, etc – do this by reading and understanding more (books, blogs, websites). Eat healthy, exercise regularly, etc are also part of this. A quote from Scott Adams would be apt here – Every skill you acquire doubles your odds of success.
-
-_When youth comes to age for advice he receives the wisdom of years. But too often does youth think that age knows only the wisdom of days that are gone, and therefore profits not. But remember this, the sun than shines today is the sun that shone when thy father was born, and will still be shining when thy last grandchild shall pass into the darkness._
-
-_Yet, thou do not all earn the same. Some earn much more that others. Some have much larger families to support. Yet, all purses were equally lean. Now I will tell thee an unusual thruth about men and sons of men. It is this: That what each of us call our 'necessary expanses' will always grow to equal our incomes unless we protest to the contrary. "Confuse not the necessary expanses with thy desires. Each of you, together with your good families, have more desires that your earnings can gratify. Therefore are thy earnings spent to gratify these desires insofar as they will go. Still thou retainest many ungratified desires._

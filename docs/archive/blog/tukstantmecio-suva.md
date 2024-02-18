@@ -1,24 +1,2 @@
----
-description: 'Publikuota: 2012-04-30'
----
-
-# Tūkstantmečio šuva
-
-![](../../.gitbook/assets/article-1161903-03e282fe000005dc-851_468x306.jpg)
-
-Ne, čia visai be ironijos. Ko gero reikėtų savo bloge užvesti kategoriją ala „Įdomios istorijos“ ar kažkas panašaus, nes jaučiu malonumą kartas nuo karto aprašyti kokią neeilinę istoriją iš to, ką aš kiekvieną dieną atkapstau internetuose. Šį kartą tarp tokių istorijų atsidūrė šunėkas. Ne kažin koks šunėkas, o toks, kur galėtų tą patį Reksą aplenkt savo išmaningumu. Pasirodo pigaus serialo kino siužetas gali įvykti net ir realiame gyvenime…
-
-Taigi, Endal \(toks šuns vardas\) gyvavo 1995-2009 \(taaaip, gaila šio super šunėko jau nebėra gyvųjų tarpe\) – tai buvo britų auginamas retriveris, kurio istorija prasidėjo sunkiai, nes šuo gimė su silpnomis galinėmis letenomis ir jo sugebėjimu būti pagalbiniu šunimi \(na žinot, tokie, kur padeda akliesiems and so on\) buvo labai abejojama. Tačiau tinkamos dietos ir treniruočių dėka šis silpnuolis tapo ne tik pilnaverčiu padėjėju, bet ir susirankliojo tokius titulus, kaip kad „žymiausias šuo Angijoje“, ar net „tūkstanmečio šuo“, bei pelnė PDSA \([_People’s Dispensary for Sick Animals_](http://www.google.lt/url?sa=t&rct=j&q=&esrc=s&source=web&cd=11&ved=0CG0QFjAK&url=http%3A%2F%2Fen.wikipedia.org%2Fwiki%2FPeople%27s_Dispensary_for_Sick_Animals&ei=Y6qdT8uwGIHxsgbRsKyLAQ&usg=AFQjCNEhtrosUU0BKGOs0rDgD05gyt2ErA&sig2=-OgwpynuZ6zqeDq4nKZqPg)_\)_ auksinį medalį už narsumą, bei atsidavimą, o tai yra aukščiausias įvertinimas, kurį gali gauti gyvūnas ir kurį prieš tai yra gavęs tik vienintelis – kitas šuo, 1991-aisiais metais. Taigi, ką jis jau tokio pridirbo, kad jį spėjo filmuoti daugiau, nei 300 žurnalistų komandų iš viso pasaulio?
-
-90-aisiais Endal buvo paskirtas Allen’ui Parton’ui – veteranui, dalyvavusiame „Operacija dykumos audra“. Po šio karo, karininkas buvo smarkiai sužalotas – 50% atminties praradimas, silpnas įsimenamumas, prikaustytas prie vėžimėlio ir turėjo kalbos problemų. Tad norint tokiam žmogui adaptuotis visuomenėje – tiesiog būtinas pagalbininkas, kuriuo ir tapo specialiai apmokytas šuo, kuris sugeba vykdyti daugiau, nei šimtą žodžiu duotų instrukcijų ir dar daugiau gestais nurodomų komandų. Šis ne paprastas šuo galėjo paduoti prekes iš prekybos centro lentynų, ištraukti vonios kamštį, šeimininkui netikėtai praradus sąmonę vonioje, operatuoti mygtukais lifte ar atidarant duris, bei pripildyti skalbiniais tuščią skalbimo mašiną. Tarp vienų įspūdingiausių gebėjimų – tai vienintelis pasaulyje šuo, kuris sugebėdavo operuoti bankomatu, įskaitant kortelės ištraukimą, įdėjimą į bankomatą, bei grąžinimą ją atgal į piniginę!!!
-
-„Kai aš nebegalėjau kalbėti, jis išmoko ženklų kalbą – jei paliečiu savo galvą, jis atneša man kepurę, jei liečiu veidą – skustuvą. Tokiu būdu aš jam galėjau pateikti šimtus komandų. Kai dėl savo negalios puoliau į gilią depresiją ir neviltį ir man grėsė skyrybos su žmona –  būtent šis mano draugas visada mane nudžiugindavo. Daktarai sakė, kad aš niekada nebegalėsiu kalbėti, tačiau tas šuo, tiesiog ištraukė kalbą iš manęs ir aš pirmą kartą po daugelio metų išskleidžiau verbalinius garsus. Tiesa, tai buvo labiau panašu į suurzgimą tačiau mano kompanjoną lyg elektra nukratė ir jis ėmė šokinėti ir loti. Vėliau po mažu atgavau kalbos dovaną.“ – pasakoja Allen’as.
-
-Tačiau neskaitant šios superinės dresiruotės, daugiausiai dėmesio viešumoje susilaukė 2001-ųjų metų istorija, kai Allen’as užkliudytas pravažiuojančio autmobilio iškrito iš vėžimėlio ir prarado sąmonę. Taigi jo narsusis pagalbininkas nutraukė savo šeimininką nuo kelio, pavertė ant šono į [atsigavimo pozą](http://en.wikipedia.org/wiki/Recovery_position), ištraukė telefoną nukritusį po stovinčiu automobiliu, padėjo prie šeimininko veido, atitempė anklodę, uždengė savo sužalotą šeimininką, palojo į gretimų butų pusę ir nubėgo iki netoliese esančio viešbučio, bei tokiu būdu prišaukė pagalbos… Taaaip, visu tuom tikrai sunku patikėti, nes net ta pati Lesė nebūtų buvus tokia rūpestinga ir didvyriška :j
-
-Būtent dėl šio įvykio apie šį šunį yra parašyta knyga, kuri 2009-aisiais pakilo į 5-tąją UK bestselerių vietą, o pagal šią knygą vėliau pastatytas ir kino filmas.
-
-Žinoma, gyvūnas, nebūtų gyvūnas, jei kartais nesielgtų išdavikiškai: pasitaikydavo atvejų, kai šis „pamiršdavo“ vykdyti įsakymą, pamatęs vovierę parkelyje ir nusivyjęs ją, arba specialiai ištraukdavo šiukšles iš šiukšlių dėžės ir padėdavo kambaryje, kad vėliau sutvarkęs netvarką gautų skanų kasnelį, kaip apdovanojimą :j Bet manau, visi sutiksit, kad tokios istorijos tiesiog sukelia šypseną ir prideda gyvybingumo, natūralumo ir parodo, kad iš šuns nepadarytas visiškas robotukas ir visgi jis turi savo charakterį.
-
-Nuostabus šuo ir nuostabi jo istorija. Ir taip, man visgi labiau patinka šunys, nei katės…
+# Tukstantmecio Suva
 
