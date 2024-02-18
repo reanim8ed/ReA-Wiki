@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4dbda9350257fcaa",
+        "id": "310c9aff6fef6e1d",
         "type": "tabs",
         "children": [
           {
-            "id": "b66429d4428a996b",
+            "id": "8a81cc882462d6e3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/daily/README.md",
+                "file": "docs/daily/2024-02/2024-02-18.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/daily/README.md",
+                "file": "docs/daily/2024-02/2024-02-18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/daily/README.md",
+                "file": "docs/daily/2024-02/2024-02-18.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/daily/README.md"
+                "file": "docs/daily/2024-02/2024-02-18.md"
               }
             }
           }
@@ -154,11 +154,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b66429d4428a996b",
+  "active": "8a81cc882462d6e3",
   "lastOpenFiles": [
-    "docs/daily/2024-02-18.md",
-    "docs/daily/README.md",
+    "docs/daily/2024-02/2024-02-18.md",
     "docs/SUMMARY.md",
+    "docs/daily/2024-02",
+    "docs/daily/2024-02",
+    "docs/daily/README.md",
     "docs/apps/apps.md",
     "docs/archive/README.md",
     "Untitled",

@@ -3,6 +3,8 @@
 * [Įvadas](README.md)
 * [Motyvacija](motyvacija.md)
 * [daily](daily/README.md)
+	* [2024-02](daily/2024-02)
+	  * [2024-02-18](daily/2024-02/2024-02-18.md)
 * [apps](apps/README.md)
   * [Apps](apps/apps.md)
   * [Jailbreak](apps/jailbreak.md)
