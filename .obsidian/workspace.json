@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/SUMMARY.md",
+                "file": "docs/apps/apps.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/SUMMARY.md",
+                "file": "docs/apps/apps.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/SUMMARY.md",
+                "file": "docs/apps/apps.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/SUMMARY.md"
+                "file": "docs/apps/apps.md"
               }
             }
           }
@@ -156,10 +156,10 @@
   },
   "active": "2bdf7e1d3e04795c",
   "lastOpenFiles": [
+    "docs/SUMMARY.md",
     "docs/daily/README.md",
     "docs/archive/README.md",
     "docs/daily/2024-02-18.md",
-    "docs/SUMMARY.md",
     "Untitled",
     "docs/skaitiniai/mental-modeliai.md",
     "docs/skaitiniai/README.md",
