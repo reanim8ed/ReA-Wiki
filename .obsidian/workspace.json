@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9406f5576b8713ef",
+        "id": "071f90f4f3a7fc9c",
         "type": "tabs",
         "children": [
           {
-            "id": "657dd17d38207fca",
+            "id": "2bdf7e1d3e04795c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2024-02-18.md",
+                "file": "docs/SUMMARY.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2024-02-18.md",
+                "file": "docs/SUMMARY.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2024-02-18.md",
+                "file": "docs/SUMMARY.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2024-02-18.md"
+                "file": "docs/SUMMARY.md"
               }
             }
           }
@@ -154,12 +154,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "657dd17d38207fca",
+  "active": "2bdf7e1d3e04795c",
   "lastOpenFiles": [
+    "docs/daily/README.md",
+    "docs/archive/README.md",
+    "docs/daily/2024-02-18.md",
+    "docs/SUMMARY.md",
+    "Untitled",
     "docs/skaitiniai/mental-modeliai.md",
     "docs/skaitiniai/README.md",
     "docs/skaitiniai/skaitiniai.md",
-    "daily/2024-02-18.md",
     "docs/motyvacija.md",
     "docs/README.md",
     "docs/apps/apps.md",

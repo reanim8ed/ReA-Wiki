@@ -1,4 +1,5 @@
 {
-  "folder": "daily",
-  "template": "templates/daily"
+  "folder": "docs/daily",
+  "template": "templates/daily",
+  "autorun": true
 }

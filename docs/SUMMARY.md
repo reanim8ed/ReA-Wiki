@@ -2,6 +2,7 @@
 
 * [Įvadas](README.md)
 * [Motyvacija](motyvacija.md)
+* [daily](daily/README.md)
 * [apps](apps/README.md)
   * [Apps](apps/apps.md)
   * [Jailbreak](apps/jailbreak.md)
