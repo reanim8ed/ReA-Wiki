@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "eb8f4ddb5e5bf5be",
+        "id": "9406f5576b8713ef",
         "type": "tabs",
         "children": [
           {
-            "id": "e2aff71ddc0973ac",
+            "id": "657dd17d38207fca",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 241.5
   },
   "right": {
     "id": "cfbb7f91310fccac",
@@ -142,7 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 312.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -154,12 +154,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e2aff71ddc0973ac",
+  "active": "657dd17d38207fca",
   "lastOpenFiles": [
+    "docs/skaitiniai/mental-modeliai.md",
+    "docs/skaitiniai/README.md",
+    "docs/skaitiniai/skaitiniai.md",
     "daily/2024-02-18.md",
+    "docs/motyvacija.md",
+    "docs/README.md",
+    "docs/apps/apps.md",
     "templates/daily.md",
     "docs/wiki/skaitiniai/skaitiniai.md",
-    "docs/motyvacija.md",
     "docs/wiki/media/knygos/knygos.md",
     "docs/wiki/apps/mac.md",
     "docs/wiki/apps/software-tools.md",
